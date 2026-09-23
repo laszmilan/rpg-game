@@ -1,0 +1,50 @@
+# Haldvik - laws and treaties. What is binding. Player-readable.
+
+_ = "THE LAWS AND TREATIES OF HALDVIK. What is binding now: the laws cut on the reeve stick, and what is agreed with anybody outside Haldvik. When a law is cut or amended or a deal is made, change it here and log the day it happened in log.toml. Player-readable."
+
+[laws]
+_ = "THE LAWS OF HALDVIK, as cut on the reeve stick and witnessed by the lawspeaker. Player-readable, and quoted out loud in public - Erik quotes these at people. Offices are in people.toml. Custom that is not cut here is in readme.toml setting.customs."
+cut_by = "Vigmar Stenn's stick, witnessed by Auld Fenn."
+clauses = [
+  "1. HALDVIK is the name of this place, with the count of the dead cut beside it at Aud's asking, so nobody in fifty winters thinks it was free. Cut HALDVIK - VIII at the Standing and amended as they die. It reads XIV. [Y1 W11 d6, amended Y1 W22 d1]",
+  "2. ERIK KARRSSON IS JARL. Chosen once at a Standing, not un-chosen. Thereafter a jarl's son is a jarl.",
+  "3. Any grown man may stand. Grown means fifteen winters. Vigmar noted this lets a boy of fifteen stand, and cut it anyway.",
+  "4. Any soul of fifteen winters or more may vote, man or woman.",
+  "5. The count is run by the reeve and witnessed by the lawspeaker.",
+  "6. There will be private ground. Said out loud, publicly, and it is the part that mattered to everyone listening. [Y1 W12 d2]",
+  "7. No claim is made by pegging. Cut hardest, at Sigra's own demand, so the next person to try it is refused the same way she was.",
+  "8. Order of business: survey first, settlement first, allotment after.",
+  "9. The jarl allots, in the spring. Farmland, the salmon river and the rest settled then.",
+  "10. Our custom holds in Haldvik until a Standing says otherwise, and the jarl judges. [Y1 W13 d7]",
+  "11. A council of three: reeve, Shield, lawspeaker. Never four; three cannot tie. [Y1 W18 d1]",
+  "12. It meets the first day of every week, and whenever any one of the three calls it.",
+  "13. While the jarl is present it advises. In his absence it decides, handles what arises, and does not reopen what was settled before he left.",
+  "14. Every member trains an apprentice. The law lives in Fenn's head and nowhere else.",
+  "15. Heads of work attend council mornings, hear everything, speak when asked. Voice, no vote, no power to raise the agenda. [tightened Y1 W24 d1]",
+  "16. THE COUGHING LAW, cut Y2 W11 d1, the first law of Haldvik with a punishment behind it. Unwashed hands; no cloth, or a cloth not boiled in three days; entering longpit 1 or 3 while coughing. SEEN BY TWO. The penalty is NAMING - the reeve says the names out loud once a week in front of everyone, the way he weighs the portions. Fenn's counsel and Erik's ruling. Erik's warning, said at the cutting: the same names every week and he invents a heavier law.",
+]
+what_clause_10_drags_in = "The whole body of Vardmark custom. THEFT from the common store in a time of want: restitution at three times the value, paid to the folk and not to any lord, and the thief stands at the Standing and is named while they pay. Repeated, they are put out. WOUNDING A MAN'S HONOUR with a false word: compensation to the man himself, at the customary scale, demandable in front of everyone."
+the_precedent_problem = "SPENT. The first law Erik made with a penalty behind it was the coughing law, and the penalty is public naming. Fenn told him at the cutting that it will be quoted at his grandchildren."
+unanswered = "Vigmar's note, recorded and never answered, and restated by him from the other end: the vote is not the problem - forty-two women voted and he called their names. The COUNCIL is three seats and three men, heads of work may not raise a thing or vote on it, and about a third of all the work done in Haldvik is done by people with no seat where it is decided. Erik's answer: I chose my council on competence, not genitals."
+
+[laws.the_Y1_W22_Standing]
+the_name = "74 for Haldvik, 2 abstain."
+the_form = "51 jarl, 25 headman. Sigra refused to let it be cut as a split and had it recorded as the whole voice of Haldvik. Vigmar cut her words, and the true numbers underneath."
+the_man = "Erik unopposed. Halvar refused nomination, Ulf refused twice. 74 said his name, 2 abstained, none said no."
+the_crack = "The 25 are real. Gudny is one of them and voted headman out loud without looking away."
+
+[treaties]
+_ = "TREATIES AND STANDING AGREEMENTS. Cut on sticks, said in front of witnesses. Player-readable."
+
+[treaties.the_Hessa_of_Kolvenn]
+made = "Y1 W34 d6, longpit 1, over a hearth stone. Cut three times on three sticks - twice by Aki, once by Vigmar - and laid side by side so anyone can see they agree."
+the_binding = "Skelva's form said over the worn hardwood token she left on the hearth in Y1 W27 - three beats, a stop, three beats, best rendered THIS STANDS UNTIL IT IS TAKEN BACK. Fenn set a live coal on the stone beside it and Erik said the Vardmark words: IT HOLDS WHILE THERE IS FIRE. AND THERE HAS ALWAYS BEEN FIRE. Her palm over the wood, his over the coal. The coal charred a ring into the hearth stone and neither was moved all night."
+settled_and_closed = "Y1 W34 terms: ten kilos of worked iron once at midsummer, against Bruni for one year from W34. Erik refused five years - we are too young for a five-year deal. BOTH SIDES HAVE PERFORMED. The ten kilos was weighed in public Y2 W18 and handed over Y2 W22; Bruni's year runs to Y2 W34."
+on_the_table_and_never_raised = "A smith. Twice the Hessa have come and both times the ask was tools, not bar and not a man. Gest's counsel, taken: do not refuse a thing that has not been put to you, because a refusal tells them it was worth asking for. Erik never raises it and neither does she."
+given_and_traded = "Y1 W34, given freely and nothing asked, which Skelva's word through Gest calls EARNEST: about 150 kg six-row barley, about 100 kg dried peas, 40 kg rendered fat, TWO COOPERED KEGS THAT STAY, six squared hardwood lengths and a shaped stem-knee. Y2 W22, traded: Haldvik received 300 kg barley, 200 kg peas, 80 kg fat, four coopered kegs, two barrels, twelve squared hardwood lengths and two stem-knees, and gave the ten kilos plus three kilos of new work, about 350 nails, plus the axes."
+the_axes = "Solid bar, no weld and no inserted bit, because Brek cannot forge-weld and said so first. Erik told her plainly they want sharpening often and will never fail. SKELVA TOOK ALL OF THEM: for us a thing that goes blunt is a thing we can put on a stone, and a thing that break is a thing nobody can make again for three year. Ten that go blunt is better than one that break. I would not tell you that if you had not told me first."
+"the_bar_marks, offered unasked" = "Skelva's method - two marks on the shore lined up one behind the other is a gate, and you want two lines, one to come in and one to say when to turn, and then a ship needs no boat and no rope. She will show Osvi. It takes one day and lasts until the bar moves."
+
+[treaties.the_Hessa_of_Kolvenn.live_terms]
+"Y3 W14, the first week of summer" = "The Hessa come, and a new deal is cut as one and not assumed. NO fat and NO peas - CORDAGE AND WOOD instead, as much as fits. Ranulf's number for the Grey Mare: 400 PACES for standing and running both, better than bast, and he inspected a sample for two hours before he would agree it."
+"Y4, first week of summer to last week of autumn" = "THE MASTER BOATWRIGHT AND BRUNI, collected at the end. 25 KG OF WORKED IRON, half on landing and half on collection, LESS PRO-RATA IF HE GOES HOME EARLY. That pro-rata clause is what answered Vask's objection, and Skelva made Aki cut it twice. She carries it and does not close it."

@@ -1,0 +1,821 @@
+# Haldvik - log. The chronicle, one entry a week. Player-readable.
+
+_ = "THE CHRONICLE. What happened, one entry a week, oldest first - append new weeks at the bottom. Store is the week-end total in preserved-equivalent kg; income and consumed are gross from Y2 W11 on. Player-readable in full: everything here is spent and may be spoken of freely."
+
+[[entry]]
+year = 1
+week = "6-10"
+title = "The crossing"
+events = [
+  "W6: four hulls out of Skalgrind on the ebb. 108 souls. Hakvarr did not come down to the water.",
+  "W6, the second night: on the Grey Mare, Ingra wakes and sees A DOOR STANDING OPEN IN FALLING SNOW with someone in it who does not come through. Every coal in the sandbox goes out at once. On Hald's Coal the carried ember goes grey all the way through. FENN RELIGHTS IT off the helmsman's lantern and tells nobody for thirty-five days.",
+  "W8: a squall. Kolli and Ref over the side of the Widow's Promise. Not found.",
+  "W9: Ranvi lifts the lid of the ember pot, sees fresh charcoal where five weeks of ash should be, and says nothing to anyone for five weeks.",
+  "W9: HOSKULD, sixty-six, does not wake on the Grey Mare. He was on Hakvarr's list because his hands had gone and he could not strike a line true. He was also the only man in four hulls who could build a boat. Sea-buried at dawn, and nobody aboard understands yet what went over the side with him.",
+  "W10: the coughing takes an old woman and an infant. Sea-buried at dusk.",
+  "W10: the infant was Hild's son. VIGMAR SMOTHERED HIM on the flat day. Enna found him warm with pinpoint bleeds in his eyes and said nothing. Kelda, eleven, watched it happen.",
+]
+
+[[entry]]
+year = 1
+week = 11
+title = "Landfall"
+events = [
+  "D4: land off the bow on the clearest morning of the voyage. Osvi shows Erik the scratch on the brass rim - the Needle has moved. Erik tells the fleet it turned toward the land because the land is where they were meant to come, and they believe it.",
+  "D4: four hulls beach clean on two kilometres of shingle under a wooded shoulder, four springs, a driftwood windrow a man could build a hall from. Erik holds the ember back and orders an ordinary fire. Fenn sits down facing the sea and does not eat.",
+  "D4: AKI, seventeen, goes over the bird cliff looking for a way down Erik had just forbidden. Twelve metres. Taken off the face on eighteen metres of rope by Erik, Hovard and Ketil with a cloak fed under the lip. Enna opens his calf on the cliff top by torchlight and cannot finish it. NO ONE DIES ON THE FIRST DAY.",
+  "D5: Enna finishes the leg in daylight on begged linen. Aki will limp for life and she calls that the good outcome.",
+  "D5: Osvi finds and withies a channel through the bar, and inside the bay a reef alive with hundreds of pupping seals.",
+  "D5: YLVA WALKS THE MOOR and finds eleven cairns in a line with cut-marks at the foot of the first. Ketil's knife swings toward the second stone and he will not go back.",
+  "D6: Hovard and eleven others stay on the strand as a yard for timber and salt. Three hulls take the channel on the evening tide without touching once.",
+  "D6: FENN LIGHTS THE FIRST HEARTH from the Skalgrind ember. It takes on the first breath. He weeps, and everyone reads it as joy.",
+  "D6: Erik refuses the name of jarl, takes headman, and lays down the FIRST LAW. Vigmar cuts it and reads out unasked that forty-two of the seventy-eight voices will be women.",
+  "D7: THE REEF. Twenty walk out on the ebb and go in among the seals from the landward side, and the herd breaks for the water through them. Eleven taken of forty planned. REKK IVARSSON, seventeen, Sigra's youngest, drowns under a bull in water no deeper than a knee. Ulf was two paces away. Ketil bitten to the bone.",
+  "D7, night: Fenn tells Erik about the ember, and Erik rules on it to his face.",
+]
+
+[[entry]]
+year = 1
+week = 12
+title = "The offices, and the name"
+events = [
+  "D1: Erik walks the strand with Enna under cover of a tally and buries the real question ninth in a list of twenty. TORGEST LIT THAT LANTERN HIMSELF off the Skalgrind hall hearth, twice, and complained about it for five weeks. THE LINE IS UNBROKEN. Torgest notices he was asked, is bought off with the first honest praise he has had in a decade, and repays it inside the hour by producing worked, treenailed timbers out of the driftwood, of a wood that grows nowhere on this coast.",
+  "D1: Hovard says why he stayed on the strand. Erik names Hakvarr and says the word revenge out loud. Hovard's whole answer: then you'll want ships.",
+  "D1: the offices are given out. Hjalti the fishing. Ylva the hunt, on merit, with Halvar's name kept out of it. Solvi the foraging, asking to lead alone. Sigra over salt, refusing to thank anyone. Ormar master builder. Aud, whom nobody had asked in five weeks, opens all six sacks and finds the seed sound. Brek, asked a quiet question about the word we, swears in front of forty people to a forge in a fortnight.",
+  "D1, late: on the turf bank Ingra says out loud what she saw on the second night. Ranvi has no rite for it and will not look, because reading is looking and looking is answering. ERIK'S GUESS STOPS HER DEAD: the hearth-fire was the price paid for the door.",
+  "D2: SECOND LAW, on land. Sigra demands the pegging clause be cut hardest so it binds whoever comes after her.",
+  "D3: Ketil's arm goes bad in the night. Enna takes it at the shoulder on two barrels of ale and loses him on the ground.",
+  "D3: Halvar takes the Shield's oath over a coal. Kelda tells Solvi what she saw on Ottersnout.",
+  "D4: Ketil into the shallows beside Rekk. I envy the gods that they have him.",
+  "D4: Erik and Osvi work out what the Needle does. It points north underneath and at iron in the ground on top. Osvi admits he lied about when it began to drift, and refuses to say more.",
+  "Somewhere in this week the place gets a name, out of Fenn's mouth, without anyone deciding it. HALDVIK.",
+]
+
+[[entry]]
+year = 1
+week = 13
+title = "The stores come up short"
+events = [
+  "The stores are shut and weighed, and there was a theft during the crossing that a count could not see and a weighing could. Erik forbids speculation, Fenn makes him name a penalty, and the THIRD LAW follows: our custom holds in Haldvik until a Standing says otherwise.",
+  "Fenn is named lawspeaker and promises to speak the law against Erik in public if ever asked to bend it.",
+  "Halli the Elder, seventy-one, dies of the coughing. No kin.",
+]
+
+[[entry]]
+year = 1
+week = 14
+title = "Vigmar tells everything"
+events = [
+  "The marks on the cairns are ancestral Skeld marks. This land is the old country and Vardmark the colony. The stolen tally-stick in his kit carries a mark that should not exist. Erik sets terms and does not act on the rest.",
+  "Aki, who will never walk a field again, becomes the reeve's apprentice.",
+  "Kelda goes into Solvi's keeping on three conditions Solvi makes Erik agree to.",
+]
+
+[[entry]]
+year = 1
+week = 15
+title = "The peat fire"
+events = [
+  "THE PEAT FIRE. The first charcoal clamp burns through on the fifth night and takes the fire down into the peat. OSVI BURNS BOTH ARMS to the elbow trying to smother it. Sixty people dig a ring for five days. The fire runs inland, the barley is spared, and 200 m3 of cut peat goes up to dry as a winter's fuel nobody had budgeted for.",
+  "Ranulf goes into a bog hole on the valley walk. Ankle broken tidy. Ossur stays with him on the near edge of the bog four days without being asked to.",
+  "D7: YLVA WALKS IN ALONE off the south moor. She got into the valley. Eleven or twelve grassed-over longhouses, a sunken road, a midden two men deep, pine three times her height. Nothing burnt, nothing broken. WHOEVER LIVED THERE PACKED AND SHUT THE DOORS AND WENT.",
+]
+
+[[entry]]
+year = 1
+week = "16-17"
+title = "The freezing rain, and the forge"
+events = [
+  "W16: Halvar brings Ranulf and Ossur back. Hald's Coal floats and the first raft of driftwood comes round the headland.",
+  "W17: three days of freezing rain out of the north with a day's warning. Every hand takes forty metres of racks down and stacks the fish under sailcloth and hulls, and NOT ONE FISH IS LOST. Sigra works out that the stack near enough doubles what a summer can dry.",
+  "W17: one fish, the best on the rack, goes into the water at the top of the tide for Skarn. For three days nobody curses the weather, and when a young man does, his own mother turns on him.",
+  "W17 d7: the second clamp comes off the shingle with 300 kg in it, and THE FORGE IS LIT, and half the terrace walks up the beach to hear a bellows.",
+]
+
+[[entry]]
+year = 1
+week = "18-19"
+title = "The reeve's number, and the first long-line"
+events = [
+  "W18: 260 kg of dried fish against nine tonnes wanted, two boats, twenty weeks. The answer is hooks and net, made by the people who cannot dig.",
+  "W18: FOURTH LAW - a council of three, advising while the headman stands there and deciding when he does not.",
+  "W18: the two sprung augers go to the forge and come back sound. D3: Sigra rations the settlement, and holds it three days.",
+  "W19: the first long-line. Two hundred hooks, set and left. D3: the ration comes off.",
+]
+
+[[entry]]
+year = 1
+week = 20
+title = "The first child born in Haldvik"
+events = [
+  "D3, before dawn: INGUNN, nineteen. Narrow, and her first, and the thing most likely to kill someone this month. Enna had moved her into Ranvi's lean-to a week early, taken the work out of her hands, and never once said the word narrow where the girl could hear it. Six hours, straight. A BOY, LOUD FROM THE FIRST BREATH. The henbane stays in the bag with both doses in it.",
+  "D3: it happens on the morning Osvi sails, so the boat goes out through the withied channel with the sound of a newborn behind it, and Torgest, who is not a sentimental man, stands up at the oar to look back.",
+  "D3: HILD came in the night, unasked, and stayed. The woman who put a five-week-old into the sea in the tenth week stood at Ingunn's shoulder for six hours and did not falter once. Enna named her as her second, flatly and in public, the same day.",
+  "D3, midday: at the hearth, with the whole terrace standing, Ingunn and Bjarn do not use the name they picked weeks ago. THEY CALL THE BOY KETIL. Fenn takes it without a flicker and says it three times as the rite requires, and about a third of the people standing there have to look at the sea for a while.",
+]
+
+[[entry]]
+year = 1
+week = 21
+title = "Skalgrind, and the watchers on the headland"
+events = [
+  "D1: VIGMAR READS THE THRESHOLD SLAB from the old steading. The guest-formula, word for word what is still said in Vardmark, and a house-name: SKALGRIND. The jarl's hall across the ocean is named after a doorway in that valley.",
+  "D1: Aki revises the winter arithmetic downward and saves everyone a tonne of imaginary fish. Erik calls a Standing for W22 d1 on three questions - the name, the form, the man.",
+  "D2-6: Erik walks the settlement and asks nobody for anything. Sigra walks it too and asks everyone a better question than his: what is a jarl for. Longpit 1 finished on d4.",
+  "D7: Osvi comes in off seven days north, having sat while four men rowed. The coast runs about a hundred kilometres and does not end, then bends hard west. Two more bays, one with a river bigger than ours. The worked timber thickens northward. AND ON THE FOURTH MORNING, THREE PEOPLE STOOD ON A HEADLAND at four hundred metres and watched the boat go by, two of them holding something long, and did not hide or hail or run.",
+  "D7, night: Erik tells the whole settlement rather than let it leak off a rower, and it lands better than it has any right to. GEST ONE-EAR stands for the first time since Skalgrind and turns fear into law: we have a formula for a stranger at the door and the people who lived in that valley had the same one, so somebody walks north and says it out loud before somebody walks south and doesn't. He offers to be the man. Fenn rules guest-right binds both ways.",
+  "D7: Sigra, unanswerable. Who answers them in three winters - someone we can un-choose, or someone we can't?",
+]
+
+[[entry]]
+year = 1
+week = 22
+title = "THE STANDING"
+events = [
+  "D1, morning: Erik campaigns quietly for a jarl and it goes round the terrace by midday in four words - ERIK WANTS A JARL - set beside the spears on the headland, and it reads as something he never said. Gudny is one of the four who repeat it. Gest brings him the news himself.",
+  "D1, afternoon: seventy-six voices, called one at a time by name, Vigmar with the stick and the knife, Fenn with his hand on the ember-stone.",
+  "THE NAME: 74 for Haldvik, 2 abstain. Aud asks that the dead be cut beside it. HALDVIK - VIII, the eight being the dead at that date.",
+  "THE FORM: Sigra - we have all lived under the second kind, look around at who is here. Halvar, speaking at a fire for the first time - the side that lost was the side still deciding. Ulf, against his own mother - nobody has asked what we do with a good one.",
+  "Erik declines to argue and instead tells the Standing that his father stood against Hakvarr at a Standing ten winters ago, lost, was dead within days, and that his family paid for it ever since, and that he will take whatever is decided here without resentment. Nobody answers him.",
+  "FIFTY-ONE FOR A JARL, TWENTY-FIVE FOR A HEADMAN. Sigra stands, refuses to let it be cut as a split, and has it recorded as the whole voice of Haldvik.",
+  "THE MAN: Halvar is nominated and refuses on the spot. Ulf refuses twice. SEVENTY-FOUR SAY ERIK KARRSSON. Two abstain. None say no. Sigra says it last and adds four words outside the form: and I'll hold him to it.",
+  "Fenn, who has never made a jarl because nobody in Vardmark ever has, builds the rite out of the ember-oath, the guest-formula and the words for a shipmaster taking a hull. ERIK KARRSSON, JARL OF HALDVIK. THE STONE BURNS HIS PALM. Fenn's hand shakes on his, and a hundred people read it as an old man overcome.",
+  "THE WEEK OF FISH: Hjalti lines up two marks on the headland and can put the boats on the offshore bank on purpose instead of by luck. Best week yet.",
+  "RULINGS: eight more hands to the strand. Charcoal stopped, forge repair-only. Granary folded into the storehouse. Longpit 4 cut, thirty-four to a pit. Smokehouse confirmed, for the salmon and the seal. Three fermenting pits to Solvi. The barley goes to the seed store while kale and peas get eaten.",
+]
+
+[[entry]]
+year = 1
+week = 23
+title = "The last clamp, and a bad week on the water"
+events = [
+  "THE CLAMP: four men, one week, bare shingle, clean all the way through. 400 kg of charcoal, over a thousand hooks, a keg of rivets, a keg of nails, every edge in Haldvik put right. Brek argued for it on the grounds that in week thirty you cannot burn a clamp and you will want one.",
+  "Halfway through the burn BREK WALKS OFF THE SHINGLE, tells Hafli the clamp is his, and goes and sleeps. Sixteen years old, and he holds it for two nights and a day. HALDVIK NOW HAS TWO PEOPLE WHO CAN WORK IRON. Brek goes cold, exactly as he said he would.",
+  "THE FISH: eight pairs of hands are on a beach five kilometres away, and on the third day the cod come off Hjalti's transit and stay off it four days. It's a place. Not a promise. I should have said that when I found it.",
+  "Aki, holding the number a moment before reading it out, which he has never done before: fifteen weeks, four hundred a week to make seven tonnes, and our best week ever was two hundred and sixty. THE FISH WILL NOT DO IT ON THEIR OWN. It has to be the salmon and the seals, and we don't know what either of those is worth yet.",
+]
+
+[[entry]]
+year = 1
+week = 24
+title = "The council morning, and a girl on the shingle"
+events = [
+  "D1, dawn: YLVA GONE. Bedroll, spear, four days of food off her own ration, and word left with Hjalti's boy on her way out. Six times she asked about the hollow and no date was ever given. Erik's ruling: do not send after. Torbrand takes the hunt; if she returns she reports to him and does not take her name back.",
+  "D1: council. Halvar names his own ditch and bank as the biggest thing that could be cut and stands it down himself. FENN NAMES THE BIRD CLIFFS and calls the four missed months on himself. The line is four weeks of evening work by the sitting men, the elders and the children, and it opens about two tonnes of eggs and birds before the nesting ends. Ordered.",
+  "D1: THE EMBASSY NORTH agreed - faering, Halvar tiller, Torgest sail, Osvi eyes, two rowers, Gest set down a day's walk short so he goes to their door. He hears the terms, tests a rope-eye against the spike, and gives Erik his instruction back: no second boat if he is not on the beach on the fifth morning.",
+  "D1: fourth law tightened - heads of work attend, hear everything, speak when asked, and cannot vote or set the agenda. Torbrand takes the hunt in the same conversation, says out loud that he is not Ylva, and asks to be told before the seal cull is decided.",
+  "D1: KELDA, eleven, brings Erik a brass fitting out of the tideline, thin and green with salt, with three cut marks she has been unable to match to anything on Vigmar's stick. She has been trying to read them by looking. She also has A FRESH, CLEAN, UNWEATHERED PIECE of the dark treenailed hardwood, kept in the dog-house. Erik keeps both. Somebody broke a ship this year, up-current.",
+  "D3-5: THE BLOW. A hard three-day north wind. Halvar reads it before the boat is on the water and holds the launch: six men and a rope splicer die two days from here for nothing. Sigra's stack goes up under sailcloth and not one fish is lost. D5: the east gable of longpit 2 sheds three rafters and one takes Bjarn down onto the terrace stone - bruised, up by evening. Ormar pulls the ridge in the wind rather than lose a man and gives up his week of lead.",
+  "D6, evening: YLVA WALKS IN off the moor, alone, wet and silent, and reports privately to Erik and Fenn only. She walked the cairn line without once stepping off it and slept by the last stone. On the still fourth morning she took two paces closer to the hollow than she had stood all night AND HER HEAD WENT THIN, and she stepped back. The floor of the basin is scattered with old small bones and one long bone she will swear was not deer. FENN'S READING: not a grave and not a shrine - a prison, walled by people who wanted the thing to stay in, and they were still afraid of it four hundred winters after they left. Erik: and here I thought it was metal fallen from the sky that melted the stone. Fenn: might be both, jarl. ERIK'S RULING: no word of it until next year.",
+  "D6, night: RANVI at the main hearth refuses a coal on the hollow and distinguishes it from the Door - Ingra is being shown, nobody is showing her the moor. Reveals that INGRA HAS BEEN SEEING SMALL THINGS IN COOKING FIRES, unbidden and in daylight, for about a month. She would spend her next coal on the winter's luck; Erik releases her from it.",
+  "D6, late: INGRA at the end of the terrace with a lamp, not a fire. Confirms it. Most recently A WOMAN WITH BLACK HAIR, wider cheek than ours, deeper-set eyes, on a low bench with a salmon across her knees, gutting it against a wall of DARK WORKED PLANKS. A boy Kelda-sized walked past with a bucket. Another woman worked further off. THE WOMAN STOPPED MID-CUT, LOOKED UP OUT OF THE FISH AND STRAIGHT THROUGH THE FIRE AT INGRA, held it a heartbeat, then went back to work. She had told nobody. TWO-WAY NOW. Nobody on this coast has planks. Then a personal moment between brother and sister about their father and the beach at Skalgrind.",
+]
+
+[[entry]]
+year = 1
+week = 25
+title = "The boat goes north, and the salt turns out not to be the problem"
+events = [
+  "D1: THE EMBASSY SAILS on the ebb - Gest midships with a bedroll, a knife, bread and salt, a ram's-horn cup and Arna's antler comb. NO IRON GIVEN, on Gest's own argument: put good iron in a stranger's hand and the first thing he learns about us is that we have it.",
+  "D1: Aud gets a fence named in front of the heads of work and eight men attached to it before anyone can object. It stops fifteen paces short on hard stone, because Ormar will not have men digging rock in the dark. Solvi, Kelda and the dog Grip sit the gap all night. The goats come in the small hours, all nine, and Grip turns them. A pace and a half of turnip trampled, nothing eaten. Aud says nothing about moons in the morning.",
+  "D1, evening: Erik tells Solvi about Kelda's brass and the fresh timber. SOLVI'S ANSWER - she is eleven, you gave her a secret and she thinks it is a gift, and now there are two of us so she can put it down. AND: somebody broke a ship this year, up-current means north, and you have just sent your uncle north in a small boat.",
+  "D1, evening: OSVI'S REPORT ON THE NEEDLE, given on the sand before he boards. THE CREEP IS REAL, one-directional, and he wants somebody who is not him to look at it.",
+  "D2: Erik walks to the strand. Hovard wants saw files and Torgest back and nothing else. On a second sawpit: it is not the hole, it is that four men in the whole settlement can work one and they are already paired and swapped out.",
+  "D2: THE SALT RULING. Sigra does the sum out loud in front of the jarl and corrects herself in public - enough salt by the snow to pack six tonnes, and SALT WAS NEVER THE SHORTAGE. What is short is what to put it in: forty hand-thrown pots, no barrels, no cooper, and the man who could have made one went cold on the Grey Mare in week nine. TWO OF THE THREE PANS SHUT, three men to a shingle fishing crew with no boat and no bar to wait on.",
+  "D2: the forge gets one fire a week for edges only, saw files first. Erik's reason is hands, not charcoal.",
+  "THE WEEK: the best week Haldvik has recorded, and Aki takes it apart the same hour - a third of it was W24's fish arriving late off the stack, so the true rate is nearer 230, and 230 is not 425.",
+  "D6: walking the fire ring in fog, WARM GROUND IS FOUND OUTSIDE THE TRENCH on the seaward side.",
+]
+
+[[entry]]
+year = 1
+week = 26
+title = "The heap, and two hundred and thirty-one seals"
+store = 1996
+events = [
+  "D1-2: THE HEAP. It is not the peat fire crossing the ring - the ring holds and always has. It is the thirty-three cubic metres of SOAKED PEAT thrown out after the W17 wetting, heaped two men high and forgotten for eight weeks, HEATING ITSELF FROM THE INSIDE. Aud puts her hand on it and names it before anyone else: that is how a hay-rick goes, and there is no flame near it for a month before there is flame in it. Twenty people and every child spend two days breaking it open, kneading it and re-moulding it into sods. Twenty-eight of thirty-three cubic metres recovered, cold. FORTY PACES AWAY stood two hundred cubic metres of dry peat, and the barley beyond it.",
+  "THE WEEK: three dead calm warm days and nothing dries in still air. First kale cut, eleven kilos.",
+  "D6: YLVA off the north headland after a night lying still. THE HERD IS BACK ON THE REEF - 231 counted, cows, pups and about forty bulls, and they are settled.",
+  "D6: the seal council on the sand. Fenn will do the form - first blood over the side to Ormegga, and a share to Skarn, because fat is Skarn's business and he would rather the god ate a seal than a child. TORBRAND: bulls only, on the rock and never in deep water, approached from seaward so they run into the sea past you, and ONE MORNING ONLY, because every second visit teaches them the reef is a bad place. YLVA: twenty bulls of the forty, not all of them, and never the ones lying up among the cows.",
+  "D6: and the real problem is the four hours after. Fat meat does not dry, it goes rancid on a rack and becomes poison. SIGRA'S ANSWER: salt is not how you keep it, salt is how you HOLD it - dry-salt the lot on the rock the same afternoon in pots, pits and the fresh hides off the animals, and it sits three weeks while you smoke it through a batch at a time.",
+  "D7: ERIK'S RULING. Build the smokehouse at DOUBLE SIZE, three batches instead of six. LONGPIT 2 SLIPS TO W28 and sixty people sleep on sand another week. Ormar will say it at council so it is said in front of everyone and not found out. Sigra: it is the right call and I would have made it, and when it rains somebody will say the jarl chose a smokehouse over a roof, and it will be true, and have your answer ready. Torbrand's answer, which she tells him to use: seals do not wait and a roof does.",
+]
+
+[[entry]]
+year = 1
+week = 27
+title = "Two strangers on the beach, and two stones in the shallows"
+store = 2236
+events = [
+  "D1: council of two, because the Shield is in a boat. Fenn names the gap - clause fourteen says every member trains an apprentice, Halvar named nobody, and the law lives in Fenn's head and nowhere else.",
+  "D1: VIGMAR PROPOSES CUTTING THE DAY'S EATING BY A FIFTH NOW rather than at the snow, worth a tonne by W38, and argues the other half himself - I am the man who weighs it out, so hold that against the proposal. ERIK REFUSES: hungry people work slower and meet the snow thin. Vigmar records the refusal and the reason.",
+  "D2: THE FAERING COMES HOME WITHOUT GEST and with two Hessa aboard. Halvar: Gest spoke the guest-formula on a beach four days north with bread and salt in his hands AND THEY ANSWERED HIM IN THE SAME WORDS, then went with them and was never seen again. Five days at the drop point. On the sixth morning two strangers walked down with a coopered hardwood keg and got in the boat.",
+  "D2: SKELVA, about thirty, and the boy ATTI. She hands Erik GEST'S KNIFE hilt-first on both palms, then gestures: he walked north, he stopped, he stays, by his own choice. They stand in the wash and will not come up the beach until bread and salt are given. Fenn, furious with everyone: they are stood in the sea waiting on us like beggars.",
+  "D2: THE KEG IS THIRTY KILOS OF SIX-ROW BARLEY grown on real soil. Aud on her knees in the sand: you could eat it in four days, or you could put it in the ground in spring. Erik rules it seed.",
+  "D2, evening: THE WORDS. The guest-formula is nearly the same - brauth, saltr, the same rhythm - and the numbers survive, ein tuo thria fiaur. Fenn has to sit down when he hears it. Thirty words held in common by dark. IRON takes three tries and when it lands she says it twice and looks at the forge.",
+  "D2, late: Erik draws one cairn mark in the ash. SKELVA LOOKS AT IT THREE HEARTBEATS, WIPES IT FLAT WITH THE HEEL OF HER HAND, looks out into the dark toward the moor, and says one word twice that is not among the thirty. Fenn: a man who cannot read does not rub a word off a wall.",
+  "D2, late: INGRA, privately. Skelva is not the woman she saw in the fire - she is THE OTHER ONE, the one working further off that Ingra could never see. The salmon woman is still up north. Ingra: if she is used to being looked at, somebody up there does what I do and does it better. Erik does not forbid her to look and tells her to tell Ranvi. Her answer: I half wanted you to forbid it.",
+  "D2: TRADE OPENED. Erik puts nails and hooks beside the barley and moves his hand between them. Skelva tests a hook, bends a nail and straightens it, and she and Atti stop pretending to be calm. She draws the coast, points north at a bearded man, taps her chest and shakes her head - not me, him - and pushes the bowl back without keeping any of it. She draws two ships. Erik rubs one out. She accepts it without offence.",
+  "D2: Solvi, on the boy's mouth - full set of teeth, no bleeding at the gum, no cracks at the knuckle. They came out of a winter on this coast eating something we have not got. FENN: never mind whether they mean us harm, THEY KNOW HOW TO LIVE HERE AND WE DO NOT.",
+  "D3: Aki set to learn her words at Vigmar's suggestion - 120 in three days. ULF REFUSES the Shield's apprenticeship - not the courage, the name, and his mother's thirteen behind him - but asks to be taught anyway with no name and no oath. HALVAR NAMES TORBRAND on d4 and Torbrand accepts in four words. Fenn's apprentice on the stick at last: TOVA, thirteen.",
+  "D3: Vigmar's labour tally, asked for and never made before. It reaches fifty of fifty-four working adults and breaks, because about nine women are counted once and doing three jobs. Gudny is on my tally as one hand and she is four. AND a third of the work here is done by people with no seat where it is decided - he means the council, not the vote.",
+  "D3: at the forge Erik says BOG IRON out loud. Brek: aye, of course, I have heard of that - a beat too long. Hafli goes still, then says there is orange water in the bottom of the peat cuttings he has been washing his hands in all summer. Brek: it is a spring job. NOBODY NOTICES BUT THE BOY.",
+  "D3: Brek's limit - twenty-eight kilos of bar is all the iron there will ever be. But six hundred spare hooks sit in the store, so four hundred hooks and six knives go north and cost no iron, no charcoal and no fire.",
+  "D4: THE STOREHOUSE IS ROOFED. Ormar walks the inside of it with his hand on the wall and says nothing.",
+  "D5: the faering goes north again with Skelva, Atti, the hooks, the knives and Aki's word-list. SKELVA LEAVES A SMALL WORN PIECE OF DARK HARDWOOD on the hearth stones and steps back from it, and says a sentence twice that Aki cuts without understanding. Halvar's instruction: see Gest with your own eyes or bring nothing home.",
+  "D5, evening: THE SQUALL. One hour, and sixty people under sailcloth lose everything they own to the wet, in the dark, four days after the jarl chose a smokehouse over a roof. Nobody says the sentence. It is very obviously thought.",
+  "D5, night to D7 dawn: THORA, Bjarn's sister and Ossur's wife. Eleven hours, the child turned wrong and stayed wrong, both doses of henbane and not enough. The boy born dead before noon on d6. Then the bleeding, which Enna could not stop and said so at the second hour. Thora died before dawn on d7 with Ossur holding her. TWO MORE STONES IN THE SHALLOWS. Hild stayed on her feet the whole of it and afterwards walked the tideline alone, and Solvi followed at a distance and did not catch her up.",
+  "D6: YLVA BACK FROM THE CAIRNS, failed and furious. The Needle will not sit anywhere near a stone - it swings and points a different way every time it is set down. Two hundred paces off it behaves, and then the line cannot be sighted. HER CONCLUSION: THERE IS IRON IN THE STONES. Erik: spring, like everything else.",
+  "D7: THE SEALED STORE MOVES INTO THE STOREHOUSE, weighed in by Vigmar in front of Sigra, all day.",
+  "D7, evening: THE ROPE. Erik asks why they are making new line when nine coils of ship's rigging have sat in the store since W6 and three hulls are dry on the sand. Ranulf: two days, not four weeks. Ormar names the price - the Grey Mare cannot sail again, and somebody will say you cut up your father's ship to hang men over a cliff, and you should hear it said in daylight first. ERIK ORDERS IT and promises out loud that she will sail again before he joins his father.",
+  "D7, night: Erik names all six gods at the dark end of the terrace and asks for nothing. It is the week Vetta of the Nine Doors took two people through a door.",
+]
+
+[[entry]]
+year = 1
+week = 28
+title = "Roofs, and the first salmon anyone here has ever seen"
+store = 3436
+events = [
+  "D1-2: Ranulf splices 130 paces of the Grey Mare's hemp, doubled and served, four splices, sitting down, with Herdis feeding him marline and Kelda holding tension. Beside it the sixty paces of a month of evenings looks like what it is.",
+  "D1: ERIK'S ALLOCATION. The six recovered hands finish the smokehouse and longpit 2, and after that FOOD TAKES PRIORITY OVER EVERY BUILDING. Cliffs: eggs only, buried in ash. Hjalti gets his day and four hands to peg, stake and stone-weight both cruives BEFORE the rain.",
+  "D2: THE SMOKEHOUSE STANDS, double size, eight days exactly as Ormar said. Sigra lights it and says it draws right.",
+  "D3: LONGPIT 2 IS ROOFED. Sixty people who have slept on sand since week six carry their wet bedding in through the door. Somebody starts singing and is shouted down and starts again. Ormar goes outside and sits on a stone.",
+  "D4: thunder and heavy rain from before light to after dark. Nothing works. The whole settlement sits inside longpit 2 on the first day it exists and listens to it come down on the roof. The river rises a metre overnight.",
+  "D5: THE CRUIVES HOLD. Silted, full of sticks, and ELEVEN SALMON in them - the first anyone in Haldvik has ever seen in that river. Hjalti holds one up with both hands under it and it is longer than his arm. Four eaten fresh that night, the best food since Skalgrind.",
+  "D3-D6: THE BIRD CLIFFS, four weeks early. Bjarn and seven men, ninety metres of undercut basalt, a man hanging free with rock leaning out over him and birds coming off the ledge into his face. Two on the line at a time, changed every hour, one day lost to rain. 780 KG OF EGGS AND NOT ONE MAN HURT. Bjarn came back with his hands wrapped and would not say why.",
+  "D7: THE WINTER PLAN SETTLED. Byre against longpit 2's east gable - the beasts' heat warms the east end. Longpit 3 lengthened to sixteen metres with the east end partitioned as ENNA'S SICK WARD. The strand closes at about 235 sticks and eighteen hands come home to raise it. Ormar: that is the first plan anybody has given me that ends with the roof on before the snow.",
+  "D7: ENNA'S FIVE, asked for and never asked for before - bedding, the green ration and pine tea, latrines downstream used with no exceptions in the dark, combs and hot water, roof vents because forty people under turf breathe water. Her estimate if all five are done: we bury the very old and nobody else.",
+]
+
+[[entry]]
+year = 1
+week = 29
+title = "Home without him"
+store = 4086
+events = [
+  "D3: THE FAERING HOME AND HALVAR SAW NOTHING. Skelva and Atti put ashore to twenty unarmed Hessa who were glad to see them, and after a quarter hour of her talking every one of them looked at the crew differently. Fed, and taken up to the place: A PROPER HARBOUR, SIXTY SOULS, THREE HARDWOOD SHIPS on the hard and one being rebuilt by a man who does nothing else. Halvar asked for Gest a hundred times over four days with hands - walking fingers, old man, beard - and got the same answer every time, friendly and unhurried: not here, later, away. No fear in it. On the fifth morning he put the four hundred hooks back in the boat and left, and the bearded one watched him do it and understood exactly and did not stop him.",
+  "D3: Halvar read see him or bring nothing home as conclude nothing, which was not what Erik meant. Erik: I should have been more specific, you did well. Halvar: it told them we hold to a thing, but I could have had barley in this boat and I have not, and that is mine.",
+  "D5: OSSUR ASKS FOR THE CLIFF. Ten words spoken since Thora died. BJARN REFUSES HIM IN FRONT OF HIM - not because he cannot do it, but because that was my sister and I know what he is asking for. Ossur, to the ground: I want to be somewhere. Erik puts him on longpit 3's footings instead. Bjarn says thank you and goes and finds something else to do.",
+  "D6: Ylva re-counts the reef. 240 animals, 41 bulls, settled and fat. The cull holds.",
+  "D7: the byre roofed. Somebody says out loud that the beasts have a roof before twenty-one people do, and it lands as a joke, mostly. Hjalti says the real salmon has not started and everyone should stop being pleased.",
+]
+
+[[entry]]
+year = 1
+week = 30
+title = "The cull, and the jarl's ship over a hole"
+store = 5570
+events = [
+  "D2, hard frost and flat water: THE SEAL CULL. Three boats round the north shoulder in the dark, oars muffled, in at the reef from seaward on the last of the ebb so nothing is driven up onto the rock among the cows and pups. Fenn does first blood over the side as they clear the bar - three drops off Torbrand's thumb, ten seconds, and nobody says anything clever about it.",
+  "D2: TWENTY-ONE BULLS, spears and axes, close, on wet rock, finished before noon. Ylva walks the rock the whole time pointing - that one, not that one - and nobody argues with her once. NOBODY HURT. Two men say out loud they could take another ten easy and Ylva says no, and that is the whole of her answer.",
+  "D2: THE TWENTY-FIRST goes out past the reef whole, uncut, fat left on, over the side into deep water. Four men to lift it and Fenn makes them do it slowly. SKARN'S SHARE burns at the tideline that afternoon - a shoulder and the belly fat, in front of ninety-nine hungry people who do not complain about it.",
+  "TAKE: 900 kg of meat dry-salted on the rock the same afternoon, 340 litres of oil, 21 skins. First smoke batch on d3 and Sigra sleeps beside it.",
+  "D4: YLVA BACK ON THE HEADLAND. The herd is on the rock again. Not scattered, not gone to the skerries. THEY WILL BE THERE NEXT YEAR.",
+  "D5-D6: THE GREY MARE COMES UP THE BEACH. Erik's own ship, un-rigged, hauled across the terrace on rollers by forty people over two days with Ormar walking backwards in front of her the whole way. ORMAR'S IMPROVEMENT on Erik's idea: do not put her on the sand, put her on a hole. Floor below the frost, walls of earth, and a roof made by men who make roofs. Holds twenty and is warmer the first night than longpit 1. Called THE KEEL within a day. Ormar's other note, said carefully: it is the jarl's ship on the hole and Sigra's still on the sand, and I would let people notice that.",
+  "THE WEEK: the salmon peak begins and Hjalti says d6 and d7 were the two biggest days he has seen on any water. Arna dressing sealskin with oil, not bark - four girls and six women in the evenings, boat crews first, on Erik's order: enough to keep a whole man warm while fishing.",
+]
+
+[[entry]]
+year = 1
+week = 31
+title = "Two days"
+store = 6360
+events = [
+  "D1-D3, dead calm and frost: BJARN'S SECOND CLIFF TRIP, same seven, his own pace. 410 kg of birds and 90 of late eggs, plucked and split at the cliff top, fat rendered on the spot over driftwood. Nobody hurt. His hands wrapped again, and this time he says why: the line burns through a man's palms on the haul and HE HAS BEEN TAKING THE WORST RUNS HIMSELF.",
+  "D1-D4: AUD WALKS THE BARLEY EVERY MORNING and says not yet, two more days. On d4 the frost is off, there is warmth in a south-west wind that is freshening while she stands in it, and she has an ear rubbed out in her palm. Halvar, fifty paces off, looking at the sky and saying nothing. Asked, he says: I do not know barley, I know that sky, there is rain in it tonight and a lot more than rain tomorrow. Aud: two more days, it is seed, and thin seed sows thin. ERIK LEAVES IT TO HER. She takes it on her own shoulders: then it is mine.",
+  "D5-D6: THE GALE. Southwesterly, rain driven flat, two full days. THE BARLEY GOES DOWN IN THE FIRST FOUR HOURS. The d5 spate also takes the whole downstream hurdle fence, three hundred paces of work, down the bay in pieces. The two cruives in the weir gap hold again.",
+  "D7: Aud walks the flat strip with Erik and pulls an ear out of the wet. THE GRAIN HAS SPLIT AND IS SPROUTING IN THE EAR. Sprouted grain will not grow - it has already grown. THERE IS NO BARLEY SEED IN HALDVIK except thirty kilos in a Hessa keg. Aud: I waited two days, and it was the wrong call, and it was mine. Erik swallows what he wants to say and walks away without a word.",
+  "D7: Aud puts every hand she can get on the strip that afternoon - children, old women, four off the racks - and lifts 160 kg of sprouted grain by hand out of the mud. ERIK'S RULING: WE EAT IT, and it is Solvi's missing greens. Enna eats three raw and agrees without being able to say why: a sprouted grain is not a grain, it is a shoot, and shoots are what we are short of.",
+  "D7: Aud's advice for the spring, given the same day she lost the crop: split the seed into two sowings ten days apart in two fields, one on the shoulder and one on the terrace out of the wind, SO ONE GALE CANNOT TAKE BOTH.",
+]
+
+[[entry]]
+year = 1
+week = 32
+title = "The cod come inside the bar"
+store = 7030
+events = [
+  "D1: THE RATION CUT. Erik brings it himself, a fifth off from today, and seaweed into the ration from today. Vigmar records it and says why it matters that the jarl brought it and not the reeve: I weigh it out, and if it had been my idea twice I would be a different thing in this settlement by week forty-five. Sigra turns Erik's own W27 words back on him without heat and says she would still do it but not pretend it costs nothing. Enna adds that autumn is the time to teach people the taste of seaweed, not week forty-eight.",
+  "D1: Gudny asks whether the children take the fifth too. Erik says yes. ENNA REFUSES IT IN FRONT OF EVERYONE - a child of four on a fifth less stops growing and is the one she buries if the coughing comes. Aki: it saves sixty kilos out of twelve thousand. ERIK REVERSES HIMSELF AT THE TABLE: not the children, and not the women carrying.",
+  "D1: Erik tells them in week thirty-two that week fifty will be hard. It lands better than the ration cut. Fenn: say it again at the Feast, they will need to hear it twice, and the second time from a man who told them the first.",
+  "D1, midday: RANVI SPENDS A COAL ON GEST. Outside, in full cold sun, because a coal read in a dark room shows you a dark room - and at MIDDAY, on Erik's suggestion, because a man at midday is either working or being kept from it. THE READING: he is among people, a lot of them, close together, in and out. WARM - that is the strongest thing in it. Not hungry. No rope on him, nothing shut, he goes where he goes. He is BUSY, and it is his own doing and not a thing set for him. Cut worked wood all round him and a smell of pitch, and he is in it up to the elbows. No fear in the room, not his and not theirs. AND HE IS NOT TRYING TO LEAVE. Ranvi misses the stone by a hand's width reaching for it afterwards and says don't, I am not falling over.",
+  "D1: Ranvi's other finding - NOTHING LOOKED BACK. Either there is nobody up there who does what Ingra does, or they were elsewhere that midday, or they saw her and let her look and said nothing. Fenn's reading of the whole: your uncle has found a boatwright, and he is not coming home until he has learned something.",
+  "D1: ERIK TAKES UP CARVING, which he did as a boy. Aki asks in and gets it. Aki knocks his short leg and says thirty paces and then it burns, but standing at a bench is different and NOBODY EVER BUILT HIM ONE. A bench appears against the storehouse wall over three evenings, built by nobody in particular. A tafl set agreed for the winter.",
+  "D1: AKI ON SKELVA'S TOKEN. It is not a sentence. Three beats, a stop, three beats - the same shape as the guest-words, which is the shape a thing has when it is a FORM said the same way by everyone. She did not leave a message. She left a token and said a formula over it, like leaving something at a hearth so the hearth knows you are coming back. AND IT IS THE SAME WOOD as Kelda's fresh piece and the windrow timbers. SHE LEFT US A PIECE OF A SHIP.",
+  "D2-D3: THE COD COME INSIDE THE BAR. A man puts a handline over out of boredom inside the channel and has a fish before the lead settles. The cold has followed the herring in and the cod are in four fathoms four hundred paces off the beach. The best week Haldvik has ever had. Hjalti, looking robbed: all summer I sailed an hour out to a bank and read two marks like a clever man. WHAT IT MEANS: small boat, half a tide, no bar to cross, no transit to hold - THERE IS A WINTER FISHERY.",
+  "THE WEEK: the salmon are finishing - the fish coming through d6-d7 are red, lean, soft, spawned out. Hjalti wants the cruives pulled and the rest let up the river. Solvi's five to the weir on d4 and it is immediately the difference, THE BOTTLENECK NEVER HAVING BEEN THE TRAP BUT THE GUTTING.",
+  "D4-D7: THE REINDEER WALK. Torbrand, Ylva and Ossur north onto the moor with four days of food. THEY FIND THE ROAD - a trail two paces wide worn into the peat, running NNE and then swinging EAST away from the cairn line over ground nobody from Haldvik has walked. On the second night, twelve kilometres out, FIRES.",
+  "D7: Ylva's report. Nine fires, hide shelters, dogs, children heard, sixty or more people, and a great many deer. No wall, no ditch, no field, no boat, nothing dug in. Two shelters struck and rolled by first light and the camp shifted north before they left. THEY ARE NOT LIVING THERE, THEY ARE STANDING WHERE THE DEER ARE - twelve kilometres this week, twenty next, sixty after. They never got closer than four hundred paces and lit nothing.",
+  "D7: Halvar settles that these are not the Hessa. ERIK'S RULING: NO CONTACT THIS YEAR, and not on their road. Ylva's answer: a herd that size sheds, and stragglers drift wide onto the low ground east of the peat cuttings, our side of the shoulder - two men, one long day, one animal a week while the herd passes. FOUR DEER IS WHAT ERIK ASKED FOR. Torbrand: that I would do - the other was a raid on somebody's larder and I did not like the taste of it either.",
+]
+
+[[entry]]
+year = 1
+week = 33
+title = "Four tonnes of bracken, and water in the post holes"
+store = 7670
+events = [
+  "D1: THE BEDDING CUT. Hard frost, still, clear, and everyone could see it coming the night before. Ninety-odd people on the shoulder from first light - every adult not in a boat, every child who can carry, Ranulf on a stool tying bundles, Aki counting loads. FOUR TONNES cut, carried a kilometre and a half and spread in one very long day, dried and under cover before the rain. Solvi says almost nothing all day and looks like a woman proved right in front of everyone.",
+  "D2: the cruives come out and the rest of the run goes up the river. The salmon are done for the year - 2400 kg wet.",
+  "D2: eight men home from the strand. Hovard keeps ten and says he can hold tents to about W36 and not past, because he will not ask men to sleep on a beach in the snow to make sticks for a building they are not sleeping in.",
+  "D3: THE POST HOLES FILL. The four metres Erik added in W28 run east off the terrace shelf and the first two holes take standing water at half a metre, coming in as fast as it is baled. Ormar stops the work before noon and owns it: I should have walked it before I agreed to sixteen metres, and I did not, because you asked me on a night when I was pleased about something else.",
+  "D3: three ways out - build the surveyed twelve and Enna gets no ward; cut a new drain east and lose the tower and the washhouse; or turn the extra two bays north as an ell. ERIK REFUSES THE DRAIN OUTRIGHT. Ormar, honest at his own cost, kills the ell himself: two turf roofs meeting at a right angle make a valley, every turf roof he has seen leak has leaked in a valley, there is no lead on this coast - and the valley would sit directly over the sick.",
+  "D3: ERIK'S ANSWER, and it is Enna's design in the end. ONE BUILDING, HALF WASHHOUSE AND HALF WARD, a real wall between and two doors at opposite ends, one hearth in the middle wall serving both. Enna: nursing is hot water, and somebody is in a washhouse every day all winter, so THE SICK ARE NOT ALONE AT NIGHT for the first time ever - but it must be a wall and not a curtain, because a washhouse is the one building every soul in Haldvik walks into. Longpit 3 goes back to the surveyed twelve and lands a week early.",
+  "D3: Erik's two additions, and Ormar looks annoyed they were not his. Backfill and turf the abandoned east trench with a fall to the bank, or by W46 there is ice against the gable lifting stone. AND DIG EVERY HOLE NOW, before the ground freezes. Ormar: that is the whole difference between did not get finished and did not get started.",
+  "D6: THE FIRST DEER. Ylva and one other, seven kilometres out, a young bull drifted wide of the herd's road. Aki gets the antler before anyone can ask for it.",
+  "D7: AKI'S REVISION, given unasked at his bench. Twelve tonnes was the full-ration number; at a fifth less THE NUMBER TO BEAT IS TEN POINT SEVEN, and the projection lands within a few hundred kilos either way. Not comfortable, not a disaster, and I would rather say it now than in week forty-six.",
+]
+
+[[entry]]
+year = 1
+week = 34
+title = "One ship, and a treaty on a hearth stone"
+store = 8600
+events = [
+  "D6: A HESSA SHIP MAKES THE BAY on the clearing wind, in daylight, twenty-odd metres of dark hardwood, twelve aboard, deck cargo under hides. She stands off the bar, takes her sail in and waits for the tide in plain sight where everyone can look at her. Halvar puts eight men on the sand in sealskin with spears butt-down and nothing in a hand, six on the terrace with bows out of sight, and tells everyone else to keep working. Fenn comes down with bread and salt unasked - last time they stood in the water a quarter of an hour, not twice.",
+  "D6: A MAN STANDS UP IN THE BOW WITH ONE EAR. Put the spears down, Erik, you'll frighten them. Eighty people make a noise at once. Gest stops in the surf and will not come up the beach until he is fed, and Erik: I am not feeding you, old man, you are home.",
+  "D6: SKELVA LEADS IT, not Vask - fifty and cautious and he sent his kin twice instead. She speaks Vardmark: four hundred words in two months off Aki's sticks and Gest, against Gest's ninety of hers. Eleven Hessa come down the steps into longpit 1 and every one of them looks at the roof first, and one says it is a good roof and he is surprised.",
+  "D6: THE EARNEST, given with nothing asked in return - grain, peas, fat, and TWO COOPERED KEGS THAT STAY, which is the real gift and she knows we cannot make one. Aud on her knees in it again.",
+  "D6: THEIR ASK. IRON. Not bar - TOOLS: boat nails first, then hooks, then axes, and they would take spear and arrow heads and would rather not be the ones who said the word. THEY HAVE NEVER HAD A SMITH, not once, not ever, in four places and four hundred people. There is a hull on the hard at Kolvenn that has sat two years waiting on about four kilos of nails. Their opening terms: ten kilos a year for five years, then the master boatwright for one year.",
+  "D6: Vigmar's arithmetic, flat: we have twenty-eight kilos of bar and no more coming ever, and six of it goes on ten kilos of nails once you count the fire. Aki: two years and we have no iron at all.",
+  "D6: ERIK'S TERMS, and the deal, cut three times on three sticks and laid side by side so anyone can see they say the same thing. He refuses five years: we are too young for a five-year deal. Skelva refuses the master for a one-year deal and Gest says she is right and he would say the same in Vask's place. Instead she offers BRUNI, and Gest weighs him honestly: he cannot loft a seagoing hull out of his own head, that is the old man, and Haldvik will want it in three years, not this one. HE WILL COME BACK AT THIRTY AS THE MASTER AND COME BACK TO US. Gest declares his own interest: I planted this in his head myself and I like the lad.",
+  "D6: THE BINDING. Skelva sets the worn hardwood she left in W27 onto the hearth stone and says the form Aki cut two months ago and could not read. Gest's best rendering: THIS STANDS UNTIL IT IS TAKEN BACK. Fenn lifts a live coal out with the tongs and sets it on the stone a hand's width from the wood, and Erik says the Vardmark words after him: IT HOLDS WHILE THERE IS FIRE. AND THERE HAS ALWAYS BEEN FIRE. She does not understand one word of it and understands the shape perfectly, because it is the same shape as hers. Her palm flat over the wood, his over the coal, three seconds. The coal chars a ring into the stone and nobody moves either of them all night.",
+  "D6: GEST ON KOLVENN AND THE SHAPE OF THE LAND, drawn on the sand. Sixty-one souls counted twice and by name. Ormar: so we are not on an island. Gest: no. We are on a thumb.",
+  "D6: HOW THEY WINTER, and Enna does not move for the whole answer - a little grain every day, berries whole in fat, and FRESH food all winter with the liver raw and the children first. Adopted whole. Enna, with both hands over her face: we would have gone into the dark with a storehouse full of dead food and eaten nothing living for five months.",
+  "D6: ON THE STONES. Skelva puts her spoon down. We not go. Not walk. Old people make, dead people make. A word she says twice and will not let Gest translate. Every some year one man go, not come back - not fight, not fall - SLEEP. We not talk this. Not in house. Not in night.",
+  "D6: ON IRON ELSEWHERE - nobody among four hundred Hessa can make it, and their iron comes hand to hand from the far south-west three times in Skelva's thirty years. Vigmar: then ten kilos a year is not a trade, it is a leash and we hold it. Fenn: or it is a rope, and a rope has two ends.",
+  "D6: THE IVVEN named for the first time, and THE WEST PEOPLE. One line Gest cannot put down, from an old woman at Kolvenn: THEY DO NOT NEED US. Osvi, silent two days: that is where my case came from, and it is not the far end of the world, it is the same chain coming the other way round. Fenn: and a boat that could get there would buy iron instead of digging it out of a bog.",
+  "D6: BRUNI'S CREW - Ossur, who has been in a trench alone for a month and needs a man to stand beside and a thing to be good at, plus a second young pair of hands, with Osvi on what the boats actually do and Gest on the words, and Aki in the shed every evening he can get there. The two sound hulls first; the Grey Mare when there is a roof over the twenty people living in her. Bruni's first word on seeing the three hulls: ROT.",
+  "THE WEEK: longpit 3's frame up on the surveyed twelve, the east trench backfilled and turfed. The Hessa watch it go up and three of them carry stone unasked.",
+]
+
+[[entry]]
+year = 1
+week = 35
+title = "Four hundred paces off the beach"
+store = 8900
+events = [
+  "D2: the Hessa ship sails. Bruni watches her out over the bar and then starts scraping weed off the Ottersnout without being told.",
+  "D3-D6: the ground goes hard a fortnight early - a spade rings before it bites - and Ormar gets ALL SIXTEEN HOLES in, lined with stone, stuffed with bracken, turfed over. He says nothing about the timing and everybody notices.",
+  "D5: HJALTI'S BOAT GOES OVER. Inside the bar, in the channel, four hundred paces off the beach, last hour of light, five aboard. A sleet squall off the north-east in four minutes, steep short water against the ebb, one over the quarter and then another. Half the settlement watching. The second boat is off the sand inside four minutes and it is as fast as it could have been done. Kari, Ulf, Hjalti and Herjolf come out grey and shaking. BJARN DOES NOT.",
+  "D6: found at first light on the tideline half a kilometre south, past the burial ground.",
+  "D7: sea-burial, done properly and slowly, the whole of it said, nothing hurried. Ingunn with Ketil on her hip, Ossur at the back with his hands at his sides.",
+  "D7: LONGPIT 3 ROOFED and twenty-one people come in off the sand and out of the Keel. Nobody says anything about it at all.",
+  "THE WEEK: morale eight to six, and Fenn's read - what they have lost is the feeling that it is going well, and you will not get it back by telling them it is going well.",
+]
+
+[[entry]]
+year = 1
+week = 36
+title = "No tower"
+store = 9300
+events = [
+  "D1: the stick reconciliation - TWENTY-TWO ON THE TERRACE, and the washhouse eats eighteen while the tower wants twenty-two. Hovard offers one more week with thirty men instead of ten. ERIK REFUSES: we need the cod more than a tower. THE STRAND CLOSES, everything home, the sawpit under hurdles and turf till spring. Hovard, looking at longpit 3 with a roof on it: that is what they were for, then.",
+  "D1: the Hessa hardwood is two-metre stock and cannot make a six-and-a-half-metre post. ORMAR'S SUBSTITUTE, offered unasked: a kerb, a hooded bench and a ladder on the seaward corner of the STOREHOUSE ROOF - four sticks and two days, a man at three and a half metres instead of five and a half. He does not see over longpit 1. He does see the whole beach, the bar, the channel, the racks and both boats, AND HE IS STOOD ON TOP OF THE BUILDING YOU ACTUALLY CARE ABOUT. The four tower post holes stay dug and turfed.",
+  "D3-D4: the turnip, root and leaf, 260 kg. Small, late-sown, better than Aud expected. Tops to the byre.",
+  "D4-D6: THE THIRD DEER DOES NOT HAPPEN. The herd is gone north over the high ground and the low ground is empty. Two deer for the year.",
+  "D6: YLVA'S OTHER REPORT. THREE SETS OF TRACKS on the shoulder coming in from the north-east, not sewn like ours, shorter stride, nothing carried. They stood a long while on the high ground above the peat cuttings - long enough to freeze the melt where they stood - then came DOWN, three kilometres in, close enough to count the roofs and watch fish carried up the beach. Then turned and went back and took nothing and left nothing. Two or three days old. Halvar: so the Ivven have looked at us, and we did not know. THE STOREHOUSE BENCH IS MANNED EVERY NIGHT FROM NOW.",
+  "THE WEEK: cod 210 in perfect weather and the fish were not there. Hjalti works the shore both ways and comes back rattled.",
+]
+
+[[entry]]
+year = 1
+week = 37
+title = "The snow comes early and the cod go"
+store = 9420
+events = [
+  "D4: Halvar looks at a sky the colour of old iron at noon and says one word - tomorrow - and nobody argues with him about weather any more. THE BEST DAY'S WORK OF THE YEAR follows and none of it is brave: every rack stripped, every kilo indoors or into Sigra's stack, all three boats up the beach turned chocked and weighted, THE WITHIES OUT OF THE CHANNEL NINE WEEKS EARLY, the turnip tops in, the peat walls capped. The washhouse and ward finished a day early, and Enna lights the middle-wall hearth and stands in the ward end with her hands on the wall.",
+  "D5: SNOW. Eight hours, ten centimetres by dark, TWO WEEKS EARLY. NOTHING IS LOST - not a fish, not a boat, not a tool. Ormar walks the terrace at dusk, says nothing outside, and goes to sleep. D6: minus ten, the bay steaming, and the whole settlement under turf for the first time.",
+  "D6: THE COD ARE GONE. Hjalti works the channel and the four fathoms all day in the sealskin set and lands nine fish. THE HERRING WENT OUT AND THE COD WENT AFTER THEM, and it is not a shift along the shore because he has been along the shore. His own words: I said in week thirty-two we could fish all winter, I believed it, and I would rather say tonight that I am not sure than say it in week forty-four.",
+  "D7: THE WINTER WORK LAID OUT. Vigmar names it first - seventy-five grown people and about nine jobs, and a hundred people in four buildings for a hundred and forty days with nothing to do is how settlements tear themselves apart. Snares, seaweed and shellfish every low tide, the ten kilos of iron, rope and line and nets, sealskin, the boat shed, TEACHING - Vigmar's proposal, flat: the winter is when we make this settlement able to read - carving, and tales. Fenn: do not leave that off a list because it sounds soft, a hundred and forty nights is a lot of nights.",
+  "D7: Brek's real sum. Ten kilos FINISHED is thirteen or fourteen kilos of bar once you count scale and cut ends. THE TREATY COSTS HALF THE IRON IN HALDVIK and they will want another ten next midsummer. He says it in week thirty-seven so nobody is surprised later, and says he will make it well anyway because a deal is a deal.",
+  "D7: HAFLI ASKS. The orange water in the peat cuttings, the skin you lift with a stick, the heavy crust where the water sits. Let me try it - it costs a basket of charcoal and my hands and nobody is using either. Brek: it is a poor man's iron, lad. HAFLI: WE ARE POOR MEN. Erik snorts and gives him leave.",
+]
+
+[[entry]]
+year = 1
+week = "38-40"
+title = "The rota, the ration, and a boy who beats the jarl at tafl"
+store = 9100
+events = [
+  "THE WINTER SHAPE. Light at nine, dark by four. Two hearths a pit. Snare lines out at first light, 180 of them by W39, Kelda and four children running the near ones. Low tide twice a day and somebody always on the rocks blue to the elbow. The forge two days a week and people find reasons to walk past it. Snares about 5 kg a week, all eaten fresh, children getting the liver.",
+  "THE TEACHING TAKES HOLD: eleven people learning marks by W40, four of them grown women, one of them Gudny. Fenn has Tova and three others two nights a week. Bruni teaching Hessa words to anyone who sits still.",
+  "HAFLI FAILS four times in three weeks - raw wet ore straight into the forge fire, stinking grey clinker. Brek says nothing, which is not the same as being kind, and does not stop him.",
+  "THE GREEN RATION BEGINS, and Enna wins every argument. THE FRESH RULE HOLDS - fish eaten fresh where there is any, LIVER RAW AND CHILDREN FIRST, the Hessa way, and it is simply how it is done now and nobody remembers it being strange.",
+  "AKI'S BENCH, hip-high with a lip and a hip-peg, Ormar's contribution unasked, in the good light. THE TAFL SET FINISHED. Aki loses the first game trying to be clever and wins the next two. Somebody says the reeve's lad has beaten the jarl twice and it goes round the building in ninety seconds. Fenn: play him again tomorrow, lose more slowly, that is the whole of ruling.",
+  "THE ARITHMETIC ARGUED OUT. The store does not have to last to the thaw, it has to last to about Y2 W12 when the boats can work - nothing grows in week eight. NINE HUNDRED SHORT, and it lands in Y2 W9-11 when the store is empty and the sea is still bad. Aud on the calendar: it has said spring in week one my whole life and it has been a lie for nine years.",
+  "ERIK'S ROTA. Nobody indoors more than a day. Twenty out a day in clear weather, no one twice running. HANDWASHING IN LYE AT EVERY DOOR BY LAW. Not marketed as mood management and that is exactly what it is. Limits named honestly: fifteen full sealskin sets for seventy-five adults, and a man working outside eats more. From about W42 people start asking Vigmar when their turn is.",
+  "SOAP. Enna can make lye and always could. Soap proper she has seen once in her life; Osvi watched a woman make it in a southern yard and remembers she tasted it to know when it turned. BREK SUPPLIES THE MISSING PIECE - wood ash, not peat, and there are heaps of it behind the salt pans and the smokehouse. Ten litres of seal oil and a week of Enna's evenings.",
+]
+
+[[entry]]
+year = 1
+week = "41-46"
+title = "The stack, and a hole cut in the ice"
+store = 6700
+events = [
+  "W41: THE THIRD BIRTH. Sigrid, one of Sigra's kin, in the ward end of the new washhouse with a fire in the middle wall and hot water ten paces away, Enna and Hild both on their feet. Five hours, no henbane, a girl, loud. THEY CALL HER THORA. Nobody asked Ossur first and he does not seem to mind; he looks at her once, stands a long time, and goes back to the boat shed.",
+  "W42-45: THE BAD STRETCH. Wind and wet snow and grey, not one clear spell longer than a morning. Boats out four times in four weeks. The rota keeps running but twenty a day becomes eight. THE SNARES STOP - the hares drift off the bare shoulder to the river scrub and the moor edge, four kilometres further out in weather children cannot be sent into.",
+  "W44: THREE DAYS OF THAW and then minus twelve overnight. THE WET GOT INTO THE BOTTOM THIRD OF SIGRA'S STACK, which kept perfectly through three months of dry cold and was ruined by three days of running water. About 200 kg gone. She has it out on the snow, goes through it piece by piece, salvages what she can, burns the rest, and does not speak to anybody for the rest of the day. Aki: that is five days.",
+  "W44: HAFLI WORKS OUT ROASTING by accident - dries the ore and burns it in the open first, and the roasted stuff behaves differently. Then builds a waist-high clay-and-stone shaft against the outside of the forge wall, which Brek watches him build and says nothing about, and burns charcoal in it he is not supposed to be burning, and Brek keeps signing it off.",
+  "W46: THE BAY ICES, head first then out to the bar over three days. No boat goes anywhere until it breaks.",
+  "W46: Ranvi failing - thinner, sleeping a great deal, cannot cross the terrace alone in the dark and has stopped pretending. Ingra does everything for her. She asks Erik to sit with her one night and then says almost nothing, and that is the whole of it. NO COUGHING, not one case, and Enna checks people the way a woman checks a rope.",
+]
+
+[[entry]]
+year = 1
+week = "47-51"
+title = "Seaweed, a hole in the ice, and a fist of bad iron"
+store = 4940
+events = [
+  "W48: THERE IS NO HAY. Nobody cut any - in a year of walls and fish and cliffs and a peat fire and a gale, not one person stood on that shoulder in the summer and thought about winter fodder. The turnip tops lasted eleven days. By W48 the sheep are eating the bracken out of their own bedding and the cow, in calf, is visibly going down. Aud, furious with herself in front of everybody: that is mine, grass is tillage and I never once said the word hay.",
+  "W48: SOLVI'S ANSWER - SEAWEED. She has seen sheep eating wrack off the tide rocks at Ottersnout in February and nobody thought it strange. It works: sheep take to it fast, goats faster, the cow hates it and has to be coaxed. Two old sheep and a goat go down anyway in W50 and are killed and eaten, 75 kg.",
+  "W47-51: about 90 kg of income in five weeks. Ice on the bay, no boats, hares four kilometres out, eleven days out of thirty-five fit to send anyone anywhere.",
+  "W49: GROA, about seventy, one of the women who made rope in the evenings all autumn, goes to sleep in longpit 1 and does not wake. Enna: her heart, and nothing in it to fix. AND THE BAY IS ICE. Fenn will not have her put in the ground and will not have her wait for the thaw - into the shallows under a stone where Ormegga can reach her, and IT DOES NOT SAY UNLESS IT IS COLD. Sixteen men spend most of a day on the ice with axes and iron bars and a fire on the shore, cutting through forty centimetres down to the shingle, slowly, nobody hurrying anybody. She goes down under a stone by torchlight with a hundred people standing on the ice.",
+  "W51 d5, in the dark, with six people watching: HAFLI BREAKS THE CLAY OFF THE BOTTOM AND RAKES OUT A LUMP THE SIZE OF A FIST. Mostly slag, ugly and porous and half useless. He heats it and hits it and IT WELDS. Hafli, sixteen: there is iron in the ground here. FOURTEEN ATTEMPTS, ONE LUMP. Brek says out loud and in front of people: the boy did it and I did not help him. The lump goes hand to hand round every building and comes back in three days. Aki cuts every attempt on a stick because Hafli cannot write. ERIK'S RULING: that knowledge is carried in the settlement because it is our future, and Hafli keeps his shaft and his charcoal.",
+  "W51: on Aud, FENN'S WARNING. Nobody is unkind and nobody blames her out loud. What has happened is that people have quietly stopped ASKING her and started asking Solvi, who keeps handing the questions back. Solvi's distinction: the barley was a bet she lost, the hay was a thing nobody thought of and it was her job to think of it, and everybody can feel the difference even if they could not say why. Fenn: NOT-BLAMING IS NOT THE SAME AS USING HER, and she knows it. Give her something to be right about before spring.",
+  "W51: Aki - we are level. Not short, LEVEL. There is no margin at all.",
+]
+
+[[entry]]
+year = 1
+week = 52
+title = "THE FEAST OF TURNING"
+store = 4850
+events = [
+  "THE RATION FOR IT: ninety kilos, named a week ahead and weighed by Vigmar in front of Sigra, and Fenn tells people the number himself so nobody has to guess and nobody can grumble it was more. Sixty litres of ale poured, two cups a head, watered for children, and Halvar posts himself near the barrel unasked.",
+  "THE PREGNANCIES, from Enna: THREE, AND ALL THREE WERE GOT HERE. Everyone who was carrying at the landing has been delivered. ENNA'S POINT: people stop, when a place is dying - it is not a decision, it just stops happening. Three got in one summer out of a hundred, in the year they built the walls. THAT IS NOT A SETTLEMENT WAITING TO SEE. That is people who have decided they live here.",
+  "DUSK: seven hearths in five buildings banked one at a time to a single coal under ash. The last light goes out of the sky while Fenn is doing it and nobody has lit a lamp.",
+  "THE LONG NIGHT: warmer than expected. They eat in the dark - smoked seal, dried salmon, hare, boiled sprouted grain, dried berries, a thick pease pottage people talk about for weeks. THEN THE ALE COMES OUT and nobody outside the council knew, and the noise longpit 2 makes is the loudest thing since it got its roof. AUD GETS THANKED, repeatedly, all night, by people who have been careful with her for four months, and she says it was an accident about eleven times and stops after the eleventh.",
+  "THE TALES: Fenn the old ones, Gest on Kolvenn, Hovard on ships, Torgest sings three times and by the third the whole pit does the low part. Ylva tells the moor badly and shortly and everyone loves it. The goats and the fence has grown considerably. Ranulf tells the one about the rope and the Grey Mare and it goes very quiet in the middle. The tafl set played in relays all night. AKI IS BEATEN AT LAST BY GUDNY, who has never played and says she was watching what everyone else did wrong. THE CARVINGS to the children - a seal for Ketil, a bird for baby Thora. Ingunn holds the seal a long time and keeps her hand on it.",
+  "THE DEAD HOUR: nothing in any building but dark and a hundred and one people and seven coals under ash. Fenn on the main hearth, RANVI on longpit 2's second because she took the middle watch in W50 and would not be argued out of it, Ingra at the door end of longpit 1.",
+  "AND INGRA STANDS UP. Looking at the doorway of longpit 1 - not the frame, the space in it, and slightly up, the way you look at somebody taller standing close. Her hand flat on the roof post, knuckles pale, breathing deliberately, colder than the room. Erik comes and does not speak. She tracks him without turning her head. THREE THINGS, said so only he hears: DON'T STAND IN THE DOORWAY. DON'T ASK WHAT IT IS OUT LOUD, NOT IN HERE, NOT WITH EVERYONE IN THE ROOM. IT'S CLOSER THAN IT WAS. Erik steps back, sits beside her, asks nothing. Her hand comes off the post after a while. Half an hour, and afterwards nobody in that building could tell you anything had occurred. The coal on her hearth is exactly as it was. NOTHING WAS TAKEN.",
+  "BEFORE DAWN: ALL SEVEN COALS ALIVE. Ranvi's is the strongest and she is unbearable about it. The main hearth first - birch bark, shavings, a splint, four minutes, and nobody breathes properly for any of it. Then the six others carried across the snow in ember-pots by six people walking slowly with a hundred watching. NO HOUSEHOLD LOST ITS LUCK. Fenn says the words for the turning of the year, the first time they have ever been said on this coast, and then sits down rather suddenly and Tova takes his elbow.",
+  "THE DECLARATIONS, after the relighting on Fenn's amendment. ERIK FIRST AND SHORT: almost a year ago we landed here, and now we are standing here, and when the next turning comes we will still be standing here. Ormar - the tower before the sowing. Hjalti - I'll find the cod. HAFLI, holding the lump - enough iron out of that bog to pay the Hessa without touching the bar, and Brek straight after him, loudly: he will, and all. Ylva - the valley, and where that road goes. Osvi - the Grey Mare afloat, and Hovard says then you'll want ships and forty people laugh and Hovard does not, quite. BRUNI in slow bad Vardmark: one year I stay, one year I work, then I come back - this good place. Aki - twenty people reading. Sigra - not one fish lost. Gudny - I'll beat him at that game again. AUD LAST OF THE HEADS: barley in two fields ten days apart, peas on the strip that failed, AND HAY. HAY FIRST, BEFORE ANYTHING. RANVI declares nothing and says I'll see the spring.",
+  "FENN TO THE TERRACE: Haldvik - twelve. Twelve dead and a hundred and one living and two born here, in the first year, on ground no Skeld foot had stood on. There is not a saga in Vardmark that starts better than that.",
+  "THE JARL'S FIRST SPEECH AT A FIRE. Sent out to die like animals, and had every right to. Dying is easy, living is harder, and we know hard work like a child knows their mother. LOOK AROUND - every stick, every building, every piece of the food, made with our two hands when giving up would have been easier. And look at the people around you: a hundred cast-out refugees, AND WE ARE ONE PEOPLE NOW. We could have fought each other, we could have let hardship divide us, and instead it made us stronger. NEXT YEAR WILL BE JUST THIS HARD, AND WE WILL BE JUST THIS STRONG.",
+  "They do not cheer at the start. They cheer at LOOK AROUND, because eighty people physically look around. ONE PEOPLE NOW goes into the settlement's mouth and stays there. Sigra, arms folded, loudly enough to carry, the same four words she added outside the form at the Standing: AND I'LL HOLD HIM TO IT. Gudny crying and furious about it. Halvar watching the crowd because that is his job. Ranvi with her hand on Ingra's arm the whole way through. AND VIGMAR at the edge with his stick under his arm, hearing a jarl say sent out to die like animals to a hundred people, not moving, not looking away, his face doing nothing whatsoever.",
+  "FENN AFTERWARDS: that was the right one. You did not promise them anything, which is the part they will not notice and is why they will believe you next winter. You told them it would be just as hard - nobody has ever said that to them before. Every man who ever stood at a fire and talked to these people told them it was about to get easier.",
+]
+
+[[entry]]
+year = 2
+week = "1-8"
+title = "The stick says spring"
+store = 2010
+events = [
+  "W1-W4: the coldest weeks of the whole year. Minus eighteen at dawn, the bay frozen past the bar and ringing when the tide works under it, the sun back a few minutes a week with no heat in it. Aud was right about the calendar and nobody says so because there is no pleasure in it.",
+  "THE RATION HOLDS. The rota runs better in the clear cold than it did in the dark - sledges to the strand for driftwood, snare lines, tide rocks, twenty out a day. THE ALE goes back under Sigra's hand: sick, birth, and a day worth marking, not a cold evening.",
+  "W1 d5: RANVI DOES NOT GET UP, and does not get up again. Not dying, Enna is clear - just not getting up, not eating much, wanting the door end where she can feel the cold air, and wanting Ingra.",
+  "W1: RANVI TO ERIK, at the door end. On Ingra: I have been frightened of it since week twenty-four and I have taught her anyway, because the alternative is she gets it with nobody to tell her what it costs. I am not the ember-wife any more, I am the woman who knows the price list. INGRA DID NOT GET IT BECAUSE I TAUGHT HER - she had it before I ever put a coal in front of her, the night her man died and again on the second night out. She does not take over when I stop. What you are frightened of is that when I go there will be nobody left who can tell her no, and you will have to be that, and you are her brother, so you will be bad at it.",
+  "W1: AND THE THING THAT KEEPS RANVI AWAKE. Every working takes something and there is no such thing as looking for free. INGRA HAS LOOKED SIX OR SEVEN TIMES AND PAID NOTHING. So either it is free for her, which Ranvi has never heard of and does not believe, OR IT IS BEING PAID SOMEWHERE ELSE AND SHE IS NOT THE ONE BEING BILLED. And the coals that went out on two hulls on the second night out were a price, and somebody paid it, and it was not Ingra. A bill that is not presented is still owed. Erik's theory, which she does not dismiss: somebody opens doors on us and Ingra only stands in the light of them.",
+  "W1: RANVI'S TWO ASKS. Weeks enough to teach Ingra THE LAST THING - how to STOP, how to refuse a thing already in the room. She never had to learn it because nothing ever came for her, and it has come for Ingra twice. And: when it is time, into the water under a stone like Groa, and if the ice is still in they cut through it, and nobody says it is too much work for an old woman who is no use to anybody. She asks the jarl and not Fenn, because the jarl saying it ends the argument before it starts. ERIK GRANTS BOTH and threatens her with soup.",
+  "W1: INGRA'S ACCOUNT OF THE TURNING, given standing on the burial ground at minus fifteen rather than anywhere with a roof. THE SAME DOOR-FRAME as the second night out - not like it, THE SAME. But awake, in a room with twenty people, no fire lit anywhere in Haldvik, and it was standing in the turf porch of longpit 1 over the heads of people who saw nothing. NEARER: a shape and not a shadow, upright, wider at the top like a person with something over their shoulders, and NO FACE - not a hidden face, there was not one to see. IT WAS NOT STUCK AND IT WAS NOT TRYING. It was waiting on the word. AND SHE NEARLY SAID IT - not because she wanted to, because it was THE POLITE THING and it was in her mouth as ordinary as saying it to a neighbour in the snow. She got as far as opening her mouth. AND THEN ERIK CLEARED HIS THROAT ACROSS THE ROOM AND SHE STOPPED.",
+  "W1: why she told nobody. Fenn would have had to act and would have frightened a hundred people in the dark of the year over a thing that took nothing. Ranvi would have spent a coal to protect her and it would have been the last thing she did. AND BECAUSE SHE NEARLY SAID IT - and Ranvi is teaching her three hours a day to refuse a thing she already failed to refuse six weeks ago. Erik's ruling: tell Fenn, he owes me one and he will be discreet. And on Ranvi - she will die whether she looks or not, so let her look, once she has taught you everything. Ingra: that is not letting her look, that is setting a date on her, so do not tell her that is the arrangement, and when she says she is done, believe her.",
+  "W1: AND THE COINCIDENCE. Ranvi told Ingra in W49, two weeks before the Turning, that a thing waiting on a word can be sent away by ANY VOICE IN THE ROOM THAT IS NOT SAYING YES. Ingra did not understand what she was being taught at the time.",
+  "W1: ERIK PESTERS FENN for ninety minutes with questions about spades and the fourth clause and finally fish, and Fenn stops halfway through the fish: you have never once asked me about fish in your life. Fenn hears the whole of it without one interruption, which is not how Fenn listens to anything. FIRST - she was right about me and I will not pretend otherwise. SECOND - nobody else hears this, not Vigmar, not Halvar, and I will not write it on the stick, and that is the first thing I have ever kept off it and I want you to know I noticed.",
+  "W1: FENN'S UNANSWERED QUESTION, said out loud for the first time to anybody. It was never DID FENN RELIGHT IT. It is that SOMETHING PUT THAT FIRE OUT - three fires, at once, on a still night, with men sitting beside them. And on the same night Ingra first saw a door. And at the Turning the same thing stood in the porch AND TOOK NOTHING. The first time a price was paid and she saw the door; this time no price was paid and she nearly said the word herself. Either it has got cheaper, or IT IS NOT BUYING ANY MORE - IT IS ASKING. And a thing that asks is a thing that thinks the answer might be yes.",
+  "W1: ERIK'S ANSWER - strengthen our fate. Offerings, form, and marks on the doorframes, to fill the space so that whatever is asking no longer fits. FENN TAKES THE FIRST TWO AT ONCE: no hearth in Haldvik is ever allowed to go fully cold again, the Turning excepted and then it is SAT, and let the record show whose idea that was. First of everything, bread and salt at every threshold crossed for the first time; it costs nothing, and people who have a form to do are people who are not frightened. Doors shut at night, someone awake at the door end. THE MARKS HE WILL NOT DO LIGHTLY: a cut-mark only works cut TRUE, almost nobody alive can, and a mark you do not understand on your own door is worse than nothing. Who could cut one here? Ranvi, who is dying and must not be told why. Ingra, who is not there yet. AND VIGMAR STENN, who reads marks four hundred years older than ours and will not say one of them out loud. ERIK: we wait for Ingra.",
+  "W2 d4: INGRA TELLS RANVI EVERYTHING. Erik gave it a week, Fenn gave it a month, and Erik was right. Ranvi's answer: GOOD. NOW WE CAN START. And then: you will not do that to me again - I have been teaching you to refuse a shape in a doorway and you let me think it was a lesson, and that is an hour a day spent on the wrong thing and I HAVE NOT GOT THE HOURS. The teaching stops being general after that and Ranvi stops rationing it.",
+  "W7: THE FALSE THAW. Three days of running water and then hard again - the same trap that took 200 kg in W44. SIGRA HAS THE WHOLE STACK UP ON DUNNAGE UNDER DOUBLE SAILCLOTH BEFORE THE FIRST MORNING IS OUT, without asking anybody. Not one fish lost. Her whole comment: ONCE.",
+  "W2-W8: hare came back to the shoulder when the crust went hard enough to walk on, then the wet killed it again. No boats.",
+  "HAFLI: attempts seventeen to twenty-two, three more lumps, all small, all bad, ALL IRON. He can do it on purpose about half the time now. Aki's stick has twenty-two entries and the beginning of a pattern in it that neither of them can read yet.",
+  "BRUNI finishes the Ottersnout in W6 and she is properly sound, better than she was when she crossed. Starts the Widow's Promise. Stops asking about the Grey Mare, having worked out it is not Erik being obtuse.",
+  "W8: THE ICE GOES OUT over four days in a south-west gale, in pieces, past the bar. The bay is black water for the first time since W46 and far too rough for a boat.",
+]
+
+[[entry]]
+year = 2
+week = 9
+title = "Ranvi Ashwife"
+store = 1680
+events = [
+  "D1: COUNCIL, AND THE YEAR LAID OUT. Vigmar's opening: 470 kilos over what the next four weeks want, and that 470 is everything between us and weeks thirteen, fourteen and fifteen. Hjalti: not this week, maybe two days at the end of next, and the cod are back on the bank about W12 and not before.",
+  "D1: AUD SPEAKS AT A COUNCIL FOR THE FIRST TIME SINCE W31, and the room notices. HAY FIRST - said before anything else because it is what I got wrong.",
+  "D1: HOVARD'S OFFER on the strand - twenty men, not ten, because twenty gets the SAWYERS TRAINED, and then it is fifty or sixty sticks a week for the rest of your life instead of thirty.",
+  "D1: on the cliffs, three trips from W25 instead of two from W28 - three tonnes, not two. Bjarn's name does not get said and everybody hears it.",
+  "D1: THE TEN KILOS COMES OUT OF BAR - Erik's ruling. Hafli's shaft stays a proving job, not a supply, and he says himself he cannot make eight kilos by midsummer out of a hole in a wall. He describes what a real bloomery is and then says HE HAS NEVER SEEN ONE and would be guessing at every part. Brek, unprompted: and I would be guessing beside him and I would say so out loud to anybody who asked.",
+  "D1: ERIK'S SHAPE FOR YEAR TWO - tower, a proper forge, the beach reopened, real timber felled this year for year three, longpit 4, the Grey Mare back on the water, and fifteen thousand kilos in the storehouse by first frost. Ingra takes Ranvi's seat so she gets used to it.",
+  "D1: THE RIVER. Ylva and Osvi - you can neither carry nor drag valley pine over nine kilometres of bog, and nobody has ever walked past where the river goes to marsh. HALF A DAY UP IT ANSWERS NOTHING. TWO DAYS ANSWERS ALL OF IT. Four people, four days, one camp, and IT IS A WEEK ELEVEN JOB, BEFORE THE SOWING TAKES EVERYBODY.",
+  "D1: AKI ON FIFTEEN TONNES. Not mad, and every line assumes nothing goes wrong. IT IS NOT THE FISH, IT IS THE HANDS: every number wants people standing in the right place in the right week, and this year there is also a tower, a forge, a bloomery, a sawpit at twenty men, a river survey, a longpit, a ship, hay, two sowings and ten kilos of iron. SOMEBODY IS GOING TO HAVE TO SAY NO TO SOMETHING, AND I WOULD RATHER IT WAS IN WEEK NINE THAN WEEK THIRTY. Erik: it will be week thirty.",
+  "D1: THE PEOPLE. Three came to fifteen winters over the winter, four came to twelve - worth more like eight hands than four, because they stop being minded and start doing the minding. KELDA IS TWELVE, and Solvi: she has done a grown woman's work since W14 of last year and she is twelve on a stick and nowhere else. ENNA: twelve dead and five born in the first year and a bit, and that is the number that tells you whether a place has a second generation or just an ending.",
+  "D1: Halvar's standing watch orders. A hull from the north is the Hessa and we get a day. A HULL FROM THE OPEN SEA EAST IS SKALGRIND AND WE GET ABOUT AN HOUR.",
+  "D1: FENN CLOSES IT. A hundred and eight sailed, twelve are in the shallows, five have been born. Nobody starved, nobody froze, nobody was put out, nobody was hanged, AND THERE HAS NOT BEEN ONE BLOW STRUCK IN ANGER BETWEEN TWO GROWN MEN IN THIS SETTLEMENT SINCE W11 OF LAST YEAR. That last one is the thing I would write down if I were writing one thing - it is rarer than the food. Erik: it is also not over yet.",
+  "THE WEEK: wind, rain, a big grey swell, no boats. The frost lets go on d5 and eight people get about a fifth of Aud's ground turned before the rain stops them.",
+  "D6: RANVI SPENDS A COAL, unasked and without permission, because she will not die with three in a basket - that is a miser's death and I would not have it. She asks THE QUESTION SHE WAS RELEASED FROM IN W24: whether the luck of this place is sound.",
+  "D6: THE READING. IT IS SOUND. She saw the whole of it standing and going on, and she is certain and has never been more certain of anything she has read, and she tells Erik to say so in week eleven. AND THE OTHER HALF, unsoftened: IT STANDS ON A DEBT. Something is owed, it is not paid, AND IT IS NOT PAID BECAUSE NOBODY HAS BEEN ASKED FOR IT YET. She does not know who owes or what. She knows it is not new - it is OLDER THAN THE LANDING, owed before that boat ever left Skalgrind. Her last word on it: a thing that takes nothing is not being generous, it has not sent the bill.",
+  "D6: to Ingra - TWO LEFT IN THE BASKET, they are yours and I would rather you never touched either. You will be better than me and worse at stopping, and there is nobody now, so it will have to be you that says it to yourself.",
+  "D6, before midnight: RANVI ASHWIFE, fifty-nine winters, ember-wife of Haldvik. The cost of the reading was the last of her sight, an hour of not knowing where she was, and some hours off the end, and she knew it when she did it.",
+  "D7: sea-burial on a falling tide, the whole of it said, nothing shortened. AND ONE THING NOBODY HAS SEEN, because nobody here has ever buried an ember-keeper: Fenn carries a live coal from the main hearth down the sand in the tongs and holds it over the water until it goes out. HERS WENT BACK. THAT IS ALL THAT IS. DON'T MAKE MORE OF IT. He is crying and does not acknowledge it.",
+  "D7: INGRA TAKES THE SEAT AND THE BASKET. Her one ask of Erik, and it is not protection: DO NOT BE CAREFUL WITH ME. Everyone will be, the way they were with Ranvi, and what made Ranvi strange was not the craft - it was thirty years of nobody sitting down next to her. Erik: it is as much your choice as theirs, and do not let Sigra go careful, because she does not want to.",
+  "D7: AND INGRA'S READING OF RANVI'S READING. THAT DEBT IS THE THING STANDING IN OUR PORCH. Ranvi saw it and did not know she had; Ingra did, and said nothing because Ranvi was dying and there was no use in it. Somebody owes something, it is older than the landing, and it has stood at our door for a year waiting for someone to say come in so it can tell us what.",
+  "D7: THE WARDS. Ingra can LAY one - Ranvi's craft, taught properly, four done under her hand. A CUT-MARK is different: Aki could cut the shape better than either of them and it would be A PICTURE OF A MARK, because what makes it true is knowing what it says, and Ranvi could cut two and Ingra still does not know what one of them means, only what it does. HER OWN PROPOSAL, and Erik lets her have it: NOT THE LONGPITS. The SMOKEHOUSE first - nobody sleeps in it - one laid warding and the one mark she is sure of, cut clean with Aki's hands, and then WATCH IT FOR A SEASON. Longpit 1 at midsummer if nothing goes strange, and not before. Erik: it is insane that we do not know our own marks.",
+]
+
+[[entry]]
+year = 2
+week = 10
+title = "THE GALE, THE TOWER, AND TORBRAND"
+store = 1505
+income = 195
+consumed = 370
+events = [
+  "D1: council. AUD SPEAKS FIRST AND SAYS ONE WORD - hay, before the barley, before the peas, twenty people four days in W22, and nobody argues with it. The river survey set for W11, four people four days, Osvi naming his own crew. Ormar puts six men on the tower.",
+  "D1-D7: NO SEA WINDOW. Grey, high, breaking on the bar all week.",
+  "D2: two of the north tower footings come up soft. Ormar has them packed with stone, moves on, and says out loud that he does not love them.",
+  "D3-D4, in the dark: THE GALE. Onshore, six hours, no warning at all - Halvar had read a quiet night and says so himself in front of people, the first time he has been wrong about weather here. Skins off the Keel at the third hour and twenty people cross to longpit 2 in freezing rain and spend the night in the aisle in wet clothes. Thirty metres of rack flat. AND THE PEAT WALLS SOAKED - about 195 m3 of drying fuel put back weeks.",
+  "D4-D5: THE SAME STORM FEEDS THEM. Wrack the length of the beach, weed and shellfish off the rocks, more than fourteen people can carry, and the first teeth-grass on the shoulder. 195 kg of income in what should have been the worst week of the year. Aki: the wrack is once, it is not a rate, keep it out of every plan.",
+  "D5: THE TOWER. The holes were dug in W35-36 into ground about to freeze, stone-lined and turfed, and they held ice all winter and are now full of meltwater in thawing ground. NOBODY THOUGHT ABOUT THE THAW. The north-east post walks in the afternoon, the frame racks, and TORBRAND COMES OFF IT FROM FOUR METRES onto the stone kerb of a footing hole. Four ribs on the right, right forearm broken twice below the elbow and closed, the hip driven. He is breathing wrong. Carried in on a hurdle.",
+  "D5: ORMAR OWNS IT IN THE RAIN OUTSIDE THE WARD BEFORE HE IS ASKED - the holes were his and the thaw was his to think about. Erik says nothing to him, then or after. THE TOWER IS DEAD: the frame is down by the next morning and the holes must be redug in spring ground, against the sowing, the survey and the strand.",
+  "D5, night: Erik sits with him and does not speak. Halvar is already there and goes, saying the one thing he has - that he read a quiet night and there was not one. About the middle of the night the breathing drops half a step and Torbrand sleeps, and Enna gives Erik about a quarter of a nod.",
+  "D6: ENNA GIVES THE PROGNOSIS IN THREE PARTS ON THREE CLOCKS. The ribs are what can still kill him and it will be the second and third week, not the first - a man who breathes shallow a fortnight gets wet in the chest, and she has watched two go that way looking to be mending right up until they were not. The arm she has set well, but two bones want to knit toward each other and if they do the hand will not turn; she says outright she got Aki's leg wrong by letting it settle before she was sure, and will break this arm again herself rather than repeat it. The hip she cannot see and will not number until he stands, and she will not let him stand for a long time. On the bow: ask in a month, and do not plan a year around it.",
+  "D6: YLVA TAKES THE HUNT. Erik: you are leading the hunters again, do not be happy about it. She does not say yes and does not say thank you. Three hundred snares was his number and she does not know if it is a good number, only that he said it. Her own limit, named: I can tell somebody where the deer are, I cannot make anybody get up. Then: is he going to keep the arm.",
+  "D6: ULF REFUSES A THIRD TIME, and not for courage. Everybody knows it should be me is the exact part he will not have - the day Sigra's eldest stands at the Shield's shoulder with a name on a stick, the twenty-five work out what it means whether it is true or not, and then it is true. HE OFFERS THE WHOLE JOB WITHOUT THE NAME and has been taking Halvar's evenings two winters. And he names OSSUR unprompted: nothing and nobody, and already the man who stays four days on a bog edge because someone needs him to.",
+  "D6: ERIK GOES TO SIGRA AT THE CLAY BANK and she walks him ten paces up the slope out of her potters' hearing. He brings up her living son and her drowned son in one breath and she stops him on it - pick one. His argument: someone will come to these shores, and whether that is survived may depend on whether the folk can rally to a man, and that man is her son. And: it was not you who told him no, he is a good man who can read a room and respect his mother. SHE SEES THE MANOEUVRE AND SAYS SO - you handed me a door and made sure I watched you do it. She will talk to Ulf that night and SAY IT STANDING AT COUNCIL ON W11 D1, once, in front of everybody, so nobody can call it a thing done in a corner. And: he might still say no, he is not mine to spend.",
+  "D6: her last word going down the bank, about Ulf speaking against her at the Standing - he gets that from me, it is the only bit of me he took. Erik: it is the best part of you, anyway.",
+  "D6: AKI ON THE REAL PROBLEM. The food is fine and he says so flat after twenty weeks of saying the opposite. What is not fine is that the peat is soaked and the sawpit is shut till W12-13, so when the cod come back there is nothing to smoke with and five casks and two kegs to salt into. WE ARE NOT SHORT OF FOOD THIS WEEK, WE ARE GOING TO BE SHORT OF THE MEANS TO KEEP IT IN ABOUT THREE.",
+  "D7: FULL RATIONS RESTORED after nineteen weeks on a fifth cut. Erik's reason, given plainly: people are weak, there is a great deal to do, and hungry men make mistakes. Vigmar takes it at the storehouse door with the beam in his hand and asks only that it be cut as the jarl's word and not the reeve's arithmetic, and that the day it goes back down be named when it comes and not left to drift.",
+  "D7: THE UNITS FIXED FOR GOOD - the ledger is preserved-equivalent, eaten is about 1.5 kg a head a day, and from W11 income is logged gross on the jarl's order.",
+  "D7: ERIK ORDERS THE PEAT DRIED off the smokehouse and the hearths, which nothing is smoking yet, and charcoal made for the forge the first time the weather turns. It keeps the fires lit off their own output. It does not save the stack - a hundred tonnes of wet peat dries in wind, and that means restacking the walls loose and open in a dry spell, fifteen people for two days.",
+  "D7: TORBRAND WENT WELL ON THE SECOND NIGHT AND BADLY ON THE THIRD. Fever up before dawn, chest wetter, breathing quick again. Enna: this is the thing I told you about and it has come early rather than late, and early is better than late.",
+  "D7: AND THE COUGHING IS BACK. Three of the Keel twenty, four days after they stood in the wet. One of them a child. Not one case all winter until now.",
+]
+
+[[entry]]
+year = 2
+week = 11
+title = "THE COUNCIL, THE FROST, AND THE FOURTEENTH STONE"
+store = 1145
+income = 95
+consumed = 455
+events = [
+  "D1: ERIK SAYS RANVI'S WORD, unadorned - our late seer looked on her final day and asked me to tell you in week eleven that the luck of Haldvik is sound, so I have. He keeps the other half. INGRA'S FIRST WORDS ON THE COUNCIL WALL, and she does not stand to say them: she spent a coal to know it, she had three and died with two, so take it as bought and not as comfort. ERIK'S ANSWER TO THE ROOM: luck helps those who help themselves, it is not comfort, it is an obligation to work twice as hard and prove her right.",
+  "D1: SIGRA STANDS BEFORE ANYTHING IS SAID and does not sit. My house has no claim on the Shield's seat, not now and not while I am above ground, and if my son ends up at Halvar's shoulder it is because the jarl asked three times and not because his mother wanted a hand on anything. Said once, in front of everybody, so it is not said behind her later. NOBODY TAKES HER UP ON IT.",
+  "D1: ULF SAYS YES AT THE FOURTH ASKING, and it takes him three tries to get the word out. SECOND TO THE SHIELD. Erik's framing to the room: whoever fits the job best should have it. Ulf's own last word: and it is a poor joke, jarl, I am not that tall.",
+  "D1: THE SURVEY CREW NAMED ALOUD at Osvi's insistence so nobody swaps one out on the morning - Osvi, Ylva, AKI and Ranulf. Erik challenges Aki going at all. AKI'S ANSWER: you could ask Vigmar what is in the store and he would tell you true, and you go and look with your own hands every week; a thing written down after is a thing somebody remembered. Boat as far as the boat goes, reckoning from the thwart, and he sits with the boat where the water quits. ERIK: go, and if something happens to you it was your own making.",
+  "D1: YLVA RAISES THE COLLISION HERSELF - you gave me the hunt on d6 and you are sending me up a river on d2. Her fix: a snare line is a walking job not a leading job, one day round the whole line with two of Torbrand's own, and OSSUR over them while she is gone, because dull and turns up is what a snare line wants.",
+  "D1: THE COUGHING RULES GIVEN TO COUNCIL. Torbrand out of the ward and into longpit 1's far gable on cloth, screened, and nobody who has been in longpit 2 that day goes near him, including the jarl. ENNA REFUSES LONGPIT 1 FOR THE WOMEN - your clean room is the room fewest people walk through, and longpit 1 holds the main hearth and everyone passes through it. Herdis, Ingunn and Sigra's girl into LONGPIT 3 with the under-fives, one door used. Longpit 2 and the Keel are the sick side. Ranulf tented alone until the survey leaves.",
+  "D1: AND THE THING THAT COSTS - separating them at night does nothing if they are on the same rope all day. Longpit 1 works with longpit 1 and longpit 2 with longpit 2, no shared basket or cup or bench, for a fortnight. Erik: I do not like it and we will work with it.",
+  "D1: THE FIRST LAW OF HALDVIK WITH A PUNISHMENT BEHIND IT. Erik asks the lawspeaker what custom says and FENN ANSWERS THAT THERE IS NOTHING - not a word of it in any custom he holds, and he will not dress something up and call it old. Three shapes available: a price, being put out, or the thing custom does with a thief - HE STANDS AT THE STANDING AND IS NAMED, which costs nothing and hurts worse than a fine. Fenn's warning as it is cut: it will be quoted at your grandchildren.",
+  "D1: THE LAW AS CUT, narrow at Vigmar's insistence because narrow gets obeyed and wide gets argued and then ignored. Unwashed hands; no cloth, or a cloth not boiled in three days; going into longpit 1 or 3 while coughing. SEEN BY TWO. Named once a week out loud by the reeve. ERIK'S WARNING: the same names every week and I invent a new law and it will not be so light. AND HIS OTHER LINE: this is law and it should not have to be - it is your parents and children and wife who die if you do not keep it, not mine.",
+  "D1: ENNA'S ONE AMENDMENT, taken - boiled every second day, so make the offence a cloth not boiled in THREE and the rule and the practice are the same number. And the cost nobody had thought of: if the coughing cannot come to longpit 1 they cannot come to the hearth where food is handed out, so the sick side eats where it sleeps and TWO OR THREE FIXED CARRIERS do it and never go near longpit 3. Pick them and do not swap them about.",
+  "D1: THE LABOUR CRUNCH. AKI: sixty-six pairs of hands, your list is twenty-nine, food work is twenty-five and cannot be cut, that leaves twelve, and Aud wants twenty for ten days. THE STRAND TWENTY AND THE SOWING TWENTY ARE THE SAME TWENTY. AUD DISMANTLES IT HERSELF and is right - it was never a hectare in ten days, it is two fields ten days apart, half a hectare is twenty people for five days, so sow first and the strand still opens in week twelve and nobody loses a week. HER FIRST PUBLIC WIN SINCE THE BARLEY. And the ground is ready, because she has had a spade in it every morning since the frost let go.",
+  "D1: HOVARD'S CONDITIONS, granted - do not take the same twenty back in week thirteen, take the haulers and turf men and leave the pit crews, and count the walk, so her five days is seven of mine and put it on the stick as seven.",
+  "D1: BREAD. Erik says he will taste bread this year and looks at Aud. HER ANSWER, exact and unsoftened: somebody has to make a quern, two stones dressed true off the black band with an eye and a socket, weeks of somebody's hands, wanted BEFORE harvest. 150 kg of seed, three or four to one if the weather is ordinary, call it 500 kg off the ground and TWO HUNDRED STRAIGHT BACK IN THE SACK before anybody smells it. Three hundred to eat. Thin loaves on a hot stone, not a loaf each, and once. ORMAR TAKES THE QUERN and says plainly he has watched it done and never done it.",
+  "D1: THE STICKS. Tower twenty-two already stacked, longpit 4 a hundred, a proper forge thirty and a season of stone. A HUNDRED AND FIFTY. Five weeks of the sawpit as it stands, under three once Hovard has his sawyers. ERIK'S METHOD, which Ormar says he should have said himself: stack everything first, then build fast with everyone. It is what went wrong with the walls last year.",
+  "D1: GEST, without looking up from a splice, RAISES THE THING NOBODY SAID - midsummer is fifteen weeks and nobody in this meeting has said the word iron once. BREK'S COUNT: 5.5 kg of boat nails, 640 counted twice, plus a kilo of hooks. Six and a half done, three and a half to go, AND THE THREE AND A HALF IS AXES AND SMALL KNIVES. He goes a beat too long on what an axe wants. CHARCOAL: 520 kg is about seven weeks of a forge working properly, the clamps and the wood are both at a beach that is shut, peat coal will not weld, and one bloomery burn is one whole clamp.",
+  "D1: ERIK STOPS THE BOG ORE until there is a bloomery. Hafli takes it and asks only that his shaft stays against the wall. BEES ordered looked for. SOLVI, honestly: thousands of the big furry ones on the crowberry and never once a hiving bee in a year and a half of having her face in every flower on this coast - she will look in the valley, and she will not have him counting on honey in a plan and finding out in week thirty that it was her who said it.",
+  "D1, after: INGRA STAYS ON THE WALL. She should have said it in the meeting and did not, and that is hers - the smokehouse mark waits on AKI'S HANDS and Erik has just sent Aki up a river. ERIK OFFERS HIS OWN HANDS. She refuses them: the knowing is hers either way and his line is straighter than Aki's, BUT SHE DOES NOT KNOW WHO A CUT MARK BILLS, and if the price comes off the hand and not the head she has put it on her brother for the sake of four days. Aki has no craft in him at all, and she would rather it was that way round until she understands it. HER OWN WORDS: I am guessing, and you should hear me say the word out loud, because I am the one who will be telling this settlement what is true for the next thirty years. And: you have just done the thing you would take my head off for.",
+  "D2-D5: THE FROST COMES BACK. The wet lifts and the cold comes in behind it and the ground is a spade deep again for four days. AUD GETS NOTHING. The sowing goes to week twelve, the strand to thirteen, and everything behind them moves a week. The peat walls cannot even be broken open, being frozen into the wall.",
+  "D2-D5: THE COUGHING PEAKS AT FOURTEEN on the fourth day and starts coming down. NOBODY DIES OF IT. The separated messes, the boiled cloths, the fixed carriers and the open vents all worked and worked where everyone could see it, in the same week the law was cut. Vigmar named two people on d4 and has not had to name anyone since.",
+  "D2-D5: THE RIVER SURVEY RUNS. Out on d2, back on the evening of d5, cold and filthy and talking over each other. Osvi with a stick of marks and Aki with three. NOT YET REPORTED - it came home on the wrong day.",
+  "D5: TORBRAND'S CHEST GOES. Enna finds Erik and says first, and says it twice, that HE NEVER CAUGHT THE COUGHING - it is the ribs, twelve days of shallow breathing, the right side filled. Erik asks her to say plainly that there is nothing to be done and not to rate his ideas, and she does: upright since the third day, steamed twice a day over pine, made to cough until he cried, and it would come out the same. WHAT YOU CAN DO IS NOT DOCTORING - Ylva does not know yet, Halvar does not know, and a man with no kin dies in a room full of people who were all going to say something tomorrow. TELL THEM TONIGHT.",
+  "D5: Erik tells four people and the whole settlement knows in an hour. Ylva goes in, comes out in a minute, goes back and stays. Halvar stands outside like a man on watch for a long time before he can go in. OSSUR TAKES THE HURDLE SCREEN DOWN at one end so the room can see him and he can see the room, unasked, and Enna allows it. The work stops early, by no order at all.",
+  "D5: ERIK'S VISIT. Unimportant things, and then he says he will let him rest. TORBRAND'S LAST WORD IS A CORRECTION, given between breaths: three hundred was too many, tell her, two hundred and the line is shorter and you walk it twice - I said three because it sounded like a proper number. Then, looking past him at Ylva: she would have worked it out.",
+  "D6: worse in the morning and better in the afternoon in the way that means nothing. People come through all day. ORMAR COMES IN AT LAST, stands at the foot of the bench, says nothing at all, and Torbrand puts out his good hand and Ormar takes it, and that is the whole of it. Fenn stays from the afternoon on.",
+  "D6, after dark: INGRA COMES AND SITS NEAR THE GABLE END. Some time later she gets up, MOVES THE STOOL TWO PACES, and sits back down. She does not look at that end of the room again for the rest of the night and she does not leave either.",
+  "D7, before dawn: TORBRAND DIES. Twenty-nine winters. Ylva holding the splinted arm because there was nowhere else to hold, Enna's hand flat on his chest, eleven people awake at that end of the room.",
+  "D7: ERIK'S ORDER - bury him once everyone has said their goodbyes, and the ships still go out today. FENN SETS THE TERMS AND WILL NOT BEND THEM: the afternoon falling tide, the whole of it said, not a word shortened for anybody's boat, and Hjalti is back on the beach before the water turns or he explains himself. And: he has no kin here, so the settlement buries him and somebody stands where kin stand - you, the Shield, and the girl, and I would have her take it.",
+  "D7: FENN'S WARNING ON THE FORM, when told the succession is not his business - if she stands where kin stand, half the beach decides she has the job by the time the water is back, whatever you say afterwards. That is not me arguing, that is what people do with a thing they watched.",
+  "D7: ERIK OFFERS YLVA THE HUNT before the burial. Her question back: is that a question, or are you telling me there is nobody else. HIS ANSWER, straight: others can do it, none as well as you, but you forget what having a job means and would rather be elsewhere, and I keep sending you elsewhere because there is no better scout either. HER TERMS: Ossur runs the line and the crew day to day, she takes the hunt and the weir and goes where she is sent, and IT IS SAID OUT LOUD THAT IT IS HERS AND NOT THAT SHE IS MINDING IT - he minded a job he did not want because nobody would say the word and I watched him do it. ERIK'S TERMS: she trains a second, and she does not hand him surprises. HERS BACK, unasked: if I want to go somewhere you have not sent me I will stand in front of you and ask, and if you say no I will wear it. Her second is Ossur.",
+  "D7: SHE WOULD NOT BE NAMED ON THE DAY. Tomorrow is fine. Not today.",
+  "D7: the boats out at first light and back before the water turns - the first fish landed in thirteen days, and nobody makes anything of it. THE BURIAL on the falling tide, nothing shortened, Erik and Halvar and Ylva standing as kin, Ossur one of the four who set the stone. THE FOURTEENTH STONE.",
+  "D7: the first full-ration week in nineteen and the ledger shows it. THE WALL IS PASSED.",
+]
+
+[[entry]]
+year = 2
+week = 12
+title = "THE FIRST FIELD, AND THE PEAT OPENED"
+store = 1175
+income = 480
+consumed = 450
+events = [
+  "D1 council: THE SURVEY REPORTS. Osvi - two days up and the river becomes three shallow loughs on the south edge of the moor, and from the top lough you walk south-west over flat wet ground, no ridge and no climb, and in TWO AND A HALF KILOMETRES you are on the stream that dies in the bog. AND THE OLD ROAD CROSSES THAT GAP and is at its best there, because they had the same problem and solved it. Valley pine floats down, hauls 2.5 km on a road half built, goes in the top lough and comes down eleven kilometres of water to us.",
+  "D1: Osvi names the sting himself - it comes down into our own weir - and Erik answers it in a sentence, shore it above and cart the last bit. Osvi's real one: TIMBER FLOATS ON A SPATE AND NOTHING LESS, and the spates are spring and autumn, the same weeks everybody is putting seed in or taking it out.",
+  "D1: AKI CORRECTS THE COST OUT LOUD. A whole valley pine green is a tonne and a half and nothing here moves it; cut to four-metre lengths it is 300 kg and six men skid one, two lengths a day. A hundred and fifty sticks is seventy-five days of six men, HAUL ONLY. It is not a season for a dozen, it is a dozen people for most of a summer. AND IT IS THE SAME WOOD BREK'S CHARCOAL COMES OUT OF - we have one wood and two things that both want all of it.",
+  "D1: HOVARD - every clamp and every stick has come off the driftwood windrow, not the valley, and the windrow is not a store. Four hundred paces when we shut in W36 and a fair bite taken, and NOBODY HAS WALKED THAT BEACH IN FIFTEEN WEEKS.",
+  "D1: ERIK PARKS THE RIVER until summer - we have not the men for the beach and the river at once. GEST on trading for timber: a hull carries four or five tonnes and timber is the heaviest thing you can put in one, so two ships is thirty or forty sticks. Do not think of it as timber, think of it as the pieces you cannot make - keel, stem, planking. And every kilo is priced in iron we have not finished owing. ORMAR: green pine wants a year in the stack, so anything felled this summer is a building for the year after next.",
+  "D1: HJALTI STANDS WITH HIS CAP IN HIS HANDS. Cod back on the bank and thick as he has ever seen, both boats could load every tide, AND IT IS NO USE TO HIM - 250 kg a week is what eleven hands can gut and hang and then he is throwing fish back in front of people who were hungry in March. He asks for hands, not boats. ERIK PUTS SOLVI'S FIFTEEN AND THE OLDER CHILDREN ON THE RACKS AFTER SOWING, and rules that fresh fish is eaten without limit because it costs nothing that would have been kept. VIGMAR WRITES SOMETHING ON HIS STICK WHEN THE WORDS WOMAN'S WORK ARE SAID and his face does nothing.",
+  "D1: SIGRA ON THE REAL CEILING - racks are not it and never were, a rack is four posts and a day's withies. WEATHER IS THE CEILING. Good drying week with twenty-five hands, five or six hundred kilos hung sound; still wet week, almost none, and what is on the rail is at risk. Catch it all and salt what will not dry, at a hundred kilos of salt per five hundred of fish, against 480 in store and one pan making three a day. FOUR WET WEEKS IN A ROW AND SHE IS OUT OF SALT IN THE BEST FISHING OF THE YEAR. Light the other two pans.",
+  "D1: TORGEST'S ANSWER - the pans are at a shut beach and a pan is a fire that burns light to dark, and the peat is swimming and the driftwood is what makes sticks. YOU CAN HAVE SALT OR STICKS OR A SMOKEHOUSE AND EVERY ONE IS THE SAME ARMFUL. ERIK CHOOSES SALT, and orders the peat walls broken open before the beach opens.",
+  "D1: THE STANDING ORDER, in the jarl's words: SALT, SMOKE, DRY THE REST.",
+  "D1, after: ERIK AND SOLVI ON THE SAND. Kelda is well and works like a woman grown and STILL WILL NOT BE IN A ROOM ON HER OWN, and Solvi stopped trying to talk her out of it a year ago. On Vigmar: he teaches Aki faster than the boy needs it, and a man who makes himself unnecessary is dying or leaving or has decided something; he stopped asking Osvi about crossings more than a year ago; AND HE ARGUES BOTH HALVES OF EVERYTHING EXCEPT THE STONES, about which he has never argued at all. ERIK ASKS HER TO WATCH HIM - who he talks to, whether he is collecting followers. HER CONDITION, the same as when she took Kelda: act on nothing she brings without going and looking yourself. And her own warning: I already think he held a pillow on a baby, so I am the worst witness you have.",
+  "D1: Solvi's last word - you have had that feeling since week fourteen of last year and this week you suddenly have a use for it, and you do not have to tell me what happened.",
+  "THE WEEK: first field in in five days, all of it. AUD NAMES THE WATERLOGGED LOWER THIRD HERSELF, in front of Vigmar, a month before it can be used against her. Three good drying days then two still warm damp ones; about 90 kg sours on the rail and SIGRA THROWS IT INTO THE SEA HERSELF, having told the council a fortnight before that she never would again, and says nothing. 70 kg of salt spent against 30 budgeted.",
+  "D6-D7: THE PEAT WALLS OPENED AND A THIRD OF IT IS GONE. Soaked peat that froze solid and thawed has slumped and broken down and will not burn hot enough for a pan or a smokehouse. Nobody did anything wrong; it is the gale arriving fifteen weeks late. AUD TAKES THE WRECK - not fertiliser, it is sour and has nothing in it, but peat litter under twenty-seven stalls comes out the other end as muck and doubles the dung heap, and the dung heap is the only thing keeping that shoulder from going to nothing in four years.",
+  "D7: first week the store has not fallen since the Turning.",
+]
+
+[[entry]]
+year = 2
+week = 13
+title = "THE CHANNEL MOVED, AND THE IVVEN CAME"
+store = 1305
+income = 580
+consumed = 450
+events = [
+  "PLANNING: Erik pushes the beach out a week - the crew leaves W14 d1 and there is NO RETURN TRIP, and the second field is turned by thirty people on the ten-day mark, and week thirteen's spare days go to the quern, tools, fixes and cleaning. HOVARD: that is better than I asked for, a crew that stays out learns twice as fast. His residual - it is not the trips, it is TORGEST, who steers Hald's Coal and runs the pans and cannot do both, and Erik hands the choosing of a second steersman to Torgest himself.",
+  "AUD ON THE SIXTEEN DAYS: later seed ripens later and this coast does not give you the end of the year back, so the second field will be thinner and may not finish in a bad autumn - but the reason for splitting was never yield, it was that one gale cannot have both, and sixteen days does that better than ten. Do not hold the beach for me.",
+  "THE WEEK: second field in on d4-d5, thirty people, the fastest work of the year. Best fish week since last summer - Sigra walked the rack line herself before a post went in, fifteen hands from d1, everything hung sound.",
+  "THE CHANNEL. They set the withies on the old line and found four metres in some of it and less than one in the rest. A SAND BAR RE-CUTS ITSELF OVER A WINTER OF GALES. The ship's boats never noticed because they draw nothing. One man out of the water grey and shaking, no worse. IT WANTS A SOUNDING SURVEY - a boat, a weighted line, two tides and Osvi.",
+  "THE QUERN: Ormar has the BEDSTONE and it is good work, and it cost him the whole week and two broken picks and Brek has told everyone about the picks. The runner - eye bored through, socket cut - is the hard one and is not started.",
+  "D6-D7: wind and heavy rain. THE LOWER THIRD OF THE FIRST FIELD GOES UNDER STANDING WATER and Aud comes and says so herself before anybody else can.",
+  "D7, in the rain: THE IVVEN COME. Not three at three kilometres - NINE, six men and three women, with pale lean dogs called back by a click and not a word, walking in to the edge of the terrace and stopping. Reindeer hide sewn with the seams running the wrong way. Bone and antler everywhere. NOT ONE PIECE OF IRON ON ANY OF THEM. They lay hides, sinew, antler and dried meat on the ground and wait to be looked at.",
+  "D7: the lead man looks longest at BREK, and Brek's forearms, and then points past everyone at THE FORGE. Erik takes Aki, Vigmar, Ingra, Solvi, Ylva, Brek, Ulf and one more; Halvar holds the rest back. Aki does the thirty paces on the crutch and both sides wait for him.",
+  "D7: YLVA ON THE GOODS - take the hides, all of them, that hair is hollow and warm in a way sealskin has never been and a third of the weight, and we have six bolts of wool and no linen for ninety-nine people going into a second winter. Sinew next, bowstring and thread that does not rot. Antler because it is free. Meat last.",
+  "D7: THE MAN HOLDS UP TWENTY. Aki's method, and it costs nothing - count twenty hooks out slowly so he sees you counting, set them down, say nothing. HE DOES NOT PICK THEM UP. He counts them himself with a fingertip, twice, then stands and looks at the basket which is still most full, then says three words and A WOMAN GOES NORTH AT A JOG, ALONE, IN THE RAIN. AKI: he was not offering. He was asking whether there were twenty.",
+  "D7: ERIK BARGAINS HARD, pointing and counting for the whole pile against a kilo of hooks. Somewhere in the middle of it THE MAN'S FACE CLOSES - not anger, the look of a man who has come to the wrong house. They fold the hides properly, put them back on their shoulders, and go. THEY LEAVE THE MEAT AND THEY LEAVE ALL TWENTY HOOKS IN THE GRASS.",
+  "D7: VIGMAR, who has not spoken since they left the terrace and has been watching the man's face and not his hands: he did not come to sell nine hides, he walked twelve kilometres in the rain to find out if we were a place, and you told him we were a market. Those people carry everything they own and move it every three days and will never have a surplus to haggle with, so the only thing they had to offer was that they would come back. THEN HE ARGUES THE OTHER HALF UNASKED: or he wanted more than you would give and has gone home to think, and I will have been wrong and will say so. ERIK: nomads are not necessarily poor, and I showed them we do not take heads and this is not charity, and if they need us they will return. VIGMAR CONCEDES BOTH.",
+]
+
+[[entry]]
+year = 2
+week = 14
+title = "THE SAW, AND THE CHILD WHO WILL NOT FEED"
+store = 1325
+income = 470
+consumed = 450
+events = [
+  "D1: twenty men walk to the strand. No return trip. Nothing on the water all week and the Ivven woman never comes back down.",
+  "D2: TORGEST TAKES HALD'S COAL ROUND LOADED and feels his way over the bar by touch because there is nothing to steer by. Touches bottom twice, LOSES A WHOLE RAFT OF FORTY-ODD STICKS off the tow in the broken water, gets the boat home, and says he will not run her loaded again until somebody sounds that channel. Nobody argues.",
+  "D3: THE GEAR COMES OUT OF THE TURF. ONE SAW PLATE CRACKED CLEAN THROUGH AT THE HEEL - scrap, and it will never be anything else. The other is pitted deep and sprung; Brek reckons a week of forge time to clean, re-set and sharpen it and says it will never cut as it did. Augers seized and will free. Pan gear fine. HALDVIK HAS ONE DAMAGED SAW, the year's whole build plan sat on two, and NOBODY HERE CAN MAKE A SAW PLATE.",
+  "D4-D5: HERDIS LABOURS from the afternoon into the second night. Enna and Hild both, the ward, and FENN'S CUSTOM HELD WITHOUT ANYONE BEING TOLD - never fewer than two awake in that room. Both live. A GIRL.",
+  "D5 on: THE CHILD WILL NOT FEED. She takes the breast and lets it go, sleeps instead of eating, has to be woken to try, and does not gain. Enna, straight: warmth, milk expressed and dripped in, someone holding her every hour of the day and night, and time, and that is the whole of the medicine. Ingunn is four weeks off and might feed two if her own comes well. SHE WILL NOT SAY WHETHER THE CHILD LIVES - ask me in a fortnight, said like a woman who has already been asked.",
+  "D7: three weeks running in the black. Snares at about 140 and not 200 - Ossur needed hands and did not ask.",
+]
+
+[[entry]]
+year = 2
+week = 15
+title = "BREK SAYS IT, AND THE IVVEN COME BACK WITH A TONGUE"
+store = 1375
+income = 500
+consumed = 450
+events = [
+  "THE WEEK: seven days of warm, still, damp, grey air and not one hour of moving wind. NOTHING DRIES IN STILL AIR HOWEVER WARM, which Sigra told the council a month ago. Cod kept coming and could not be hung; she salted everything and lost a run off the rail anyway. 130 KG OF SALT IN ONE WEEK against 380, and the two strand pans are lit and new and slow. Week one of the four she warned about.",
+  "THE CHANNEL SOUNDED. Osvi's method - boat, weighted line, a man calling depths, marks off the north shoulder and the storehouse gable, three tides instead of two. THE OLD GAP IS GONE. The new one is further south under the sand spit, 25 paces wide against 40, 3 m at low water against 4. Withied. Hald's Coal runs loaded FROM HALF TIDE UP ONLY, two windows a day, and it must be re-sounded after every gale for ever.",
+  "HERDIS'S DAUGHTER. Erik asks the question nobody had asked: is it the child not eating, or the mother with no milk. ENNA - that is the right question and I should have led with it and I will not do that again. IT IS BOTH AND THAT IS WHAT KILLS THEM: milk slow after two days of labour, the child too tired to suck, and a weak suck is what tells the breast to make more, so they go down together in a circle. What breaks it is food, rest and hands, and that is six people she has not got.",
+  "AND ERIK ASKS THE SECOND RIGHT QUESTION: are there no women already feeding. SIGRID, whose girl was born Y1 W41 and is six months and the size of a yearling. Enna had not asked, and not from forgetting - YOU CANNOT UNASK IT. Putting a child to another woman's breast here is kinship, not doctoring; the two girls grow up milk-sisters and people marry around that. Not hers to ask and not the jarl's to order.",
+  "SOLVI'S ANSWER, which nobody in that ward had reached: HAS ANYBODY ASKED HERDIS. If I go to Sigrid it is you asking and it will sit in that woman twenty years; if Herdis asks her it is a mother asking a mother and there is no jarl in it. She sat with Herdis an afternoon and suggested nothing. HERDIS WALKED TO SIGRID HERSELF ON THE SECOND DAY and Sigrid said yes before the sentence was finished. A full breast with a strong letdown gives milk without much sucking, and the circle broke. Taking both women by week's end and gaining. Enna will say the word gaining and no other word.",
+  "THE SAW. Brek gets the pitting off and then works the spring, the finest work either he or Hafli has attempted, and on the fourth day THE PLATE CRACKS a hand's length from the heel while Hafli is holding the other end. HALDVIK HAS NO SAW.",
+  "BREK ASKS TO BE HEARD, and Erik hears him. That plate did not crack because it was old, it cracked because I hammered it wrong, and a man who had been taught would have known where to start and how hot. I WAS NEVER ANYBODY'S APPRENTICE. Ottar's striker twenty-two winters; took his tools and his by-name when he died and nobody asked a single question, not in Skalgrind and not on the boat and not here. I can make a nail and a hook and a knife and a hinge until I die. I CANNOT LOFT A PLATE. I CANNOT WELD A BIG PIECE AND HAVE IT HOLD. And every day since week seventeen of last year I have been a fortnight ahead of being found out.",
+  "ERIK'S ANSWER: do you see a master smith next door? Then you are ours, and you are good, and you have two broken saws to practise on. BREK, once he can stand still with it: that steel is not wasted, a saw plate is better hard stuff than anything in my bar and there are two of them - knives, chisels, scrapers and a set of proper wedges out of what is already broken, and I would not have said that an hour ago because I was too busy being the man who broke it.",
+  "AND THE SECOND THING, said because he would never say it otherwise: THE ALE OUT OF THE SEALED STORE IN Y1 W13 WAS HIM. Two hundred litres, weeks nine to seventeen, every night and never enough to stop him standing up in the morning, and he stopped the day the forge was lit because he had something to do with his hands after dark. ERIK: I did not hear that, and if I knew who stole it I would have them whipped or banished. BREK: then you did not - and I will put threefold back into that store this year in work nobody asked for and nobody is paying for, and the reeve weighs everything, so he will see it go in and never know what it is. THAT IS MINE. YOU DO NOT GET TO TELL ME NOT TO.",
+  "Brek on why nobody noticed: in those weeks I was a man with no forge, no job and no anvil off the sand, and there was not a soul here whose day went differently depending on where I was. YOU LOOK AT PEOPLE WHEN THEY ARE LOAD-BEARING. I WAS NOT. Six iron wedges cooling in the sand by the middle of that night, unasked.",
+  "THE SAW QUESTION ANSWERED BY BRUNI, who is baffled it was asked. WHY YOU SAW IT. We not saw plank. Nobody saw plank. You put a wedge in the end and follow the wood where it wants to go and cut it flat with axe. Six years I do this and I use saw for cut the end off, only that. Master have one saw. ORMAR, working it out as it is said: true, and he has known it his whole life and stopped thinking about it because Skalgrind had a sawpit. THE PIT WAS NEVER THE THROUGHPUT - four trained sawyers on one pit was. Axe work parallelises across twenty men and a sawpit cannot. It wants iron wedges and it wastes more wood. Ormar's guess, flagged as a guess: fifteen sticks a week the old way, twenty-five to thirty this way.",
+  "D7: THE IVVEN COME BACK. About twenty, sitting down at six hundred paces where they can be counted, four sent in, and one of them is the woman who ran north in the rain. SHE WENT TO FETCH A TONGUE - a man of about forty-five, split lip healed badly, greased hair tied back, a red-dyed band at the collar, A FULL SET OF WHITE TEETH AND NO BLOOD AT THE GUM, and forty Hessa words. Gest has ninety and Aki a hundred and twenty. TWO PEOPLES TALKING THROUGH A THIRD TONGUE NEITHER SPEAKS WELL.",
+  "D7: his first four words, one at a time - WE COME, IRON, TALK, GOOD. Gest: that is not a sentence, that is four stones laid in a row, and he is asking you to lay four back. Fire and food offered and refused; HE WILL NOT GO UNDER A ROOF, and sits down on the open ground, and Erik sits down with him. Erik lays out a hook, a knife and an axe and says good, talk.",
+  "D7: HE TAKES THE KNIFE, which was the one nobody would have guessed, and closes his hand on it. Then the sun-gesture, four times, ending with two hard taps on the ground between them. AKI: that is not a price, that is again, and again, and again, and here. GEST: and do not expect a number, those people go where the deer go and the deer do not keep weeks - whatever he says will be when we come past.",
+  "D7: ERIK HANDS THE TRADE TO VIGMAR, who says nothing about the fortnight before. He counts 211 hooks onto a hide, counts them again out loud, then hands the pile to the woman and makes her count them, twice. THEN HE CUTS THE NUMBER ON TWO STICKS, lays them side by side on the grass so both sides can see the marks agree, AND GIVES ONE AWAY. The man turns it over, understands what it is in about four heartbeats, and puts it inside his coat instead of in the bundle.",
+  "D7: HALDVIK RECEIVES fourteen reindeer hides, two white and better than anything Arna has handled; four bundles of dried sinew; a worked leg bone that is a hide scraper, put in with the skins on purpose because you do not give a man hides and no way to work them; two folded pieces of hide worked so thin and soft they hang like cloth, and Ylva goes quiet handling them; and a birch-bark box holding about two litres of BIRCH TAR. Gest names it - Kolvenn had barrels of it. It glues, waterproofs and seals a seam, and Haldvik has five leaking casks and three hulls on a beach.",
+  "D7: HALDVIK GIVES the knife and the hooks. THEN VIGMAR PUTS THE AXE DOWN IN FRONT OF HIM ANYWAY, after the count is closed and the sticks are cut, and steps back with his hands open. Forward rate on both sticks: TEN HIDES FOR A KNIFE, and they come when they come. Nobody says a whole sentence to anybody all afternoon.",
+]
+
+[[entry]]
+year = 2
+week = 16
+title = "THE WEDGE, AND THE AXES BREK CANNOT MAKE"
+store = 1470
+income = 555
+consumed = 460
+events = [
+  "BRUNI GOES TO THE STRAND FOR TWO WEEKS, asked and not told, and says so - nobody ask me here before, they say Bruni do this, is different. His reason for going: one boat is one boat, twenty men who can split is every boat and every house you make after I go home. And on Brek's first wedges: these too soft, tell him harder and short, not long, long one jump out and break a man's face.",
+  "THE RIVING WORKS. Eighteen sticks the first week, under Ormar's guess of twenty-five, with heavy wood waste while twenty men learn where a split wants to go. Ormar stops arguing with Bruni about anything by d3.",
+  "D3: A LONG SOFT WEDGE JUMPS OUT OF THE CUT and takes a strand man across the cheekbone. Broken jaw, four teeth gone. Home on Hald's Coal in the half-tide window and into the ward. He will mend and he will not look the same. Bruni said short and hard on the day he handled one and Brek made them long and soft, and neither has said so to the other.",
+  "BREK AND THE AXES. The small knives are inside him and get done, about a kilo, leaving 2.5 kg. A PROPER AXE IS A WRAPPED EYE WITH A STEEL BIT FORGE-WELDED IN, which is the exact thing he told Erik four days earlier that he cannot do. HIS WAY ROUND IT, said out loud and unprompted before anybody hands one to Skelva: forge them from solid bar, no weld, no bit. They will hold an edge worse and want sharpening far more often and they will never fail.",
+  "ENNA'S FORTNIGHT ON HERDIS'S GIRL comes due and she uses a different word. THE CHILD IS WELL.",
+  "SOLVI'S FIRST REPORT IN FOUR WEEKS, and she says herself it proves nothing. VIGMAR HAS BEGUN SITTING DOWN WITH TOVA IN THE EVENINGS - three or four times, with sticks. HE IS TEACHING HER THE ARCHAIC MARKS. On its face legitimate: she is the lawspeaker's apprentice with a memory like a nail and he is the only living man who can read them. It is also a second key to the one lock Erik would rather stayed shut, and it is thirteen years old.",
+  "ERIK'S ORDERS: wedges short and hard, every one, and the long ones already made come back to the forge to be cut down. Axes become practice. The order goes to nails, which Gest says boat people with no smith actually want and which Skelva asked for first anyway.",
+  "THE MILK-KIN QUESTION has been talked about at every hearth in Haldvik for a fortnight and never once in front of Fenn, because until this week the child was probably going to die. TOVA ASKED HIM ON HER OWN and he sent her away to find the answer out of what she already holds.",
+  "ERIK VISITS HERDIS with a carved seal - that's the first thing anyone's given her. AND SHE HAS NOT NAMED THE CHILD. I could not while she was going down and now she is up I still cannot, and I never understood Ingunn and Bjarn until this month. Erik: you know what you are waiting for.",
+  "FENN ON MILK-KIN, privately. It makes a BAR - those two girls cannot marry, nor either marry the other's brothers, and it holds down the generations and nobody ever argues about that part. It makes a FOSTERING CLAIM - if Herdis dies, Sigrid's roof owes that child a place and the child owes that house grown. IT DOES NOT TOUCH INHERITANCE. Not land, not stock, not a share.",
+  "FENN'S TWO CONDITIONS, unasked: the six-week wait is sound, and a child who might die is a poor thing to build a kinship on. AND DO NOT LET THE JARL DECLARE IT - if you say those houses are kin it is a ruling and it is yours forever; if the two women stand up and say it, it is theirs. He will wait on Tova's answer before he says any of it aloud, because she asked first and gets to answer first.",
+  "ERIK LETS IT GO ENTIRELY if the families never raise it. FENN: then it goes undeclared, and undeclared works right up until it does not, and in twenty years two young people want to marry and there is nobody alive who can say what was agreed - that is not an argument, it is just the bill, and it lands on people who are not in this conversation. But it is their business and I would rather be the man who let it alone than the man who made a family out of two women being decent.",
+]
+
+[[entry]]
+year = 2
+week = 17
+title = "THE SECOND PLANK"
+store = 1655
+income = 640
+consumed = 455
+events = [
+  "Bruni's second week finishes and he goes back to the Widow's Promise. TWENTY-SIX STICKS, inside Ormar's guess, wood waste coming down as men learn to read a grain before they open it. Nobody else hurt. The man with the broken jaw is sitting up, eating through a reed, and furious about it, which Enna says is the best sign there is.",
+  "Brek makes nails and nothing else and it is restful for everybody. Salt about 160 and the strand pans finally bedded in.",
+  "D7: KELDA BRINGS A SECOND FRESH PLANK. Hardwood the length of her forearm, riven not sawn, the curve of a strake in it, broken across one end and not worn at all, black in the seam. BIRCH TAR - the same stuff in the box the Ivven traded a fortnight before. And her own contribution, offered because she thought he would want it: there are no marks on it, either side, and she knows her letters now and looked at all of it.",
+  "WHAT IT JOINS UP TO: Y1 W12 the windrow timbers, adzed and treenailed, twenty or thirty winters in the water. Y1 W21 Osvi proving the worked pieces thicken northward. Y1 W24 Kelda's first fresh find. Y1 W32 Aki matching the wood to Skelva's token. HESSA HULLS HAVE BEEN COMING APART NORTH OF HERE FOR AT LEAST THIRTY YEARS AND TWICE IN THE LAST TWO.",
+  "GEST, asked first, goes back through ten weeks a day at a time. Sixty-one souls on a stick and A HOLE HE NEVER LOOKED AT - eleven women between twenty and forty and SEVEN MEN, counted and written down and thought nothing of. AND NOBODY AT KOLVENN EVER ONCE TOLD HIM ABOUT A SHIP GOING. Ten weeks in a house with a boat shed in the middle of it and not one story about a hull that did not come home. BOAT PEOPLE TELL THOSE STORIES. IT IS HOW THEY TEACH. That absence is worth more than the wood.",
+  "GEST ON HOW TO ASK BRUNI: ask the craftsman's question, not the Hessa one. How does a strake come apart, what breaks a hull that way, would you have built it different - he will talk for an hour and enjoy it. Do not ask whether his people lose ships, because that is asking him what his people do not say, and he is a lent man twelve hundred kilometres from anyone who could tell him what he is allowed to answer.",
+  "BRUNI'S READING, happily given. Good wood, good work, better than the Widow's Promise. THE PEG HOLES ARE CLEAN AND ROUND ON ONE SIDE AND TORN LONG ON THE OTHER - the plank did not rot off, it was PULLED. Something pushed the boat and the frame went one way and the plank the other, and it tore off the pegs and then broke across. Tar still black inside and not grey, so the boat was worked on this year or last. IS NOT A BOAT THAT DIE OF BEING OLD, IS A BOAT THAT DIE OF SOMETHING.",
+  "And the part he volunteers on his own, having been asked nothing he should not answer: whoever built this built better than my master's second man, and I would like to know who he is. HE DOES NOT ONCE BEHAVE LIKE A MAN WALKING ROUND A HOLE IN A CONVERSATION.",
+]
+
+[[entry]]
+year = 2
+week = 18
+title = "THE ORDER CLOSED, AND A BOY NAMED FOR HIS FATHER"
+store = 1895
+income = 700
+consumed = 460
+events = [
+  "First real drying week. Wind off the water four days of seven and Sigra hangs everything she is given. Best week since the freeze.",
+  "THE TEN KILOS WEIGHED IN PUBLIC on the storehouse floor, Vigmar weighing and Sigra checking. Ten and a bit. TWO WEEKS EARLY on the corrected calendar, and Brek stands with his hands behind his back and lets it be counted and says nothing at all.",
+  "Twenty-six sticks again. NINETY-TWO ON THE TERRACE against a hundred and fifty-two for the tower, the forge and longpit 4. Stone: three men on the grey band since W12 is ninety man-days, about half the forge's stone, and nothing at all toward longpit 4. ERIK JOINS THE STONE CREW about fourteen hours a week and Ormar says nothing about it, which is his way of approving.",
+  "D4: INGUNN DELIVERS in four hours with no trouble, and Enna is out of the ward before dark looking like a woman who has got away with something. A BOY. SHE NAMES HIM BJARN, which nobody expected, because everyone assumed she would finally use the name she and Bjarn picked for Ketil and never spoke.",
+  "ENNA'S COUNT, given unasked: Sigra's girl still due about W22, and TWO MORE SHE IS SURE OF - RUNA, twenty-six, one of Sigra's thirteen, due about W27, and HILD, twenty-two, her own second pair of hands, who lost her first to the coughing in Y1 W10 as far as she knows, due about W30. And a third she will not name yet. SIX CONCEIVED IN HALDVIK IN A YEAR AND A BIT, and she has been counting.",
+  "BREK'S NEW STANDING ORDERS: the reeve measures the order, then tools, wedges and Ivven knives, and ONE FULL DAY A WEEK for him and the boy to practise and learn. He does not argue about the day, which he would have a year ago. Erik sets his own reminder to check on him at W20 or when the charcoal runs low, because Brek will not say when he wants to stop - he will work until something breaks and then report the thing that broke.",
+  "INGRA AND THE BLANK WALL. Six weeks and nothing cut on the smokehouse, and she gives the reason without being asked twice: I told you I would not put an unknown price on my brother, and four days later I worked out that argument does not stop at my brother - if I will not spend you I cannot spend a seventeen-year-old either, and the only reason I was going to is that he is cheaper to me than you are. THAT IS AN UGLY THING TO FIND IN YOURSELF.",
+  "HER BETTER IDEA, when Erik tells her to find one or tell him to stop worrying. DO NOT STOP WORRYING - if you stop I am the only one left and that is how Ranvi got the way she was. I have been hunting a hand to cut a mark that lasts and costs somebody I cannot name. I CAN LAY A WARDING. Four done under Ranvi, and I know exactly what a laid one takes because I have felt it four times. IT IS MINE AND THE PRICE IS MINE AND THERE IS NO BOY IN IT. Less than what she wanted - a laid ward wants renewing and a cut mark does not - but she would rather do a smaller true thing every season than spend a year looking for somebody else to pay for a bigger one.",
+  "ERIK ARGUES AGAINST IT: it has caused no harm since the crossing, you may be agitating it, it may not work, and do not waste it on a smokehouse, and Fenn's custom is holding and nobody but you has seen it. INGRA CONCEDES THE AGITATION AND HOLDS THE REST. The smokehouse is not waste, it is the whole point - nobody sleeps in it, so if the ward does nothing she has lost a bit of herself and learned it for free, and if she lays it on longpit 1 first and it does nothing she has told thirty-four people they are safe when they are not. YOU DO NOT TEST A ROPE BY HANGING A MAN OFF IT. And: nobody but me has seen it, which is not the same as nobody but me being in the room with it.",
+  "ERIK'S OFFER, and she goes very still, which from her is shouting: WAIT ON THE WARDING, AND SAIL TO KOLVENN WITH GEST WHEN THE HESSA COME AT MIDSUMMER, ask her own questions, and be collected at the end of summer. She wants it and will not pretend otherwise. Her own arithmetic, aloud: two births go while she is gone, Runa in W27 and Hild in W30, and Ranvi sat every birth here for a year and a half without ever being asked to, and Enna will call that superstition and be at both anyway, SO IT IS NOT THE CHILD SHE FEARS FOR, IT IS WHAT PEOPLE MAKE OF IT AFTERWARDS IF ONE GOES WRONG.",
+  "THE CALENDAR PUT RIGHT. Solstices and equinoxes sit in the MIDDLE of their season, not at the edge: spring equinox W7, MIDSUMMER W20, autumn equinox W33, MIDWINTER W46. The Feast of Turning at W52 is the turning of the YEAR and not the solstice. MIDSUMMER IS W20 AND ALWAYS WAS, so the Hessa are due in a fortnight and not in eight weeks.",
+]
+
+[[entry]]
+year = 2
+week = 19
+title = "THE SUMMER GALE"
+store = 1885
+income = 450
+consumed = 460
+events = [
+  "ERIK'S MIDSUMMER AGENDA, settled with his people before the hulls are due: trade at a fair price; the Hessa back at Y3 W14, the first week of summer, on a new deal cut as one and not assumed; INGRA AND GEST SAIL NORTH WITH THEM because Ingra has questions; and when the Hessa return they bring BRUNI, HIS MASTER AND CORDAGE to put the Grey Mare back on the water, collected at autumn's end, PAID IN IRON.",
+  "THE HOLE IN IT, named before the beach: fixing a hull does not make a ship. The Grey Mare wants standing rigging and hers was cut into the cliff line and there is no cordage on this coast, so ask whether Kolvenn has any, because nobody ever has and they are a people with three hardwood ships.",
+  "ERIK'S LINE ON THE FORGE, settled and not for negotiation: there is no way I am letting anyone near it who is not us. GEST'S REFINEMENT: and they have never once asked - twice they have come and both times the ask was tools, not bar and not a man, which is a people who know exactly what they are short of and have decided not to say the word. SO DO NOT SAY IT EITHER. Do not refuse a thing that has not been put to you, because a refusal tells them it was worth asking for. Ask for the boy. Offer nails. Let the other thing stay unsaid as long as they will let it.",
+  "GEST ON BRUNI, asked whether he would come back. Not unhappy and not settled - twenty years old, the only one of his people in a hundred kilometres, nobody here his own age who speaks his tongue, eight months of being told to do things by strangers. AND THE THING ERIK DID NOT NOTICE HIM SAY: nobody ask me here before, they say Bruni do this, is different. HE WOULD COME BACK TOMORROW IF HE COULD COME BACK AS SOMEBODY. But an apprentice becomes a master by standing next to the old man at Kolvenn another ten years, and we cannot make him and they can. So he goes home, and in ten or twelve years there is a master up there who spent a year of his youth here and was treated well or badly, and sixteen weeks of that are left.",
+  "AND NOBODY HAS PICKED UP HIS CRAFT. No named apprentice, no oath, nothing cut. Ossur got closest in the boat shed and was then made Ylva's second and walks a snare line. HOSKULD DIED IN Y1 W9 HAVING TAUGHT NOBODY AND IT IS WRITTEN IN THE DEAD LIST.",
+  "D4-D5: A HARD SUMMER GALE out of the west, two days of it. THE RACKS WERE FULL - about 200 kg of hung fish off the rails into the sand and the water, most of it not worth picking up, and Sigra walks the line afterwards and says nothing to anybody. The strand loses its hurdles and a week of stacked sticks is scattered and mostly recovered. AND ONE OF THE TWO SHIP'S BOATS IS CAUGHT ON THE KERB AND STOVE IN on the starboard bow. Not lost. Bruni says two weeks. That is half the fishery through the middle of summer.",
+  "WHAT SAVED IT: the smokehouse. Smoked fish is indoors and the gale could not reach it.",
+]
+
+[[entry]]
+year = 2
+week = 20
+title = "MIDSUMMER, AND AN EMPTY SEA"
+store = 1985
+income = 560
+consumed = 460
+events = [
+  "MIDSUMMER. Ten kilos and a bit weighed, sacked and standing on the storehouse floor where Vigmar put it.",
+  "The weather comes good on d2 and stays good all week. Flat water, wind off the land, THE BEST SAILING CONDITIONS OF THE YEAR.",
+  "NOTHING ON THE HORIZON ON ANY DAY OF IT. A man on the storehouse corner every daylight hour, which has never happened before, and by d5 people have stopped asking him and started just looking at him as they pass. THE SEA IS EMPTY ALL WEEK.",
+  "ERIK ON THE LOOKOUT WITH BRUNI. Perhaps in exchange for food we can teach your people how the calendar works. BRUNI DOES NOT LAUGH: we not get the week wrong, Skelva count better than your Aki. But is not always the week - wind turn you back, you go home, you fix, you come again, my master do this three time in my life. IS NOTHING WHEN THEY COME NEXT WEEK. Then, because he is twenty and it is his aunt and his master out there: how long you wait before you go look. ERIK: a year. Tell me when you start to worry. BRUNI: three week.",
+  "PRODUCTION: 26 sticks, 134 on the terrace. Stone at about 130 man-days on the grey band counting the jarl's own afternoons, a fortnight off laying rather than stacking. A charcoal clamp home on Hald's Coal, about 350 kg in store and a second clamp burning. The smokehouse running constantly on riving waste, which is the one thing gained by losing the saws.",
+  "THE SMOKEHOUSE CORRECTION, applied this week and backdated to W15. The jarl's W12 order was three words - SALT, SMOKE, DRY THE REST - and the smokehouse was not being counted, while still-air weeks were being written up as near-total losses, which is only true for a settlement that has not got one. 320 kg recovered across W15-W18 and about 60 kg of salt, and the store totals in this chronicle carry the correction. SMOKE DOES NOT CARE ABOUT STILL AIR AND DRYING DOES: a dead-air week goes to the smoke and not to the salt barrel, and that is now standing.",
+  "THE PEAT, which nobody has raised. 130 m3 sound after a third of last year's cut went to mush, about 95 of it dry and stacked. AND NOT ONE SPADE CUT THIS YEAR. The window is open now and closes when the cutting can no longer dry before the autumn rains, and nobody is in it.",
+]
+
+[[entry]]
+year = 2
+week = 21
+title = "THE BEACH CLOSES, AND A SPADE FINDS SOMETHING"
+store = 2205
+income = 680
+consumed = 460
+events = [
+  "THE RECKONING THAT CHANGED EVERYTHING, done at the end of W20. With the proper forge dropped, sticks needed are 122 - twenty-two for the tower and a hundred for longpit 4 - AND THERE ARE 134 ON THE TERRACE. Stone needed for longpit 4 is 120-150 man-days and there are 130 quarried for a forge that will not be built. MATERIALS STOPPED BEING THE CONSTRAINT AND NOBODY HAD NOTICED.",
+  "ERIK CLOSES THE BEACH. Seven stay on rotation for salt, coal and their own fuel; thirteen come home; the quarry stops; the forge goes to one day a week and Brek says do not bring me anything on the sixth day and expect it on the seventh. THE NEW SPLIT: 10 on boats and lines, 15 gutting hanging and smoking plus children, 10 FORAGING PROPERLY FOR THE FIRST TIME THIS YEAR, 3 on snares, 7 at the strand. Forty-five committed, TWENTY FREE AS SURGE, and Sigra gets the surge whenever construction can spare it because ten men on the lines land more than fifteen pairs of hands can hang.",
+  "ERIK ON THE FORGE, and it costs him to say it: THERE WILL BE NO PROPER FORGE THIS YEAR. The next one, if the gods are kind. Charcoal target set at 1000 kg by frost, forge to run from frost down to 200, which is three more clamps and eight to eleven weeks of winter working - and the forge running all winter is a thing that has never been done here because they were always too poor in coal to burn it when nobody was watching.",
+  "THE TOWER. Six men redig the four holes in two days and ORMAR WILL NOT LET A POST NEAR THEM FOR A FORTNIGHT - open, watched, walked past every morning. His own rule, made over a man's body, held against his own building.",
+  "Fourteen up the shoulder on the peat from d3, and about 70 m3 cut and walled in five days before the pool goes to the hay and the pit.",
+  "D4: A SPADE GOES CLEAN THROUGH SOMETHING in a fresh face: worked oak, preserved perfect, cut in two before anyone saw it was there, WITH MARKS ON IT IN THE OLD HAND. It goes up the chain to the reeve, because everyone knows Vigmar reads.",
+  "D7: VIGMAR COMES WITH IT WRAPPED IN SACKING AND LEADS WITH THE BREACH. Three days, and my terms with you say I come first and be sure afterwards, and I broke them, and that is on the stick before anything else. It is not a boundary formula, there is no this-ground-is-not-yours on it. IT IS A NAME, the same shape as the threshold at Skalgrind, and it is off a house. AND THERE IS PEAT TWO SPADES DEEP OVER THE TOP OF IT.",
+]
+
+[[entry]]
+year = 2
+week = 22
+title = "NAGHOLT, AND THE HULLS COME IN"
+store = 2440
+income = 700
+consumed = 465
+events = [
+  "THE STEPPED PIT, Erik's method - an inverted pyramid with steps rather than wide and shallow, because a straight-sided hole in wet peat fills and slumps in a day. VIGMAR AND AKI, everything through both of them, Ormar left on construction. Erik's read on it out loud: it is not a bad thing if Vigmar knows he can get what he wants by helping me.",
+  "SIX DAYS AND THE SIDES HELD. Sixty centimetres of peat, then a hand of black charcoal with burnt bone in it, then A SWEPT FLOOR of packed clay and beach stone that you can walk on. AKI'S METHOD SAVES A MONTH - you do not have to uncover a wall to find one, you push an iron rod down until it stops, so two days of probing and every hit on a stick.",
+  "A HOUSE TWENTY-FOUR METRES LONG RUNNING EAST AND WEST, the same size and build as the twelve grassed over in the valley, and Haldvik sits between it and the sea. IT BURNED WHOLE WITH ITS ROOF ON - the charcoal runs the width of the floor and is not a hearth spread. Vigmar states the fact and refuses one word about what it means.",
+  "THE OAK IS A DOOR POST, squared and pierced for a pivot. AND VIGMAR READS THE WHOLE OF IT: NAGHOLT. Which is also a place in Vardmark, and that is the second time the pattern has shown after Skalgrind.",
+  "ERIK IN THE PIT, with thirty or forty people round the lip and nobody working. VIGMAR: that is a floor somebody swept, you can feel where the door was by where it is worn.",
+  "THE BONES. Erik: buried like ours are. FENN'S RULING - burnt bone is burnt bone and nobody here can say whether it came off a man or a heifer, so do it once and do it for all of it: everything that might be a person goes in a box, and at the end of the cutting into the water under a stone with the whole form said. AND HIS WARNING: our rite over a stranger's bones says he is ours, that is a claim, it may even be a true one, and in fifty winters somebody will say the jarl put the old folk in the water and called them kin. ERIK: box them. They waited five hundred years, they will not take offence at a few more.",
+  "ERIK SAYS IT IN PUBLIC. They built like us and we can read most of what they left behind. They left four or five hundred years ago and our reckoning starts three or four hundred. There are people on these shores who hold our customs. I AM NOT SAYING THEY WERE GOOD PEOPLE OR YOUR GRANDFATHERS, BUT I THINK WE ARE WALKING ON OUR TRUE MOTHERLAND. I THINK, and I know as much as you do. Ormar takes his cap off, which he does not do. Aki cuts it as it is said.",
+  "VIGMAR ARGUES AGAINST HIMSELF, climbing out with peat to the elbow. THERE IS A CENTURY UNACCOUNTED FOR and I have never closed it and I have been trying since I was twenty. Either our reckoning starts a hundred years after we got there, which is likely because nobody counts the first hard winters - or somebody was still here when the first of us was already over the water. And I would rather you said I think for another ten years than said I know today.",
+  "FENN'S CAUTION on the slope: you said they built like us and wrote like us in front of thirty people, and that will be at every hearth by dark and still there in ten years. I am not saying take it back. I am saying you have just told this settlement who was here before them, and they were going to decide anyway, and now they will decide it your way.",
+  "THE PIT: coal, iron and anything interesting taken out, then filled back in. NO CAIRN - VIGMAR STOPS IT. There are eleven of those on this coast and every one has a mark saying the ground beyond this is not yours. Unmarked it is a heap that looks exactly like eleven other heaps, standing on the only ground between the bay and the moor, and the Hessa will not talk about those stones in a house or after dark and the Ivven will not walk that line or name it, AND BOTH OF THEM COME HERE NOW. You are about to say something in a language you cannot speak, in the one place everybody can see it, to two peoples who read it fluently. AKI'S ANSWER instead: do not mark the ground, record it - every rod-hit is on a stick with distances off the storehouse gable and the north headland, and two more sticks say the same and will live in different buildings. A stone tells everyone. A stick tells whoever we hand it to.",
+  "HAY: half stacked sound in a poor curing week. Aud says out loud it is not her fault this time and she is right, and that is a different sentence for her than last year. SECOND CUT SET FOR W24.",
+  "SIGRA'S DAUGHTER delivers after a day and a night. Both live. One dose of henbane spent and one left. Torn badly, weeks mending, and Enna tells her privately and once that she should not carry again.",
+  "SIGRA, silent since the ward door, and Erik stands there until it is obvious he is not leaving. A day and a night outside a door and every hour somebody comes out and tells me a thing I can't do anything about, and the whole time I am thinking AT LEAST THERE IS A DOOR. There wasn't one with Rekk - he went under a bull in water that would not come over your knee and the first I had of it was Ulf walking up the beach at the wrong speed. I have had both now. I would not tell you which was worse.",
+  "AND THEN THE THING NEITHER OF THEM HAS EVER SAID. I asked for the bigger take at that reef, out loud, in front of people. And you gave the order. Both true, neither said since, and everybody who was standing there knows both. A YEAR AND A HALF DECIDING WHICH OF US IT LANDS ON AND THERE IS NO ANSWER AT THE BOTTOM OF IT - it is not you and it is not me and it is not the boy and there is nothing there, and my daughter nearly died this week and half of what I felt about it was the old thing. ERIK names Aud and the tower as his own version and says: it was not you, and not the boy. SHE CATCHES THE OMISSION - you left one name off that list - AND WILL NOT HAND IT TO HIM, because there is nothing under that stone and he would only carry it the way she has.",
+  "D5: TWO HESSA HULLS off the north headland, two weeks late by Haldvik's reckoning and on time by their own, having met the same gale on their second day out and turned back and refitted. AND THE BAR HAS NOT BEEN SOUNDED SINCE THAT GALE, which was written down in W15 as a thing to be done after every blow, for ever, and was not.",
+  "THE URGENT SOUNDING. Osvi's method in haste with two loaded hulls on a lee shore. The gap has moved NORTH and NARROWED - twenty paces, half tide up only - and he has a line by last light and will not mark it in the dark or put a loaded hull down a guess. THE HESSA SIT OUT ONE MORE NIGHT. In the morning the lead hull runs it clean and THE SECOND ONE TOUCHES, hangs twenty minutes on the north lip with the flood under her while twelve Hessa stand still on deck and forty Haldvik people stand still on the sand, and lifts and comes in. No damage to the ship. It happened to a guest in front of everybody.",
+  "SKELVA ON THE BAR, and she does not make anything of it: same gale, everybody safe, is a boat, this happen. And a bar move, every bar move, our place is behind a spit and the spit walk two three pace every winter. PUT THE MARKS ON THE LAND - two marks on the shore lined up is your gate, and you want two lines, one to come in and one to say when to turn, and then a man on the ship needs no boat and no rope. One day of work and it lasts until the bar moves. Offered unasked. And: nobody feed us yet, is fine, I am not waiting in the water again, that was stupid and cold.",
+  "THE TEN KILOS. Skelva goes down on her knees on the storehouse floor and counts six hundred and forty nails into piles of ten with her hands and does not stop, and Atti counts with her, and nobody interrupts. THIS IS MORE NAIL THAN HAVE COME TO MY PEOPLE IN MY LIFE.",
+  "THE AXES. Solid bar, no weld and no bit, because Brek cannot forge-weld and said so first and wanted it known before anyone handed one to her. ERIK TELLS HER PLAINLY: sturdier, wants sharpening often, will never fail, leave it if you do not like it. She puts one into a driftwood billet four times and takes all of them. FOR US A THING THAT GOES BLUNT IS A THING WE CAN PUT ON A STONE, AND A THING THAT BREAK IS A THING NOBODY CAN MAKE AGAIN FOR THREE YEAR. Ten that go blunt is better than one that break. I would not tell you that if you had not told me first.",
+  "THE TRADE, run by Vigmar with Aki on a stick and Gest on the words, most of a day. Received 300 kg barley, 200 kg peas, 80 kg fat, four kegs, two barrels, twelve hardwood lengths and two stem-knees. Gave the ten kilos and three more of new work. NEXT YEAR NO FAT AND NO PEAS - CORDAGE AND WOOD. Ranulf gives a number nobody ever asked him for: FOUR HUNDRED PACES, and takes a sample away for two hours before agreeing it will do.",
+  "THE BOATWRIGHTS PUT TO Y4 rather than Y3, first week of summer to last week of autumn, collected then, for 25 KG OF WORKED IRON, half and half, LESS PRO-RATA IF HE GOES HOME EARLY. That clause is what answers Vask and Skelva makes Aki cut it twice. HER OWN READ: he is one man and the middle of my place, everything we have that floats he made or mended, and if a ship breaks at home while he is gone we wait and we have nothing. You ask for the one man we cannot be without and offer the one thing we cannot make. That is two people wanting the same shape of thing. Year four is better and Vask will breathe out. ERIK NEVER RAISES A SMITH AND NEITHER DOES SHE.",
+  "D3, on the sand, after the sticks were cut: ERIK ASKS WHAT HER PEOPLE KNOW ABOUT WHOEVER LIVED ON THIS COAST BEFORE ANYBODY. Aki gets four sentences down and SHE PUTS HER HAND FLAT ON HIS STICK UNTIL HE STOPS. She looks north at the moor, not at the cutting, which she has no reason to know anything about. I HAVE NOTHING FOR YOU. I am not the one who knows these things. In my place there are people who know these things and I am not one and I do not want to be one. AND SHE WIPES HER HAND ONCE, FLAT, ACROSS THE SAND BETWEEN THEM, the same gesture she used on the hearth stone in Y1 W27, and does not appear to notice.",
+  "The third night of guest-right is not like the first two and they sail an hour early on the morning tide. INGRA AND GEST ABOARD, home at W29, the faering out at W28. Ingra's last word: if she is there and she is what I think she is I will know inside a day and it will not be from anything anybody says - and do not let Fenn sit that ward alone, meaning two in the room at Runa's and Hild's, and it is about somebody being there and not about who.",
+  "AND ERIK TELLS THEM BOTH THE WHOLE OF THE SHOULDER BEFORE THEY GO, including the name. GEST STOPS SPLICING FOR HALF A BEAT. Say that again. He hears it again, nods, finishes the splice, bites the yarn off, picks up his bag. Aye. Well. Then he gets in the boat.",
+  "LIVESTOCK PUT ON THE BOOKS after twenty-four weeks untracked: the cow calved and there is MILK for the first time ever, eleven ewes, two rams, four goats, a cow and calf, six pigs, eighteen chickens, three dogs. THIRTY-EIGHT HEAD AGAINST TWENTY-TWO, on half a hay stack, in a byre with twenty-seven stalls.",
+]
