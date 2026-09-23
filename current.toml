@@ -1,42 +1,42 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 28, day = 1, season = "autumn" }
+date = { year = 2, week = 29, day = 1, season = "autumn" }
 morale = 7
-mood = "Fat and unsettled at once. The store is 4285 after a wet week that dried nothing. Runa's boy lives, turned by Enna's hands, and the henbane is gone. Longpit 4 is under way. Three hay cuts stacked, the fire ring drowned, the tower standing. And a Hessa boat drifted in with its planks torn off and two men alive in it who will not say what did it, there is grain and cordage coming and milk for the first time ever, and thirty people watched the jarl stand in a five-hundred-year-old doorway and say this is our motherland. And a Hessa hull touched the bar in front of everybody, and Skelva sailed an hour early with her hand still wiping the sand, and the ember-wife and the interpreter are four days north until week twenty-nine."
+mood = "Fat and unsettled at once. The store is 4320 after two poor autumn weeks, and the jarl is angry at the sky. Bruni is gone north with the faering and the two Hessa, and a Kolvenn boat came looking for them and said a dead man's name on the sand. Runa's boy lives, turned by Enna's hands, and the henbane is gone. Longpit 4 is under way. Three hay cuts stacked, the fire ring drowned, the tower standing. And a Hessa boat drifted in with its planks torn off and two men alive in it who will not say what did it, there is grain and cordage coming and milk for the first time ever, and thirty people watched the jarl stand in a five-hundred-year-old doorway and say this is our motherland. And a Hessa hull touched the bar in front of everybody, and Skelva sailed an hour early with her hand still wiping the sand, and the ember-wife and the interpreter are four days north until week twenty-nine."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, and nobody outside. Byre against longpit 2's east gable and the warm end is fought over in jokes."
 clocks = [
   "W26 - a third hay cut if Aud wants it; the second is stacked.",
   "W30 - HILD DELIVERS, with no henbane in Haldvik, only willow bark. Births roll with advantage.",
   "to W33 - the peat walls must be dry before the autumn rains. About 200 m3 in hand, reckoned enough in W23; no more cutting planned.",
-  "W28 - the faering goes north with Bruni, Tavi and the silent man, HALVAR'S CREW, hugging the shore, a beach every night, nobody over deep water, AS FAR AS KOLVENN AND NOT A PACE FURTHER. Bruni goes home a few weeks early at his own choice, and brings back Ingra and Gest. The Widow's Promise wants finishing before he goes.",
-  "W28-34 - the salmon run. Twelve hands through the peak is worth nearly double six, and it falls in the same three weeks as the cull.",
-  "W29 - Ingra and Gest home.",
+  "W28 d1 - the faering went north with Halvar's crew, Bruni, Tavi and the silent man, as far as Kolvenn and not a pace further. Home with Ingra and Gest when the weather lets her.",
+  "W29-34 - the salmon run, on the first spate after W28 - none yet. Twelve hands through the peak is worth nearly double six, and it falls in the same three weeks as the cull.",
+  "W29-30 - Ingra and Gest home on the faering, weather allowing.",
   "W30 - the seal cull, bulls only, from seaward, ONE MORNING ONLY.",
   "W33 - autumn equinox and the autumn spates, the only weeks besides spring when the river floats a stick.",
   "W34 - Bruni's year was due to end; he leaves at W28. Leif and Steinn work under him on the Widow's Promise until then.",
   "W36 - after this nobody sails.",
-  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 4285.",
+  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 4320.",
   "by frost - 1000 kg of charcoal banked, three more clamps.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one.",
   "Y4 W14 to W39 - THE MASTER AND BRUNI, for 25 kg of worked iron, which does not exist and cannot be made without a bloomery.",
 ]
 
 [souls]
-total = 105
+total = 102
 of_15_or_more = 76
 women_of_15_or_more = 43
 of_12_to_14 = 3
 children_under_12 = 24
 veterans_of_real_fighting = 14
 dead = 14
-resident_strangers = "Bruni of Kolvenn, going home W28. TAVI, about twenty, under Haldvik's law and working for his food, and a SILENT OLDER MAN of about fifty, THE JARL'S CHARGE by Fenn's ruling - Hessa of Kolvenn off a wrecked boat Y2 W25 d3, both going home with Bruni at W28."
-away = "Ingra and Gest at Kolvenn until W29."
+resident_strangers = "None. Bruni, Tavi and the silent man went north on the faering Y2 W28 d1."
+away = "Ingra and Gest at Kolvenn. Halvar and three oarsmen on the faering, gone north Y2 W28 d1 with Bruni, Tavi and the silent man."
 born_here = "Eight. Three to women who were carrying at the landing, all delivered in Y1. Then KETIL Bjarnsson Y1 W20; THORA, daughter of Sigrid, Y1 W41; HERDIS'S DAUGHTER Y2 W14, still unnamed; BJARN, son of Ingunn and of Bjarn who drowned before he was born, Y2 W18; RUNA'S SON Y2 W27, not yet named."
-the_reconciliation = "108 sailed, 14 dead, 8 born here, plus Bruni, Tavi and the older man. That is 105. Haldvik's own are 102."
+the_reconciliation = "108 sailed, 14 dead, 8 born here. That is 102, and all of them Haldvik's own. Six of them are away north."
 
 [food]
-in_store_kg = 4285
+in_store_kg = 4320
 what_it_is = "Dried and smoked fish and seal are the bulk. Then about 1,050 kg of W25 eggs in ash, birds, greens and berries and seaweed and sprouted grain, rendered fat, about 520 l seal oil, AND MILK from the cow that calved. And from the W22 trade: 300 kg six-row barley, 200 kg dried peas, 80 kg rendered fat."
 sealed_and_not_food = "150 kg of the new barley held back as seed and Aud has it, 40 kg Hessa peas, 60 kg Haldvik peas. SEED. Eating it is theft from the colony, said by the jarl in those words."
 ale = "None."
@@ -58,7 +58,7 @@ barrels = "Five ships' casks, two coopered Hessa kegs from Y1, and four more keg
 hardwood = "Twelve squared lengths and two stem-knees traded W22, on top of six lengths and one knee given in Y1. It is two-metre stock and will not make a long post."
 tools = "THREE IVVEN KNIVES held back by Vigmar for the next visit. Anvil and full smith's kit. Six axes, four adzes, three augers, nine spades, and IRON WEDGES. Gear for three boats and two nets. AND A REINDEER-BONE HIDE SCRAPER, given with the Ivven hides on purpose, because you do not give a man skins and no way to work them."
 arms = "19 spears, 11 axes, 4 swords, 22 shields, 6 mail, 9 helms, 5 bows. Fourteen men who have been in a real fight. NO DEFENCE BUILT."
-boats = "Ottersnout and Widow's Promise on the sand in the bay, seagoing hulls and not fishing boats; the Ottersnout is sound again and the Widow's Promise is in hand. The Grey Mare is the Keel. Two ship's boats work the lines, tide-limited by the bar, and one of them is just back off a two-week repair. Hald's Coal at the strand. One faering. AND THE HESSA WRECK on the sand, W25 d3: faering-sized, mast gone, two starboard strakes torn off the frames."
+boats = "Ottersnout and Widow's Promise on the sand in the bay, seagoing hulls and not fishing boats; the Ottersnout is sound again and the Widow's Promise is in hand. The Grey Mare is the Keel. Two ship's boats work the lines, tide-limited by the bar, and one of them is just back off a two-week repair. Hald's Coal at the strand. One faering, GONE NORTH Y2 W28 d1. AND THE HESSA WRECK on the sand, W25 d3: faering-sized, mast gone, two starboard strakes torn off the frames."
 missing = "NO SAW AT ALL AND NO WAY TO MAKE ONE. No cooperage. No quern yet - Ormar has the bedstone, not the runner. No plough, though there are two ploughshares and nothing to pull them. No kiln. No boatwright who can loft a hull."
 
 [livestock]
@@ -78,7 +78,7 @@ fodder = "THREE CUTS. The first (W22) about half a stack, half of it sound; the 
 [health]
 carrying = "Hild, due about W30. And a third Enna will not name. RUNA DELIVERED A LIVING BOY Y2 W27 d3, turned by Enna; mother and child well."
 standing = "Runa is up and mending with a boy at the breast. Sigra's daughter is weeks mending after a bad tear and has been told once, privately, that she should not carry again. Herdis's daughter is well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
-henbane = "NONE. The last dose went into Runa Y2 W27 d2. Searched for W27 d6-d7 round the dung heaps, Nagholt and the moor edge and NOT FOUND ON THIS COAST so far. WILLOW BARK TEA from the withy beds instead - bitter, eases a fever and dulls a pain, far weaker than henbane, and plenty of it."
+henbane = "NONE. The last dose went into Runa Y2 W27 d2. Searched for W27 d6-d7 round the dung heaps, Nagholt and the moor edge and NOT FOUND ON THIS COAST so far. The search goes on by the jarl's word, and IF IT IS EVER FOUND IT IS GROWN IN A HERB GARDEN. WILLOW BARK TEA from the withy beds instead - bitter, eases a fever and dulls a pain, far weaker than henbane, and plenty of it."
 ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the green ration from W40 with pine tea twice a week, latrines downstream and used in the dark with no exceptions, combs and hot water, roof vents. Lye handwashing at every door by law, and soap."
 
 [work_split]
