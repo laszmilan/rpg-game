@@ -176,7 +176,7 @@ name = "Enna Softhand"
 w = 38
 loy = 8
 role = "midwife and healer"
-note = "Opened Aki's leg twice, once on a cliff top by torchlight, and says outright she got it wrong by letting it settle before she was sure. Took Ketil's arm at the shoulder and lost him. Honest about what she cannot fix, and watches how people walk. Works a birth for the week before it rather than on the day. Refuses the jarl in open council when it is a child's growth at stake and wins. Has a twist of henbane with ONE DOSE LEFT. Came off Ottersnout changed in Y1 W10 and has never said why. Hild is her second. Beat the coughing twice on separated messes, boiled cloths, fixed carriers and open vents. Will say a thing twice and unprompted when she can see a man is about to carry the wrong guilt for the rest of his life."
+note = "Opened Aki's leg twice, once on a cliff top by torchlight, and says outright she got it wrong by letting it settle before she was sure. Took Ketil's arm at the shoulder and lost him. Honest about what she cannot fix, and watches how people walk. Works a birth for the week before it rather than on the day. Refuses the jarl in open council when it is a child's growth at stake and wins. THE HENBANE IS GONE - the last dose went into Runa in Y2 W27, and none has been found on this coast; she boils willow bark instead and wants it known before Hild's birth, not after. Came off Ottersnout changed in Y1 W10 and has never said why. Hild is her second. Beat the coughing twice on separated messes, boiled cloths, fixed carriers and open vents. Will say a thing twice and unprompted when she can see a man is about to carry the wrong guilt for the rest of his life."
 
 [[settlement]]
 name = "Kelda"
@@ -251,7 +251,7 @@ note = "Said yes before the sentence was finished. Feeds both girls. THE TWO ARE
 name = "Runa"
 w = 26
 loy = 7
-role = "one of Sigra's thirteen. CARRYING, due about W27."
+role = "one of Sigra's thirteen. DELIVERED A LIVING BOY Y2 W27 d3, turned wrong and turned by Enna. The boy is not yet named."
 
 [[settlement]]
 name = "Leif"

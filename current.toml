@@ -1,43 +1,42 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 27, day = 1, season = "autumn" }
+date = { year = 2, week = 28, day = 1, season = "autumn" }
 morale = 7
-mood = "Fat and unsettled at once. The store is 4300 after the best drying week of the year, a ton of eggs in ash, three hay cuts stacked, the fire ring drowned, the tower standing. And a Hessa boat drifted in with its planks torn off and two men alive in it who will not say what did it, there is grain and cordage coming and milk for the first time ever, and thirty people watched the jarl stand in a five-hundred-year-old doorway and say this is our motherland. And a Hessa hull touched the bar in front of everybody, and Skelva sailed an hour early with her hand still wiping the sand, and the ember-wife and the interpreter are four days north until week twenty-nine."
+mood = "Fat and unsettled at once. The store is 4285 after a wet week that dried nothing. Runa's boy lives, turned by Enna's hands, and the henbane is gone. Longpit 4 is under way. Three hay cuts stacked, the fire ring drowned, the tower standing. And a Hessa boat drifted in with its planks torn off and two men alive in it who will not say what did it, there is grain and cordage coming and milk for the first time ever, and thirty people watched the jarl stand in a five-hundred-year-old doorway and say this is our motherland. And a Hessa hull touched the bar in front of everybody, and Skelva sailed an hour early with her hand still wiping the sand, and the ember-wife and the interpreter are four days north until week twenty-nine."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, and nobody outside. Byre against longpit 2's east gable and the warm end is fought over in jokes."
 clocks = [
   "W26 - a third hay cut if Aud wants it; the second is stacked.",
-  "W26-27 - the birds could take another trip; eggs are hard now and birds are the take. Not ordered.",
-  "W27 - Runa delivers. Two in the room.",
+  "W30 - HILD DELIVERS, with no henbane in Haldvik, only willow bark. Births roll with advantage.",
   "to W33 - the peat walls must be dry before the autumn rains. About 200 m3 in hand, reckoned enough in W23; no more cutting planned.",
   "W28 - the faering goes north with Bruni, Tavi and the silent man, HALVAR'S CREW, hugging the shore, a beach every night, nobody over deep water, AS FAR AS KOLVENN AND NOT A PACE FURTHER. Bruni goes home a few weeks early at his own choice, and brings back Ingra and Gest. The Widow's Promise wants finishing before he goes.",
   "W28-34 - the salmon run. Twelve hands through the peak is worth nearly double six, and it falls in the same three weeks as the cull.",
   "W29 - Ingra and Gest home.",
-  "W30 - the seal cull, bulls only, from seaward, ONE MORNING ONLY. AND HILD DELIVERS.",
+  "W30 - the seal cull, bulls only, from seaward, ONE MORNING ONLY.",
   "W33 - autumn equinox and the autumn spates, the only weeks besides spring when the river floats a stick.",
   "W34 - Bruni's year was due to end; he leaves at W28. Leif and Steinn work under him on the Widow's Promise until then.",
   "W36 - after this nobody sails.",
-  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 4300.",
+  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 4285.",
   "by frost - 1000 kg of charcoal banked, three more clamps.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one.",
   "Y4 W14 to W39 - THE MASTER AND BRUNI, for 25 kg of worked iron, which does not exist and cannot be made without a bloomery.",
 ]
 
 [souls]
-total = 104
+total = 105
 of_15_or_more = 76
 women_of_15_or_more = 43
 of_12_to_14 = 3
-children_under_12 = 23
+children_under_12 = 24
 veterans_of_real_fighting = 14
 dead = 14
 resident_strangers = "Bruni of Kolvenn, going home W28. TAVI, about twenty, under Haldvik's law and working for his food, and a SILENT OLDER MAN of about fifty, THE JARL'S CHARGE by Fenn's ruling - Hessa of Kolvenn off a wrecked boat Y2 W25 d3, both going home with Bruni at W28."
 away = "Ingra and Gest at Kolvenn until W29."
-born_here = "Seven. Three to women who were carrying at the landing, all delivered in Y1. Then KETIL Bjarnsson Y1 W20; THORA, daughter of Sigrid, Y1 W41; HERDIS'S DAUGHTER Y2 W14, still unnamed; BJARN, son of Ingunn and of Bjarn who drowned before he was born, Y2 W18."
-the_reconciliation = "108 sailed, 14 dead, 7 born here, plus Bruni, Tavi and the older man. That is 104. Haldvik's own are 101."
+born_here = "Eight. Three to women who were carrying at the landing, all delivered in Y1. Then KETIL Bjarnsson Y1 W20; THORA, daughter of Sigrid, Y1 W41; HERDIS'S DAUGHTER Y2 W14, still unnamed; BJARN, son of Ingunn and of Bjarn who drowned before he was born, Y2 W18; RUNA'S SON Y2 W27, not yet named."
+the_reconciliation = "108 sailed, 14 dead, 8 born here, plus Bruni, Tavi and the older man. That is 105. Haldvik's own are 102."
 
 [food]
-in_store_kg = 4300
+in_store_kg = 4285
 what_it_is = "Dried and smoked fish and seal are the bulk. Then about 1,050 kg of W25 eggs in ash, birds, greens and berries and seaweed and sprouted grain, rendered fat, about 520 l seal oil, AND MILK from the cow that calved. And from the W22 trade: 300 kg six-row barley, 200 kg dried peas, 80 kg rendered fat."
 sealed_and_not_food = "150 kg of the new barley held back as seed and Aud has it, 40 kg Hessa peas, 60 kg Haldvik peas. SEED. Eating it is theft from the colony, said by the jarl in those words."
 ale = "None."
@@ -77,9 +76,9 @@ the_problem = "THE HERD HAS NEARLY DOUBLED AND THE HAY HALF FAILED. Twenty-seven
 fodder = "THREE CUTS. The first (W22) about half a stack, half of it sound; the second (W24) stacked sound, raked into cocks ahead of the drizzle; the third (W26) lighter and sound, cured in a day. Near enough a winter for thirty-eight head with seaweed off the tide rocks to stretch it, as last winter."
 
 [health]
-carrying = "TWO NAMED. Runa, due about W27. Hild, due about W30. And a third Enna will not name."
-standing = "Sigra's daughter is weeks mending after a bad tear and has been told once, privately, that she should not carry again. Herdis's daughter is well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
-henbane = "ONE DOSE LEFT in the twist."
+carrying = "Hild, due about W30. And a third Enna will not name. RUNA DELIVERED A LIVING BOY Y2 W27 d3, turned by Enna; mother and child well."
+standing = "Runa is up and mending with a boy at the breast. Sigra's daughter is weeks mending after a bad tear and has been told once, privately, that she should not carry again. Herdis's daughter is well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
+henbane = "NONE. The last dose went into Runa Y2 W27 d2. Searched for W27 d6-d7 round the dung heaps, Nagholt and the moor edge and NOT FOUND ON THIS COAST so far. WILLOW BARK TEA from the withy beds instead - bitter, eases a fever and dulls a pain, far weaker than henbane, and plenty of it."
 ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the green ration from W40 with pine tea twice a week, latrines downstream and used in the dark with no exceptions, combs and hot water, roof vents. Lye handwashing at every door by law, and soap."
 
 [work_split]
@@ -99,7 +98,7 @@ constraint = "MATERIALS ARE NO LONGER THE CONSTRAINT AND HANDS ARE. 108 sticks o
 [[build_plan.queue]]
 what = "LONGPIT 4"
 needs = "about 100 sticks and 120-150 man-days of stone, both of which exist"
-target = "Y2, unscheduled"
+target = "STARTED Y2 W27 d3 with twenty hands: turf, stone, footings, about eighty man-days in of 350-400. Framing on dry days."
 why = "Thirty-four to a pit."
 
 [[build_plan.queue]]

@@ -900,3 +900,24 @@ events = [
   "THE WEEK: clear, warm, a steady breeze all seven days. The racks full and everything hung sound. A new strake on the Widow's Promise. Tavi carries what Bruni points at and eats like two men; the silent one watches the sea.",
   "D7, evening: HALVAR'S ANSWER FROM TAVI - north of Kolvenn, they were fishing north of it when it happened, and at the word what he got up and walked off. The faering goes as far as Kolvenn and not a pace further. ERIK: agreed. Bring them home, Halvar.",
 ]
+
+[[entry]]
+year = 2
+week = 27
+title = "RUNA'S BOY, AND THE LAST OF THE HENBANE"
+store = 4285
+income = 450
+consumed = 465
+events = [
+  "D1: council, short, damp and sour. Hjalti: the boats can work in still air but nothing landed will dry, so smoke first and salt second. Sigra: salt about 290, a wet week yes, three no. Ylva: nobody on wet basalt. Aud has nothing to ask for, and is surprised to say it. Ormar asks whether longpit 4 gets hands this autumn.",
+  "D1-D2: autumn comes in grey - still, wet, a fine rain that hangs. Nothing dries on the racks all week and the smokehouse runs day and night.",
+  "D2, afternoon: RUNA'S LABOUR BEGINS in the ward, Enna and Hild, two in the room. ERIK: I'd be surprised if there was anything for me to do but try not to look stupid. By dark the child is found turned wrong; THE LAST DOSE OF HENBANE goes into her at midnight. Sigra on the stone outside the door, where she sat for her daughter five weeks before.",
+  "D2: LONGPIT 4 GETS ITS HANDS - twenty from D3, turf, stone and footings in the wet, framing when it dries. Ormar's footing line strung by dark on D3.",
+  "D2, OUT OF THE FICTION: THE BIRTH RULE RESTORED. The player recalled that births were agreed to roll the oracle WITH ADVANTAGE, because a plain d6 is half bad and the settlement would die out; the rule had been lost in the file conversion. The committed single die (1) was kept and a second rolled in the open: [1,5] -> 5 = YES. Written into readme.toml mechanics.oracle.births.",
+  "D3, before dawn: A LIVING BOY. RUNA'S SON, turned by Enna's hands - and she will not say how that went. Runa worn out and bleeding no more than she should. ENNA: and the last of the henbane went at midnight, so there's none left for Hild. ERIK: thank the gods, I could not have taken another death. Sigra's thirteen tell the terrace the boy has Runa's temper.",
+  "D4: THE RAIN COMES PROPERLY, hard and steady out of the south-west through D4 and D5. The river a metre up and brown. THE FIRST SPATE OF THE AUTUMN - both cruives hold, pegged and weighted, and no salmon yet. ERIK TO ENNA, at the rain: it could not have rained like this before we poured water on the peat. ENNA: the gods watered it for free and we paid anyway, that sounds right.",
+  "D4: ENNA ON HENBANE. It grows where people have been - dung heaps, middens, the edges of old steadings. She has not seen one plant here, and nobody has looked round Nagholt or on the valley midden. If it is not on this coast she goes into Hild's birth with her hands and nothing else, and wants that known before and not after. ERIK: Solvi's foragers look, and Ylva too, once Enna has described it - sticky leaves, pale flowers veined with purple, a smell you don't forget.",
+  "D5: rain all day. Nobody works who can't. THE TAFL SET COMES OUT in longpit 2 and plays in relays until dark.",
+  "D6-D7: grey and still again. Ranulf walks the peat walls after the rain, by the standing order: the loose stack took it on the outer faces and shed most of it, sound. Longpit 4: turf stacked, stone carried, footings dug on the line, about eighty man-days in.",
+  "D6-D7: THE HENBANE SEARCH, oracle d6 in the open: 3 = NO, BUT. Solvi's foragers go round the dung heaps, the old burn at Nagholt and every scrap of disturbed ground on the shoulder; Ylva walks the edges of the moor. Not one plant. BUT Enna, hearing it, goes to the withy beds herself and comes back with an armful of willow: the bark boiled makes a bitter tea she has seen ease a fever and dull a pain. Weaker than henbane by a long way, and there is a great deal of it.",
+]
