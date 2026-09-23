@@ -74,6 +74,7 @@ the_shape_of_the_result = "THE GM NARRATES THE SHAPE OF THE RESULT. No second ro
 _ = "2. THE ORACLE, d6. For pure world questions where nobody is being tested. Weather, whether a thing comes, what an absent NPC did."
 results = { 1 = "No, and", 2 = "No", 3 = "No, but", 4 = "Yes, but", 5 = "Yes", 6 = "Yes, and" }
 advantage = "Advantage 2d6 take higher, disadvantage take lower."
+births = "BIRTHS ROLL WITH ADVANTAGE. Whether a birth goes well is an oracle question at 2d6 take higher, never a plain d6: a plain d6 is half bad, and at that rate the settlement dies out. Agreed with the player in an earlier session, lost in the conversion, restated Y2 W27 and written here. Enna's preparation, the ward and two in the room are already priced into the advantage; a known danger (narrow, turned, a mother told not to carry) can still be named and weighed out loud before the roll."
 summer_weather = "SUMMER WEATHER ROLLS WITH ADVANTAGE. W14-26, 2d6 take higher, every time, no exceptions and no other season modified. Set by the player in Y2 W22 after a run of foul summers."
 baseline = "THE ORACLE SHIFTS THE SEASONAL BASELINE, IT DOES NOT SET AN ABSOLUTE. A bad drying week in summer still dries fish; a good one in winter does not. Read every weather roll against what that week of that season normally gives."
 
