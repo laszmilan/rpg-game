@@ -80,6 +80,7 @@ baseline = "THE ORACLE SHIFTS THE SEASONAL BASELINE, IT DOES NOT SET AN ABSOLUTE
 
 [mechanics.random_lists]
 _ = "3. RANDOM LISTS. For which one and how many. The GM writes the list out BEFORE rolling and shows it."
+initiative = "THE ROLLS ADD TO PLAY, THEY DO NOT REPLACE IT. The GM may roll mid-week whenever something is genuinely uncertain, and may bring things to Erik unasked - an NPC with a problem, a thing noticed, a choice coming due. Said by the player in Y2 W29."
 entropy = "Entropy from the shell, never GM taste. Rolls and difficulties shown by default. Rolled unseen only where the roll itself would leak what Erik cannot know - is he lying, is something watching - and only the tells are narrated. Consented to."
 
 [setting]

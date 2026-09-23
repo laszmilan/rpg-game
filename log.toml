@@ -939,3 +939,22 @@ events = [
   "D4: ERIK TELLS THEM THE TRUTH through Aki's words and hands: two alive and gone home in a Haldvik boat three days since, one lost. At Tavi's name the helmsman shuts his eyes, and one of his crew sits down in the wet sand. Then he says ONE NAME slowly to the jarl's face, the Hessa way for their lost: SEPPI. ERIK: I did hear it. They may sleep one night and then go home - their kin will be waiting. They sleep on the sand by their hull; one sings something low and short after dark.",
   "D5: the Hessa go out on the marks at first light and turn north, the helmsman's hand up at the turning pair. They passed the faering somewhere on the way and nobody saw it.",
 ]
+
+[[entry]]
+year = 2
+week = 29
+title = "THE WHALE ON THE STRAND, AND NINETY KILOS OF SALT"
+store = 5055
+income = 1200
+consumed = 465
+events = [
+  "D1, council: A RUNNER FROM THE STRAND, soaked to the thighs, five kilometres without stopping: A WHALE ASHORE on the far shingle, dead, small, about six men long, fresh off the night tide - Hovard asks what the jarl wants, because it won't stay fresh. ERIK closes the council and goes at once: twenty off longpit 4, whose footings the rain has turned to soup, and whoever Sigra can spare, on foot, with two ship's boats round on the half tide carrying every pot, knife, axe and salt sack. His plan: go while it is fresh, let the gases out carefully, watch for smell and heat, strip it from the bone fast.",
+  "THE TEST, difficulty 6 (fresh, twenty-five hands, driftwood and pans and a boat at the strand; against: nothing dries, 290 kg of salt, the smokehouse five kilometres off, nobody here has ever flensed a whale): 2d12 [5,10], ONE HIT, MIXED.",
+  "D1-D3: THE WHALE. The belly cut goes too deep the first afternoon and the gut comes open with it; the stink knocks two men back and the hindquarter is fouled before it can be cleared, and goes into the sea on the ebb. Then they learn fast. Blubber off in slabs into the salt pans over driftwood, rendering two wet nights: ABOUT 350 LITRES OF OIL. The dark meat cut in strips - ONE RAFT, 150 KG, towed round by Hald's Coal to the smokehouse, and ABOUT 500 KG DRY-SALTED on the spot in pans, pits and the whale's own skin, as the seal was salted. About 350 kg lost to the gut and the damp. Skin and big bones stacked above the tideline.",
+  "D3: SIGRA WEIGHS THE SALT on the storehouse floor: NINETY KILOS. The right thing to do with it and she would do it again - but the salmon are starting and she has ninety kilos to put a run down with.",
+  "D3: THE BONES: jaw pieces for sledge runners, ribs to Arna for scrapers, and FENN picks out one ear bone the size of a fist before anyone else touches them and pockets it without a word.",
+  "D3: THE SEA'S SHARE, on the jarl's word and not hurried: a slab of blubber and a haunch of the good dark meat out past the tideline on the ebb with Ormegga's words said over them in the rain, and a strip of fat burned on the shingle for Skarn.",
+  "D3: THE SALT. The jarl would make it in clay pots; SIGRA: Herdis's pots are raw clay and go back to mud in the pan on a fire. Instead THE THREE STRAND PANS BURN THROUGH THE NIGHT, light to dark and dark to light, and Hovard gets three more hands to feed them - TEN ON THE STRAND.",
+  "D3: a few early salmon in the cruives before the rain. D3-D4 heavy rain, THE SPATE ON D4, and THE RUN COMES IN BEHIND IT: the cruives filling D5, building through D6-D7. Eaten fresh without limit, smoked first, salted with what there is.",
+  "OUT OF THE FICTION: the player: roll mid-week too, and bring things to Erik - the rolls add to play, not replace it. Written into readme.toml mechanics.random_lists.initiative.",
+]
