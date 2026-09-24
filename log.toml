@@ -989,3 +989,28 @@ events = [
   "D7, afternoon: ERIK'S ORDERS. HOLD 200 KG OF BARLEY SEED - the 180 in hand and twenty more off the harvest. MAKE THE QUERN - Ormar on the runner stone from W31, difficulty 6 set on the order (for: he dressed a good bedstone off the same band, and nothing presses until the grain is dry; against: he has never cut an eye or a socket), rolled when he is done. HARVEST WHEN AUD SAYS SO.",
   "THE WEEK: the salmon peak with twelve hands, about 300 kg; the lines about 175; the seal 400; foraging, snares, greens and the kitchen crops about 100. The store stands at 5590 against fifteen thousand by frost.",
 ]
+
+[[entry]]
+year = 2
+week = 31
+title = "THE FIRST FIELD, AND SMOKE TO THE NORTH-EAST"
+store = 5625
+income = 500
+consumed = 465
+events = [
+  "D1, council: AUD ON THE FIRST FIELD, rolled in the open: 1 = NO, AND - laid flat by the W29 rain and sprouting in the ear across most of it, mould where it lies flattest. Not seed. ERIK: ale from it, about last year's sixty litres, and the rest eaten; Aud brews. THE STANDING PRIORITY: cutting before construction, meat and fish, and eggs too, because greens are short and a crop needs no salt. Grain dries by the longpit hearths on peat, of which there is plenty.",
+  "D1, OUT OF THE FICTION: the player corrected the GM twice - the Y1 Long Night ale was Aud's sprouted grain, and the peat is far more than enough (last winter burned about 35 m3).",
+  "THE WEEK: raw and grey, soft rain out of the south-west, no gale. The racks dry little and the smokehouse carries the salmon.",
+  "D3, dry with a breeze: THE FIRST FIELD CUT. THE TEST, difficulty 6 (for: every hand the priority gives, a drying breeze, hearths to dry on, done once before; against: laid flat and sprouting, mould, one dry day and rain behind it). Ranges said before the roll: about 120 kg on a success, 80 mixed, 40 a failure. 2d12 [2,6], ONE HIT, MIXED. By dark about two thirds of it is off the ground; the flattest third is black and left. ABOUT 80 KG of sprouted grain spread on hides by the longpit hearths, turned twice a day. Aud takes about twenty for the ale.",
+  "D3: YLVA COUNTS THE REEF off the headland: the herd is back on the rock, fewer, and settled.",
+  "D4, noon: THE TOWER SEES SMOKE far to the north-east, low on the land beyond the north headland. Two or three fires.",
+  "D4: ERIK ON THE TOWER with Halvar. HALVAR: cooking fires, three in a row is not hiding - the deer folk, likely, but Ylva looks before anybody walks out with a knife to trade. ERIK: I said the same thing - Ylva is a good idea. ORDERED: the storehouse lookout scavenged, and the tower hooded and lined as the night and winter post.",
+  "D4, afternoon: YLVA AND OSSUR GO NORTH-EAST, nothing to trade, back by dark D5.",
+  "D5: in the rain, OSSUR CROSSES FRESH REINDEER SIGN coming down toward the coast. The fires are an Ivven camp. Oracle d6 in the open, do they come to Ylva where she sits: 4 = YES, BUT - they come and count her, BUT THE SCARRED MAN IS NOT WITH THIS BAND and nobody has a word of anybody's tongue. Hands only. They do not come in to Haldvik this week.",
+  "D5, dark: YLVA AND OSSUR HOME. Her report: two dozen or thirty, dogs, many deer, more sign coming toward the coast; looked at her like a seal on a rock; no scarred man, no words; a woman gave her a strip of dried meat and pointed north-east twice, where the herd is going. ERIK: harmless most likely, another band passing - and THREE MEN ON WATCH IN THREE ROTATIONS EVERY NIGHT until they are gone.",
+  "D6, dry with a breeze: the tower gets the storehouse hood, bench and lining, and the first night watch goes up it. The grain by the hearths is dry enough to keep. Aud's ale keg is set. Ormar has the runner roughed out and not yet bored.",
+  "D7: grey and soft again. No fire seen from the tower after D6 dusk; the smoke is further north-east or gone.",
+  "D7: ORMAR'S PLAN FOR THE RUNNER, asked by the jarl: peck the eye from both faces to meet at a narrow waist, a slot under for the bar, a handle hole at the rim; Brek owes him a point and a bar; a week if the stone is kind, two if not, and if it cracks he starts again and says so the same day.",
+  "D7: BREK ON METAL. No copper, no tin, not a scrap; the only brass seen here is Osvi's case and the tideline fitting, both up from the south-west by the same road as the Hessa iron. ERIK: we trade for it then. Charcoal about 350 with a clamp burning; he and Hafli run the forge every day once the fish is done. ERIK: three pans and two clamps at the strand at once - ten are enough.",
+  "THE WEEK: the salmon peak in the wet, about 250 kg, the smokehouse carrying it; the lines about 120; the first field about 60 kg eaten and twenty to the ale; foraging, snares and greens about 70. Store 5625.",
+]

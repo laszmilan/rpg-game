@@ -80,7 +80,7 @@ baseline = "THE ORACLE SHIFTS THE SEASONAL BASELINE, IT DOES NOT SET AN ABSOLUTE
 
 [mechanics.random_lists]
 _ = "3. RANDOM LISTS. For which one and how many. The GM writes the list out BEFORE rolling and shows it."
-initiative = "THE ROLLS ADD TO PLAY, THEY DO NOT REPLACE IT. The GM may roll mid-week whenever something is genuinely uncertain, and may bring things to Erik unasked - an NPC with a problem, a thing noticed, a choice coming due. Said by the player in Y2 W29."
+initiative = "THE ROLLS ADD TO PLAY, THEY DO NOT REPLACE IT. The GM may roll mid-week whenever something is genuinely uncertain, and may bring things to Erik unasked - an NPC with a problem, a thing noticed, a choice coming due. Said by the player in Y2 W29. AND CLARIFIED Y2 W31: FREEFORM, NOT A QUOTA. There is no fixed second event mid-week. Good and bad things happen as the fiction demands, and good and bad people go about their own doings on their own agendas, seen or unseen, whenever it follows from what is established."
 entropy = "Entropy from the shell, never GM taste. Rolls and difficulties shown by default. Rolled unseen only where the roll itself would leak what Erik cannot know - is he lying, is something watching - and only the tells are narrated. Consented to."
 
 [setting]
@@ -174,6 +174,7 @@ the_custom = "Two in the room at any birth or death. It is about somebody being 
 the_units = "The ledger runs in PRESERVED-EQUIVALENT KG. Eaten is about 1.5 kg a head a day, mixed wet and dry, averaged over everyone. Dried fish and seal reconstitute about 1:3, so half a kilo off the shelf is about 1.5 kg on the plate, plus oil, greens and shellfish. STORE DRAW at full ration is 0.65 kg a head a day. INCOME IS REPORTED GROSS - everything that came in, whether it was shelved or eaten the same day."
 the_standing_order = "SALT, SMOKE, DRY THE REST. Smoke does not care about still air and drying does, so a dead-air week goes to the smokehouse and not to the salt barrel. This line must be counted every week."
 how_it_is_caught = "Long-lines off two ship's boats, the strand shingle lines, the racks, Sigra's stack, the weir in season, the cliffs in season. THE WINTER FISHERY is cod inside the bar in cold water - small boat, half a tide, four hundred paces off the beach - but the cod follow the herring out and are gone from about W37, and back on the offshore bank about W12."
+the_harvest_first = "THE JARL'S STANDING PRIORITY, Y2 W31 d1: CUTTING COMES FIRST - barley and the kitchen crops before construction, meat and fish, because greens are what they are short of and a crop needs no salt. EGGS ARE A PRIORITY for the same reason. Grain that will not dry outside is dried by the longpit hearths on peat."
 the_ceiling = "Weather. A good drying week with twenty-five hands hangs five or six hundred kilos sound; a still wet week hangs almost none and what is on the rail is at risk. Salting costs about 100 kg of salt per 500 of fish."
 
 [practice.building]
