@@ -1066,7 +1066,21 @@ events = [
 [[entry]]
 year = 2
 week = 34
-title = "THE SECOND FIELD"
+title = "THE SECOND FIELD, AND A MARK NOT TAUGHT"
+store = 5765
+income = 420
+consumed = 400
 events = [
   "D1, dawn: AUD WALKS THE SECOND FIELD again. Oracle d6 in the open, is it ripe enough to cut: 4 = YES, BUT - ripe in the upper ears, BUT LIGHT AND THIN, as she warned in W13, and it wants cutting on the first dry days.",
+  "D1: ERIK: good - there is nothing but food to work on anyway. Free hands, if by any wonder there are any, cut stone in the quarry. He asks after the millstone, and whether the forge can make a saw for spring when it has nothing to do.",
+  "D1: BREK - he cannot make a saw, a saw is a plate; he can beat the sprung one from the turf flat, reset and sharpen it, a week of forge time, and it will never cut as it did. ERIK: he wants it - not for driftwood, for construction.",
+  "D1-D2: cold and grey, showers blowing through, the first real bite at night.",
+  "D3-D4, dry and breezy: THE SECOND FIELD CUT. THE TEST, difficulty 5 (for: ripe, two dry breezy days, every hand, the hearths if wanted, done once already; against: thin and light, frost at night). Ranges said before the roll: about 180 kg on a success, 130 mixed, 70 a failure. 2d12 [12,12], TWO HITS, SUCCESS. Every ear off the ground in two days and dry in the wind on hides by the second dusk: ABOUT 180 KG OF SOUND BARLEY, the first real grain Haldvik has grown. TWENTY TO THE SEED STORE, which makes the jarl's two hundred.",
+  "D5: ORMAR'S RUNNER. THE TEST, difficulty 6 as set in W30: 2d12 [2,11], ONE HIT, MIXED. The two halves of the eye met a finger off true. The runner turns with a lurch until Ormar shims it with a leather wad, and it grinds coarse; Brek's point is worn to a stub. BUT IT GRINDS. Haldvik has a quern.",
+  "D6, evening: FENN on Tova - Vigmar teaches her the strokes, that they are ours only older, the boundary words and the house-names, said back until right. ONE HE WILL NOT TEACH: not while I am alive, and after that it is yours and Fenn's to decide. Fenn does not know which. A mark in our strokes a man will not say: there is only one word we do not say; and a man who says after I am dead is making a will. FENN'S RULING, asked: knowing it is no crime; saying it is worse than oathbreaking, which is cold-tongue; teaching it is saying it - so if he ever gives it to her Fenn names him and asks the Standing for cold-tongue. ERIK: or Vigmar knows she is clever, and makes himself close and trusted enough that the day he passes it on nobody hears of it. FENN: the ugly shape of it; she tells him everything and he will hear the silence first, and come to the jarl before the Standing. ERIK: overconfidence is no virtue - she is not stupid and will fill the silence with other things; keep your one good eye open.",
+  "OUT OF THE FICTION, W34 d6: the player asked for the game A NOTCH HARSHER, about ten per cent grimmer; written into readme deal.grim_when_needed.",
+  "D6, night: ERIK AT AKI'S BENCH. Would he learn the old marks - Vigmar gives him nothing interesting, and that sounds like a challenge. AKI: Vigmar never offered; Tova yes, him no; he asked once in the spring and was told the new marks were work enough for one head. WHO CAN WRITE: six who read a stick and cut one back unaided - Aki, Vigmar, Tova, Kelda, Gudny and Arna - and five or six more who can sound out a name and a number and will have lost half by spring, because the summer ate it. ERIK: ask Vigmar again - if he has time to teach a girl he has time for you - and do not say the tip came from me. AKI: he will guess anyway; you want me in the room when he teaches her, and next time tell me why. ERIK: partly; the larger part is that he does not fully trust what Vigmar reads but would trust what Aki reads, and if something happens to Vigmar he wants someone who knows more than fish, and the girl cannot take his place. AKI: then he learns them and reads them back to the jarl himself; and if something happens, let it not be before spring - he needs a winter at least. ERIK: if something happens, it will not be by my hands.",
+  "D6, late: Erik does not know any more whether he would kill Vigmar if he could; he is sorrier for Kelda than for anyone in it. Written into people.toml.",
+  "D7: grey, showers, quiet.",
+  "THE WEEK: the second field's barley, about 160 kg to eat; the lines about 150 in showers and two days lost to the cutting; the tide rocks, berries, kale and greens about 110. A SECOND CLAMP HOME at the strand. Store 5765 on the fifth cut.",
 ]
