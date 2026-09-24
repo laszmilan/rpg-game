@@ -1,17 +1,16 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 33, day = 1, season = "autumn" }
+date = { year = 2, week = 34, day = 1, season = "autumn" }
 morale = 7
-mood = "Tight and wet. A fifth off the ration and five weeks of rain, and the jarl said the barley, the salt and the twelve weeks out loud. The blow came and nothing was lost. The deer folk left a haunch at the door and the gulls and a dog ate the answer. The second field stands green and will not ripen. Nobody is hungry yet and everybody is counting."
+mood = "Cold, wet and grinding. Everybody on food and the store creeping up - 5745 on the fifth cut. The salmon are done. Two dry days in the equinox week filled every rack. Longpit 4 is next year and the jarl said so out loud. The second field is ripe at last and thin."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, and nobody outside. Byre against longpit 2's east gable and the warm end is fought over in jokes."
 clocks = [
-  "W33-34 - THE BARLEY. THE FIRST FIELD IS IN - about 80 kg of sprouted grain, dried by the hearths, twenty of it to Aud's ale. THE SECOND FIELD is green and heavy, held back by five wet weeks, and stood through the W32 blow. Aud's call, in the salmon peak. The quern is Ormar's from W31.",
-  "to W33 - the peat walls must be dry before the autumn rains. About 200 m3 in hand, reckoned enough in W23; no more cutting planned.",
-  "W29-34 - THE SALMON RUN, started behind the W29 d4 spate, peaking W30-32. Twelve hands through the peak is worth nearly double six.",
-  "W33 - autumn equinox and the autumn spates, the only weeks besides spring when the river floats a stick.",
-  "W36 - after this nobody sails.",
-  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 5595.",
+  "W33-34 - THE BARLEY. THE FIRST FIELD IS IN - about 80 kg of sprouted grain, dried by the hearths, twenty of it to Aud's ale. THE SECOND FIELD IS RIPE IN THE UPPER EARS AND LIGHT AND THIN (W34 d1) - to be cut on the first dry days. Aud's call, in the salmon peak. The quern is Ormar's from W31.",
+  "PEAT - about 200 m3, far more than a winter needs (last winter burned about 35). Walls walked after every rain.",
+  "W35-36 - ORMAR'S RULE: every post hole wanted before the thaw is dug now, lined, stuffed and turfed, and proved in spring.",
+    "W36 - after this nobody sails.",
+  "W38 - first frost. FIFTEEN THOUSAND KILOS wanted. Store 5745.",
   "by frost - 1000 kg of charcoal banked, three more clamps.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one.",
   "Y4 W14 to W39 - THE MASTER AND BRUNI, for 25 kg of worked iron, which does not exist and cannot be made without a bloomery.",
@@ -31,7 +30,7 @@ born_here = "Nine. Three to women who were carrying at the landing, all delivere
 the_reconciliation = "108 sailed, 14 dead, 9 born here. That is 103, and all of them Haldvik's own. All of them home."
 
 [food]
-in_store_kg = 5595
+in_store_kg = 5745
 what_it_is = "Dried and smoked fish and seal are the bulk. Then about 500 kg of salted whale meat and 150 kg smoked, about 1,050 kg of W25 eggs in ash, birds, greens and berries and seaweed and sprouted grain, rendered fat, ABOUT 400 KG OF SALTED SEAL off the W30 cull, about 680 l seal oil and ABOUT 350 L OF WHALE OIL, AND MILK from the cow that calved. And from the W22 trade: 300 kg six-row barley, 200 kg dried peas, 80 kg rendered fat."
 sealed_and_not_food = "150 kg of the W22 barley held back as seed and Aud has it, AND VASK'S 30 KG given W30 d3. THE JARL HOLDS 200 KG OF BARLEY SEED (W30 d7) - 180 in hand and twenty more off the harvest. 40 kg Hessa peas, 60 kg Haldvik peas. SEED. Eating it is theft from the colony, said by the jarl in those words."
 ale = "None."
@@ -39,7 +38,7 @@ the_ration = "A FIFTH CUT FROM Y2 W32 d1, brought by the jarl himself and named 
 the_target = "FIFTEEN THOUSAND KILOS BY FIRST FROST. Aki's breakdown: cod five, salmon two and a half with the weir standing and twelve hands, seal two, birds and eggs three, everything else two. Fifteen and a half, and every line assumes nothing goes wrong. IT IS NOT THE FISH, IT IS THE HANDS."
 
 [resources]
-salt = "ABOUT 140 KG at W33 d1. THE THREE STRAND PANS BURN DAY AND NIGHT from W29 d3 with ten on the strand - about 18 kg a day at best. Salting takes about 100 kg per 500 of fish, so the salmon peak goes to fresh eating and the smokehouse first."
+salt = "ABOUT 180 KG at W34 d1. THE THREE STRAND PANS BURN DAY AND NIGHT from W29 d3 with ten on the strand - about 18 kg a day at best. Salting takes about 100 kg per 500 of fish, so the salmon peak goes to fresh eating and the smokehouse first."
 charcoal = "ABOUT 530 KG at W33 d1, one clamp home W32 and two burning with the pans, plus about 50 kg lifted off the Nagholt floor. TARGET 1000 BY FROST - three more clamps - and the forge then runs all winter down to 200, which has never been done here because they were always too poor in coal to burn it when nobody was watching."
 peat = "About 200 m3 once dry: 95 dry and stacked, about 35 of last year's sound and drying, and about 70 cut in W21, the walls restacked loose and open in W23. RECKONED ENOUGH in W23 on last winter's burn, and no more cutting planned. The danger is wet, not quantity - it must be dry before the autumn rains at about W33."
 iron = "About 10 kg of bar. PLUS 3-4 kg of corroded lumps off the Nagholt floor, of which Brek reckons half comes back under the hammer, so call it 2 kg usable. PLUS one fist-sized bloom of Hafli's. PLUS TWO CRACKED SAW PLATES, which are better hard steel than anything in the bar. THE Y4 BOATWRIGHT PRICE IS 25 KG OF WORKED IRON, which wants about 33 kg of bar. IT CANNOT BE PAID OUT OF WHAT EXISTS."
@@ -86,6 +85,7 @@ snares = 3
 strand = 7
 surge = "Twenty, and Sigra gets them whenever construction can spare it, because ten men on the lines land more than fifteen pairs of hands can hang."
 peat_watch = "Standing order from Y2 W23 d4: every week on d1 one person spends the day walking and checking the peat walls, and the walls are checked again after every rain. The fire ring is still walked every morning with a bare palm."
+orders_W33 = "EVERYONE ON FOOD - fish, forage, the kitchen crops, whatever food wants - while Arna's clothes, the salt and the charcoal keep coming. THE STRAND CLOSES WHEN HOVARD'S CREW JUDGE THEY CAN STAY NO LONGER. The jarl works where he is useful."
 council_W30 = "Most hands on the food - the salmon peak, the lines, the racks, the salt. Any hands free dig longpit 4's footings. The seal cull is done. THE HARVEST WHEN AUD SAYS SO, by the jarl's word W30 d7. W31 d1: THE FIRST FIELD TO ALE, about last year's sixty litres, and the rest eaten; Aud brews. THE CUTTING TAKES HANDS BEFORE CONSTRUCTION, MEAT OR FISH, and the grain dries by the longpit hearths."
 standing_work = "Berries and the autumn bedding cut sit with foraging under Solvi as standing work, not as separate orders. Children help where they can, on everything. Fresh fish is eaten without limit, because it costs nothing that would have been kept."
 
@@ -95,7 +95,7 @@ constraint = "MATERIALS ARE NO LONGER THE CONSTRAINT AND HANDS ARE. 108 sticks o
 [[build_plan.queue]]
 what = "LONGPIT 4"
 needs = "about 100 sticks and 120-150 man-days of stone, both of which exist"
-target = "STARTED Y2 W27 d3: turf, stone, footings, about eighty man-days in of 350-400. FREE HANDS ONLY from W30 d1, food first. The jarl has accepted it may not stand by frost - we will see."
+target = "STARTED Y2 W27 d3: turf, stone, footings, about eighty man-days in of 350-400. NEXT YEAR, by the jarl's word W33 d1: no reason to lie to ourselves. Its hands go to food."
 why = "Thirty-four to a pit."
 
 [[build_plan.queue]]
@@ -123,7 +123,7 @@ target = "cordage Y3 W14, boatwrights Y4"
 why = "Osvi declared her afloat at the Turning and Erik swore at the burial ground that she will sail again before he joins his father."
 
 [buildings.the_bay]
-"the tower" = "Finished Y2 W24 d2. Timber, 22 sticks, on the four holes Ormar proved for a fortnight. A man on the platform every daylight hour sees past the north headland and over the shoulder to the moor edge. ORDERED W31 d4: THE STOREHOUSE LOOKOUT SCAVENGED FOR IT - hood, bench and lining up to the platform, and the tower becomes the night and winter post too. Done W31 d6. The three-man night watch set W31 d5 while the Ivven were near stood down at W32's end, the band gone north-east."
+"the tower" = "Finished Y2 W24 d2. Timber, 22 sticks, on the four holes Ormar proved for a fortnight. A man on the platform every daylight hour sees past the north headland and over the shoulder to the moor edge. ORDERED W31 d4: THE STOREHOUSE LOOKOUT SCAVENGED FOR IT - hood, bench and lining up to the platform, and the tower becomes the night and winter post too. Done W31 d6. THE NIGHT WATCH IS ONE MAN ON THE TOWER IN THREE ROTATIONS, every night, standing. The extra three-man watch set W31 d5 while the Ivven were near stood down at W32's end."
 "the hearth" = "The centre of everything. NO HEARTH IN HALDVIK GOES FULLY COLD, the Turning excepted, and then it is sat."
 "longpit 1" = "12 x 8 m aisled, turf and stone walls, driftwood frame, turf roof, roof vent over the hearth line. Sleeps 25, 34 tight. Holds the main hearth, so everyone passes through it."
 "longpit 2" = "Same build. Byre against its east gable."

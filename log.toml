@@ -1038,6 +1038,35 @@ events = [
   "D5, dusk: a side of smoked salmon and a lump of seal fat left on the grass where the haunch lay. The haunch goes to the fresh line, mothers and children first, the hide to Arna.",
   "D6, dawn: oracle d6 in the open, is the gift gone to the Ivven by morning: 1 = NO, AND. THE GULLS HAVE THE SALMON in rags across the grass, and one of Haldvik's own dogs comes up the terrace with seal fat on its muzzle. No figure seen. NO SMOKE FROM THE TOWER SINCE D5 - the band has gone on north-east.",
   "D6-D7: rain and more rain. The second field stands, green and heavy, and does not ripen. Ormar's eye is a hand deep from the top face.",
-  "D7: ERIK smiles at the dog - of course it had to be eaten. Barley when Aud says so. THE NIGHT WATCH stands down at the week's end on the jarl's own condition, until they are gone: no smoke since D5.",
+  "D7: ERIK smiles at the dog - of course it had to be eaten. Barley when Aud says so. THE EXTRA THREE-MAN WATCH stands down at the week's end on the jarl's own condition, until they are gone: no smoke since D5. The standing night watch - one man on the tower in three rotations - goes on.",
   "THE WEEK: the last peak week of the salmon in a high river, about 250 kg into the smokehouse; the lines about 60 on three days out; the haunch about 15; foraging and greens about 55, less the salmon side and fat on the grass. ONE CLAMP HOME at the strand, about 180 kg of charcoal. Store 5595 on the fifth cut.",
+]
+
+[[entry]]
+year = 2
+week = 33
+title = "THE EQUINOX, AND A STRAKE BELOW THE STONES"
+store = 5745
+income = 550
+consumed = 400
+events = [
+  "D1, dawn: AUD WALKS THE SECOND FIELD. Oracle d6 in the open, is it ripe and sound: 3 = NO, BUT. Not ripe - five wet weeks have held it back - BUT SOUND: standing, filling, no sprouting, because green grain does not sprout.",
+  "D1: AUD - it wants a week of anything like sun; if it is not ripe by W36 she cuts it green and the byre eats what they cannot. ERIK: then we hope for sun. The standing night watch, one man in three rotations, goes on.",
+  "D1: ERIK: LONGPIT 4 IS NEXT YEAR, no reason to lie to ourselves. Everyone on food; Arna's clothes, the salt and the charcoal keep coming; the strand closes when its crew judge they can stay no longer. He works where he is useful.",
+  "D2-D3: the equinox rain and the autumn spate, the river over the lower cruive stakes and holding. The last of the salmon run into the traps. Everybody who is not on the boats or the smokehouse is on the tide rocks and the berry slopes.",
+  "D4-D5: DRY UNDER A COLD NORTH-WESTERLY. Every rack full both days and all of it hangs sound; the boats out both days with longpit 4's twenty on the gutting line. The second field rattles in the wind and does not turn gold.",
+  "D6, evening: KELDA brings Erik a length of Hessa gunwale strake off the south tideline below the burial stones on the big equinox ebb - two thole holes worn round, tar soft, the break pale with long sharp splinters: fresh, weeks at most, bent until it gave. Erik asks whether she promised Solvi not to go near the stones. KELDA: not past them - below them, on the ebb and not a making tide, and she had Grip. ERIK: too clever for your own sake. It is fresh, same as the others. KELDA: will he lay it out at council and say he found it - it is so nobody asks her things, and she likes it being theirs. ERIK: he shows it at the W34 d1 council.",
+  "D7, the tide rocks with Solvi: Kelda enjoys it too much, says Erik, and will come home with a broken arm; SOLVI: good, the first winter she enjoyed nothing, and Enna sets arms. ON VIGMAR: Erik does not trust him but he has never done anything to Erik; SOLVI: with you, no - that is the point of him. Nothing she can put a finger on since spring. He teaches Tova the old marks in the evenings as well as Aki; the tally is not what he is making spare, the old marks are, and that is the stones, going into Fenn's apprentice. And if he thought it right and necessary once on a ship, he will think so again in a hungry winter with beds in Enna's ward. Erik will ask Fenn tonight; Solvi would ask Tova sideways in a day or two; her condition stands - act on nothing until he has looked himself. ERIK: he will look where he can, when he can, and tell her before he does anything, if he can. SOLVI: three ifs, and she will take them.",
+  "D7, night: FENN at the main hearth - Tova has said she learns the old marks off the stones; he lets it go on because one man carrying a thing is how it dies, and the law says so; what the marks say he cannot tell, nobody can read them but Vigmar and now her, a little. (OUT OF THE FICTION: a first version had Fenn name a thing about the eleventh cairn nobody had told him; struck at the player's word.) ERIK: knowledge is a curse and a blessing - ask her, if she will tell, what Vigmar is teaching her.",
+  "D7, night: ERIK TELLS SOLVI that Fenn will ask Tova, who is easier with him, and that she should not - two asking would be noticed.",
+  "D7, night: FENN will ask Tova what she is learning, which a teacher is entitled to, and will not ask her to carry tales; give him a few days. ERIK: that is all he is asking.",
+  "THE WEEK: the tail of the salmon, about 150; the lines about 250, most of it the two dry days with twenty extra on the gutting line; the tide rocks, berries and greens with every free hand, about 150. Store 5745 on the fifth cut.",
+]
+
+[[entry]]
+year = 2
+week = 34
+title = "THE SECOND FIELD"
+events = [
+  "D1, dawn: AUD WALKS THE SECOND FIELD again. Oracle d6 in the open, is it ripe enough to cut: 4 = YES, BUT - ripe in the upper ears, BUT LIGHT AND THIN, as she warned in W13, and it wants cutting on the first dry days.",
 ]
