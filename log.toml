@@ -958,3 +958,34 @@ events = [
   "D3: a few early salmon in the cruives before the rain. D3-D4 heavy rain, THE SPATE ON D4, and THE RUN COMES IN BEHIND IT: the cruives filling D5, building through D6-D7. Eaten fresh without limit, smoked first, salted with what there is.",
   "OUT OF THE FICTION: the player: roll mid-week too, and bring things to Erik - the rolls add to play, not replace it. Written into readme.toml mechanics.random_lists.initiative.",
 ]
+
+[[entry]]
+year = 2
+week = 30
+title = "THREE SENTENCES FROM KOLVENN, HILD'S GIRL, AND TEN BULLS"
+store = 5590
+income = 1000
+consumed = 465
+events = [
+  "OUT OF THE FICTION: the chat that played D1-D3 was lost before upkeep. D1-D3 are rebuilt here from the player's memory and the week's committed state, in a new session. Play resumes on the evening of D3. Store, income and consumption are entered at upkeep.",
+  "D1, council: THE SEAL CULL cut to as many bulls as can be eaten and preserved - about ten. Most hands go on the food: the salmon, the lines, the racks, the salt. Any hands free dig longpit 4's footings. ERIK accepts that longpit 4 may not stand by frost, and says they will see.",
+  "D1-D3: cool and clear, moving air, frost at night, the racks drying. The salmon peak is on.",
+  "D1-D3: SOLVI FINDS HENBANE, trampled into the ground, and some seed with it. ENNA looks it over and says only: it will do.",
+  "D3: THE FAERING COMES HOME with a Kolvenn hull beside her, the grey-bearded helmsman of W28 at the tiller and TAVI'S MOTHER in the bow. Vask's thanks for two men kept alive and sent home: TWO COOPERED KEGS, A SMALL BARREL OF BIRCH TAR AND A SACK OF BARLEY, given freely - earnest, not trade. Guest-right for the night. Halvar and his three, Ingra and Gest, all well.",
+  "D3: GEST: at Kolvenn they said Seppi's name once, and never again.",
+  "D3, INGRA TO ERIK ALONE. She found the woman she went north for: AILI, young, who has the craft. Aili drew her aside and said it only that way, and in few words, because the Hessa do not talk about these things: IT WAITS FOR GUEST-RIGHT. YOU BROUGHT IT WITH YOU. IT WAS NOT HERE BEFORE. ERIK: that does not fit the prison reading of the hollow. INGRA agrees it does not. She sees a door, not the moor.",
+  "D3, evening: Erik tells Ingra that Solvi found henbane. On the second in Hild's room: ask Enna or Hild, not me - but somebody should help. INGRA: fair, it is Hild's room; she will ask, and if either would rather somebody else she will carry water outside the door.",
+  "D4: THE KOLVENN HULL goes out on the marks at first light and turns north.",
+  "D4: VIGMAR WEIGHS VASK'S BARLEY in public. List shown before the roll, d6: 30/35/40/45/50/55 kg. Rolled 1: THIRTY KILOS. Sealed with the store until the jarl says store or seed.",
+  "D4: INGRA ASKS HILD. Oracle d6 in the open, does Hild want her in the room: 5 = YES. Enna puts her to the cloths.",
+  "D4 and D6: clear and cold, moving air, frost at night, the racks drying, the cruives full every tide. D5: A SQUALL OUT OF THE WEST and rain all day - racks stripped, boats in, one day lost. The cruives hold, and the peat walls, walked after the rain, shed it.",
+  "D6: HILD'S LABOUR BEGINS, the day rolled in the open on D3 (d4 over D4-D7: 3). Enna and Ingra in the ward.",
+  "D6, evening: YLVA READS THE SKY - hard frost and flat water at dawn. D7 is the cull morning.",
+  "D6, evening: ERIK TO YLVA: you have the hands, plan it out - like last year, no heroics, no bull is worth a life. And Vask's thirty kilos go to the seed store.",
+  "D6, night: HILD'S BIRTH, oracle with advantage in the open: [6,4] -> 6 = YES, AND. Quick and clean, THE HENBANE STAYS IN THE BAG, and the child is at the breast inside the hour. A GIRL (d2 in the open: 1 = girl, 2 = boy; rolled 1), born a little before midnight. Enna and Ingra in the room. The ninth born here.",
+  "D7, hard frost and flat water: THE SEAL CULL, Ylva's plan and last year's method - three boats round the north shoulder in the dark, oars muffled, in from seaward on the last of the ebb. THE TEST, difficulty 4 (for: the same method went clean last year, Ylva on the rock, flat water, ten bulls and not twenty; against: a bull seal kills in knee-deep water and nobody forgets it): 2d12 [10,11], TWO HITS, SUCCESS. Fenn's first blood over the side off Ylva's thumb. TEN BULLS, spears and axes, close, on wet rock, done by mid-morning, Ylva pointing. NOBODY HURT. The eleventh out past the reef whole into deep water for Ormegga, and Skarn's share burned at the tideline in the afternoon. About 400 kg of meat dry-salted the same afternoon (about 80 kg of salt), about 160 litres of oil, ten skins.",
+  "OUT OF THE FICTION: THE BARLEY HARVEST WAS NEVER PUT ON THE CLOCKS. The fields went in W12 and W13 and last year's crop stood ready in W31, so it comes due W30-32. Added to current.toml at W30 d7.",
+  "OUT OF THE FICTION: THE KITCHEN CROPS. The player: the fast growers went in this spring the same as last year - kale, peas, turnip. The chronicle never recorded it; written into current.toml at W30 d7, amounts unknown.",
+  "D7, afternoon: ERIK'S ORDERS. HOLD 200 KG OF BARLEY SEED - the 180 in hand and twenty more off the harvest. MAKE THE QUERN - Ormar on the runner stone from W31, difficulty 6 set on the order (for: he dressed a good bedstone off the same band, and nothing presses until the grain is dry; against: he has never cut an eye or a socket), rolled when he is done. HARVEST WHEN AUD SAYS SO.",
+  "THE WEEK: the salmon peak with twelve hands, about 300 kg; the lines about 175; the seal 400; foraging, snares, greens and the kitchen crops about 100. The store stands at 5590 against fifteen thousand by frost.",
+]
