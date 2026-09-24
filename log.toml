@@ -1014,3 +1014,30 @@ events = [
   "D7: BREK ON METAL. No copper, no tin, not a scrap; the only brass seen here is Osvi's case and the tideline fitting, both up from the south-west by the same road as the Hessa iron. ERIK: we trade for it then. Charcoal about 350 with a clamp burning; he and Hafli run the forge every day once the fish is done. ERIK: three pans and two clamps at the strand at once - ten are enough.",
   "THE WEEK: the salmon peak in the wet, about 250 kg, the smokehouse carrying it; the lines about 120; the first field about 60 kg eaten and twenty to the ale; foraging, snares and greens about 70. Store 5625.",
 ]
+
+[[entry]]
+year = 2
+week = 32
+title = "A FIFTH OFF, AND THE BLOW"
+store = 5595
+income = 370
+consumed = 400
+events = [
+  "D1, council, rain: HALVAR - it blows tomorrow and the day after, hard out of the south-west; boats up tonight, racks bare, and Osvi sounds the bar before a keel goes near it.",
+  "D1: THE RATION CUT. ERIK, looking at the reeve: a fifth off, from today, same carve-outs as last year - not the children, not the women carrying. It costs him to say it.",
+  "D1: VIGMAR asks the other half - Hild and Runa are nursing, not carrying. Asked whether nursing mothers were spared last winter, VIGMAR: they were not; the stick said carrying and he weighed what the stick said, and Sigrid fed Thora on a fifth less from W41 to the spring.",
+  "D1: ENNA: not an issue last winter that she could see - Sigrid got thin and Thora did not - but it is five mothers, not two. Leave the stick; put them first in line after the children for the fresh fish, the raw liver and the milk, which costs the store nothing. ERIK: make it so.",
+  "D1, afternoon: THE PREP FOR THE BLOW - boats up, turned, chocked and weighted; racks bare; the cruive stakes checked. People grumble at the ration and work anyway.",
+  "D1, evening: FENN on the storehouse step, having watched the jarl watch everyone: you are counting faces the way Vigmar counts fish; they count stones in the shallows, and none since Torbrand, and that was a fall; they think the winter is long, and they are right. ERIK, leaning beside him: how long has it been raining, old man?",
+  "D1, evening: FENN - since the week Runa's boy came, one fair week in the middle, five weeks near enough; it rained so the autumn before they sailed and the one before. ERIK: in five weeks the barley went bad, the salt ran out, most of the salmon swam off, and we still sleep in a ship, with twelve weeks in store. FENN: all true - tell them plain before the Feast and again at it, as he told them last year; nobody tells a saga about a good harvest. ERIK: he remembers no such saga; he only thought the gods would let him build more. FENN: the gods do not let - Skarn takes and Hald keeps, and the building was always ours. ERIK: the wind is the wind and the rain is the rain, and no man builds a longpit in mud.",
+  "D2-D3: THE BLOW, hard out of the south-west, short of a gale. Everything tied down holds. Nobody on the water. The river high and brown; the cruives hold, pegged and weighted. The second field stands through it.",
+  "D4: OSVI SOUNDS THE BAR in the ship's boat on the easing swell, by his own method. The gap has walked a few paces; the back post is moved by dusk and the boats go out on the new line the next tide.",
+  "D4-D5: rain, no drying day. The smokehouse carries everything. Ormar pecks at the runner's eye in the lee of the storehouse whenever the rain lets him.",
+  "D5, before dawn: THE TOWER WATCH SEES A FIGURE at the terrace edge in the rain, where the Ivven stopped in Y2 W13, and by the time anyone is down the ladder it is gone. On the grass: A FRESH REINDEER HAUNCH WRAPPED IN ITS OWN HIDE.",
+  "D5, dawn: ERIK weighs it - leave it or take it and give nothing is an insult, give something valuable and it is trade. YLVA: it is not trade, it is an answer - she sat with nothing and they gave her meat; give food back, a side of smoked salmon and a lump of seal fat on the same grass; food for food is manners, knives are a price. OUT OF THE FICTION the player doubted both points and the GM held to the files: she was given dried meat in W31, and the haunch is food wrapped in a hide. ERIK: manners, then.",
+  "D5, dusk: a side of smoked salmon and a lump of seal fat left on the grass where the haunch lay. The haunch goes to the fresh line, mothers and children first, the hide to Arna.",
+  "D6, dawn: oracle d6 in the open, is the gift gone to the Ivven by morning: 1 = NO, AND. THE GULLS HAVE THE SALMON in rags across the grass, and one of Haldvik's own dogs comes up the terrace with seal fat on its muzzle. No figure seen. NO SMOKE FROM THE TOWER SINCE D5 - the band has gone on north-east.",
+  "D6-D7: rain and more rain. The second field stands, green and heavy, and does not ripen. Ormar's eye is a hand deep from the top face.",
+  "D7: ERIK smiles at the dog - of course it had to be eaten. Barley when Aud says so. THE NIGHT WATCH stands down at the week's end on the jarl's own condition, until they are gone: no smoke since D5.",
+  "THE WEEK: the last peak week of the salmon in a high river, about 250 kg into the smokehouse; the lines about 60 on three days out; the haunch about 15; foraging and greens about 55, less the salmon side and fat on the grass. ONE CLAMP HOME at the strand, about 180 kg of charcoal. Store 5595 on the fifth cut.",
+]

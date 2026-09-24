@@ -26,7 +26,7 @@ when_in_doubt = "When in doubt, it is not the player's yet."
 [deal]
 no_plot_armor = "No plot armor. Erik can die. The settlement can be lost."
 a_real_chance_to_lose = "No fun in winning without a chance to lose. If it was never in doubt, don't roll it. If it was, the bad half is real."
-npcs_are_autonomous = "NPCs are autonomous. They act on written agendas whether or not Erik is watching, and have no meta-knowledge of his plans, the dice, or these files."
+npcs_are_autonomous = "NPCs are autonomous. They act on written agendas whether or not Erik is watching, and have no meta-knowledge of his plans, the dice, or these files. ERIK'S THOUGHTS ARE NOT HEARD. What the player tells the GM about Erik's worries or reasons reaches an NPC only if Erik says it or it shows in what he visibly does - an NPC may read a face, never a mind. Said by the player Y2 W32 after Fenn answered a worry Erik had not spoken."
 commit_before_resolving = "Hidden state is committed to secrets.toml [committed] BEFORE the player's action resolves. Weather, rival plans, what is in the dark. THIS IS WHY THE GAME WORKS. Write it down - a commitment that only lives in the conversation is a commitment you will reinvent."
 no_invented_constraints = "Never invent a constraint that was never established. If a shortage or flaw is not in these files, it is not true."
 grim_when_needed = "Grim, brutal or adult when the story asks for it."
@@ -167,7 +167,7 @@ _ = "STANDING PRACTICE. Methods, rules of thumb and working customs learned in p
 
 [practice.health]
 the_coughing_measures = "Now law. Separated messes by pit, boiled cloths over the mouth, two or three fixed carriers who go nowhere near the clean pit, vents open at night in the cold. THE CLEAN ROOM IS THE ONE FEWEST PEOPLE WALK THROUGH, which is longpit 3, not longpit 1."
-the_fresh_rule = "Enna calls it the most important thing anyone ever told her. FRESH FOOD ALL WINTER, not everything dried and salted: fish and meat eaten fresh, raw or barely warmed where people will stand it. RAW LIVER, seal and fish, and the Hessa rule about it adopted whole - THE CHILDREN GET IT FIRST. Berries packed whole in rendered fat in a cask, which keeps a year."
+the_fresh_rule = "Enna calls it the most important thing anyone ever told her. FRESH FOOD ALL WINTER, not everything dried and salted: fish and meat eaten fresh, raw or barely warmed where people will stand it. RAW LIVER, seal and fish, and the Hessa rule about it adopted whole - THE CHILDREN GET IT FIRST, AND NURSING MOTHERS NEXT (Y2 W32). Berries packed whole in rendered fat in a cask, which keeps a year."
 the_custom = "Two in the room at any birth or death. It is about somebody being there and not about who."
 
 [practice.food]
