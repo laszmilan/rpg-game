@@ -1,7 +1,7 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 36, day = 1, season = "autumn" }
+date = { year = 2, week = 36, day = 4, season = "autumn" }
 morale = 7
 mood = "Cold, tight and watchful. The first sleet has come. The post holes are dug and the quern grinds and there is barley in the store for the first time, but the deer folk walked away unhappy and looked at the storehouse door on their way. The store is 5795, three thousand behind this week last year, and people can count that as well as Aki can."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, and nobody outside. Byre against longpit 2's east gable and the warm end is fought over in jokes."
@@ -32,7 +32,7 @@ the_reconciliation = "108 sailed, 14 dead, 9 born here. That is 103, and all of 
 in_store_kg = 5795
 what_it_is = "Dried and smoked fish and seal are the bulk. Then about 500 kg of salted whale meat and 150 kg smoked, about 1,050 kg of W25 eggs in ash, birds, greens and berries and seaweed and sprouted grain, rendered fat, ABOUT 400 KG OF SALTED SEAL off the W30 cull, about 680 l seal oil and ABOUT 350 L OF WHALE OIL, AND MILK from the cow that calved. AND ABOUT 140 KG OF HALDVIK BARLEY off the second field, W34, twenty more gone to malt, and what is left of the first field's sprouted grain. And from the W22 trade: 300 kg six-row barley, 200 kg dried peas, 80 kg rendered fat."
 sealed_and_not_food = "150 kg of the W22 barley held back as seed and Aud has it, AND VASK'S 30 KG given W30 d3. THE JARL HOLDS 200 KG OF BARLEY SEED (W30 d7) - made up W34 d4 with twenty off the second field. 40 kg Hessa peas, 60 kg Haldvik peas. SEED. Eating it is theft from the colony, said by the jarl in those words."
-ale = "AUD'S FIRST-FIELD KEG, about sixty litres from twenty kilos of sprouted grain, sealed W31 - for the strand's homecoming. A SECOND BATCH ordered W35 d7: twenty kilos of the eating barley sprouted on purpose, sixty litres for the Long Night."
+ale = "AUD'S FIRST-FIELD KEG, about sixty litres from twenty kilos of sprouted grain, sealed W31, OPENED W36 d2 for the strand's homecoming and RATIONED - a cup a head that night, the rest under Sigra's hand. Good and strong and tastes of peat smoke. A SECOND BATCH ordered W35 d7: twenty kilos of the eating barley sprouted on purpose, sixty litres for the Long Night."
 the_ration = "A FIFTH CUT FROM Y2 W32 d1, brought by the jarl himself and named on the day, as Vigmar asked when full ration came back in Y2 W11. SAME CARVE-OUTS AS LAST YEAR: NOT THE CHILDREN, NOT THE WOMEN CARRYING. Nursing mothers take the cut as last winter, BUT GO FIRST IN LINE, AFTER THE CHILDREN, FOR FRESH FISH, RAW LIVER AND THE COW'S MILK - Enna's design, the jarl's word W32 d1. Five of them: Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. About 400 a week, down from 465. Weighed in public by Vigmar, checked by Sigra."
 the_target = "FIFTEEN THOUSAND KILOS BY FIRST FROST. Aki's breakdown: cod five, salmon two and a half with the weir standing and twelve hands, seal two, birds and eggs three, everything else two. Fifteen and a half, and every line assumes nothing goes wrong. IT IS NOT THE FISH, IT IS THE HANDS."
 
@@ -55,28 +55,33 @@ boats = "Ottersnout and Widow's Promise on the sand in the bay, seagoing hulls a
 missing = "NO SAW AT ALL AND NO WAY TO MAKE ONE. No cooperage. THE QUERN turns from W34 d5 - off true a finger at the eye, shimmed with leather, grinds coarse. No plough, though there are two ploughshares and nothing to pull them. No kiln. No boatwright who can loft a hull."
 
 [livestock]
-ewes = 11
+ewes = 9
 rams = 2
 goats = 4
 cow = 1
 calf = 1
-pigs = 6
-chickens = 18
+calf_is = "A HEIFER (rolled open W36 d1) - a milk cow in two or three years."
+recounted = "W36 d1, walked by Aud and the jarl, the first count since W22: unchanged in number. The six pigs are the boar, the sow and four young of the spring litter. THE SOW IS NOT IN PIG AND HAS GONE THIN on the summer scraps (oracle W36 d1: 1, NO, AND). Eighteen hens and cocks, the summer's chicks no more than the summer's losses."
+pigs = 2
+chickens = 16
 dogs = 3
-total_head = 38
+total_head = "19 in the byre (9 ewes, 2 rams, 4 goats, cow, heifer, boar, sow), 16 birds, 3 dogs. The old figure of 38 never added up and is dropped."
+culled_W36 = "D1-D2 by the jarl's word on Aud's list: THE FOUR YOUNG PIGS, THE TWO OLDEST EWES (worn to the gum), TWO COCKS. Kept for next year's births: the boar and the thin sow, both rams, every hen. THREE MORE COCKS KEPT ALIVE FOR THE LONG NIGHT SOUP."
+what_it_buys = "About 115 kg of meat - about 90 of pork, 24 of old mutton, the cocks - plus pig fat, two sheepskins and trotters and heads for the pot. NOT SALTED - EATEN FRESH through the week by the jarl's word, better fresh than in the winter. Four fewer mouths at the scrap pail, and the byre with stalls spare. Counted into the W36 store at upkeep."
 _ = "Thirty-eight head against twenty-two at Y1 W50. The cow calved and there is MILK, which this settlement has never had and which is the best thing there is for a child that will not feed. The pigs are a boar and a sow. Pigs are the fastest protein anybody has."
-the_problem = "THE HERD HAS NEARLY DOUBLED AND THE HAY HALF FAILED. Twenty-seven stalls for thirty-eight head. Last winter twenty-two head wintered on seaweed off the tide rocks because nothing was cut at all, and two old sheep and a goat died anyway. Thirty-eight head on half a cut is worse than that."
+the_problem = "SOLVED FOR THIS WINTER by three hay cuts and the W36 cull: nineteen head in a byre of twenty-seven stalls. The pigs eat from the people's pot, not the hay."
 fodder = "THREE CUTS. The first (W22) about half a stack, half of it sound; the second (W24) stacked sound, raked into cocks ahead of the drizzle; the third (W26) lighter and sound, cured in a day. Near enough a winter for thirty-eight head with seaweed off the tide rocks to stretch it, as last winter."
 
 [health]
 carrying = "A third Enna will not name. RUNA DELIVERED A LIVING BOY Y2 W27 d3, turned by Enna. HILD DELIVERED A LIVING GIRL Y2 W30 d6, quick and clean, the henbane unused. Mothers and children well."
-standing = "Runa is up and mending with a boy at the breast. Sigra's daughter is weeks mending after a bad tear and has been told once, privately, that she should not carry again. Herdis's daughter is well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
+standing = "THE JARL: TWO RIBS CRACKED W36 d4 in the surf, a month off hauling and rowing. Runa is up and mending with a boy at the breast. Sigra's daughter is weeks mending after a bad tear and has been told once, privately, that she should not carry again. Herdis's daughter is well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
 henbane = "FOUND AGAIN in W30 d1-d3 by SOLVI, trampled into the ground, and SOME SEED with it. Enna looked it over and said: it will do. BY THE JARL'S WORD IT IS GROWN IN A HERB GARDEN, and the seed is enough for a tiny one. WILLOW BARK TEA from the withy beds as well - bitter, eases a fever and dulls a pain, far weaker than henbane, and plenty of it."
 ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the green ration from W40 with pine tea twice a week, latrines downstream and used in the dark with no exceptions, combs and hot water, roof vents. Lye handwashing at every door by law, and soap."
 
 [work_split]
 _ = "Set W21. Forty-five committed, twenty free as surge."
 "boats and lines" = 10
+strand_closing = "ORDERED CLOSED W36 d1 by the jarl: the ten home with the salt and charcoal in hand."
 strand_now = "TEN from W29 d3, the pans burning through the night. BY THE JARL'S WORD W31 d7: THREE PANS AND TWO CLAMPS AT ONCE, the ten are enough."
 "gutting, hanging and smoking" = "15 plus children"
 foraging = 10
@@ -88,6 +93,7 @@ orders_W35 = "LONGPIT 4'S POST HOLES DUG THIS WEEK with the free hands, about tw
 orders_W34 = "THE SECOND FIELD CUT ON THE FIRST DRY DAYS WITH EVERY HAND AUD WANTS. ANY DAY WITH FREE HANDS GOES TO THE QUARRY for stone. The forge, when idle, looks at a saw for spring."
 orders_W33 = "EVERYONE ON FOOD - fish, forage, the kitchen crops, whatever food wants - while Arna's clothes, the salt and the charcoal keep coming. THE STRAND CLOSES WHEN HOVARD'S CREW JUDGE THEY CAN STAY NO LONGER. The jarl works where he is useful."
 council_W30 = "Most hands on the food - the salmon peak, the lines, the racks, the salt. Any hands free dig longpit 4's footings. The seal cull is done. THE HARVEST WHEN AUD SAYS SO, by the jarl's word W30 d7. W31 d1: THE FIRST FIELD TO ALE, about last year's sixty litres, and the rest eaten; Aud brews. THE CUTTING TAKES HANDS BEFORE CONSTRUCTION, MEAT OR FISH, and the grain dries by the longpit hearths."
+standing_food = "BY THE JARL'S WORD Y2 W36 d1: ANYTHING THAT SWIMS OR WALKS GETS EATEN - roots, river snails, seaweed, shellfish, whatever the snares and the tide give. The boats fish every workable day inside the bar."
 standing_work = "Berries and the autumn bedding cut sit with foraging under Solvi as standing work, not as separate orders. Children help where they can, on everything. Fresh fish is eaten without limit, because it costs nothing that would have been kept."
 
 [build_plan]
@@ -130,16 +136,16 @@ target = "cordage Y3 W14, boatwrights Y4"
 why = "Osvi declared her afloat at the Turning and Erik swore at the burial ground that she will sail again before he joins his father."
 
 [buildings.the_bay]
-"the tower" = "Finished Y2 W24 d2. A HORN HANGS ON THE PLATFORM (first heard W35 d3): ONE SHORT BLAST, COME AND LOOK. Timber, 22 sticks, on the four holes Ormar proved for a fortnight. A man on the platform every daylight hour sees past the north headland and over the shoulder to the moor edge. ORDERED W31 d4: THE STOREHOUSE LOOKOUT SCAVENGED FOR IT - hood, bench and lining up to the platform, and the tower becomes the night and winter post too. Done W31 d6. THE NIGHT WATCH IS ONE MAN ON THE TOWER IN THREE ROTATIONS, every night, standing. The extra three-man watch set W31 d5 while the Ivven were near stood down at W32's end."
+"the tower" = "Finished Y2 W24 d2. A HORN HANGS ON THE PLATFORM (first heard W35 d3): ONE SHORT BLAST, COME AND LOOK. Timber, 22 sticks, on the four holes Ormar proved for a fortnight. A man on the platform every daylight hour sees past the north headland and over the shoulder to the moor edge. ORDERED W31 d4: THE STOREHOUSE LOOKOUT SCAVENGED FOR IT - hood, bench and lining up to the platform, and the tower becomes the night and winter post too. Done W31 d6. THE NIGHT WATCH IS TWO MEN ON THE TOWER IN TWO-HOUR TURNS, every night, from W36 d2 with the strand home - nobody out in the cold too long and everybody sleeps. The extra three-man watch set W31 d5 while the Ivven were near stood down at W32's end."
 "the hearth" = "The centre of everything. NO HEARTH IN HALDVIK GOES FULLY COLD, the Turning excepted, and then it is sat."
 "longpit 1" = "12 x 8 m aisled, turf and stone walls, driftwood frame, turf roof, roof vent over the hearth line. Sleeps 25, 34 tight. Holds the main hearth, so everyone passes through it."
 "longpit 2" = "Same build. Byre against its east gable."
 "longpit 3" = "12 x 8 m. Aki's bench against the west wall in the good light. The clean room."
 storehouse = "10 x 10 m dressed grey stone. The whole sealed store is in it. NOBODY SLEEPS IN IT - Enna's ruling, backed by the jarl: people in the food store is the coughing. A kerb, hooded bench and ladder on the seaward corner of the roof served as the lookout; TO BE SCAVENGED FOR THE TOWER by the jarl's order W31 d4."
 "washhouse and ward" = "One building, half washhouse and half sick ward, a real wall between and two doors at opposite ends, one hearth in the middle wall serving both. Enna's design. Nursing is hot water, and somebody is in a washhouse every day all winter, so the sick are not alone at night."
-"the forge" = "Stone and turf, sealskin bellows, anvil, full smith's kit. NO DOOR AND NO LOCK. Hafli's clay-and-stone smelting shaft stands against the outside wall. Running one day a week."
+"the forge" = "Stone and turf, sealskin bellows, anvil, full smith's kit. NO DOOR AND NO LOCK. Hafli's clay-and-stone smelting shaft stands against the outside wall. FROM W36: BREK AND HAFLI AS MANY DAYS AS THEY WANT - the sprung saw and the winter's tool mending."
 "the smokehouse" = "DOUBLE SIZE. About 250 kg a batch, three or four days a batch, so about 500 kg a week, AND IT HAS NEVER BEEN THE CEILING - the catch is. Fuel is riving waste and there are heaps of it. INGRA'S FIRST WARDING GOES HERE, and then a season of watching before anything is laid on a building people sleep in."
-"the byre" = "27 stalls, shared wall against longpit 2's east gable. AND IT IS NOW SHORT: 27 stalls, 38 head. Peat litter from the ruined stack goes in under the animals - sour and empty on its own, but it comes out the other end as muck and roughly doubles the dung heap, and the dung heap is the only thing keeping that shoulder from going to nothing in four years."
+"the byre" = "27 stalls, shared wall against longpit 2's east gable. Nineteen head after the W36 cull, stalls spare. Peat litter from the ruined stack goes in under the animals - sour and empty on its own, but it comes out the other end as muck and roughly doubles the dung heap, and the dung heap is the only thing keeping that shoulder from going to nothing in four years."
 "the Keel" = "The Grey Mare upside down over a metre-deep pit with a turf-and-stone kerb, turf packed to the keel, skins over her back, doorway cut at the stern end. Holds twenty and is warmer than longpit 1."
 "Ranvi's lean-to" = "Doubles as the birth-house, though births go to the ward now."
 "the weir" = "Stone, two cruives in the gap, standing all year. Took about 2400 kg of salmon wet in its first season."
