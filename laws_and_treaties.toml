@@ -36,6 +36,9 @@ the_crack = "The 25 are real. Gudny is one of them and voted headman out loud wi
 [treaties]
 _ = "TREATIES AND STANDING AGREEMENTS. Cut on sticks, said in front of witnesses. Player-readable."
 
+[treaties.the_Ivven]
+standing_rate = "TEN HIDES FOR A KNIFE, held by the jarl Y2 W35 d3 against the scarred man's five after the W32 gift went to the gulls and a dog. No trade was made. He kept Vigmar's counted stick and signed again, here - twice, not four times: they come back, not soon and not cheap."
+
 [treaties.the_Hessa_of_Kolvenn]
 made = "Y1 W34 d6, longpit 1, over a hearth stone. Cut three times on three sticks - twice by Aki, once by Vigmar - and laid side by side so anyone can see they agree."
 the_binding = "Skelva's form said over the worn hardwood token she left on the hearth in Y1 W27 - three beats, a stop, three beats, best rendered THIS STANDS UNTIL IT IS TAKEN BACK. Fenn set a live coal on the stone beside it and Erik said the Vardmark words: IT HOLDS WHILE THERE IS FIRE. AND THERE HAS ALWAYS BEEN FIRE. Her palm over the wood, his over the coal. The coal charred a ring into the hearth stone and neither was moved all night."
