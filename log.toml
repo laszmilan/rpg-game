@@ -1059,6 +1059,9 @@ events = [
 year = 2
 week = 36
 title = "THE FIRST GALE"
+store = 5755
+income = 375
+consumed = 415
 events = [
   "FROM W36 THE WEATHER ROLL IS UNSEEN and NPCs read only signs, at the player's word; this week's roll had already been shown.",
   "D1, council: Halvar reads weather coming. ERIK: fish inside the bar when we can; anything that swims or walks gets eaten; the strand closed and home with its salt and charcoal; Brek and Hafli at the forge as many days as they like.",
@@ -1066,4 +1069,9 @@ events = [
   "D2, evening: THE STRAND HOME; AUD'S KEG OPENED, oracle 4 = YES, BUT - strong and good, tasting of peat smoke. A cup a head, the rest under Sigra's hand. AUD: dried on peat, crowberries for sweet, left by the fire a week longer on purpose. The night watch becomes two men in two-hour turns.",
   "D3: THE GALE. D4, midafternoon: THE HORN - a Hessa hull from the north under a rag of sail comes in on the marks, TOUCHES THE BAR and comes on wallowing, six bailing aboard. HALVAR: into the shallows with ropes. THE TEST, difficulty 8 (success none of ours hurt / mixed one hurt / failure one under), [4,11] MIXED: she is walked up the sand, two strakes sprung, SIX ALIVE, one Hessa leg broken. Who is hurt, list: THE JARL - her quarter pins him to the sand, TWO RIBS CRACKED, the right side.",
   "D4: ENNA: the ribs mend, the chest kills - breathe deep every hour, cough, sleep sitting up; she will not watch him drown on dry land like Torbrand. ERIK: only so many ribs to break - the first went in Hakvarr's cell. HALVAR: twelve a side, pick better enemies; breathe.",
+  "D4, night: THE SIX HESSA - Ilmo, grey, at the steering oar; one leg set below the knee, six weeks; a fishing boat blown south off their coast, in on Skelva's marks, two strakes sprung by the bar. Their salt cod, about 100 kg (list), GIVEN (oracle 5) and eaten D5. Leif can set the strakes, but four days' rowing to Kolvenn will not come before the ice; Ilmo asks what they become on the third morning - five can work and will not eat Haldvik's winter for nothing.",
+  "D5 the gale blows out. D6: the sea came over the low end of the strand in the night - THE ABANDONED CLAMP DROWNED, ONE SALT PAN CRACKED. The bar has moved again.",
+  "D7, THE THIRD MORNING: ERIK, holding his ribs: I need the Hessa more than any food - we mend their boat, give them warm cloth, they fish with ours, fed on my word under my roofs, and we will be hungry. FENN puts it in the form: under Haldvik's law and at its work, fed on the jarl's own word, the lame one with them, till the ice goes and the boat can swim. Ilmo and his four bow, hand on chest.",
+  "THE MOOD, W36 end: the ale, the pork and the barley remembered; no new stone. Against it, the fifth cut and six more mouths - and whose food is that, said low - the jarl carried up the beach, the drowned clamp and cracked pan, the Ivven walking off. TORGEST quiet since the ale night, not named yet.",
+  "THE WEEK: the cull 115 fresh; the Hessa cod 100; lines 100 before the gale; foraging 60. Consumed 415 with the six Hessa from D4.",
 ]
