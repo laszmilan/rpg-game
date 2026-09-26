@@ -107,7 +107,8 @@ guest-right = "Three nights, bread and salt, no blade drawn under the roof. Thir
 sea-burial = "Into the shallows under a stone where Ormegga can reach them. Dying far from water is a bad death and there are stories about why. It does not say unless it is cold: if the bay is iced, the ice is cut."
 reckoning = "Winters, not years. A person's age turns at the Feast of Turning."
 milk-kin = "A child put to another woman's breast makes kinship, not doctoring. It bars marriage between the two children and between either and the other's brothers, and it makes a fostering claim on the roof both ways. It does not touch inheritance - not land, not stock, not a share."
-"Feast of Turning" = "The turning of the year at W52, the last week, not the solstice. Every hearth banked to one coal and relit before dawn. If it goes out the household's luck goes with it."
+"the Long Night" = "MIDWINTER, W46 - the longest night, kept with what food and drink can be spared. The player's word, Y2 W38. Not the same as the Feast of Turning."
+"Feast of Turning" = "The turning of the year at W52, the last week of winter and of the year, not the solstice. Every hearth banked to one coal and relit before dawn. If it goes out the household's luck goes with it."
 
 [setting.magic]
 _ = "Rare, expensive, real."

@@ -7,8 +7,8 @@ mood = "Frozen in. The ground has shut and the cod have gone, and from here the 
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, the six Hessa at the back of longpit 1, and nobody outside. Byre against longpit 2's east gable."
 clocks = [
   "W40 - WINTER. Enna's green ration starts: pine tea twice a week.",
-  "W46 - MIDWINTER; the bay ices about now.",
-  "W52 - THE FEAST OF TURNING AND THE LONG NIGHT. Aud's second ale, sixty litres, and three cocks for the soup. Fenn's counsel: tell them plain about the winter before it, and again at it.",
+  "W46 - MIDWINTER, THE LONG NIGHT. Aud's second ale, sixty litres, and three cocks for the soup. The bay ices about now.",
+  "W52 - THE FEAST OF TURNING, the last week of winter and of the year: every hearth banked to one coal and relit before dawn. Fenn's counsel: tell them plain about the winter before the Feast, and again at it.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. Until then the lines take little.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one. Ilmo's six go home when the ice lets them.",
@@ -32,7 +32,7 @@ in_store_kg = 5685
 store_last_year = "9420 at W37 last year. On last winter's net drain of about 300 a week, this store is empty about Y3 W3, some eight weeks before the cod come back."
 what_it_is = "Dried and smoked fish and seal are the bulk. About 500 kg salted whale and 150 kg smoked; about 1,050 kg of W25 eggs in ash; about 400 kg salted seal; birds, greens, berries, seaweed; rendered fat; about 140 kg of Haldvik barley for the pot; from the W22 trade 300 kg barley, 200 kg peas, 80 kg fat. Seal oil about 680 l and whale oil about 350 l. Milk from the cow."
 sealed_and_not_food = "SEED: 200 KG OF BARLEY by the jarl's word, 40 kg Hessa peas, 60 kg Haldvik peas, and the henbane seed for a herb garden. Eating it is theft from the colony, said by the jarl in those words."
-ale = "Aud's first-field keg, the rest of it under Sigra's hand, strong and tasting of peat smoke. A SECOND BATCH MALTING: twenty kilos of eating barley for sixty litres at the Long Night."
+ale = "Aud's first-field keg, the rest of it under Sigra's hand, strong and tasting of peat smoke. A SECOND BATCH MALTING: twenty kilos of eating barley for sixty litres at the Long Night, midwinter W46."
 the_ration = "A FIFTH CUT from Y2 W32, the jarl's word, named on the day. Not the children, not the women carrying. Nursing mothers take the cut but go first after the children for fresh fish, raw liver and milk - Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. About 400 a week, plus the six Hessa. Weighed in public by Vigmar, checked by Sigra."
 standing_food = "ANYTHING THAT SWIMS OR WALKS IS EATEN - roots, river snails, seaweed, shellfish, whatever the snares and the tide give. Fresh is eaten before stored. The boats fish inside the bar every workable day."
 
@@ -61,7 +61,7 @@ goats = 4
 cow = 1
 heifer_calf = 1
 pigs = "2 - the boar and the sow. THE SOW IS NOT IN PIG AND HAS GONE THIN."
-chickens = "16, three cocks among them kept for the Long Night soup."
+chickens = "16, three cocks among them kept for the Long Night soup at midwinter."
 dogs = 3
 in_the_byre = "Nineteen head in twenty-seven stalls. The hay - three cuts - carries them. The pigs eat from the people's pot, not the hay. Kept for next year's births: the boar and sow, both rams, every hen."
 
