@@ -10,4 +10,4 @@ At the start of every session read `readme.toml` first (rules, style, mechanics,
 
 ## Upkeep
 
-At the end of each week, append an `[[entry]]` to `log.toml`, update `current.toml`, delete the spent `committed` block from `secrets.toml`, then commit. THE COMMIT MESSAGE IS ONLY "from Y2 W39 to Y2 W40" (the weeks it spans) and nothing else - no file list, no description, no attribution lines. Push to origin (GitHub) only after asking the player first, every time.
+At the end of each week, append an `[[entry]]` to `log.toml`, update `current.toml`, delete the spent `committed` block from `secrets.toml`, then commit. THE COMMIT MESSAGE IS ONLY "from Y2 W39 to Y2 W40" (the weeks it spans) and nothing else - no file list, no description, no attribution lines. Push to origin (GitHub) in larger batches, never every week, and only after asking the player first.

@@ -1,7 +1,7 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 41, day = 1, season = "winter" }
+date = { year = 2, week = 42, day = 1, season = "winter" }
 morale = 6
 mood = "Snowed in and holding. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, the six Hessa at the back of longpit 1, and nobody outside. Byre against longpit 2's east gable."
@@ -26,12 +26,12 @@ the_reconciliation = "108 sailed, 14 dead, 9 born here: 103, all Haldvik's own, 
 resident_strangers = "SIX HESSA off Ilmo's fishing boat, driven in by the W36 gale. Five work; one has a leg broken below the knee, set, knitting by about W42. Under Haldvik's law and at its work, fed on the jarl's own word under Haldvik roofs, on the same fifth cut as everyone from W40, until the ice goes and their boat can swim. They teach the Hessa tongue in the evenings and will teach the ice."
 
 [food]
-in_store_kg = 4975
+in_store_kg = 4595
 store_last_year = "9100 at W40 last year. At a winter draw of 420 against little income, this store is empty about Y3 W3, some nine weeks before the cod come back."
 what_it_is = "Dried and smoked fish and seal are the bulk. About 500 kg salted whale and 150 kg smoked; about 1,050 kg of W25 eggs in ash; about 400 kg salted seal; birds, greens, berries, seaweed; rendered fat; about 140 kg of Haldvik barley for the pot; from the W22 trade 300 kg barley, 200 kg peas, 80 kg fat. Seal oil about 680 l and whale oil about 350 l. Milk from the cow."
 sealed_and_not_food = "SEED: 200 KG OF BARLEY by the jarl's word, 40 kg Hessa peas, 60 kg Haldvik peas, and the henbane seed for a herb garden. Eating it is theft from the colony, said by the jarl in those words."
 ale = "Aud's first-field keg, the rest of it under Sigra's hand, strong and tasting of peat smoke. A SECOND BATCH MALTING: twenty kilos of eating barley for sixty litres at the Turning, midwinter W46."
-the_ration = "A FIFTH CUT from Y2 W32, the jarl's word, named on the day, AND THE SIX HESSA ON IT FROM W40. Not the children, not the women carrying. Nursing mothers take the cut but go first after the children for fresh fish, raw liver and milk - Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. About 420 a week with the Hessa. Weighed in public by Vigmar, checked by Sigra."
+the_ration = "A FIFTH CUT from Y2 W32, the jarl's word, named on the day, AND THE SIX HESSA ON IT FROM W40. Not the children, not the women carrying. Nursing mothers take the cut but go first after the children for fresh fish, raw liver and milk - Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. About 420 a week with the Hessa. FROM W41, A WORKING RATION AND A SITTING RATION inside that same total: whoever is out at the rocks, boats, snares or ice on a head of work's task eats more, whoever sits by the fire eats less; not the children, the carrying, the nursing or the sick. Aki marks who went out each night; Fenn's sitting portion was weighed first, in public. A DEEPER CUT AFTER THE TURNING if needed, named on the day. Weighed in public by Vigmar, checked by Sigra."
 standing_food = "ANYTHING THAT SWIMS OR WALKS IS EATEN - roots, river snails, seaweed, shellfish, whatever the snares and the tide give. Fresh is eaten before stored. The boats fish inside the bar every workable day."
 
 [resources]
