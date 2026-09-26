@@ -48,7 +48,7 @@ seasons = [
   { season = "Autumn", weeks = "27-39", midpoint = "equinox W33" },
   { season = "Winter", weeks = "40-52", midpoint = "MIDWINTER W46" },
 ]
-seasons_warning = "THE SOLSTICES AND EQUINOXES SIT IN THE MIDDLE OF THEIR SEASON, NOT AT THE EDGE. The Feast of Turning at W52 is the turning of the YEAR, not the solstice - a different tradition from ours, and the thing most likely to mislead. This table is the one source of truth and is not repeated in any other file. Weather follows the seasons as labelled: W14-26 dries fish, W40-52 and W1-6 is the hard cold."
+seasons_warning = "THE SOLSTICES AND EQUINOXES SIT IN THE MIDDLE OF THEIR SEASON, NOT AT THE EDGE. THE FEAST OF TURNING IS MIDWINTER, W46 - the longest night, and the same night as the Long Night. This table is the one source of truth and is not repeated in any other file. Weather follows the seasons as labelled: W14-26 dries fish, W40-52 and W1-6 is the hard cold."
 units = "Metric. In fiction the folk say paces and a day's walk; GM numbers are m, km, kg, litres."
 resolution = "Diceless first. Outcomes follow from stated facts, agendas and physics. The dice are for genuine uncertainty only."
 loyalty = "0-10. 0 hostile, 5 neutral, 10 would die for you."
@@ -107,8 +107,7 @@ guest-right = "Three nights, bread and salt, no blade drawn under the roof. Thir
 sea-burial = "Into the shallows under a stone where Ormegga can reach them. Dying far from water is a bad death and there are stories about why. It does not say unless it is cold: if the bay is iced, the ice is cut."
 reckoning = "Winters, not years. A person's age turns at the Feast of Turning."
 milk-kin = "A child put to another woman's breast makes kinship, not doctoring. It bars marriage between the two children and between either and the other's brothers, and it makes a fostering claim on the roof both ways. It does not touch inheritance - not land, not stock, not a share."
-"the Long Night" = "MIDWINTER, W46 - the longest night, kept with what food and drink can be spared. The player's word, Y2 W38. Not the same as the Feast of Turning."
-"Feast of Turning" = "The turning of the year at W52, the last week of winter and of the year, not the solstice. Every hearth banked to one coal and relit before dawn. If it goes out the household's luck goes with it."
+"Feast of Turning" = "MIDWINTER, W46, THE LONGEST NIGHT - also called the Long Night. The turning of the winter, kept with what food and drink can be spared. Every hearth banked to one coal and relit before dawn. If it goes out the household's luck goes with it."
 
 [setting.magic]
 _ = "Rare, expensive, real."
