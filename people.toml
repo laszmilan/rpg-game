@@ -4,11 +4,11 @@ _ = "EVERYONE, ONCE. Standing character, capability and unspent promises. What h
 
 [conventions]
 loyalty = "loy 0-10. 0 hostile, 5 neutral, 10 would die for you."
-winters = "w is winters, and a person's age turns at the Feast of Turning. Aki, Hafli, Tova and Kelda are current. The rest were last set before the Y1 Turning and want a sweep."
+winters = "w is winters, and a person's age turns at the Feast of Turning. EVERYONE TURNED AT THE Y2 TURNING (W46) and was moved on one; Erik, Aki, Hafli, Tova and Kelda are exact, the rest may still be a winter behind from before the Y1 Turning."
 
 [player]
 name = "Erik Karrsson"
-w = 22
+w = 23
 title = "JARL OF HALDVIK, made Y1 W22 d1 on the ember-stone. Chosen once, not un-chosen. A jarl's son is a jarl."
 look = "Copper hair, neck-long, braided. Heavy through the shoulders and arms, a build made by oars and hauling. A crooked white scar splits the right brow and the hair will not grow back through it. One back tooth gone. Burn across the right palm from the ember-stone. THE SCAR, THE MISSING TOOTH AND THE OLD RIBS ARE FROM THE THREE DAYS IN HAKVARR'S CELL, after he called the expedition a culling in front of the hall."
 condition = "The ribs broken once before, in Hakvarr's cell. TWO RIBS CRACKED AGAIN, Y2 W36 d4, the right side, pinned under a Hessa hull's quarter in the surf. Walks; cannot haul, row or lift for about a month; breath short. Enna's watch on the chest."
@@ -55,188 +55,188 @@ taught_without_title = "Ulf Ivarsson, by Halvar, evenings, at Ulf's own asking -
 
 [[kin]]
 name = "Gest One-Ear"
-w = 51
+w = 52
 loy = 10
 role = "Erik's uncle, brother to Karr. Three wars."
 note = "Got Erik out of the cell and will not say what it cost. Splices rope constantly, advises sideways, and is usually right. Ninety Hessa words and sixty-one souls counted by name; put the idea of lending a shipwright into Vask's head himself and declared that interest out loud before Erik answered. One of the settlement's two interpreters, with Aki. Reads an absence as evidence - it was his hole in the Kolvenn count and his silence about lost hulls that turned the planks into a question."
 
 [[kin]]
 name = "Ingra Karrsdis"
-w = 26
+w = 27
 loy = 7
 role = "elder sister, widow. EMBER-WIFE OF HALDVIK from Y2 W9 d7."
 note = "Best head for numbers here. Has not raised her voice in two years. SEES THE DOOR, and nearer each time. Can LAY a warding - four done under Ranvi's hand - but will not cut a mark she does not understand, and has settled on the smokehouse first and a season of watching before she goes near a building people sleep in. TWO COALS LEFT and Ranvi's instruction was to touch neither. Has paid nothing for any of it, which is the thing Ranvi could not sleep for. Her one ask of Erik: DO NOT BE CAREFUL WITH ME - what made Ranvi strange was thirty years of nobody sitting down next to her, not the craft. Names her own guesses as guesses out loud, on the grounds that she will be telling this settlement what is true for the next thirty years."
 
 [[kin]]
 name = "Solvi Karrsdis"
-w = 19
+w = 20
 loy = 9
 role = "younger sister, heads foraging and shellfish"
 note = "Asked to lead alone rather than be seen as a favour. Took Kelda into her keeping on three conditions Erik had to agree to. The most observant person here, and the one who reliably finds the move that takes the jarl out of a thing - if I go it is you asking; if she goes it is a mother asking a mother. Watching Vigmar on her own condition that Erik acts on nothing without looking himself, and warned him she is the worst witness he has."
 
 [[council]]
 name = "Halvar Grimsson"
-w = 33
+w = 34
 loy = 8
 role = "SHIELD. Best fighter here."
 note = "Sworn over ember Y1 W12 d3: may say no once, out loud, on any one matter; it stops the thing and costs him the office. UNSPENT. Promised first pick when land is allotted, unsaid until the day, and wants land within three winters. Has drawn ditch-and-bank lines in the sand since Erik said one entrance, asked three times, and stood it down himself. Refused the seat when nominated and would again - a Shield who takes the seat he guards has a name in the sagas. Reads weather well enough to hold a launch and be right, and nobody argues with him about weather any more, though he has been wrong once and said so first. Teaches Ulf in the evenings."
 
 [[council]]
 name = "Vigmar Stenn"
-w = 40
+w = 41
 loy = 5
 role = "REEVE. Tally, rationing, the law on his stick."
 note = "No kin, the only adult who came alone. Nobody sent him; he asked. Stole Skalgrind's old tally-stick out of the roof and keeps it in his kit. Believes this land is the old country and Vardmark the colony, and argues his own century-shaped hole against himself. Weighs every portion in public, checked by Sigra. Argues the other half of his own proposals unasked, on everything except the stones. Reads the archaic marks and will not say the third one aloud. Ran the Ivven trade and the Y2 W22 trade faultlessly, reported the door post against his own interest, and led with his own breach of terms when he did. Has begun teaching Tova the archaic marks in the evenings."
 
 [[council]]
 name = "Auld Fenn"
-w = 68
+w = 69
 loy = 10
 role = "LAWSPEAKER and ember-keeper. Priest when it matters."
 note = "Half-blind. Told Erik about the ember and got his honour back; owes Erik everything and nobody knows it. Put the name Haldvik into circulation and repeats Erik's line about the gods word for word. Told Erik to his face he will speak the law against him in public if ever asked to bend it. Built the jarl-rite himself out of the ember-oath, the guest-formula and the shipmaster's words, because nobody in Vardmark had ever made a jarl, only been given one. Has kept exactly one thing off the stick and told Erik he noticed. Sets the terms of a burial and will not bend them for anybody's boat. His standing habit is to name what a thing will look like in fifty winters."
 
 [[settlement]]
 name = "Sigra Hallvesdis"
-w = 41
+w = 42
 loy = 6
 role = "salt and preserving, second reckoning, head of the largest kin-group (13)"
 note = "Demanded the no-pegging clause be cut hardest so it binds whoever comes after her. Worked out the fish-stack. Has begun asking Vigmar not what the tally says but how it is kept. Argued for a headman, lost, and closed the crack herself rather than carry it into winter: SHE BINDS THE OFFICE, NOT THE MAN, and has done every time. Said Erik's name last and added four words outside the form - and I'll hold him to it. Has put the reef down out loud at last and would not hand Erik the name he left off his own list. Her daughter is weeks mending and has been told once, privately, that she should not carry again."
 
 [[settlement]]
 name = "Ulf Ivarsson"
-w = 24
+w = 25
 loy = 7
 role = "Sigra's eldest surviving son. SECOND TO THE SHIELD from Y2 W11 d1."
 note = "Big, mild, no enemies and no opinions anyone had heard until the Standing. Was two paces from Rekk and could not reach him. Went against his mother in public, then refused nomination twice and the apprenticeship twice more - not the courage, the name: his mother's thirteen stand behind him and the twenty-five behind them, and he will not be the reason her house has a hand on the hilt. SAID YES AT THE FOURTH ASKING, on the day his mother stood at council and said in front of everyone that her house has no claim on the seat. He would not have the words everybody knows it should be you, and that is still true - what changed was that Sigra spent her own leverage in public to take it off him."
 
 [[settlement]]
 name = "Osvi Crook-leg"
-w = 36
+w = 37
 loy = 9
 role = "trader and navigator"
 note = "Found the channel and the reef, and the sounding method that reads a moved bar - boat, weighted line, a man calling depths, marks off the land. Worked out the Needle with Erik and gave it to him freely. Burned both arms to the elbow in Y1 W15; the skin is shut but shut short and he will not pull an oar this year and maybe never on the left. Told the whole truth about the Needle unprompted when Erik said why would I not trust you. DESIGNS METHODS THAT DO NOT REQUIRE ANYONE TO TRUST HIM, on purpose. Will not mark a channel in the dark or put a loaded hull down a guess. Reckons he and Ormar could manage a faering over a winter."
 
 [[settlement]]
 name = "Ormar"
-w = 47
+w = 48
 loy = 8
 role = "master builder"
 note = "Thirty roofs in Skalgrind, never a turf-and-driftwood one, and said so before agreeing. Found the grey stone band. Told Sigra about her pegs with Erik standing in sight, once, and will not be used that way twice. OWNS HIS ERRORS OUT LOUD AT HIS OWN COST, including the tower footings, in the rain, before anybody asked. Erik has said nothing to him about it, then or since, which is not the same as absolution and Ormar knows it. His diagnosis, and it holds: the walls were never short of hands, they were short of throughput. Will give up a week's lead rather than lose a man, and shrug. Holds his own rule against his own building - a hole dug before the frost is opened, watched and proved for a fortnight before a post goes near it. Has the quern bedstone and not the runner, and says plainly he has watched it done and never done it."
 
 [[settlement]]
 name = "Aud Vessdis"
-w = 45
+w = 46
 loy = 8
 role = "seed and tillage"
 note = "Barley her whole life. Brought her own kale and peas unasked. Her line, given before it was needed: a settlement can eat fish for a winter and cannot sow fish. Lost the Y1 barley by waiting two days against a sky Halvar had read, and took it on herself in front of Erik without excuse; also the hay nobody cut. LEADS WITH THE THING SHE GOT WRONG and names her own bad ground in public before it can be held against her. FENN'S WARNING STILL STANDS: people quietly stopped asking her, and not-blaming is not the same as using her. Give her something to be right about. Has the Hessa seed and would not let anyone else plant it. Corrects arithmetic in her own favour and is right when she does. MADE THE Y1 TURNING ALE out of the sprouted grain and calls it an accident."
 
 [[settlement]]
 name = "Brek Ironarm"
-w = 44
+w = 45
 loy = 7
 role = "smith"
 note = "Drinks, and stopped the day the forge was lit. Detonated when asked about the word we, and swore in front of forty people to a forge in a fortnight; built it in twelve days and it is good work. Takes blame himself, unprompted, and keeps his own debts on his stick after everyone else has forgotten them. NEVER SERVED AN APPRENTICESHIP - Ottar's striker twenty-two winters, took the tools and the by-name when Ottar died and nobody asked. He can make a nail, hook, knife or hinge until he dies; HE CANNOT LOFT A PLATE OR FORGE-WELD A BIG PIECE, and says so out loud now, before anybody hands the work on. Names his own workarounds and their costs unasked. Is paying threefold restitution for the ale in unasked work through the reeve's tally, where Vigmar will see it go in and never know what it is, and told Erik he does not get to stop him."
 
 [[settlement]]
 name = "Hafli"
-w = 17
+w = 18
 loy = 9
 role = "smith's apprentice"
 note = "Carried the anvil up the beach twice unasked. Held the Y1 W23 clamp alone, two nights and a day. Haldvik has two people who can work iron. Found the roasting trick himself and smelted the first bloom, and can do it on purpose about half the time. Has his own shaft against the forge wall and Erik's leave to keep it. Never seen a real bloomery and says so. Will be a better smith than Brek within three years and Brek already knows it. LOST THE LAST TWO FINGERS OF HIS LEFT HAND, Y2 W38, to a burn off the saw plate that went bad. The left is his tong hand. Says he will hold it again in less than Brek's year."
 
 [[settlement]]
 name = "Aki Arnasson"
-w = 18
+w = 19
 loy = 10
 role = "REEVE'S APPRENTICE"
 note = "Leg healed short and turned: crutch, thirty paces, and he will never walk a field, pull an oar or carry a load - but standing at a bench is different and nobody had ever thought to ask. Has a hip-high bench in longpit 3. Had the reckoning marks, numbers and weights inside three weeks, found a real error in the ration tally and said so out loud, and revises the settlement's targets unasked and early - he would rather say it in week nine than week thirty. INVENTS METHODS: probing a wall with an iron rod instead of digging it, counting a stranger's goods where he can see you count, two sticks that agree and one given away. 120 Hessa words. Reads faster than Vigmar can make the marks harder. Carves with Erik in the evenings, and holds him to a promise from Y1 W38. Beat the jarl at tafl twice and was beaten at last by Gudny."
 
 [[settlement]]
 name = "Arna"
-w = 40
+w = 41
 loy = 8
 role = "Aki's mother. Dresses sealskin with oil and makes combs; teaches four girls."
 
 [[settlement]]
 name = "Ylva Two-Knife"
-w = 19
+w = 20
 loy = 9
 role = "HEADS THE HUNT AND THE WEIR CREW from Y2 W11. Second: Ossur."
 note = "Named to the hunt on merit with Halvar's name kept out of it. Found the cairns, the hollow, the reindeer road and the Ivven tracks. Reads a herd better than anyone here - picked the cull morning off the sky the night before, said no to another ten bulls, and was right. Names the difference herself: this time, if I do not come back, it is mine. And: a hunt is not a raid on somebody's larder. On the hollow, not curious the way she was. Her own terms, offered unasked: no surprises, and if she wants to go somewhere she has not been sent she will stand in front of Erik and ask and wear the answer. Will go inland alone without permission again if fenced off from a question she has asked six times."
 
 [[settlement]]
 name = "Hjalti"
-w = 38
+w = 39
 loy = 7
 role = "heads the fishing"
 note = "Fishing since he was six. Read the freezing rain off the water a full day early. Knew what a weir was the moment Erik said the word and was annoyed he had not. Found the winter cod inside the bar by accident off a bored man's handline and took it as being robbed rather than as a triumph. On his own transit: it's a place, not a promise. Stopped predicting anything after the cod left, and says he would rather admit doubt early than late. Asks for hands, not boats."
 
 [[settlement]]
 name = "Enna Softhand"
-w = 38
+w = 39
 loy = 8
 role = "midwife and healer"
 note = "Opened Aki's leg twice, once on a cliff top by torchlight, and says outright she got it wrong by letting it settle before she was sure. Took Ketil's arm at the shoulder and lost him. Honest about what she cannot fix, and watches how people walk. Works a birth for the week before it rather than on the day. Refuses the jarl in open council when it is a child's growth at stake and wins. Keeps willow bark as well as henbane now, and says of a trampled plant only: it will do. Came off Ottersnout changed in Y1 W10 and has never said why. Hild is her second. Beat the coughing twice on separated messes, boiled cloths, fixed carriers and open vents. Will say a thing twice and unprompted when she can see a man is about to carry the wrong guilt for the rest of his life."
 
 [[settlement]]
 name = "Kelda"
-w = 12
+w = 13
 loy = 10
 role = "orphan, in Solvi's keeping since Y1 W14"
 note = "Saw Vigmar with his hand over the infant's face and told Solvi, once. Does not work or sleep alone and will not be in a room on her own. Good with the dogs. Brings Erik marked pieces off the tideline and keeps it their secret; knows her letters now and checks both sides of a plank before she brings it. Has done a grown woman's work since Y1 W14 and is twelve on a stick and nowhere else."
 
 [[settlement]]
 name = "Gudny"
-w = 30
+w = 31
 loy = 6
 role = "widow, three children under seven. Works the drying racks."
 note = "On Hakvarr's list because she was four mouths and no hands; is on Vigmar's tally as one hand and is four. Handles food from first light to dark. Voted HEADMAN out loud, clearly, without looking away from Erik, then said his name for the seat. Learning her marks. Beat Aki at tafl by watching what everyone else did wrong."
 
 [[settlement]]
 name = "Hild"
-w = 22
+w = 23
 loy = 8
 role = "Enna's second pair of hands. DELIVERED A LIVING GIRL Y2 W30 d6."
 note = "Lost her first child to the coughing in Y1 W10, as far as she knows. Her man is here and digs. Has stood at three births without faltering, including the one that killed the mother, and walked the tideline alone afterwards."
 
 [[settlement]]
 name = "Ingunn"
-w = 20
+w = 21
 loy = 9
 role = "Bjarn's widow. Mother of Ketil, the first child born in Haldvik, and of Bjarn, born Y2 W18."
 note = "Narrow, and it was her first, and everyone knew it; six hours and the henbane stayed in the bag. She and Bjarn had a name picked for weeks and did not use it, and she did not use it the second time either - she named the boy for his father, which nobody expected."
 
 [[settlement]]
 name = "Ossur"
-w = 25
+w = 26
 loy = 7
 role = "widower from Y1 W27. SECOND TO YLVA on the hunt from Y2 W11, runs the snare line and the crew day to day."
 note = "Stayed with Ranulf on the near edge of the bog four days without being asked to. Held Thora while she died and has said almost nothing since. Asked for the cliff line and Bjarn refused him to his face. Dug longpit 3's footings alone for three weeks. Needs a man to stand beside and a thing to be good at. Sleeps in the Keel because four people told him to. Ylva's reason for picking him: he is older than her and people will tell him he should have had it and he will not care, which is the only reason it works. Does the decent thing without being asked and without explaining it, and does not ask for hands when he needs them."
 
 [[settlement]]
 name = "Ranulf"
-w = 22
+w = 23
 loy = 7
 role = "ropemaker. Ankle broken tidy in a bog hole Y1 W15, near enough sound now."
 note = "Spliced the Grey Mare's standing rigging into 130 paces of doubled and served hemp in two days, sitting down. Makes rope with the elders and the children in the evenings. Gives a number nobody asked him for and then takes a sample away for two hours before he will stand behind it."
 
 [[settlement]]
 name = "Tova"
-w = 14
+w = 15
 loy = 8
 role = "LAWSPEAKER'S APPRENTICE, put on the stick Y1 W27 d3."
 note = "No kin - her grandmother was the old woman who went of the coughing in Y1 W10. A memory like a nail. Has forty of the customs word-perfect and argues with Fenn about two of them. Asked the milk-kin question on her own before anyone brought it to him, and was sent away to find the answer out of what she already holds. Being taught the archaic marks by Vigmar in the evenings."
 
 [[settlement]]
 name = "Bruni"
-w = 20
+w = 21
 loy = 5
 role = "HESSA. Boatwright's apprentice, six years under the master at Kolvenn. Lent to Haldvik for one year, to Y2 W34. WENT HOME on the faering Y2 W28 d1 by his own choice, asked and not told. Comes back in Y4 with the master: have the iron ready, and he will show them what a hull is."
 note = "Skelva's sister's son. Not a master and says so. Can caulk, steam and set a strake, shape a rib to a mould, find rot and cut it out, and could build a faering over a winter. CANNOT loft a seagoing hull out of his own head - that is twenty years and the old man. First word on seeing the three hulls: ROT. Finished the Ottersnout in Y2 W6, better than she was when she crossed; on the Widow's Promise now. Has stopped asking about the Grey Mare, having worked out it is not Erik being obtuse. Teaches Hessa words to anyone who sits still, and taught twenty men to rive, which is worth more than any hull he mended. Notices being ASKED rather than told, and says so. GEST'S READ: he would come back tomorrow if he could come back as somebody, and in ten or twelve years there is a master at Kolvenn who spent a year of his youth here and was treated well or badly."
 
 [[settlement]]
 name = "Herdis"
-w = 24
+w = 25
 loy = 7
 role = "potter. Throws rough pots and lids by hand for the sealed store."
 note = "Her daughter, born Y2 W14, would not feed and is well. SHE HAS NOT NAMED THE CHILD - could not while she was going down and still cannot now she is up. Walked to Sigrid herself on the second day and asked."
@@ -249,13 +249,13 @@ note = "Said yes before the sentence was finished. Feeds both girls. THE TWO ARE
 
 [[settlement]]
 name = "Runa"
-w = 26
+w = 27
 loy = 7
 role = "one of Sigra's thirteen. DELIVERED A LIVING BOY Y2 W27 d3, turned wrong and turned by Enna. The boy is not yet named."
 
 [[settlement]]
 name = "Leif"
-w = 20
+w = 21
 loy = 7
 role = "Bruni's man on the Widow's Promise from Y2 W24 d3, every day, not borrowed."
 note = "The second young pair of hands on Bruni's first crew in Y1 W34, and never quite stopped turning up at the hull on his own evenings."
@@ -268,14 +268,14 @@ note = "Watched Bruni steam strakes over the tower rail for a week and asked Orm
 
 [[strand]]
 name = "Hovard"
-w = 35
+w = 36
 loy = 9
 role = "runs the strand yard"
 note = "Was at the cliff when Aki went over. Gentle with the hurt. His wife Bersa kept her father's roof in Skalgrind and both small children and did not come. When Erik named Hakvarr and said revenge out loud, Hovard's whole answer was: then you'll want ships. Will not ask men to sleep on a beach in the snow to make sticks for a building they are not sleeping in. Asks for the condition that makes a crew learn twice as fast, and counts the walk."
 
 [[strand]]
 name = "Torgest Sourmouth"
-w = 29
+w = 30
 loy = 6
 role = "steers Hald's Coal, runs the salt pans"
 note = "Lit the Skalgrind lantern himself and complained about it for five weeks, which saved the settlement's hearth without his ever knowing. Given honest credit repeatedly and did not know where to put it. Spotted the worked timbers. Will not run a loaded hull over an unread bar twice, and says so in front of people. Hovard wants him for the whole summer and says he is worth two men. Sings. Mutiny was always conditional on being ignored, and the window is nearly shut. Kept the pans lit forty days and nights after the whale; went quiet when the homecoming keg was for them and his name went unsaid, and came round when the jarl sat with him - heard is enough. STEERS HALD'S COAL FROM NEXT YEAR, off the pans, his own asking."
