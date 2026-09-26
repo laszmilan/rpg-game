@@ -66,7 +66,7 @@ ladder = [
   { difficulty = 9, label = "hard", each_die = "1/3", success = "11%", mixed = "44%", failure = "44%" },
   { difficulty = 11, label = "very hard", each_die = "1/6", success = "3%", mixed = "28%", failure = "69%" },
 ]
-ladder_shape = "The ladder is symmetric: 3 and 11 mirror, 5 and 9 mirror, 7 is a true 25/50/25 pivot. Even numbers are legal half-steps."
+ladder_shape = "The ladder is symmetric: 3 and 11 mirror, 5 and 9 mirror, 7 is a true 25/50/25 pivot. NO HALF-STEPS: difficulty is 3, 5, 7, 9 or 11 and nothing between (the player, Y2 W44)."
 difficulty = "Difficulty comes from preparedness and conditions and nothing else. Stated preparation, the right hands, the right season, tools, time and information move it down. Haste, ignorance, weather, exhaustion and doing a thing nobody here has ever done move it up. From 5 upward MIXED is the likeliest or joint-likeliest outcome, which is the intended shape of this game."
 one_thread_one_roll = "ROLL LESS (the player, Y2 W38). ONCE A ROLL HAS SET THE SHAPE OF A THING, IT IS SETTLED - no second roll on the same risk unless something new happens in the fiction: a new wound, a new action, a new danger. Stacked rolls on one thread only ever end one way. Small and low-stakes questions - is the ale good, how much cod, which day - are decided from the facts, not rolled. Roll only what is genuinely uncertain AND matters."
 the_shape_of_the_result = "THE GM NARRATES THE SHAPE OF THE RESULT. No second roll on a list to decide how a failure lands. The shape is derived from what the files already establish - the person's condition, the season, the physics, who was standing there - and never from what would make the better scene."
