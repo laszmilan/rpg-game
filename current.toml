@@ -1,14 +1,13 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 47, day = 1, season = "winter" }
-morale = 7
-mood = "THE TURNING KEPT LOUD, every coal alive, the luck held; the jarl said they would be hungry and they know it. Snowed in and holding. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
+date = { year = 2, week = 48, day = 1, season = "winter" }
+morale = 5
+mood = "THE THIRD CUT, the morning after the Turning's goodwill; blows struck over a hearth place; Ulf nearly drowned on the ice and the ice gave a seal. Hungry, short-tempered, holding. Before that, the Turning kept loud and every coal alive. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, the six Hessa at the back of longpit 1, and nobody outside. Byre against longpit 2's east gable."
 clocks = [
-  "W47 D1, NOW - THE NUMBER TOLD at the hearth, by the jarl, as promised to Fenn: the store runs dry about the turn of the year, the cod ten weeks after.",
-  "About W48 - THE ICE BEARS (Ilmo). Volunteers only.",
-  "Y3 W1 or so - the store empty. A deeper cut after the Turning if needed, named on the day.",
+  "BEFORE Y3 W1 - ERIK TELLS THE SETTLEMENT THAT INGRA GOES NORTH TO AILI IN SPRING, as he promised her.",
+  "Y3 W3-4 or so - THE STORE EMPTY at the third cut, ten weeks before the cod; about 3.3 t short before the ice and anything else.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. Until then the lines take little.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one. Ilmo's six go home when the ice lets them.",
@@ -16,24 +15,24 @@ clocks = [
 ]
 
 [souls]
-total = 103
-of_15_or_more = 76
-women_of_15_or_more = 43
-of_12_to_14 = 3
-children_under_12 = 25
+total = 104
+of_15_or_more = 77
+women_of_15_or_more = 44
+of_12_to_14 = 4
+children_under_12 = 23
 veterans_of_real_fighting = 14
 dead = 14
 born_here = "Nine. Three to women carrying at the landing, delivered in Y1; KETIL Bjarnsson Y1 W20; THORA, daughter of Sigrid, Y1 W41; HERDIS'S DAUGHTER Y2 W14, unnamed; BJARN, son of Ingunn, Y2 W18; RUNA'S SON Y2 W27, unnamed; HILD'S DAUGHTER Y2 W30."
-the_reconciliation = "108 sailed, 14 dead, 9 born here: 103, all Haldvik's own, all home."
+the_reconciliation = "108 sailed, 9 born here living, 14 dead - but THORA'S SON was born dead here and is among the 14 without being among the 108 or the 9, so the living are 108 + 9 - 13 = 104, all Haldvik's own, all home. (Corrected Y2 W47; 103 had been carried since the stillbirth.)"
 resident_strangers = "SIX HESSA off Ilmo's fishing boat, driven in by the W36 gale. Five work; one has a leg broken below the knee, set, knitting by about W42. Under Haldvik's law and at its work, fed on the jarl's own word under Haldvik roofs, on the same fifth cut as everyone from W40, until the ice goes and their boat can swim. They teach the Hessa tongue in the evenings and will teach the ice."
 
 [food]
-in_store_kg = 2985
+in_store_kg = 2670
 store_last_year = "6610 at the Turning last year. At a winter draw of 420 against little income, this store is empty about Y3 W1-2, some ten weeks before the cod come back."
 what_it_is = "Dried and smoked fish and seal are the bulk. About 500 kg salted whale and 150 kg smoked; about 1,050 kg of W25 eggs in ash; about 400 kg salted seal; birds, greens, berries, seaweed; rendered fat; about 140 kg of Haldvik barley for the pot; from the W22 trade 300 kg barley, 200 kg peas, 80 kg fat. About 450 kg raw of FROZEN WALRUS meat and blubber (W44), keeping in the cold. Seal oil about 680 l and whale oil about 350 l. Milk from the cow."
 sealed_and_not_food = "SEED: 200 KG OF BARLEY by the jarl's word, 40 kg Hessa peas, 60 kg Haldvik peas, and the henbane seed for a herb garden. Eating it is theft from the colony, said by the jarl in those words."
 ale = "Aud's first-field keg, the rest of it under Sigra's hand, strong and tasting of peat smoke. A SECOND BATCH MALTING: twenty kilos of eating barley for sixty litres at the Turning, midwinter W46."
-the_ration = "A FIFTH CUT from Y2 W32, the jarl's word, named on the day, AND THE SIX HESSA ON IT FROM W40. Not the children, not the women carrying. Nursing mothers take the cut but go first after the children for fresh fish, raw liver and milk - Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. About 420 a week with the Hessa. FROM W41, A WORKING RATION AND A SITTING RATION inside that same total: whoever is out at the rocks, boats, snares or ice on a head of work's task eats more, whoever sits by the fire eats less; not the children, the carrying, the nursing or the sick. Aki marks who went out each night; Fenn's sitting portion was weighed first, in public. A DEEPER CUT AFTER THE TURNING if needed, named on the day. Weighed in public by Vigmar, checked by Sigra."
+the_ration = "A THIRD CUT FROM Y2 W47 D1, the jarl's word, named on the day (a fifth from W32), THE SIX HESSA ON IT. Not the children, not the women carrying, not the sick - AND THE NURSING MOTHERS WITH THE CARRYING at Enna's asking: Hild, Runa, Ingunn, Herdis, and Sigrid feeding two. They go first after the children for fresh fish, raw liver and milk. ABOUT 370 A WEEK with the Hessa. FROM W41, A WORKING RATION AND A SITTING RATION inside that same total: whoever is out at the rocks, boats, snares or ice on a head of work's task eats more, whoever sits by the fire eats less; not the children, the carrying, the nursing or the sick. Aki marks who went out each night; Fenn's sitting portion was weighed first, in public. Weighed in public by Vigmar, checked by Sigra."
 standing_food = "ANYTHING THAT SWIMS OR WALKS IS EATEN - roots, river snails, seaweed, shellfish, whatever the snares and the tide give. Fresh is eaten before stored. The boats fish inside the bar every workable day."
 
 [resources]
@@ -68,7 +67,7 @@ in_the_byre = "Seventeen head in twenty-seven stalls, the gaps stuffed with peat
 
 [health]
 carrying = "A third Enna will not name. Runa's boy and Hild's girl are well, their mothers mending."
-standing = "THE JARL: two ribs cracked (W36), HAULING AGAIN from W40 d6, an ache and no catch; thinner. HAFLI: THE LAST TWO FINGERS OF HIS LEFT HAND taken at the knuckle (W38) after the saw burn went bad; the stumps dry and closed, the palm cool; right hand only until Enna says. ONE HESSA leg set below the knee. Sigra's daughter mending, told privately she should not carry again. Herdis's daughter well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
+standing = "THE JARL: two ribs cracked (W36), HAULING AGAIN from W40 d6, an ache and no catch; thinner. HAFLI: THE LAST TWO FINGERS OF HIS LEFT HAND taken at the knuckle (W38) after the saw burn went bad; the stumps dry and closed, the palm cool; right hand only until Enna says. ULF, through the ice W47 D6: lives, keeps his toes, the skin off two, OFF HIS FEET TO ABOUT W49. ONE HESSA leg set below the knee, knitting. Sigra's daughter mending, told privately she should not carry again. Herdis's daughter well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
 henbane = "Some in hand, found by Solvi, and seed enough for a tiny herb garden, by the jarl's word. Willow bark tea as well - bitter, weaker, plenty of it."
 ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the green ration from W40 with pine tea twice a week, latrines downstream and used in the dark with no exceptions, combs and hot water, roof vents. Lye handwashing at every door by law, and soap."
 
@@ -76,7 +75,7 @@ ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the gree
 _ = "Winter. The strand is shut and the ground frozen; food and upkeep first."
 standing_priority = "Cutting before construction, meat and fish; eggs and greens are a priority. Grain that will not dry outside is dried by the longpit hearths."
 boats = "The lines inside the bar every workable day, the Hessa rowing with ours and in their own boat. The catch is next to nothing until the cod come back."
-the_ice = "WHEN THE BAY ICES (about W46): VOLUNTEERS ONLY, the jarl's word. Ilmo's five teach - never alone, a rope between each pair, an axe to test every step. The pole net under the ice for flatfish and small cod; seal at the breathing holes with the harpoons."
+the_ice = "THE ICE WORKED FROM W47 D5, VOLUNTEERS, twelve in six roped pairs under Ilmo's five, an axe to test every step, nobody past Ilmo's line short of the open water at the bar. The pole net from hole to hole for flatfish; a harpoon waiting at the seal holes (three seen). ABOUT 120 KG RAW A WEEK while the ice holds and nobody else goes in."
 foraging = "Solvi's ten on the tide rocks, seaweed cut off frozen stone, shellfish, roots and river snails - all of it eaten. YLVA AND OSSUR SNARE THE WHOLE GROUND TO THE EDGE, the river scrub and the upper shoulder."
 indoor = "THE HESSA TONGUE every evening at the back of longpit 1, the man with the broken leg teaching the house tongue - Tova, Aki, Gest, Kelda, Ylva, Ranulf and whoever sits down; Arna's reindeer suits; Ranulf's rope in the evenings; AKI'S MAP finished, soot and oil on sealskin, THE LAW 17 EDGE DRAWN from Ylva's walking with a gap in the middle to close in summer, under the reeve's beam and never copied; Aki and Tova at the old marks with Vigmar in the evenings; the forge as Brek likes, Hafli one-handed."
 watch = "Two men on the tower every night in two-hour turns. One short blast on the horn means come and look."
