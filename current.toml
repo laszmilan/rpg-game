@@ -1,12 +1,12 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 39, day = 1, season = "autumn" }
+date = { year = 2, week = 40, day = 1, season = "winter" }
 morale = 6
-mood = "Frozen in. The ground has shut and the cod have gone, and from here the store only goes one way. The smith's boy lost two fingers to a burn from the jarl's saw, and people have noticed whose saw. The jarl is up and walking and back in the longpits."
+mood = "Snowed in and holding. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, the six Hessa at the back of longpit 1, and nobody outside. Byre against longpit 2's east gable."
 clocks = [
-  "W40 - WINTER. Enna's green ration starts: pine tea twice a week.",
+  "W40, NOW - WINTER. Enna's green ration from this week: pine tea twice a week.",
   "W46 - MIDWINTER, THE FEAST OF TURNING, the longest night. Every hearth banked to one coal and relit before dawn; ages turn. Aud's second ale, sixty litres, and three cocks for the soup. Fenn's counsel: tell them plain about the winter before it, and again at it. The bay ices about now.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. Until then the lines take little.",
@@ -27,8 +27,8 @@ the_reconciliation = "108 sailed, 14 dead, 9 born here: 103, all Haldvik's own, 
 resident_strangers = "SIX HESSA off Ilmo's fishing boat, driven in by the W36 gale. Five work; one has a leg broken below the knee, set, knitting by about W42. Under Haldvik's law and at its work, fed on the jarl's own word under Haldvik roofs, until the ice goes and their boat can swim."
 
 [food]
-in_store_kg = 5685
-store_last_year = "9420 at W37 last year. On last winter's net drain of about 300 a week, this store is empty about Y3 W3, some eight weeks before the cod come back."
+in_store_kg = 5460
+store_last_year = "9100 at W40 last year. At a winter draw of 425 against little income, this store is empty about Y3 W3, some nine weeks before the cod come back."
 what_it_is = "Dried and smoked fish and seal are the bulk. About 500 kg salted whale and 150 kg smoked; about 1,050 kg of W25 eggs in ash; about 400 kg salted seal; birds, greens, berries, seaweed; rendered fat; about 140 kg of Haldvik barley for the pot; from the W22 trade 300 kg barley, 200 kg peas, 80 kg fat. Seal oil about 680 l and whale oil about 350 l. Milk from the cow."
 sealed_and_not_food = "SEED: 200 KG OF BARLEY by the jarl's word, 40 kg Hessa peas, 60 kg Haldvik peas, and the henbane seed for a herb garden. Eating it is theft from the colony, said by the jarl in those words."
 ale = "Aud's first-field keg, the rest of it under Sigra's hand, strong and tasting of peat smoke. A SECOND BATCH MALTING: twenty kilos of eating barley for sixty litres at the Turning, midwinter W46."
@@ -43,7 +43,7 @@ iron = "About 10 kg of bar, about 2 kg usable from the Nagholt lumps, one fist-s
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of each."
 "rope and line" = "Eight coils of ship's rigging, and the cliff line - the Grey Mare's standing rigging spliced into 130 paces of doubled and served hemp. Sixty paces of sealskin-and-bast spare. No cordage on this coast; 400 paces coming Y3 W14."
-"hides and cloth" = "41 sealskins, fifteen sets dressed. Six bolts of wool, almost no linen. FORTY-FIVE REINDEER HIDES, hollow-haired, warmer than sealskin at a third the weight - Arna's winter suits come out of them. Two sheepskins from the cull. Nine bundles of dried sinew. Two pieces of Ivven hide worked thin as cloth that nobody here can reproduce."
+"hides and cloth" = "41 sealskins, fifteen sets dressed. Six bolts of wool, almost no linen. FORTY-EIGHT REINDEER HIDES, three of them Haldvik-killed, hollow-haired, warmer than sealskin at a third the weight - Arna's winter suits come out of them. Two sheepskins from the cull. Nine bundles of dried sinew. Two pieces of Ivven hide worked thin as cloth that nobody here can reproduce."
 barrels = "Five ships' casks and ten coopered Hessa kegs and barrels. Scald, lye, rinse and scald again over three days before use."
 "lamp oil" = "A third of a cask, plus the seal oil and whale oil."
 "birch tar" = "About 2 litres from the Ivven and most of the small barrel Vask gave. Kolvenn has barrels of it."
@@ -66,7 +66,7 @@ in_the_byre = "Nineteen head in twenty-seven stalls. The hay - three cuts - carr
 
 [health]
 carrying = "A third Enna will not name. Runa's boy and Hild's girl are well, their mothers mending."
-standing = "THE JARL: two ribs cracked (W36), a month off hauling and rowing; the chest fever broken; a morning rattle, thinner, tires by afternoon. HAFLI: THE LAST TWO FINGERS OF HIS LEFT HAND taken at the knuckle (W38) after the saw burn went bad; the arm and hand saved, the stumps closing, the palm still warm; right hand only. ONE HESSA leg set below the knee. Sigra's daughter mending, told privately she should not carry again. Herdis's daughter well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
+standing = "THE JARL: two ribs cracked (W36), off hauling and rowing to about the end of W40; the chest fever broken; short of breath on a climb, thinner. HAFLI: THE LAST TWO FINGERS OF HIS LEFT HAND taken at the knuckle (W38) after the saw burn went bad; the stumps dry and closed, the palm cool; right hand only until Enna says. ONE HESSA leg set below the knee. Sigra's daughter mending, told privately she should not carry again. Herdis's daughter well and on two women. One crushed hand permanently weak. One strand man with a mended jaw and four teeth gone."
 henbane = "Some in hand, found by Solvi, and seed enough for a tiny herb garden, by the jarl's word. Willow bark tea as well - bitter, weaker, plenty of it."
 ennas_five = "Bedding (4 t dry, enough to throw out and replace twice), the green ration from W40 with pine tea twice a week, latrines downstream and used in the dark with no exceptions, combs and hot water, roof vents. Lye handwashing at every door by law, and soap."
 
@@ -75,7 +75,7 @@ _ = "Winter. The strand is shut and the ground frozen; food and upkeep first."
 standing_priority = "Cutting before construction, meat and fish; eggs and greens are a priority. Grain that will not dry outside is dried by the longpit hearths."
 boats = "The lines inside the bar every workable day, the Hessa rowing with ours and in their own boat. The catch is thin until the cod come back."
 foraging = "Solvi's ten on the tide rocks, seaweed, shellfish, roots and river snails. Snares under Ylva and Ossur."
-indoor = "Arna's reindeer suits; Ranulf's rope in the evenings; Aki's map of the settlement with Osvi, on a sealskin, to be kept under the reeve's hand and never copied; Aki and Tova at the old marks with Vigmar in the evenings; the forge as Brek likes, Hafli one-handed."
+indoor = "THE HESSA TONGUE every evening at the back of longpit 1, the man with the broken leg teaching the house tongue - Tova, Aki, Gest, Kelda, Ylva, Ranulf and whoever sits down; Arna's reindeer suits; Ranulf's rope in the evenings; Aki's map of the settlement with Osvi, on a sealskin, to be kept under the reeve's hand and never copied; Aki and Tova at the old marks with Vigmar in the evenings; the forge as Brek likes, Hafli one-handed."
 watch = "Two men on the tower every night in two-hour turns. One short blast on the horn means come and look."
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring still walked every morning with a bare palm."
 
@@ -135,5 +135,5 @@ _ = "Five kilometres south-west. SHUT FOR THE WINTER from W36; Hovard's crew hom
 "the fields" = "Two, sown sixteen days apart so one gale cannot take both; both harvested. The lower third of the first field floods. THE KITCHEN CROPS - kale, peas, turnip - kale standing through the frost for the winter green. Next year's planting is to be rethought over the winter: place, timing, and channels so the field does not flood."
 "the peat cuttings" = "Where the bog ore is, and where Nagholt is."
 "the fire ring" = "45 x 30 m trench round the underground peat fire, drowned in Y2 W26 and cold since. Walked every morning with a bare palm."
-grazing = "Sheep, goats, the cow. YLVA'S REINDEER GROUND AND AUD'S BARLEY GROUND ARE THE SAME FIELD and nobody has settled it. Whether Haldvik may hunt deer and the Ivven hunt near Haldvik is unsettled too, and wants a treaty and a tongue."
+grazing = "Sheep, goats, the cow. YLVA'S REINDEER GROUND AND AUD'S BARLEY GROUND ARE THE SAME FIELD and nobody has settled it. THE WHOLE SHOULDER TO THE MOOR EDGE IS HALDVIK'S BY LAW 17; the Ivven have not agreed, and a treaty still wants a tongue. The hunt's standing word: if they kill first, let them have it; what we kill first is ours."
 Nagholt = "A burned house twenty-four metres long under 60 cm of peat, traced by rod and recorded on three sticks that live in different buildings. The pit is filled back in; no mark on the ground. Every peat face opened is a dig."
