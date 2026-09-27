@@ -1,14 +1,14 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "THE PRESENT, AND ONLY THE PRESENT. What is true or owed now, brought up to date every week. Nothing dated, nothing historical - that is log.toml. People are in people.toml; the laws and treaties in laws_and_treaties.toml; the world, rules and standing practice in readme.toml. Player-readable."
-date = { year = 2, week = 51, day = 1, season = "winter" }
+date = { year = 2, week = 52, day = 1, season = "winter" }
 morale = 6
-paused_at = "PLAY PAUSED AT Y2 W51 D6, MORNING - W51 is not yet logged. SO FAR THIS WEEK: D1 council - AKI: 13 weeks to the cod (last year 95 a week to 480 at W12); SOLVI: no snails or roots till spring; pine inner bark from the strand wood, the grey moss boiled twice, seaweed and the low mussels - 30-50 a week, fills more than feeds; the jarl sets the draw from the store at about 270 a week plus what comes in; YLVA: the herd is 20 km in and it is their larder - not touched; snares out past the edge for hares and ptarmigan instead; THE NEW RATION CUT (see food.the_ration), the seed untouched, the boar eaten. LAND: Ormar's order (longpit 4, the forge, one block staked), Gate Road and lanes every 25 m, plots drawn on the map in spring, two sticks, plain stones, and not one block likely built in Y3 - said out loud. D1 evening: the ration weighed and named, children cut for the first time; MORALE 7 TO 6; THE ROADS NAMED in longpit 1 - Gate Road, Salt, Iron, Whale and Grip lines, four up for sale; Torgest refuses to sell his silence for a road and sings a whale song. D2 the boar eaten; D2-D5 northerly, the ice worked two days; D4 Solvi's moss porridge; D3-D5 Ylva and Ossur past the edge: four hares and a ptarmigan. D6 clear and still, the coldest yet: OSVI ASKS THE JARL FOR THE NEEDLE to take a seventh sighting off the north headland - the jarl has not answered."
-mood = "TWO THIRDS OF A WHALE (W50), off the worst ice there is, nobody under the boat, the jarl on the rope and Halvar in the boat - told and retold. THE LAND ON THE BENCH (W48): private ground two years after it was promised, argued over the map in front of half the settlement - something to talk about in the dark besides the bowl. THE THIRD CUT, the morning after the Turning's goodwill; blows struck over a hearth place; Ulf nearly drowned on the ice and the ice gave a seal. Hungry, short-tempered, holding. Before that, the Turning kept loud and every coal alive. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
+paused_at = "W52 NOT YET BEGUN. Play opens at D1 council."
+mood = "THE NEW CUT (W51), NAMED OUT LOUD AND WEIGHED: the children cut for the first time, the boar eaten, the seed kept - and the same night the roads got their names, Whale Line and Grip Line and four up for sale, and the pit shouted them out. TWO THIRDS OF A WHALE (W50), off the worst ice there is, nobody under the boat, the jarl on the rope and Halvar in the boat - told and retold. THE LAND ON THE BENCH (W48): private ground two years after it was promised, argued over the map in front of half the settlement - something to talk about in the dark besides the bowl. THE THIRD CUT (W47), the morning after the Turning's goodwill; blows struck over a hearth place; Ulf nearly drowned on the ice and the ice gave a seal. Hungry, short-tempered, holding. Before that, the Turning kept loud and every coal alive. The store only goes one way now, and some are counting knocks - the hull, the ward, the boy's fingers. Against that, Haldvik stood and said its ground out loud, 71 to 2, and ate three deer off it the next morning. The Ivven band fed the jarl a leg like a dog and walked off with four deer, and everyone saw it from the terrace; that is remembered too."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel under the Grey Mare, the six Hessa at the back of longpit 1, and nobody outside. Byre against longpit 2's east gable."
 clocks = [
   "EVERY MONDAY - THE LAND PLAN goes on at council, the map on the bench, so there is a plan by spring.",
-  "Y3 W5 or so - THE STORE EMPTY at the third cut with the whale in, about seven weeks before the cod; about 2.3 t short before the ice and anything else.",
+  "Y3 W9 or so - THE STORE EMPTY at W51's net draw (about 205 a week), some three weeks before the cod. The ration was set to stretch thirteen weeks; it needs about 120 a week coming in to do it, and W51 brought 95.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. Until then the lines take little.",
   "Y3 W14 - the Hessa, with cordage and wood, and a new deal cut as one. Ilmo's six go home when the ice lets them.",
@@ -28,7 +28,7 @@ the_reconciliation = "108 sailed, 9 born here living, 14 dead - but THORA'S SON 
 resident_strangers = "SIX HESSA off Ilmo's fishing boat, driven in by the W36 gale. Five work; one has a leg broken below the knee, set, knitting by about W42. Under Haldvik's law and at its work, fed on the jarl's own word under Haldvik roofs, on the same fifth cut as everyone from W40, until the ice goes and their boat can swim. They teach the Hessa tongue in the evenings and will teach the ice."
 
 [food]
-in_store_kg = 2295
+in_store_kg = 2090
 store_last_year = "6610 at the Turning last year. At a winter draw of 420 against little income, this store is empty about Y3 W1-2, some ten weeks before the cod come back."
 what_it_is = "Dried and smoked fish and seal are the bulk. About 500 kg salted whale and 150 kg smoked; about 1,050 kg of W25 eggs in ash; about 400 kg salted seal; birds, greens, berries, seaweed; rendered fat; about 140 kg of Haldvik barley for the pot; from the W22 trade 300 kg barley, 200 kg peas, 80 kg fat. About 450 kg raw of FROZEN WALRUS meat and blubber (W44), keeping in the cold. Seal oil about 680 l and whale oil about 350 l. Milk from the cow."
 sealed_and_not_food = "SEED: 200 KG OF BARLEY by the jarl's word, 40 kg Hessa peas, 60 kg Haldvik peas, and the henbane seed for a herb garden. Eating it is theft from the colony, said by the jarl in those words."
@@ -61,10 +61,10 @@ rams = 2
 goats = 4
 cow = 1
 heifer_calf = 1
-pigs = "1 - THE BOAR, penned in longpit 2's gable end behind hurdles since W46. THE SOW DIED IN THE W46 COLD; no piglets unless a sow is got from the Hessa."
+pigs = "NONE. The boar eaten W51 d2; the sow died in the W46 cold. No pigs unless got from the Hessa."
 chickens = "13 hens, in a basket by longpit 2's hearth since W46, laying better for it. The three cocks went into the Turning soup - no cock left."
 dogs = 3
-in_the_byre = "Seventeen head in twenty-seven stalls, the gaps stuffed with peat. The hay - three cuts - carries them. The pigs eat from the people's pot, not the hay. Kept for next year's births: both rams, every hen."
+in_the_byre = "Seventeen head in twenty-seven stalls, the gaps stuffed with peat. The hay - three cuts - carries them. Kept for next year's births: both rams, every hen."
 
 [health]
 carrying = "A third Enna will not name. Runa's boy and Hild's girl are well, their mothers mending."
@@ -147,7 +147,7 @@ free = "About 0.8 ha - the wet south end and the strip along the edge, and betwe
 "the tower" = "Timber, 22 sticks, on four proven holes; hooded and lined with the old storehouse lookout's bench and hood, the night and winter post. A HORN ON THE PLATFORM, signals cut on Aki's stick (laws_and_treaties). Sees past the north headland and over the shoulder to the moor edge."
 "the hearth" = "The centre of everything. NO HEARTH IN HALDVIK GOES FULLY COLD, the Turning excepted, and then it is sat."
 "longpit 1" = "12 x 8 m aisled, turf and stone walls, driftwood frame, turf roof, roof vent over the hearth line. Sleeps 25, 34 tight. Holds the main hearth, so everyone passes through it."
-"longpit 2" = "Same build. Byre against its east gable; THE BOAR penned in its gable end behind hurdles, the hens by its hearth."
+"longpit 2" = "Same build. Byre against its east gable; the hens by its hearth."
 "longpit 3" = "12 x 8 m. Aki's bench against the west wall in the good light; Vigmar's corner and the lesson board. The clean room."
 "longpit 4" = "Footings dug, forty-two post holes lined and turfed, to be proved at the thaw. Next year."
 storehouse = "10 x 10 m dressed grey stone, the whole sealed store, a door and the reeve's beam across it. NOBODY SLEEPS IN IT - Enna's ruling, backed by the jarl. The map and the tusks under the beam."

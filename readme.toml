@@ -155,7 +155,7 @@ the_hollow = "Where the line ends. A lipped basin about 400 paces across, floor 
 [known_world.the_needle]
 what = "A dark iron needle floating in oil in a sealed brass case of foreign make. Osvi's, given freely; Erik carries it."
 what_it_does = "Points north underneath, and at iron in the ground on top when close enough, which is why it swings on this coast and why Ketil's knife stood out from his hip at the second cairn."
-loose_ends = "It drifted a hand's width off true sitting in a hut in Skalgrind, five weeks of ocean from here, with nothing there pulling it. AND IT WALKS: six clean sightings off the north headland, every one further east than the last, about a finger a month, a hand and a half since Y1 W12, never back."
+loose_ends = "It drifted a hand's width off true sitting in a hut in Skalgrind, five weeks of ocean from here, with nothing there pulling it. AND IT WALKS: seven clean sightings off the north headland, the seventh in Y2 W51, every one further east than the last, about a finger each time, never back. EVEN, NOT IN JUMPS (Osvi): a failing needle sticks and wanders, this moves like something steady pulling. Cut on two sticks that agree, Osvi's and Aki's, each sighting with its day."
 what_the_folk_believe = "That it turned toward the land because the land is where they were meant to come. Erik said it, and Fenn repeats it."
 
 [known_world.neighbours]
