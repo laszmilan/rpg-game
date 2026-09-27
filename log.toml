@@ -1273,3 +1273,17 @@ events = [
   "D2-D7: a raw westerly with blowing snow; the ice worked three days of seven, the holes lost in drift on the others; nothing else.",
   "THE WEEK: 30 in (the ice three days, the rocks and snares). 370 out.",
 ]
+
+[[entry]]
+year = 2
+week = 49
+title = "TWO HUNTERS PAST THE LINE"
+store = 2045
+income = 85
+consumed = 370
+events = [
+  "THE WEEK: clear, still and hard, fifteen to twenty below; the ice worked every day, a second seal on D2 and another D6. Ulf on crutches at the tideline shouting advice. D1 council goes on with the land - Ormar on lanes, Sigra counting.",
+  "D3: THE HORN, one short - TWO IVVEN AND A DOG FAR OUT ON THE BAY ICE past Ilmo's line toward the bar, flat at a breathing hole; a seal by noon, dragged north-east along the shore ice under the north shoulder to the headland, one testing every step with a pole. They never look at the terrace. HJALTI: ice he will not send a man onto, a hole none could reach - is the bay ours? The stick says from the sea. ERIK: we do nothing about them - it is ground we would never go to. HJALTI ON CUSTOM: nobody owns the sea; a steading owns its shore to the net-lay, as far as a forty-metre net stands on the bottom at low water; but A LANDING is the steading's - a ship drops her sail outside and waits to be looked at, and coming in without that is coming as an enemy. THE BAY SET (readme): about 700 m beach to bar, 1 km across, the reef and the cod ground inside. ERIK: WE CLAIM INSIDE THE BAR, 700 M OUT, AND NOT THE SEA. Hjalti will tell Fenn it wants cutting. The jarl watches them from the tower round the headland.",
+  "D1, OOC, to Fenn at the end of W48's council: the jarl held the land back till now on purpose - people with nothing to do but think should think about plots and not empty bellies. FENN: he knew, and did not ask.",
+  "THE WEEK: 85 in. 370 out.",
+]
