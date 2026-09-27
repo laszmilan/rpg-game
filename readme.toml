@@ -50,7 +50,7 @@ seasons = [
   { season = "Winter", weeks = "40-52", midpoint = "MIDWINTER W46" },
 ]
 seasons_warning = "THE SOLSTICES AND EQUINOXES SIT IN THE MIDDLE OF THEIR SEASON, NOT AT THE EDGE. THE FEAST OF TURNING IS MIDWINTER, W46 - the longest night of the year. This table is the one source of truth and is not repeated in any other file. Weather follows the seasons as labelled: W14-26 dries fish, W40-52 and W1-6 is the hard cold."
-units = "Metric. In fiction the folk say paces and a day's walk; GM numbers are m, km, kg, litres."
+units = "METRIC EVERYWHERE, IN FICTION TOO (the player, Y2 W48): NPCs say metres, kilometres, kilos and litres, because that is what the player thinks in. A day's walk is fine as colour."
 resolution = "Diceless first. Outcomes follow from stated facts, agendas and physics. The dice are for genuine uncertainty only."
 loyalty = "0-10. 0 hostile, 5 neutral, 10 would die for you."
 

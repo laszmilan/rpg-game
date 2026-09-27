@@ -1256,3 +1256,20 @@ events = [
   "D6, evening, SIGRA outside the ward: he volunteered, she does not blame the jarl for the ice - her sons go into water you could stand in, and it is always the one trying to help. ERIK: he will live; a good one and a strong one. SIGRA: Rekk was strong too; he'll live, and that's more than she got the last time. D7: the jarl visits Ulf.",
   "THE WEEK: seal 45, flatfish 40, rocks and snares about 30 - about 115 raw, 55 against the store. Consumed about 370 from D1.",
 ]
+
+[[entry]]
+year = 2
+week = 48
+title = "THE MAP ON THE BENCH"
+store = 2330
+income = 30
+consumed = 370
+events = [
+  "OOC: ONE FOOD NUMBER for the player from here - store kg in, store kg out; raw is GM-internal. Metric in the fiction too. W40-W47 pushed to GitHub.",
+  "D1, council: VIGMAR - the ice is a queue: twenty at the beach for twelve places because a day on the ice is a working mark; four sit at seal holes all day and eat the working bowl; Aki is becoming the boy who decides who eats. ERIK: fishing or hunting - one category. HALVAR: fishing, Hjalti's; the mark goes where a head of work puts a man. SETTLED: THE ICE IS HJALTI'S.",
+  "D1: ERIK RAISES INGRA'S SPRING before the council, the ice in: she goes north to Kolvenn, at least a summer. FENN: nobody this side of the water can teach her; the question is what she leaves - the two coals, and who keeps the fire honest. INGRA: THEY STAY, Haldvik's and not hers; she reached for one when the hull came down, and out of reach she cannot reach in a bad hour; SEALED IN FENN'S KEEPING; nobody reads while she is away. ERIK: why did Ranvi say touch neither, and how would she read without them? INGRA: every working takes what does not come back, and she has never paid, which Ranvi thought meant somebody else was paying; she sees in any fire unbidden - the basket coals are for asking on purpose, and that is what is paid for. Cut: the ember-wife goes north in spring, the coals with the lawspeaker.",
+  "D1, THE LAND, over Aki's map with stones on its corners, half the settlement in to listen: laws 7-9 already say no pegging, survey and settlement first, and the jarl allots in spring (Fenn). Talked through and NOT DECIDED - WHAT HALDVIK KEEPS (Vigmar); HOMES BY HEARTH SIZED BY HEAD, 38 hearths, plots for hearths to come; BLOCKS of four to six homes, 10 x 20 m each, lanes and a 5 m main road (the jarl), fire spacing (Ormar), 7 blocks about a hectare (Aki); WASTE never into the harbour (Enna); FIELDS COMMON FOR YEARS, Aud to site them (Aud); THE FOUR WALLS for many, many, many years, the shoulder's half circle 150 m out, about 470 m and 3.5 ha (Halvar, Aki); the terrace about 300 x 40 m, a third used; THE LONGPITS - 1 the great hall, 2 and 3 homes and barracks for those who will not build, thralls if ever, guests, 4 the ward; the lean-to, peat walls and pits up to the shoulder; THE FORGE against the quarry's cut face (no cave, oracle 2), a hood for the smoke, the bloomery outside, nothing within 10 m, Brek to tell Ormar before it is built; SIX LONG PLOTS ON THE TERRACE as an idea only - Aki: the six best plots, and the other thirty-two will count. Full detail in current.toml land_plan. ERIK: keep thinking; we go on next Monday, and there will be a plan by spring.",
+  "THE MOOD: MORALE 5 TO 6 - two years after the jarl said there would be private ground, it was spread on a bench with every voice in it, and people have something to argue over in the dark besides the bowl.",
+  "D2-D7: a raw westerly with blowing snow; the ice worked three days of seven, the holes lost in drift on the others; nothing else.",
+  "THE WEEK: 30 in (the ice three days, the rocks and snares). 370 out.",
+]
