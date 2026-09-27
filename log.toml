@@ -1357,3 +1357,25 @@ events = [
   "THE MOOD: morale holds at 5 - the grey-walker story is at every hearth by the D3 fire, and against it ten knives went inland to bring meat home.",
   "THE WEEK: 100 in (the ice seven days, a seal, the snares and rocks). 300 out.",
 ]
+
+[[entry]]
+year = 3
+week = 2
+title = "THIRTY DEER TO THE EDGE"
+store = 2025
+income = 705
+consumed = 300
+events = [
+  "THE WEEK: clear and still, sun at midday and fierce cold at night; the lead at the bar skins over and the fast ice runs sound to within about 50 m of it by D3. The ice worked every day.",
+  "D1, dusk: THE PARTY HOME, all eleven walking, the sleds empty; frost-nip on two haulers' cheeks, Vigmar limping and pretending not. YLVA: the scarred man's own band lay up with the herd; he knew Vigmar at twenty paces and took the counted stick out of his coat himself. MEAT IN WINTER IS DEARER THAN SKINS, said with his hands: THREE DEER A KNIFE, THIRTY DEER for the ten, killed off their own herd and dressed - and HE WOULD NOT LET HALDVIK CARRY THEM: his dogs bring them to the edge in two runs. The mood careful, not unfriendly: the knives counted three times and every edge tried on a thumbnail, his people watching from the shelters, nobody near the sleds. THEY WERE NOT HUNGRY - fat children and fat dogs; Haldvik was the hungry one and they all saw it. AND HE BRINGS IT TO THE EDGE, WHERE THE PEAT TURNS TO BOG, AND NOT A STEP OVER - Ylva thinks he means it to be noticed.",
+  "OOC: the jarl's record with them - no fight on the hill, the deer they took left to them, their men on Haldvik's ice untouched, the herd left alone through a hungry winter, a counted stick, and now ten knives paid in full. What the scarred man means by the edge is his to show.",
+  "D1 night, the moor edge by torchlight, THE JARL THERE TO WATCH: three low sleds behind strings of pale dogs, FIFTEEN CARCASSES frozen hard, halted a pace short of the edge and rolled onto Haldvik's side counted in their tongue. THE SCARRED MAN finds the jarl along the torches, knows him, and through Ilmo's man: HALF. PAID. THE OTHER HALF, TWO DAYS. The jarl's thanks taken with one nod. Meat only, skinned and gutted; the Ivven keep the thirty hides. In the storehouse by midnight.",
+  "D3 dusk: THE SECOND FIFTEEN at the edge, as promised; the scarred man not with it. HJALTI: the bar ice sound but for the last fifty metres.",
+  "D4 midday, the horn: SIX RINGED SEALS basking by their holes on the outer ice about 600 m out, on good ice. ILMO: nobody past the old pack, roped pairs, only the seals at risk; sailcloth over the back, crawl flat, freeze when one lifts its head; his five have done it, ours will be slow. ERIK: try it with volunteers. TEST, difficulty 7 (sound ice, a still day, Ilmo's five and the method; against nobody here ever having done it, haste and the short light, and skittish seals): [11,5] MIXED. Twelve under the racks' sailcloth, an hour inching; one of Hjalti's men lifts to look and his shadow sends four down; Ilmo's men throw at two - ONE SEAL HOME, winter-fat, the liver to the children that night; the other dives, the line parts at an old lashing, AND A BARBED HEAD GOES DOWN THE HOLE. FOUR HEADS LEFT.",
+  "D5, after a bad night (THE JARL DREAMED OF TURNED EMPTY FIELDS AND NO SEED ANYWHERE): the seed looked at with Vigmar and Aud - two pegged Hessa kegs of barley and one of peas, turfed round at the back of the storehouse. AUD: dry, hard, no must, no sprouting, no mice; cold is kind to seed, kinder than to people. A HUNDRED GRAINS IN WARM WET MOSS BY THE HEARTH FOUR WEEKS BEFORE SOWING, counted as they wake. THE SEED UNCHANGED: 200 barley, 40 Hessa peas, 60 Haldvik peas, the henbane seed.",
+  "D5, THE JARL'S TARGET: NEXT HARVEST, 300 KG OF BARLEY AND 300 KG OF PEAS IN STORE beyond the seed - meat will not carry us alone. THE FIRST LAND CLAIMED IN SPRING IS THE COMMON FIELDS. AUD, ready all winter: the lower third of the first field floods because the whole shoulder's water runs across it - A DITCH ACROSS THE TOP TO CATCH IT AND ONE DOWN THE SIDE TO THE RIVER, THE STRIPS RAISED A SPADE HIGH; dung is short but THE BEACH THROWS UP SEAWEED after every autumn gale, what the poor fields at home ate; THE GROUND WHERE THE STONE BAND BREAKS THE WESTERLY, FACING SOUTH; DUG THE WEEK THE SPADE GOES IN, DITCHES FIRST, SOWN AS SOON AS IT DRIES AND NOT A DAY LATER WAITING ON A SKY. A HERB AND SPICE GARDEN wanted by the jarl: AUD - Enna's and Solvi's, a strip by the ward. Not yet put to them.",
+  "D5-D7 clear and still; the ice every day, a small seal at a breathing hole D6. The deer quartered and cut on the stick; FRESH MEAT IN THE BOWL, a little every day, and the longpits louder at night. Enna: the haulers' frost-nip will peel and heal; Vigmar told to stay off the limp and does not.",
+  "D7: THE JARL ORDERS THE FOOD STORES REVIEWED AT D1 COUNCIL.",
+  "THE MOOD: MORALE 5 TO 6 - thirty deer brought to the edge by the people everyone watched walk off with four, fresh meat in the bowl for the first time in a month, and a seal on the ice nobody died for.",
+  "THE WEEK: 705 in (thirty deer about 600, the ice seven days, two seals, the snares). 300 out.",
+]
