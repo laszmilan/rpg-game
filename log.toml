@@ -1379,3 +1379,19 @@ events = [
   "THE MOOD: MORALE 5 TO 6 - thirty deer brought to the edge by the people everyone watched walk off with four, fresh meat in the bowl for the first time in a month, and a seal on the ice nobody died for.",
   "THE WEEK: 705 in (thirty deer about 600, the ice seven days, two seals, the snares). 300 out.",
 ]
+
+[[entry]]
+year = 3
+week = 3
+title = "THE STORE REVIEWED, AND A WEEK OF WIND"
+store = 1760
+income = 35
+consumed = 300
+events = [
+  "D1, council in the open: THE FOOD STORES REVIEWED, Sigra having walked the storehouse with a lamp at first light. VIGMAR: about two thousand; a third the Ivven deer; the rest dried fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa grain and peas; at 300 out and about 100 in it runs to the twelfth week, the cod - a run of gales and it does not; the seed sealed and untouched; oil plenty; SALT SHORT; nothing going off. ERIK: he wanted to hear we are okay; everything that fills a belly is eaten as before; 300 is not a lot, and it is too much meat and not enough greens; but we might just be okay.",
+  "D1 grey and still, the ice an afternoon. D2-D6 A WESTERLY GALE with snow, worst D3-D4, drift to the eaves on the east of every longpit; ropes between the doors; no ice, no boat; the peat walls walked on the rope; the bar ice holds, the wind off the land (Hjalti). The sitting portion, with a little deer in it. D7 grey, two holes dug out and worked till dark.",
+  "THE GALE DAYS, THE JARL WATCHING: SOLVI never alone and never still, two or three younger women round her, Kelda always in arm's reach; her eyes go to Vigmar once when he comes in. INGRA GIVEN ROOM - the bowl first, answered when she speaks, and the bench beside her empty unless Gest or Fenn fills it, a little wider since the tracks; grey-walker talk stops when she passes and starts again behind her. KELDA with the dogs at longpit 2's door end, the small children coming to hold the pups. VIGMAR teaching Tova the old marks every evening, rubbing each out with his thumb. TORGEST sings on the third night, half of longpit 1 on the chorus, Hjalti not. GEST SPLICING; D4 the story comes round his hearth - NAGHOLT, UNFINISHED - his hands stop, and he goes out for a piss long enough for it to finish without him.",
+  "THE JARL WILL SIT WITH INGRA MORE OFTEN.",
+  "THE MOOD: morale holds at 6 - five days of wind on the sitting portion, carried by the deer.",
+  "THE WEEK: 35 in (the ice two part-days, a little from the snares). 300 out.",
+]
