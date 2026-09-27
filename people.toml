@@ -1,6 +1,6 @@
 # Haldvik - people. Everyone, once, plus the offices. Player-readable.
 
-_ = "Everyone, once: standing character, capability and unspent promises. What happened is in log.toml, numbers in current.toml, laws and treaties in laws_and_treaties.toml. How anyone feels about Erik shows in the fiction, not in a score."
+_ = "Everyone, once: standing character, capability and unspent promises. What has been revealed is the log. What happened is in log.toml, numbers in current.toml, laws and treaties in laws_and_treaties.toml. How anyone feels about Erik shows in the fiction, not in a score."
 
 [conventions]
 winters = "w is winters. Ages turn at the Feast of Turning (W46); everyone moved on one at the Y2 Turning. Erik, Aki, Hafli, Tova and Kelda are exact; others may be a winter behind."
@@ -15,32 +15,6 @@ blood = "Son of Karr, who stood against Hakvarr at a Standing eleven winters ago
 why_he_leads = "He called the expedition a culling in front of two hundred people and gave Hakvarr the reason he had wanted for a decade. Three days in a cell, then the ships. He has killed."
 the_oath = "Whose fire is this - mine to keep, never mine to own. Who is at your door - every soul of Haldvik, three nights and three nights and three nights, until I am dead; fire, food, and no weapon drawn. Who is under your hull - all of them, the living and the eight. And when it goes down - I come off it last. Bound over ember, penalty cold-tongue."
 by_name = "None yet."
-
-[player.what_erik_knows]
-_ = "The chronicle is the record of what has been revealed; everything in it may be spoken of freely. This list holds only the exceptions both ways, and who else holds each closed thing."
-known_to_erik_but_not_in_the_chronicles = [
-  "OSVI'S ACCOUNT OF THE NEEDLE (Y1 W27, given freely): he took it from under the head of a fevered man who asked him to stay and then died, in a southern lodging house. Two of the man's kin were in the same port and Osvi never went back. 'I am not the man who found it, I am the man who took it off a corpse in the dark.'",
-  "ERIK'S RULING TO FENN on the ember (Y1 W11): it is fire from the hall hearth until proven otherwise, and if Fenn says otherwise to another soul Erik will kill him and deny him the water.",
-  "ERIK'S TERMS ON VIGMAR (Y1 W14): report every step before taking it, endanger nothing, teach someone to read.",
-]
-in_the_chronicles_but_not_known_to_erik = [
-  "ENNA IS A SECOND WITNESS to what Vigmar did to Hild's son and has never said a word. Erik knows only Kelda's account.",
-]
-held_and_unspent = [
-  "GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hall, and carrying a thing that bears the struck name. The theft is provable and admitted; whether reading the name is a crime is untested and falls to Fenn. Erik once said he would kill him if he could replace him; by Y2 W34 he no longer knows. He has found Vigmar more reserved than a cultist, which does not make him a good man, and suspects the growing closeness was intended. Sorrier for Kelda than for anyone in it. Told Aki that if something happens to Vigmar it will not be by Erik's hands.",
-  "KELDA'S ACCOUNT of the infant. Not acted on.",
-  "THE ALE. Brek confessed and Erik refused to hear it, saying if he knew who stole it he would have them whipped or banished.",
-]
-
-[player.what_erik_knows.closed_circles]
-"the ember" = "Erik, Fenn, Ingra. Ranvi is dead."
-"the hollow" = "Erik, Fenn, Ylva, by Erik's ruling - no word until next year. Ingra had the prison reading from Erik Y2 W30."
-"the woman in the fire" = "Erik, Ingra. What Aili said at Kolvenn, Ingra told Erik alone."
-"the door at the Turning, and the debt" = "Erik, Ingra, Fenn. Vigmar gave Ingra the old sending (Y2 W45) and will not ask why; what he guesses is his own. Tova learned the sending as a lesson and nothing of why."
-"Kelda's tideline finds" = "Erik, Solvi, Kelda. Bruni read the wood without being told where it sits."
-"Kelda's account of the infant" = "Erik, Solvi, Kelda."
-Brek = "Erik and Brek. Hafli holds the saw half and has told nobody."
-"Ranvi's reading of the debt" = "Erik, Ingra, Fenn. The settlement was told only that the luck is sound."
 
 [offices]
 Jarl = "Erik Karrsson"

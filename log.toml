@@ -1,9 +1,10 @@
-# Haldvik - log. The chronicle, one entry a week. Player-readable.
+# Haldvik - log. The chronicle, one entry a week, grouped by year. Player-readable.
 
-_ = "THE CHRONICLE. What happened, one entry a week, oldest first - append new weeks at the bottom. Store is the week-end total in preserved-equivalent kg; income and consumed are gross from Y2 W11 on. Player-readable in full: everything here is spent and may be spoken of freely."
+_ = "THE CHRONICLE. What happened, one entry a week, oldest first, grouped by year: [[year_1]], [[year_2]], [[year_3]] - append new weeks at the bottom of the current year. Store is the week-end total in store kg; income and consumed are gross from Y2 W11 on. EVERYTHING HERE HAS BEEN REVEALED to the player and may be spoken of freely. What Erik the man does or does not know, and who else knows a closed thing, is GM bookkeeping in secrets.toml [knowledge]."
 
-[[entry]]
-year = 1
+# ================= YEAR 1 =================
+
+[[year_1]]
 week = "6-10"
 title = "The crossing"
 events = [
@@ -16,8 +17,7 @@ events = [
   "W10: the infant was Hild's son. VIGMAR SMOTHERED HIM on the flat day. Enna found him warm with pinpoint bleeds in his eyes and said nothing. Kelda, eleven, watched it happen.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 11
 title = "Landfall"
 events = [
@@ -31,11 +31,10 @@ events = [
   "D6: FENN LIGHTS THE FIRST HEARTH from the Skalgrind ember. It takes on the first breath. He weeps, and everyone reads it as joy.",
   "D6: Erik refuses the name of jarl, takes headman, and lays down the FIRST LAW. Vigmar cuts it and reads out unasked that forty-two of the seventy-eight voices will be women.",
   "D7: THE REEF. Twenty walk out on the ebb and go in among the seals from the landward side, and the herd breaks for the water through them. Eleven taken of forty planned. REKK IVARSSON, seventeen, Sigra's youngest, drowns under a bull in water no deeper than a knee. Ulf was two paces away. Ketil bitten to the bone.",
-  "D7, night: Fenn tells Erik about the ember, and Erik rules on it to his face.",
+  "D7 night: FENN TELLS ERIK ABOUT THE EMBER. ERIK'S RULING, to his face: it is fire from the hall hearth until proven otherwise, and if Fenn says otherwise to another soul Erik will kill him and deny him the water.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 12
 title = "The offices, and the name"
 events = [
@@ -51,8 +50,7 @@ events = [
   "Somewhere in this week the place gets a name, out of Fenn's mouth, without anyone deciding it. HALDVIK.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 13
 title = "The stores come up short"
 events = [
@@ -61,18 +59,16 @@ events = [
   "Halli the Elder, seventy-one, dies of the coughing. No kin.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 14
 title = "Vigmar tells everything"
 events = [
-  "The marks on the cairns are ancestral Skeld marks. This land is the old country and Vardmark the colony. The stolen tally-stick in his kit carries a mark that should not exist. Erik sets terms and does not act on the rest.",
+  "The marks on the cairns are ancestral Skeld marks. This land is the old country and Vardmark the colony. The stolen tally-stick in his kit carries a mark that should not exist. ERIK'S TERMS ON VIGMAR: report every step before taking it, endanger nothing, teach someone to read. He does not act on the rest.",
   "Aki, who will never walk a field again, becomes the reeve's apprentice.",
   "Kelda goes into Solvi's keeping on three conditions Solvi makes Erik agree to.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 15
 title = "The peat fire"
 events = [
@@ -81,8 +77,7 @@ events = [
   "D7: YLVA WALKS IN ALONE off the south moor. She got into the valley. Eleven or twelve grassed-over longhouses, a sunken road, a midden two men deep, pine three times her height. Nothing burnt, nothing broken. WHOEVER LIVED THERE PACKED AND SHUT THE DOORS AND WENT.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = "16-17"
 title = "The freezing rain, and the forge"
 events = [
@@ -92,8 +87,7 @@ events = [
   "W17 d7: the second clamp comes off the shingle with 300 kg in it, and THE FORGE IS LIT, and half the terrace walks up the beach to hear a bellows.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = "18-19"
 title = "The reeve's number, and the first long-line"
 events = [
@@ -103,8 +97,7 @@ events = [
   "W19: the first long-line. Two hundred hooks, set and left. D3: the ration comes off.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 20
 title = "The first child born in Haldvik"
 events = [
@@ -114,8 +107,7 @@ events = [
   "D3, midday: at the hearth, with the whole terrace standing, Ingunn and Bjarn do not use the name they picked weeks ago. THEY CALL THE BOY KETIL. Fenn takes it without a flicker and says it three times as the rite requires, and about a third of the people standing there have to look at the sea for a while.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 21
 title = "Skalgrind, and the watchers on the headland"
 events = [
@@ -127,8 +119,7 @@ events = [
   "D7: Sigra, unanswerable. Who answers them in three winters - someone we can un-choose, or someone we can't?",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 22
 title = "THE STANDING"
 events = [
@@ -144,8 +135,7 @@ events = [
   "RULINGS: eight more hands to the strand. Charcoal stopped, forge repair-only. Granary folded into the storehouse. Longpit 4 cut, thirty-four to a pit. Smokehouse confirmed, for the salmon and the seal. Three fermenting pits to Solvi. The barley goes to the seed store while kale and peas get eaten.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 23
 title = "The last clamp, and a bad week on the water"
 events = [
@@ -155,24 +145,22 @@ events = [
   "Aki, holding the number a moment before reading it out, which he has never done before: fifteen weeks, four hundred a week to make seven tonnes, and our best week ever was two hundred and sixty. THE FISH WILL NOT DO IT ON THEIR OWN. It has to be the salmon and the seals, and we don't know what either of those is worth yet.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 24
 title = "The council morning, and a girl on the shingle"
 events = [
-  "D1, dawn: YLVA GONE. Bedroll, spear, four days of food off her own ration, and word left with Hjalti's boy on her way out. Six times she asked about the hollow and no date was ever given. Erik's ruling: do not send after. Torbrand takes the hunt; if she returns she reports to him and does not take her name back.",
-  "D1: council. Halvar names his own ditch and bank as the biggest thing that could be cut and stands it down himself. FENN NAMES THE BIRD CLIFFS and calls the four missed months on himself. The line is four weeks of evening work by the sitting men, the elders and the children, and it opens about two tonnes of eggs and birds before the nesting ends. Ordered.",
-  "D1: THE EMBASSY NORTH agreed - faering, Halvar tiller, Torgest sail, Osvi eyes, two rowers, Gest set down a day's walk short so he goes to their door. He hears the terms, tests a rope-eye against the spike, and gives Erik his instruction back: no second boat if he is not on the beach on the fifth morning.",
-  "D1: fourth law tightened - heads of work attend, hear everything, speak when asked, and cannot vote or set the agenda. Torbrand takes the hunt in the same conversation, says out loud that he is not Ylva, and asks to be told before the seal cull is decided.",
-  "D1: KELDA, eleven, brings Erik a brass fitting out of the tideline, thin and green with salt, with three cut marks she has been unable to match to anything on Vigmar's stick. She has been trying to read them by looking. She also has A FRESH, CLEAN, UNWEATHERED PIECE of the dark treenailed hardwood, kept in the dog-house. Erik keeps both. Somebody broke a ship this year, up-current.",
-  "D3-5: THE BLOW. A hard three-day north wind. Halvar reads it before the boat is on the water and holds the launch: six men and a rope splicer die two days from here for nothing. Sigra's stack goes up under sailcloth and not one fish is lost. D5: the east gable of longpit 2 sheds three rafters and one takes Bjarn down onto the terrace stone - bruised, up by evening. Ormar pulls the ridge in the wind rather than lose a man and gives up his week of lead.",
-  "D6, evening: YLVA WALKS IN off the moor, alone, wet and silent, and reports privately to Erik and Fenn only. She walked the cairn line without once stepping off it and slept by the last stone. On the still fourth morning she took two paces closer to the hollow than she had stood all night AND HER HEAD WENT THIN, and she stepped back. The floor of the basin is scattered with old small bones and one long bone she will swear was not deer. FENN'S READING: not a grave and not a shrine - a prison, walled by people who wanted the thing to stay in, and they were still afraid of it four hundred winters after they left. Erik: and here I thought it was metal fallen from the sky that melted the stone. Fenn: might be both, jarl. ERIK'S RULING: no word of it until next year.",
-  "D6, night: RANVI at the main hearth refuses a coal on the hollow and distinguishes it from the Door - Ingra is being shown, nobody is showing her the moor. Reveals that INGRA HAS BEEN SEEING SMALL THINGS IN COOKING FIRES, unbidden and in daylight, for about a month. She would spend her next coal on the winter's luck; Erik releases her from it.",
-  "D6, late: INGRA at the end of the terrace with a lamp, not a fire. Confirms it. Most recently A WOMAN WITH BLACK HAIR, wider cheek than ours, deeper-set eyes, on a low bench with a salmon across her knees, gutting it against a wall of DARK WORKED PLANKS. A boy Kelda-sized walked past with a bucket. Another woman worked further off. THE WOMAN STOPPED MID-CUT, LOOKED UP OUT OF THE FISH AND STRAIGHT THROUGH THE FIRE AT INGRA, held it a heartbeat, then went back to work. She had told nobody. TWO-WAY NOW. Nobody on this coast has planks. Then a personal moment between brother and sister about their father and the beach at Skalgrind.",
+  "D1 dawn: YLVA GONE - bedroll, spear, four days' food off her own ration, word left with Hjalti's boy. Six times she asked about the hollow and was never given a date. ERIK: do not send after her. Torbrand takes the hunt; if she returns she reports to him and does not get her name back.",
+  "D1 council: Halvar names his own ditch and bank as the biggest thing that could be cut, and stands it down himself. FENN NAMES THE BIRD CLIFFS and takes the four missed months on himself: four weeks of evening line-work by the sitting men, elders and children opens about two tonnes of eggs and birds before the nesting ends. Ordered.",
+  "D1: THE EMBASSY NORTH agreed - faering, Halvar at the tiller, Torgest the sail, Osvi the eyes, two rowers, Gest set down a day's walk short so he walks to their door. Gest tests a rope-eye against the spike and gives Erik his instruction back: no second boat if he is not on the beach on the fifth morning.",
+  "D1: the fourth law tightened - heads of work attend, hear everything, speak when asked, cannot vote or set the agenda. Torbrand takes the hunt in the same talk, says out loud he is not Ylva, and asks to be told before the seal cull is decided.",
+  "D1: KELDA, eleven, brings Erik a salt-green brass fitting off the tideline with three cut marks she cannot match on Vigmar's stick, and A FRESH, UNWEATHERED PIECE of the dark treenailed hardwood she has kept in the dog-house. Erik keeps both. Somebody broke a ship this year, up-current.",
+  "D3-5, THE BLOW: three days of hard north wind. Halvar reads it before the boat is on the water and holds the launch - six men and a splicer would have died two days out for nothing. Sigra's stack goes under sailcloth and not a fish is lost. D5 longpit 2's east gable sheds three rafters and one knocks Bjarn onto the terrace stone - bruised, up by evening. Ormar pulls the ridge in the wind rather than lose a man and gives up his week of lead.",
+  "D6 evening: YLVA WALKS IN off the moor, alone, wet and silent, and reports to Erik and Fenn only. She walked the cairn line without stepping off it and slept by the last stone. On the still fourth morning she went two paces nearer the hollow AND HER HEAD WENT THIN, and she stepped back. The basin floor is scattered with old small bones and one long bone she swears was not deer. FENN: not a grave, not a shrine - a prison, walled by people who wanted the thing kept in and were still afraid of it four hundred winters after they left. ERIK: he thought it was metal fallen from the sky that melted the stone. FENN: might be both, jarl. ERIK'S RULING: no word of it until next year.",
+  "D6 night: RANVI at the main hearth refuses a coal on the hollow and distinguishes it from the Door - Ingra is being shown; nobody is showing her the moor. She reveals INGRA HAS SEEN SMALL THINGS IN COOKING FIRES, unbidden and in daylight, for about a month. She would spend her next coal on the winter's luck; Erik releases her from it.",
+  "D6 late: INGRA, at the terrace end with a lamp and not a fire, confirms it. Most recently A WOMAN WITH BLACK HAIR, a wider cheek and deeper-set eyes than ours, on a low bench gutting a salmon against a wall of DARK WORKED PLANKS; a Kelda-sized boy passing with a bucket; another woman working further off. THE WOMAN STOPPED MID-CUT, LOOKED UP THROUGH THE FIRE AT INGRA for a heartbeat, and went back to work. Ingra had told nobody. IT IS TWO-WAY NOW. Nobody on this coast has planks. Then brother and sister talk about their father and the beach at Skalgrind.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 25
 title = "The boat goes north, and the salt turns out not to be the problem"
 events = [
@@ -187,8 +175,7 @@ events = [
   "D6: walking the fire ring in fog, WARM GROUND IS FOUND OUTSIDE THE TRENCH on the seaward side.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 26
 title = "The heap, and two hundred and thirty-one seals"
 store = 1996
@@ -201,38 +188,37 @@ events = [
   "D7: ERIK'S RULING. Build the smokehouse at DOUBLE SIZE, three batches instead of six. LONGPIT 2 SLIPS TO W28 and sixty people sleep on sand another week. Ormar will say it at council so it is said in front of everyone and not found out. Sigra: it is the right call and I would have made it, and when it rains somebody will say the jarl chose a smokehouse over a roof, and it will be true, and have your answer ready. Torbrand's answer, which she tells him to use: seals do not wait and a roof does.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 27
 title = "Two strangers on the beach, and two stones in the shallows"
 store = 2236
 events = [
-  "D1: council of two, because the Shield is in a boat. Fenn names the gap - clause fourteen says every member trains an apprentice, Halvar named nobody, and the law lives in Fenn's head and nowhere else.",
-  "D1: VIGMAR PROPOSES CUTTING THE DAY'S EATING BY A FIFTH NOW rather than at the snow, worth a tonne by W38, and argues the other half himself - I am the man who weighs it out, so hold that against the proposal. ERIK REFUSES: hungry people work slower and meet the snow thin. Vigmar records the refusal and the reason.",
-  "D2: THE FAERING COMES HOME WITHOUT GEST and with two Hessa aboard. Halvar: Gest spoke the guest-formula on a beach four days north with bread and salt in his hands AND THEY ANSWERED HIM IN THE SAME WORDS, then went with them and was never seen again. Five days at the drop point. On the sixth morning two strangers walked down with a coopered hardwood keg and got in the boat.",
-  "D2: SKELVA, about thirty, and the boy ATTI. She hands Erik GEST'S KNIFE hilt-first on both palms, then gestures: he walked north, he stopped, he stays, by his own choice. They stand in the wash and will not come up the beach until bread and salt are given. Fenn, furious with everyone: they are stood in the sea waiting on us like beggars.",
-  "D2: THE KEG IS THIRTY KILOS OF SIX-ROW BARLEY grown on real soil. Aud on her knees in the sand: you could eat it in four days, or you could put it in the ground in spring. Erik rules it seed.",
-  "D2, evening: THE WORDS. The guest-formula is nearly the same - brauth, saltr, the same rhythm - and the numbers survive, ein tuo thria fiaur. Fenn has to sit down when he hears it. Thirty words held in common by dark. IRON takes three tries and when it lands she says it twice and looks at the forge.",
-  "D2, late: Erik draws one cairn mark in the ash. SKELVA LOOKS AT IT THREE HEARTBEATS, WIPES IT FLAT WITH THE HEEL OF HER HAND, looks out into the dark toward the moor, and says one word twice that is not among the thirty. Fenn: a man who cannot read does not rub a word off a wall.",
-  "D2, late: INGRA, privately. Skelva is not the woman she saw in the fire - she is THE OTHER ONE, the one working further off that Ingra could never see. The salmon woman is still up north. Ingra: if she is used to being looked at, somebody up there does what I do and does it better. Erik does not forbid her to look and tells her to tell Ranvi. Her answer: I half wanted you to forbid it.",
-  "D2: TRADE OPENED. Erik puts nails and hooks beside the barley and moves his hand between them. Skelva tests a hook, bends a nail and straightens it, and she and Atti stop pretending to be calm. She draws the coast, points north at a bearded man, taps her chest and shakes her head - not me, him - and pushes the bowl back without keeping any of it. She draws two ships. Erik rubs one out. She accepts it without offence.",
-  "D2: Solvi, on the boy's mouth - full set of teeth, no bleeding at the gum, no cracks at the knuckle. They came out of a winter on this coast eating something we have not got. FENN: never mind whether they mean us harm, THEY KNOW HOW TO LIVE HERE AND WE DO NOT.",
-  "D3: Aki set to learn her words at Vigmar's suggestion - 120 in three days. ULF REFUSES the Shield's apprenticeship - not the courage, the name, and his mother's thirteen behind him - but asks to be taught anyway with no name and no oath. HALVAR NAMES TORBRAND on d4 and Torbrand accepts in four words. Fenn's apprentice on the stick at last: TOVA, thirteen.",
-  "D3: Vigmar's labour tally, asked for and never made before. It reaches fifty of fifty-four working adults and breaks, because about nine women are counted once and doing three jobs. Gudny is on my tally as one hand and she is four. AND a third of the work here is done by people with no seat where it is decided - he means the council, not the vote.",
-  "D3: at the forge Erik says BOG IRON out loud. Brek: aye, of course, I have heard of that - a beat too long. Hafli goes still, then says there is orange water in the bottom of the peat cuttings he has been washing his hands in all summer. Brek: it is a spring job. NOBODY NOTICES BUT THE BOY.",
-  "D3: Brek's limit - twenty-eight kilos of bar is all the iron there will ever be. But six hundred spare hooks sit in the store, so four hundred hooks and six knives go north and cost no iron, no charcoal and no fire.",
-  "D4: THE STOREHOUSE IS ROOFED. Ormar walks the inside of it with his hand on the wall and says nothing.",
-  "D5: the faering goes north again with Skelva, Atti, the hooks, the knives and Aki's word-list. SKELVA LEAVES A SMALL WORN PIECE OF DARK HARDWOOD on the hearth stones and steps back from it, and says a sentence twice that Aki cuts without understanding. Halvar's instruction: see Gest with your own eyes or bring nothing home.",
-  "D5, evening: THE SQUALL. One hour, and sixty people under sailcloth lose everything they own to the wet, in the dark, four days after the jarl chose a smokehouse over a roof. Nobody says the sentence. It is very obviously thought.",
-  "D5, night to D7 dawn: THORA, Bjarn's sister and Ossur's wife. Eleven hours, the child turned wrong and stayed wrong, both doses of henbane and not enough. The boy born dead before noon on d6. Then the bleeding, which Enna could not stop and said so at the second hour. Thora died before dawn on d7 with Ossur holding her. TWO MORE STONES IN THE SHALLOWS. Hild stayed on her feet the whole of it and afterwards walked the tideline alone, and Solvi followed at a distance and did not catch her up.",
-  "D6: YLVA BACK FROM THE CAIRNS, failed and furious. The Needle will not sit anywhere near a stone - it swings and points a different way every time it is set down. Two hundred paces off it behaves, and then the line cannot be sighted. HER CONCLUSION: THERE IS IRON IN THE STONES. Erik: spring, like everything else.",
-  "D7: THE SEALED STORE MOVES INTO THE STOREHOUSE, weighed in by Vigmar in front of Sigra, all day.",
-  "D7, evening: THE ROPE. Erik asks why they are making new line when nine coils of ship's rigging have sat in the store since W6 and three hulls are dry on the sand. Ranulf: two days, not four weeks. Ormar names the price - the Grey Mare cannot sail again, and somebody will say you cut up your father's ship to hang men over a cliff, and you should hear it said in daylight first. ERIK ORDERS IT and promises out loud that she will sail again before he joins his father.",
-  "D7, night: Erik names all six gods at the dark end of the terrace and asks for nothing. It is the week Vetta of the Nine Doors took two people through a door.",
+  "D1: a council of two, the Shield being in a boat. FENN names the gap: clause 14 says every member trains an apprentice, Halvar has named nobody, and the law lives in Fenn's head alone.",
+  "D1: VIGMAR PROPOSES CUTTING THE DAY'S EATING BY A FIFTH NOW rather than at the snow - worth a tonne by W38 - and argues the other half himself: he weighs it out, so hold that against the proposal. ERIK REFUSES: hungry people work slower and meet the snow thin. Vigmar records the refusal and the reason.",
+  "D2: THE FAERING COMES HOME WITHOUT GEST and with two Hessa. HALVAR: Gest spoke the guest-formula on a beach four days north with bread and salt in his hands AND THEY ANSWERED IN THE SAME WORDS; he went with them and was not seen again. Five days at the drop point; on the sixth morning two strangers walked down with a coopered hardwood keg and got in the boat.",
+  "D2: SKELVA, about thirty, and the boy ATTI. She hands Erik GEST'S KNIFE hilt-first on both palms and gestures: he walked north, stopped, stays, by his own choice. They stand in the wash and will not come up the beach until bread and salt are given. FENN, furious with everyone: they are stood in the sea waiting on us like beggars.",
+  "D2: THE KEG IS THIRTY KILOS OF SIX-ROW BARLEY grown on real soil. Aud on her knees in the sand: you could eat it in four days or put it in the ground in spring. Erik rules it seed.",
+  "D2 evening, THE WORDS: the guest-formula nearly the same - brauth, saltr, the same rhythm - and the numbers survive, ein tuo thria fiaur. Fenn has to sit down. Thirty words in common by dark. IRON takes three tries; when it lands she says it twice and looks at the forge.",
+  "D2 late: Erik draws one cairn mark in the ash. SKELVA LOOKS THREE HEARTBEATS, WIPES IT FLAT WITH THE HEEL OF HER HAND, looks into the dark toward the moor, and says twice one word not among the thirty. FENN: a man who cannot read does not rub a word off a wall.",
+  "D2 late, INGRA privately: Skelva is not the woman in the fire but THE OTHER ONE, working further off, whom Ingra never saw clearly; the salmon woman is still up north. If she is used to being looked at, somebody up there does what Ingra does, better. Erik does not forbid her to look and tells her to tell Ranvi. INGRA: she half wanted him to forbid it.",
+  "D2, TRADE OPENED: Erik sets nails and hooks beside the barley and moves his hand between them. Skelva tests a hook, bends a nail straight, and she and Atti stop pretending to be calm. She draws the coast, points north at a bearded man, taps her chest and shakes her head - not me, him - and pushes the bowl back untouched. She draws two ships; Erik rubs one out; she takes no offence.",
+  "D2, SOLVI on the boy's mouth: a full set of teeth, no bleeding at the gum, no cracks at the knuckle - they came through a winter on this coast eating something we have not got. FENN: never mind whether they mean harm, THEY KNOW HOW TO LIVE HERE AND WE DO NOT.",
+  "D3: Aki set to learn her words at Vigmar's suggestion - 120 in three days. ULF REFUSES the Shield's apprenticeship - not the courage, the name, and his mother's thirteen behind him - but asks to be taught with no name and no oath. D4 HALVAR NAMES TORBRAND, who accepts in four words. Fenn's apprentice on the stick at last: TOVA, thirteen.",
+  "D3: VIGMAR'S LABOUR TALLY, the first ever. It reaches fifty of fifty-four working adults and breaks, because about nine women are counted once and do three jobs: Gudny is one hand on his tally and she is four. And a third of the work is done by people with no seat where it is decided - the council, not the vote.",
+  "D3, the forge: Erik says BOG IRON aloud. BREK: aye, of course, he has heard of it - a beat too long. HAFLI goes still, then says there is orange water at the bottom of the peat cuttings he has washed his hands in all summer. BREK: a spring job. NOBODY NOTICES BUT THE BOY.",
+  "D3, Brek's limit: twenty-eight kilos of bar is all the iron there will ever be. But six hundred spare hooks sit in the store, so four hundred hooks and six knives go north at no cost in iron, charcoal or fire.",
+  "D4: THE STOREHOUSE ROOFED. Ormar walks its inside with a hand on the wall and says nothing.",
+  "D5: the faering north again with Skelva, Atti, the hooks, the knives and Aki's word-list. SKELVA LEAVES A SMALL WORN PIECE OF DARK HARDWOOD on the hearth stones, steps back, and says a sentence twice that Aki cuts without understanding. Halvar's instruction: see Gest with your own eyes or bring nothing home.",
+  "D5 evening, THE SQUALL: one hour, and sixty people under sailcloth lose everything they own to the wet in the dark, four days after the jarl chose a smokehouse over a roof. Nobody says it. It is very obviously thought.",
+  "D5 night to D7 dawn: THORA, Bjarn's sister and Ossur's wife. Eleven hours, the child turned wrong and stayed wrong, both doses of henbane and not enough. The boy born dead before noon D6. Then bleeding Enna could not stop, and said so at the second hour. Thora died before dawn D7 with Ossur holding her. TWO MORE STONES IN THE SHALLOWS. Hild on her feet throughout, and afterwards walked the tideline alone; Solvi followed at a distance and did not catch her up.",
+  "D6: YLVA BACK FROM THE CAIRNS, failed and furious. The Needle will not sit near a stone - it points a different way every time it is set down; two hundred paces off it behaves, and then the line cannot be sighted. HER CONCLUSION: THERE IS IRON IN THE STONES. ERIK: spring, like everything else.",
+  "D7: THE SEALED STORE MOVES INTO THE STOREHOUSE, weighed in by Vigmar in front of Sigra all day.",
+  "D7 evening, THE ROPE: Erik asks why they make new line when nine coils of ship's rigging have sat in store since W6 and three hulls are dry on the sand. RANULF: two days, not four weeks. ORMAR names the price - the Grey Mare cannot sail again, and somebody will say you cut up your father's ship to hang men over a cliff; hear it said in daylight first. ERIK ORDERS IT and promises aloud that she will sail again before he joins his father.",
+  "D7 night: Erik names all six gods at the dark end of the terrace and asks for nothing. The week Vetta of the Nine Doors took two people through a door.",
+  "W27, OSVI'S ACCOUNT OF THE NEEDLE, given freely when Erik said why would I not trust you: he took it from under the head of a fevered man who asked him to stay and then died, in a southern lodging house; two of the man's kin were in the same port and Osvi never went back. 'I am not the man who found it, I am the man who took it off a corpse in the dark.'",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 28
 title = "Roofs, and the first salmon anyone here has ever seen"
 store = 3436
@@ -248,8 +234,7 @@ events = [
   "D7: ENNA'S FIVE, asked for and never asked for before - bedding, the green ration and pine tea, latrines downstream used with no exceptions in the dark, combs and hot water, roof vents because forty people under turf breathe water. Her estimate if all five are done: we bury the very old and nobody else.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 29
 title = "Home without him"
 store = 4086
@@ -261,8 +246,7 @@ events = [
   "D7: the byre roofed. Somebody says out loud that the beasts have a roof before twenty-one people do, and it lands as a joke, mostly. Hjalti says the real salmon has not started and everyone should stop being pleased.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 30
 title = "The cull, and the jarl's ship over a hole"
 store = 5570
@@ -276,8 +260,7 @@ events = [
   "THE WEEK: the salmon peak begins and Hjalti says d6 and d7 were the two biggest days he has seen on any water. Arna dressing sealskin with oil, not bark - four girls and six women in the evenings, boat crews first, on Erik's order: enough to keep a whole man warm while fishing.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 31
 title = "Two days"
 store = 6360
@@ -290,8 +273,7 @@ events = [
   "D7: Aud's advice for the spring, given the same day she lost the crop: split the seed into two sowings ten days apart in two fields, one on the shoulder and one on the terrace out of the wind, SO ONE GALE CANNOT TAKE BOTH.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 32
 title = "The cod come inside the bar"
 store = 7030
@@ -310,8 +292,7 @@ events = [
   "D7: Halvar settles that these are not the Hessa. ERIK'S RULING: NO CONTACT THIS YEAR, and not on their road. Ylva's answer: a herd that size sheds, and stragglers drift wide onto the low ground east of the peat cuttings, our side of the shoulder - two men, one long day, one animal a week while the herd passes. FOUR DEER IS WHAT ERIK ASKED FOR. Torbrand: that I would do - the other was a raid on somebody's larder and I did not like the taste of it either.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 33
 title = "Four tonnes of bracken, and water in the post holes"
 store = 7670
@@ -327,8 +308,7 @@ events = [
   "D7: AKI'S REVISION, given unasked at his bench. Twelve tonnes was the full-ration number; at a fifth less THE NUMBER TO BEAT IS TEN POINT SEVEN, and the projection lands within a few hundred kilos either way. Not comfortable, not a disaster, and I would rather say it now than in week forty-six.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 34
 title = "One ship, and a treaty on a hearth stone"
 store = 8600
@@ -350,8 +330,7 @@ events = [
   "THE WEEK: longpit 3's frame up on the surveyed twelve, the east trench backfilled and turfed. The Hessa watch it go up and three of them carry stone unasked.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 35
 title = "Four hundred paces off the beach"
 store = 8900
@@ -365,8 +344,7 @@ events = [
   "THE WEEK: morale eight to six, and Fenn's read - what they have lost is the feeling that it is going well, and you will not get it back by telling them it is going well.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 36
 title = "No tower"
 store = 9300
@@ -379,8 +357,7 @@ events = [
   "THE WEEK: cod 210 in perfect weather and the fish were not there. Hjalti works the shore both ways and comes back rattled.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 37
 title = "The snow comes early and the cod go"
 store = 9420
@@ -393,8 +370,7 @@ events = [
   "D7: HAFLI ASKS. The orange water in the peat cuttings, the skin you lift with a stick, the heavy crust where the water sits. Let me try it - it costs a basket of charcoal and my hands and nobody is using either. Brek: it is a poor man's iron, lad. HAFLI: WE ARE POOR MEN. Erik snorts and gives him leave.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = "38-40"
 title = "The rota, the ration, and a boy who beats the jarl at tafl"
 store = 9100
@@ -409,8 +385,7 @@ events = [
   "SOAP. Enna can make lye and always could. Soap proper she has seen once in her life; Osvi watched a woman make it in a southern yard and remembers she tasted it to know when it turned. BREK SUPPLIES THE MISSING PIECE - wood ash, not peat, and there are heaps of it behind the salt pans and the smokehouse. Ten litres of seal oil and a week of Enna's evenings.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = "41-46"
 title = "The stack, and a hole cut in the ice"
 store = 6700
@@ -423,8 +398,7 @@ events = [
   "W46: Ranvi failing - thinner, sleeping a great deal, cannot cross the terrace alone in the dark and has stopped pretending. Ingra does everything for her. She asks Erik to sit with her one night and then says almost nothing, and that is the whole of it. NO COUGHING, not one case, and Enna checks people the way a woman checks a rope.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = 46
 title = "THE FEAST OF TURNING"
 store = 6610
@@ -444,8 +418,7 @@ events = [
   "FENN AFTERWARDS: that was the right one. You did not promise them anything, which is the part they will not notice and is why they will believe you next winter. You told them it would be just as hard - nobody has ever said that to them before. Every man who ever stood at a fire and talked to these people told them it was about to get easier.",
 ]
 
-[[entry]]
-year = 1
+[[year_1]]
 week = "47-52"
 title = "Seaweed, a hole in the ice, and a fist of bad iron"
 store = 4850
@@ -459,8 +432,9 @@ events = [
   "W51: Aki - we are level. Not short, LEVEL. There is no margin at all.",
 ]
 
-[[entry]]
-year = 2
+# ================= YEAR 2 =================
+
+[[year_2]]
 week = "1-8"
 title = "The stick says spring"
 store = 2010
@@ -485,8 +459,7 @@ events = [
   "W8: THE ICE GOES OUT over four days in a south-west gale, in pieces, past the bar. The bay is black water for the first time since W46 and far too rough for a boat.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 9
 title = "Ranvi Ashwife"
 store = 1680
@@ -513,8 +486,7 @@ events = [
   "D7: THE WARDS. Ingra can LAY one - Ranvi's craft, taught properly, four done under her hand. A CUT-MARK is different: Aki could cut the shape better than either of them and it would be A PICTURE OF A MARK, because what makes it true is knowing what it says, and Ranvi could cut two and Ingra still does not know what one of them means, only what it does. HER OWN PROPOSAL, and Erik lets her have it: NOT THE LONGPITS. The SMOKEHOUSE first - nobody sleeps in it - one laid warding and the one mark she is sure of, cut clean with Aki's hands, and then WATCH IT FOR A SEASON. Longpit 1 at midsummer if nothing goes strange, and not before. Erik: it is insane that we do not know our own marks.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 10
 title = "THE GALE, THE TOWER, AND TORBRAND"
 store = 1505
@@ -542,8 +514,7 @@ events = [
   "D7: AND THE COUGHING IS BACK. Three of the Keel twenty, four days after they stood in the wet. One of them a child. Not one case all winter until now.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 11
 title = "THE COUNCIL, THE FROST, AND THE FOURTEENTH STONE"
 store = 1145
@@ -584,8 +555,7 @@ events = [
   "D7: the first full-ration week in nineteen and the ledger shows it. THE WALL IS PASSED.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 12
 title = "THE FIRST FIELD, AND THE PEAT OPENED"
 store = 1175
@@ -608,8 +578,7 @@ events = [
   "D7: first week the store has not fallen since the Turning.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 13
 title = "THE CHANNEL MOVED, AND THE IVVEN CAME"
 store = 1305
@@ -630,8 +599,7 @@ events = [
   "D7: VIGMAR, who has not spoken since they left the terrace and has been watching the man's face and not his hands: he did not come to sell nine hides, he walked twelve kilometres in the rain to find out if we were a place, and you told him we were a market. Those people carry everything they own and move it every three days and will never have a surplus to haggle with, so the only thing they had to offer was that they would come back. THEN HE ARGUES THE OTHER HALF UNASKED: or he wanted more than you would give and has gone home to think, and I will have been wrong and will say so. ERIK: nomads are not necessarily poor, and I showed them we do not take heads and this is not charity, and if they need us they will return. VIGMAR CONCEDES BOTH.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 14
 title = "THE SAW, AND THE CHILD WHO WILL NOT FEED"
 store = 1325
@@ -646,8 +614,7 @@ events = [
   "D7: three weeks running in the black. Snares at about 140 and not 200 - Ossur needed hands and did not ask.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 15
 title = "BREK SAYS IT, AND THE IVVEN COME BACK WITH A TONGUE"
 store = 1375
@@ -673,8 +640,7 @@ events = [
   "D7: HALDVIK GIVES the knife and the hooks. THEN VIGMAR PUTS THE AXE DOWN IN FRONT OF HIM ANYWAY, after the count is closed and the sticks are cut, and steps back with his hands open. Forward rate on both sticks: TEN HIDES FOR A KNIFE, and they come when they come. Nobody says a whole sentence to anybody all afternoon.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 16
 title = "THE WEDGE, AND THE AXES BREK CANNOT MAKE"
 store = 1470
@@ -695,8 +661,7 @@ events = [
   "ERIK LETS IT GO ENTIRELY if the families never raise it. FENN: then it goes undeclared, and undeclared works right up until it does not, and in twenty years two young people want to marry and there is nobody alive who can say what was agreed - that is not an argument, it is just the bill, and it lands on people who are not in this conversation. But it is their business and I would rather be the man who let it alone than the man who made a family out of two women being decent.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 17
 title = "THE SECOND PLANK"
 store = 1655
@@ -713,8 +678,7 @@ events = [
   "And the part he volunteers on his own, having been asked nothing he should not answer: whoever built this built better than my master's second man, and I would like to know who he is. HE DOES NOT ONCE BEHAVE LIKE A MAN WALKING ROUND A HOLE IN A CONVERSATION.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 18
 title = "THE ORDER CLOSED, AND A BOY NAMED FOR HIS FATHER"
 store = 1895
@@ -734,8 +698,7 @@ events = [
   "THE CALENDAR PUT RIGHT. Solstices and equinoxes sit in the MIDDLE of their season, not at the edge: spring equinox W7, MIDSUMMER W20, autumn equinox W33, MIDWINTER W46. THE FEAST OF TURNING IS MIDWINTER, W46, the longest night. MIDSUMMER IS W20 AND ALWAYS WAS, so the Hessa are due in a fortnight and not in eight weeks.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 19
 title = "THE SUMMER GALE"
 store = 1885
@@ -751,8 +714,7 @@ events = [
   "WHAT SAVED IT: the smokehouse. Smoked fish is indoors and the gale could not reach it.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 20
 title = "MIDSUMMER, AND AN EMPTY SEA"
 store = 1985
@@ -768,8 +730,7 @@ events = [
   "THE PEAT, which nobody has raised. 130 m3 sound after a third of last year's cut went to mush, about 95 of it dry and stacked. AND NOT ONE SPADE CUT THIS YEAR. The window is open now and closes when the cutting can no longer dry before the autumn rains, and nobody is in it.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 21
 title = "THE BEACH CLOSES, AND A SPADE FINDS SOMETHING"
 store = 2205
@@ -785,8 +746,7 @@ events = [
   "D7: VIGMAR COMES WITH IT WRAPPED IN SACKING AND LEADS WITH THE BREACH. Three days, and my terms with you say I come first and be sure afterwards, and I broke them, and that is on the stick before anything else. It is not a boundary formula, there is no this-ground-is-not-yours on it. IT IS A NAME, the same shape as the threshold at Skalgrind, and it is off a house. AND THERE IS PEAT TWO SPADES DEEP OVER THE TOP OF IT.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 22
 title = "NAGHOLT, AND THE HULLS COME IN"
 store = 2440
@@ -820,8 +780,7 @@ events = [
   "LIVESTOCK PUT ON THE BOOKS after twenty-four weeks untracked: the cow calved and there is MILK for the first time ever, eleven ewes, two rams, four goats, a cow and calf, six pigs, eighteen chickens, three dogs. THIRTY-EIGHT HEAD AGAINST TWENTY-TWO, on half a hay stack, in a byre with twenty-seven stalls.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 23
 title = "THE MARKS, AND THE FIRE LEANS ON THE RING"
 store = 2595
@@ -841,8 +800,7 @@ events = [
   "D7: KELDA brings Erik a treenail off the tideline, the length of her hand, dark hardwood, one end sheared, black tar still in the grain. No marks on it. Their secret, as always.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 24
 title = "HAY BEFORE THE GREY, AND THE IVVEN SAY AGAIN"
 store = 2730
@@ -861,8 +819,7 @@ events = [
   "D5-D7: clear, moving air. Nineteen on the hay. THE SECOND CUT IN AND STACKED SOUND by D7, cocks and all.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 25
 title = "THE CLIFFS, AND A BOAT NOBODY WAS ROWING"
 store = 3965
@@ -881,8 +838,7 @@ events = [
   "D6, first morning after the wind: AUD FINDS WARMTH AGAIN on the INSIDE edge of the new arc, right against the cut. Not crossed. Staked, and sent up to the jarl: a second arc, or water.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 26
 title = "THE PLANKS ON THE FLOOR, AND WATER ON THE FIRE"
 store = 4300
@@ -901,8 +857,7 @@ events = [
   "D7, evening: HALVAR'S ANSWER FROM TAVI - north of Kolvenn, they were fishing north of it when it happened, and at the word what he got up and walked off. The faering goes as far as Kolvenn and not a pace further. ERIK: agreed. Bring them home, Halvar.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 27
 title = "RUNA'S BOY, AND THE LAST OF THE HENBANE"
 store = 4285
@@ -922,8 +877,7 @@ events = [
   "D6-D7: THE HENBANE SEARCH, oracle d6 in the open: 3 = NO, BUT. Solvi's foragers go round the dung heaps, the old burn at Nagholt and every scrap of disturbed ground on the shoulder; Ylva walks the edges of the moor. Not one plant. BUT Enna, hearing it, goes to the withy beds herself and comes back with an armful of willow: the bark boiled makes a bitter tea she has seen ease a fever and dull a pain. Weaker than henbane by a long way, and there is a great deal of it.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 28
 title = "BRUNI GOES, AND A NAME ON THE SAND"
 store = 4320
@@ -940,8 +894,7 @@ events = [
   "D5: the Hessa go out on the marks at first light and turn north, the helmsman's hand up at the turning pair. They passed the faering somewhere on the way and nobody saw it.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 29
 title = "THE WHALE ON THE STRAND, AND NINETY KILOS OF SALT"
 store = 5055
@@ -959,8 +912,7 @@ events = [
   "OUT OF THE FICTION: the player: roll mid-week too, and bring things to Erik - the rolls add to play, not replace it. Written into readme.toml mechanics.random_lists.initiative.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 30
 title = "THREE SENTENCES FROM KOLVENN, HILD'S GIRL, AND TEN BULLS"
 store = 5590
@@ -977,8 +929,7 @@ events = [
   "THE WEEK: salmon peak with twelve hands about 300; lines 175; seal 400; foraging, snares, greens and kitchen crops 100.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 31
 title = "THE FIRST FIELD, AND SMOKE TO THE NORTH-EAST"
 store = 5625
@@ -993,8 +944,7 @@ events = [
   "THE WEEK: salmon in the wet about 250; lines 120; the first field 60 eaten; foraging and greens 70.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 32
 title = "A FIFTH OFF, AND THE BLOW"
 store = 5595
@@ -1008,8 +958,7 @@ events = [
   "THE WEEK: salmon in a high river about 250; lines 60; the haunch 15; foraging 55 less the gift. One clamp home at the strand, about 180 kg of charcoal.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 33
 title = "THE EQUINOX, AND A STRAKE BELOW THE STONES"
 store = 5745
@@ -1024,8 +973,7 @@ events = [
   "THE WEEK: salmon tail 150; lines 250; the tide rocks, berries and greens 150.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 34
 title = "THE SECOND FIELD, AND A MARK NOT TAUGHT"
 store = 5765
@@ -1039,8 +987,7 @@ events = [
   "THE WEEK: barley 160 to eat; lines 150; the tide rocks, kale and greens 110. A second clamp home.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 35
 title = "POST HOLES, AND A QUESTION ABOUT A DOG"
 store = 5795
@@ -1055,8 +1002,7 @@ events = [
   "THE WEEK: lines 350; the tide rocks and greens 100; less twenty barley to malt. AGAINST 8900 THIS WEEK LAST YEAR.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 36
 title = "THE FIRST GALE"
 store = 5755
@@ -1076,8 +1022,7 @@ events = [
   "THE WEEK: the cull 115 fresh; the Hessa cod 100; lines 100 before the gale; foraging 60. Consumed 415 with the six Hessa from D4.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 37
 title = "FEVER, AND THE LAST OF THE COD"
 store = 5960
@@ -1094,8 +1039,7 @@ events = [
   "THE WEEK: lines about 550; foraging and greens 80. Consumed 425 with the Hessa.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 38
 title = "THE GROUND SHUTS, AND TWO FINGERS"
 store = 5685
@@ -1109,8 +1053,7 @@ events = [
   "THE WEEK: lines about 60; seaweed, shellfish, snares and greens about 90. The winter draw begins in earnest.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 39
 title = "THE LINE IN THE SNOW"
 store = 5345
@@ -1132,8 +1075,7 @@ events = [
   "THE WEEK: lines D1-D2 about 40; foraging about 30, the tide rocks shut by snow; the leg 10; three deer about 120 fresh - 200 raw, counted at half against the store from this week, about 85. Consumed 425 with the Hessa.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 40
 title = "WINTER, AND WHAT KOLVENN DOES ON THE ICE"
 store = 4975
@@ -1149,8 +1091,7 @@ events = [
   "THE WEEK: lines about 40, snares about 25, foraging about 40 - about 105 raw, 50 against the store. Consumed 420, the Hessa on the cut.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 41
 title = "THE SITTING RATION"
 store = 4595
@@ -1164,8 +1105,7 @@ events = [
   "THE WEEK: lines about 30, snares about 20, foraging about 30 - about 80 raw, 40 against the store. Consumed 420.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 42
 title = "GLASS WATER AND THE LOW ROCKS"
 store = 4345
@@ -1177,8 +1117,7 @@ events = [
   "THE WEEK: lines about 70, snares about 25, the low rocks about 250 - about 345 raw, 170 against the store. Consumed 420.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 43
 title = "SHUT IN"
 store = 3955
@@ -1190,8 +1129,7 @@ events = [
   "THE WEEK: lines about 10, snares about 15, the rocks about 30 - about 55 raw, 30 against the store. Consumed 420.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 44
 title = "THE FALSE THAW, AND THE WALRUS"
 store = 3785
@@ -1205,8 +1143,7 @@ events = [
   "THE WEEK: the walrus about 450 raw; lines, snares and rocks about 45 - about 495 raw, 250 against the store. Consumed 420.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 45
 title = "SIX FINGERS AT A RAIL"
 store = 3395
@@ -1222,8 +1159,7 @@ events = [
   "THE WEEK: lines, snares and rocks about 60 raw, 30 against the store. Consumed 420.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 46
 title = "THE TURNING, KEPT LOUD"
 store = 2985
@@ -1239,8 +1175,7 @@ events = [
   "THE WEEK: the sow about 50 raw, the rocks before the storm about 10 - about 60 raw, 30 against the store. Consumed 440 with the feast.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 47
 title = "THE THIRD CUT, AND ULF IN THE WATER"
 store = 2670
@@ -1257,8 +1192,7 @@ events = [
   "THE WEEK: seal 45, flatfish 40, rocks and snares about 30 - about 115 raw, 55 against the store. Consumed about 370 from D1.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 48
 title = "THE MAP ON THE BENCH"
 store = 2330
@@ -1274,8 +1208,7 @@ events = [
   "THE WEEK: 30 in (the ice three days, the rocks and snares). 370 out.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 49
 title = "TWO HUNTERS PAST THE LINE"
 store = 2045
@@ -1288,8 +1221,7 @@ events = [
   "THE WEEK: 85 in. 370 out.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 50
 title = "TWO THIRDS OF A WHALE"
 store = 2295
@@ -1305,8 +1237,7 @@ events = [
   "THE WEEK: 620 in, the whale most of it. 370 out.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 51
 title = "THE THIRD CUT AND THE SEVENTH SIGHTING"
 store = 2090
@@ -1323,8 +1254,7 @@ events = [
   "THE WEEK: 95 in (the boar, the ice four days, the snares, the rocks). 300 out.",
 ]
 
-[[entry]]
-year = 2
+[[year_2]]
 week = 52
 title = "WALRUS ON THE BAR, AND NOBODY GOES"
 store = 1820
@@ -1338,8 +1268,9 @@ events = [
   "THE WEEK: 30 in (the ice two days, a little from the snares and rocks). 300 out.",
 ]
 
-[[entry]]
-year = 3
+# ================= YEAR 3 =================
+
+[[year_3]]
 week = 1
 title = "TEN KNIVES FOR MEAT, AND A LINE TO NAGHOLT"
 store = 1620
@@ -1358,8 +1289,7 @@ events = [
   "THE WEEK: 100 in (the ice seven days, a seal, the snares and rocks). 300 out.",
 ]
 
-[[entry]]
-year = 3
+[[year_3]]
 week = 2
 title = "THIRTY DEER TO THE EDGE"
 store = 2025
@@ -1380,8 +1310,7 @@ events = [
   "THE WEEK: 705 in (thirty deer about 600, the ice seven days, two seals, the snares). 300 out.",
 ]
 
-[[entry]]
-year = 3
+[[year_3]]
 week = 3
 title = "THE STORE REVIEWED, AND A WEEK OF WIND"
 store = 1760
