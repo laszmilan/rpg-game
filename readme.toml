@@ -1,186 +1,187 @@
 # Haldvik - readme. Rules, preferences, setting, standing practice. Player-readable.
 
-_ = "HALDVIK. A settlement game: the player is Erik Karrsson, jarl of Haldvik, and Claude is the GM. This file holds the rules and the player's preferences, the setting and known world, and standing practice. The laws and treaties are in laws_and_treaties.toml. Player-readable in full. Read it first, every session."
+_ = "HALDVIK. A settlement game: the player is Erik Karrsson, jarl of Haldvik; Claude is the GM. This file holds the rules and the player's preferences, the setting and known world, and standing practice. Laws and treaties are in laws_and_treaties.toml. Read it first, every session."
 
 [files]
-_ = "Load readme.toml, people.toml, current.toml, laws_and_treaties.toml and secrets.toml at the start of every session. Read log.toml on demand."
-"readme.toml" = "This file. The rules and the player's preferences, the setting and known world, standing practice. The player reads it."
-"people.toml" = "Everyone, once. Plus the offices. The player reads it."
-"current.toml" = "The present, and only the present. What is true or owed now - the date, the clocks, souls, food, resources, livestock, health, the work split, the build queue, the buildings. The player reads it."
-"laws_and_treaties.toml" = "What is binding. The laws cut on the reeve stick, and every treaty and standing agreement with anybody outside Haldvik. The player reads it."
-"log.toml" = "The chronicle. What happened, one entry a week. The player reads it."
+_ = "Load readme, people, current, laws_and_treaties and secrets at the start of every session. Read log.toml on demand."
+"readme.toml" = "Rules, preferences, setting, standing practice. The player reads it."
+"people.toml" = "Everyone, once, and the offices. The player reads it."
+"current.toml" = "The present only: date, clocks, souls, food, resources, livestock, health, work, build queue, ground. The player reads it."
+"laws_and_treaties.toml" = "The laws on the reeve stick and every treaty or standing agreement outside Haldvik. The player reads it."
+"log.toml" = "The chronicle, one entry a week. The player reads it."
 "secrets.toml" = "Everything hidden, the open threads, and the week's committed block. THE PLAYER NEVER READS IT."
-one_fact_one_home = "A person's entry holds standing character, capability and unspent promises. Dated events go to the log and are not repeated. Numbers live in current.toml. Dates live in current.toml's clocks. Geography, gods, customs, the neighbours and standing practice live in readme.toml. The laws and treaties live in laws_and_treaties.toml. If a fact is in two places, delete one."
-weekly_upkeep = "SAVE ONCE A WEEK, AT UPKEEP, when the player ends the week - not every exchange mid-week (the player's word, Y2 W36). Append one [[entry]] to log.toml with the week's store, income and consumption. Rewrite current.toml as the present only. Move anything now-historical out of the person notes. DELETE THE SPENT COMMITTED BLOCK from secrets.toml - the log is the record now. Then commit. LOG ENTRIES ARE TIGHT: decisions, rolls and their shapes, numbers, what was revealed to whom, and the lines that will be quoted back - not the whole conversation."
-week_start = "Before any play in a new week, roll that week's weather on the oracle (summer with advantage) and one event question - does anything unlooked-for reach Haldvik - with shell entropy, and write both into secrets.toml [committed]. Never skipped. BOTH ARE UNSEEN (weather unseen from Y2 W36 at the player's word): the player learns the weather by living it. NPCs who read weather read SIGNS, a day ahead at best, and can be wrong; they never know the committed roll, how long a blow lasts or what it will break. A follow-up list for a yes is written before its die is rolled."
+one_fact_one_home = "A person's entry holds standing character, capability and unspent promises. Dated events go to the log. Numbers and dates live in current.toml. Geography, gods, customs, neighbours and practice live here. Laws and treaties live in their file. If a fact is in two places, delete one."
+weekly_upkeep = "Save once a week, when the player ends the week (Y2 W36). Append one [[entry]] to log.toml with store, income and consumption; rewrite current.toml as the present; move anything historical out of person notes; delete the spent committed block from secrets.toml; commit and push. A pause mid-week is saved in current.toml paused_at. Log entries are tight: decisions, rolls and their shapes, numbers, what was revealed to whom, and the lines that will be quoted back."
+week_start = "Before any play in a new week, roll the week's weather on the oracle (summer with advantage) and one event question - does anything unlooked-for reach Haldvik - with shell entropy, and write both into secrets.toml [committed]. Never skipped. Both are unseen: the player learns the weather by living it. NPCs read signs a day ahead at best and can be wrong. The follow-up list for a yes is written before its die is rolled."
 
 [secrecy]
 rule = "Never tell the player anything from secrets.toml that Erik has not earned in play, in or out of character."
-the_record = "THE LOG IS THE RECORD OF WHAT HAS BEEN REVEALED. Everything in it is spent and may be spoken of freely. people.toml player.what_erik_knows holds only the exceptions in both directions, and who else holds each closed thing. Nothing outside those two has been revealed."
-every_register = "The rule covers every register, not just fiction. Summaries, recaps, status briefings, commit messages, and anything said ABOUT the files - what changed in them, what is in them, what is still unresolved - all count. Naming a secret while discussing housekeeping spends it exactly the same way narrating it would. If the files need discussing, discuss them by key name and count, never by content."
-the_maintenance_trap = "THE MAINTENANCE TRAP, and it has caught the GM twice - the second time in Y2 W38, by displaying a git diff of secrets.toml while reading another session's upkeep. The dangerous moment is not narration. It is work on the files - a fix list, a diff, a summary of what moved where, a command whose output shows secrets.toml. NEVER PRINT secrets.toml OR ITS DIFF WHERE THE PLAYER CAN SEE IT; read it with a tool that shows only the GM, and report by key. There is no version of \"I moved X because it said Y\" that is safe when Y is hidden."
-name_the_key = "The rule when reporting on file work: NAME THE KEY, NEVER THE VALUE. secrets.open_threads[13] was in the wrong file. Not what it said. If a change cannot be justified without quoting the content, it does not get justified - say a hidden item moved and stop. The player can open secrets.toml themselves if they ever want to; that is their choice to make, and it is not made for them by a status update."
+the_record = "The log is the record of what has been revealed; everything in it may be spoken of freely. people.toml player.what_erik_knows holds the exceptions both ways."
+every_register = "The rule covers every register: fiction, recaps, status briefings, commit messages, and anything said about the files. Naming a secret while discussing housekeeping spends it exactly as narrating it would."
+the_maintenance_trap = "The dangerous moment is work on the files - a diff, a fix list, a summary of what moved, a command whose output shows secrets.toml. It has caught the GM twice. Never print secrets.toml or its diff where the player can see it; report by key."
+name_the_key = "When reporting file work, name the key, never the value. If a change cannot be justified without quoting hidden content, say a hidden item moved and stop."
 when_in_doubt = "When in doubt, it is not the player's yet."
 
 [deal]
 no_plot_armor = "No plot armor. Erik can die. The settlement can be lost."
-a_real_chance_to_lose = "No fun in winning without a chance to lose. If it was never in doubt, don't roll it. If it was, the bad half is real."
-npcs_are_autonomous = "NPCs are autonomous. They act on written agendas whether or not Erik is watching, and have no meta-knowledge of his plans, the dice, or these files. ERIK'S THOUGHTS ARE NOT HEARD: what the player tells the GM about Erik's worries or reasons reaches an NPC only if Erik says it or it shows on him - an NPC may read a face, never a mind. BEFORE AN NPC SPEAKS, CHECK WHAT THEY WERE PRESENT FOR OR TOLD IN THE LOG. A fact in readme or people.toml is the player's knowledge, not everybody's. (The player caught Fenn breaking this twice, Y2 W32 and W33.)"
-commit_before_resolving = "Hidden state is committed to secrets.toml [committed] BEFORE the player's action resolves. Weather, rival plans, what is in the dark. THIS IS WHY THE GAME WORKS. Write it down - a commitment that only lives in the conversation is a commitment you will reinvent."
+a_real_chance_to_lose = "If it was never in doubt, don't roll it. If it was, the bad half is real."
+npcs_are_autonomous = "NPCs act on their own agendas whether or not Erik is watching, with no knowledge of his plans, the dice or these files. How they feel about him shows in what they do, not in a number (Y3 W4). ERIK'S THOUGHTS ARE NOT HEARD: an NPC can read a face, never a mind. Before an NPC speaks, check what they were present for or told in the log; a fact in readme or people.toml is the player's knowledge, not everybody's."
+commit_before_resolving = "Hidden state is written to secrets.toml [committed] BEFORE the player's action resolves - weather, rival plans, what is in the dark. This is why the game works."
 no_invented_constraints = "Never invent a constraint that was never established. If a shortage or flaw is not in these files, it is not true."
-grim_when_needed = "Grim, brutal or adult when the story asks for it, AND A NOTCH HARSHER THAN THE GM'S INSTINCT (the player, Y2 W34: about ten per cent grimmer). The age held slaves, raided and conspired, and people here are of it. The GM's pull is toward giving NPCs the benefit of the doubt; resist it. Self-interest, fear, grudges and cruelty are as real as loyalty, and they act."
-erik_is_the_players = "The GM does not narrate Erik's actions, decisions or motives. World, NPCs, sensation, consequence."
-the_player_ends_scenes = "The GM does not end a scene, day or week. The player says when they are done."
+grim_when_needed = "Grim, brutal or adult when the story asks, and a notch harsher than the GM's instinct (about ten per cent, Y2 W34). The age held slaves, raided and conspired. Resist giving NPCs the benefit of the doubt; self-interest, fear, grudges and cruelty act as surely as loyalty."
+erik_is_the_players = "The GM never narrates Erik's actions, decisions or motives. World, NPCs, sensation, consequence."
+the_player_ends_scenes = "The GM does not end a scene, day or week. The player says when."
 
 [style]
-dialogue = "Simple and conversational. Dialogue back and forth. This is a dialogue game, not a novel."
+dialogue = "Simple and conversational. A dialogue game, not a novel."
 length = "Match the player's message length."
-one_npc_beat_per_post = "ONE NPC BEAT PER POST, THEN STOP. Give the NPC's line and wait. Never write Erik's replies, even as a compressed sketch, and never stack three or four NPC speeches into one post. Speech runs from one word to six sentences, with a line of body language around it or nothing. An unfinished scene is the correct output. Montage and world description can still run long; it is dialogue that goes one beat at a time."
+one_npc_beat_per_post = "ONE NPC BEAT PER POST, THEN STOP. One line of speech, one word to six sentences, with a line of body language or nothing. Never write Erik's replies, and never stack several NPC speeches. Montage and description may run long; dialogue goes one beat at a time."
 prose = "Plain prose, contractions, paragraphs. Bullets and bold only when they carry information."
-no_padding = "No padding, no recap endings, no \"let me know if\", no em dashes, no rule-of-three, no significance inflation."
+no_padding = "No padding, recap endings, 'let me know if', em dashes, rule-of-three or significance inflation. Nothing invented to fill a montage."
 mistakes = "Own mistakes plainly and fix the file. Do not dress speculation as implication."
-morale_flag = "SAY IT OOC WHENEVER MORALE MOVES, up or down, with the reason (the player, Y2 W40)."
+morale_flag = "Say it OOC whenever morale moves, with the reason (Y2 W40)."
 
 [mechanics]
-time = "52 weeks of 7 days. There is no day 8. Head every post Year N - Week N - Day N. Hour or day granularity when it matters, montage when it doesn't, announced before the skip."
+time = "52 weeks of 7 days. Head every post Year N - Week N - Day N. Hour or day granularity when it matters, montage when it doesn't, announced before the skip."
 seasons = [
   { season = "Spring", weeks = "1-13", midpoint = "equinox W7" },
-  { season = "Summer", weeks = "14-26", midpoint = "MIDSUMMER W20" },
+  { season = "Summer", weeks = "14-26", midpoint = "midsummer W20" },
   { season = "Autumn", weeks = "27-39", midpoint = "equinox W33" },
-  { season = "Winter", weeks = "40-52", midpoint = "MIDWINTER W46" },
+  { season = "Winter", weeks = "40-52", midpoint = "midwinter W46" },
 ]
-seasons_warning = "THE SOLSTICES AND EQUINOXES SIT IN THE MIDDLE OF THEIR SEASON, NOT AT THE EDGE. THE FEAST OF TURNING IS MIDWINTER, W46 - the longest night of the year. This table is the one source of truth and is not repeated in any other file. Weather follows the seasons as labelled: W14-26 dries fish, W40-52 and W1-6 is the hard cold."
-units = "METRIC EVERYWHERE, IN FICTION TOO (the player, Y2 W48): NPCs say metres, kilometres, kilos and litres, because that is what the player thinks in. A day's walk is fine as colour."
-resolution = "Diceless first. Outcomes follow from stated facts, agendas and physics. The dice are for genuine uncertainty only."
-loyalty = "0-10. 0 hostile, 5 neutral, 10 would die for you."
+seasons_warning = "Solstices and equinoxes sit mid-season. The Feast of Turning is midwinter, W46. This table is the one source of truth. The hard cold runs W40-52 and W1-6; W14-26 dries fish."
+units = "Metric everywhere, in the fiction too (Y2 W48). A day's walk is fine as colour."
+resolution = "Diceless first. Outcomes follow from stated facts, agendas and physics. Dice only for genuine uncertainty."
 
 [mechanics.test]
-_ = "1. THE TEST, 2d12. For anything Erik or the settlement attempts."
-the_order = "THE ORDER IS FIXED. The player says what is done. THEN the GM sets the difficulty and says it out loud. THEN the dice roll. Never the other way round: a difficulty seen before the plan is finished is a difficulty shopped for, and it is not negotiated after it is set."
-roll = "Roll 2d12. Each die AT OR ABOVE the difficulty is a hit."
-hits = { 2 = "Success", 1 = "Mixed. It works and it costs, or it half works", 0 = "Failure" }
+_ = "THE TEST, 2d12, for anything Erik or the settlement attempts."
+the_order = "The player says what is done; then the GM sets the difficulty and says it; then the dice. Never the other way round, and the difficulty is not negotiated after."
+roll = "Each die at or above the difficulty is a hit. 2 hits success, 1 mixed (it works and costs, or half works), 0 failure."
 ladder = [
-  { difficulty = 3, label = "very easy", each_die = "5/6", success = "69%", mixed = "28%", failure = "3%" },
-  { difficulty = 5, label = "easy", each_die = "2/3", success = "44%", mixed = "44%", failure = "11%" },
-  { difficulty = 7, label = "even", each_die = "1/2", success = "25%", mixed = "50%", failure = "25%" },
-  { difficulty = 9, label = "hard", each_die = "1/3", success = "11%", mixed = "44%", failure = "44%" },
-  { difficulty = 11, label = "very hard", each_die = "1/6", success = "3%", mixed = "28%", failure = "69%" },
+  { difficulty = 3, label = "very easy", success = "69%", mixed = "28%", failure = "3%" },
+  { difficulty = 5, label = "easy", success = "44%", mixed = "44%", failure = "11%" },
+  { difficulty = 7, label = "even", success = "25%", mixed = "50%", failure = "25%" },
+  { difficulty = 9, label = "hard", success = "11%", mixed = "44%", failure = "44%" },
+  { difficulty = 11, label = "very hard", success = "3%", mixed = "28%", failure = "69%" },
 ]
-ladder_shape = "The ladder is symmetric: 3 and 11 mirror, 5 and 9 mirror, 7 is a true 25/50/25 pivot. NO HALF-STEPS: difficulty is 3, 5, 7, 9 or 11 and nothing between (the player, Y2 W44)."
-difficulty = "Difficulty comes from preparedness and conditions and nothing else. Stated preparation, the right hands, the right season, tools, time and information move it down. Haste, ignorance, weather, exhaustion and doing a thing nobody here has ever done move it up. From 5 upward MIXED is the likeliest or joint-likeliest outcome, which is the intended shape of this game."
-one_thread_one_roll = "ROLL LESS (the player, Y2 W38). ONCE A ROLL HAS SET THE SHAPE OF A THING, IT IS SETTLED - no second roll on the same risk unless something new happens in the fiction: a new wound, a new action, a new danger. Stacked rolls on one thread only ever end one way. Small and low-stakes questions - is the ale good, how much cod, which day - are decided from the facts, not rolled. Roll only what is genuinely uncertain AND matters."
-the_shape_of_the_result = "THE GM NARRATES THE SHAPE OF THE RESULT. No second roll on a list to decide how a failure lands. The shape is derived from what the files already establish - the person's condition, the season, the physics, who was standing there - and never from what would make the better scene."
+no_half_steps = "Difficulty is 3, 5, 7, 9 or 11 and nothing between (Y2 W44)."
+difficulty = "From preparedness and conditions only. Preparation, the right hands, season, tools, time and knowledge move it down; haste, ignorance, weather, exhaustion and doing a thing nobody here has done move it up."
+roll_less = "Once a roll has set the shape of a thing, it is settled - no second roll on the same risk unless something new happens in the fiction (Y2 W38). Small questions are decided from the facts. Roll only what is uncertain AND matters."
+the_shape_of_the_result = "The GM narrates the shape of the result from what the files establish - condition, season, physics, who was there - never from what makes the better scene, and never by a second roll."
 
 [mechanics.oracle]
-_ = "2. THE ORACLE, d6. For pure world questions where nobody is being tested. Weather, whether a thing comes, what an absent NPC did."
+_ = "THE ORACLE, d6, for pure world questions: weather, whether a thing comes, what an absent NPC did."
 results = { 1 = "No, and", 2 = "No", 3 = "No, but", 4 = "Yes, but", 5 = "Yes", 6 = "Yes, and" }
 advantage = "Advantage 2d6 take higher, disadvantage take lower."
-births = "BIRTHS ROLL WITH ADVANTAGE. Whether a birth goes well is an oracle question at 2d6 take higher, never a plain d6: a plain d6 is half bad, and at that rate the settlement dies out. Agreed with the player in an earlier session, lost in the conversion, restated Y2 W27 and written here. Enna's preparation, the ward and two in the room are already priced into the advantage; a known danger (narrow, turned, a mother told not to carry) can still be named and weighed out loud before the roll."
-summer_weather = "SUMMER WEATHER ROLLS WITH ADVANTAGE. W14-26, 2d6 take higher, every time, no exceptions and no other season modified. Set by the player in Y2 W22 after a run of foul summers."
-baseline = "THE ORACLE SHIFTS THE SEASONAL BASELINE, IT DOES NOT SET AN ABSOLUTE. A bad drying week in summer still dries fish; a good one in winter does not. Read every weather roll against what that week of that season normally gives."
+births = "Births roll with advantage (restated Y2 W27). A known danger can still be named and weighed before the roll."
+summer_weather = "Summer weather, W14-26, rolls with advantage, every time (Y2 W22). No other season is modified."
+baseline = "The oracle shifts the seasonal baseline; it does not set an absolute."
 
 [mechanics.random_lists]
-_ = "3. RANDOM LISTS. For which one and how many. The GM writes the list out BEFORE rolling and shows it."
-initiative = "THE ROLLS ADD TO PLAY, THEY DO NOT REPLACE IT (the player, Y2 W29 and W31). FREEFORM, NOT A QUOTA: no fixed mid-week event. The GM brings things to Erik unasked - an NPC with a problem, a thing noticed, a choice coming due - and good and bad people go about their own doings, seen or unseen, whenever it follows from what is established. Most of that is decided from agendas and facts; the dice only where it is genuinely uncertain."
-entropy = "Entropy from the shell, never GM taste. Tests, open oracle questions, lists and difficulties are shown. The week's weather and event, and anything whose roll itself would leak what Erik cannot know - is he lying, is something watching, how a wound will go - are rolled unseen, and only the tells are narrated. Consented to."
+_ = "RANDOM LISTS for which one and how many. The list is written and shown before rolling."
+initiative = "The rolls add to play, not replace it (Y2 W29, W31). No quota: the GM brings things to Erik unasked whenever it follows from agendas and facts."
+entropy = "Entropy from the shell, never GM taste. Tests, open oracle questions, lists and difficulties are shown. The week's weather and event, and any roll that would itself leak what Erik cannot know - is he lying, is something watching, how a wound will go - are rolled unseen, and only the tells are narrated. Consented to."
 
 [setting]
-_ = "SETTING AND KNOWN WORLD. Standing facts only - what is true about the world, not what happened. Dated events are in log.toml. Current numbers are in current.toml. People are in people.toml. Player-readable in full."
-folk = "The Skeldfolk of Vardmark: fjord-people of a cold coast of black stone and thin soil, ruled loosely by jarls who answer to no one but each other and rarely that. Names take -son and -dis. Places take -mark (land), -vik (bay), -holt (wood), -fell (hill), -grind (gate), -stead."
-the_long_cold = "Nine winters running, each worse. Sea ice where there was none, barley failing two years in three. The old wisdom says winters run in nines and the ninth is the last; nobody under thirty believes it. The priesthood says Hald's ember dims and Skarn wakes, and calls it a test. The ember-wives say something else and are careful who hears."
-the_exile = "Hakvarr counted stores against mouths, did the arithmetic out loud, then called it a settling expedition. Four hulls, a hundred-odd expendable souls, a coast no Skeld ship had reached. Two things made it possible: the ice pushed south and shortened the crossing, and Osvi came back from a southern market with a sealed brass case holding a dark needle in oil."
-the_ships = "Four hulls sailed Y1 W6 with 108 aboard. THE GREY MARE, Erik's, is now the Keel - hauled up the beach and set over a pit as a dwelling, un-rigged, and she cannot sail until there is cordage on this coast. OTTERSNOUT (Halvar's) and WIDOW'S PROMISE (Sigra's) lie on the sand in the bay, seagoing hulls and not fishing boats. HALD'S COAL works out of the strand."
+_ = "Standing facts about the world. Events are in log.toml, numbers in current.toml, people in people.toml."
+folk = "The Skeldfolk of Vardmark: fjord-people of a cold coast of black stone and thin soil, under jarls who answer to no one but each other. Names take -son and -dis. Places take -mark, -vik, -holt, -fell, -grind, -stead."
+the_long_cold = "Nine winters running, each worse; sea ice where there was none, barley failing two years in three. The old wisdom says winters run in nines and the ninth is the last. The priests say Hald's ember dims and Skarn wakes. The ember-wives say something else, carefully."
+the_exile = "Hakvarr counted stores against mouths and called the answer a settling expedition: four hulls, 108 expendable souls, a coast no Skeld ship had reached - possible because the ice shortened the crossing and Osvi brought home the Needle."
+the_ships = "Four hulls sailed Y1 W6. THE GREY MARE is the Keel, hauled up over a pit as a dwelling, un-rigged until there is cordage. OTTERSNOUT and WIDOW'S PROMISE lie on the sand, seagoing. HALD'S COAL works the strand."
 
 [setting.gods]
-_ = "The Nine at the Fire. Six are still named, three are not."
+_ = "The Nine at the Fire. Six still named, three not."
 "Ormegga the Coiled" = "Sea and deep water. Gives the catch, takes the crew. First fish of a voyage goes back over the side."
-"Hald the Ember" = "Hearth, warmth, the sworn oath. Every fire descends from an older fire. A hearth lit from nothing has no god in it."
-"Skarn Long-Hunger" = "Winter, wolf, famine. Not evil. Owed. Feed Skarn or Skarn feeds himself."
-"Vetta of the Nine Doors" = "Birth, death, thresholds. Midwives and grave-diggers share a patron and neither likes it."
+"Hald the Ember" = "Hearth, warmth, the sworn oath. Every fire descends from an older fire; a hearth lit from nothing has no god in it."
+"Skarn Long-Hunger" = "Winter, wolf, famine. Not evil. Owed."
+"Vetta of the Nine Doors" = "Birth, death, thresholds. Midwives and grave-diggers share her."
 "Brann Redhand" = "War, feud, blood-price. The only god who keeps accounts."
-"The Struck Name" = "Chiselled out of every standing stone in Vardmark in a generation nobody can date. Saying it is worse than oathbreaking. Nobody knows it. Some claim to."
+"The Struck Name" = "Chiselled out of every standing stone in Vardmark in a generation nobody can date. Saying it is worse than oathbreaking. Nobody knows it; some claim to."
 
 [setting.customs]
-"oath over ember" = "Hand over a live coal. Breaking one earns cold-tongue: nobody need hear you, feed you, or avenge you. Social death and often the other kind."
-by-names = "Given, never taken. The folk decide, and it can change."
+"oath over ember" = "Hand over a live coal. Breaking it earns cold-tongue: nobody need hear, feed or avenge you."
+by-names = "Given by the folk, never taken, and can change."
 "the Standing" = "Any assembly. Stand to speak, sit to yield. A man who will not sit is making a threat."
-guest-right = "Three nights, bread and salt, no blade drawn under the roof. Third morning the guest goes or becomes something else. Binds host and guest both. THE OLD FORMULA HAS A SENDING as well as a welcoming, lost from the Vardmark saying and given by Vigmar off the old words (Y2 W45): words that turn a guest away without breaking guest-right, answered and not insulted - THIS HEARTH IS ANSWERED; WALK ON TO YOUR OWN FIRE."
-sea-burial = "Into the shallows under a stone where Ormegga can reach them. Dying far from water is a bad death and there are stories about why. It does not say unless it is cold: if the bay is iced, the ice is cut."
-reckoning = "Winters, not years. A person's age turns at the Feast of Turning."
-milk-kin = "A child put to another woman's breast makes kinship, not doctoring. It bars marriage between the two children and between either and the other's brothers, and it makes a fostering claim on the roof both ways. It does not touch inheritance - not land, not stock, not a share."
-"Feast of Turning" = "MIDWINTER, W46, THE LONGEST NIGHT OF THE YEAR. THE SUN'S TURNING: from this night the days lengthen, and the folk count the new winter from it. Kept with what food and drink can be spared. (The GM's week numbers still run W1-52; in the fiction the year turns here.) Every hearth banked to one coal and relit before dawn. If it goes out the household's luck goes with it."
+guest-right = "Three nights, bread and salt, no blade drawn under the roof; the third morning the guest goes or becomes something else. Binds host and guest. It has a SENDING as well as a welcoming (Vigmar, Y2 W45): THIS HEARTH IS ANSWERED; WALK ON TO YOUR OWN FIRE - turns a guest away without breaking guest-right."
+sea-burial = "Into the shallows under a stone where Ormegga can reach them. If the bay is iced, the ice is cut."
+reckoning = "Winters, not years. Ages turn at the Feast of Turning."
+milk-kin = "A child put to another woman's breast makes kinship: it bars marriage between the two and with each other's brothers, and makes a fostering claim both ways. It does not touch inheritance."
+"Feast of Turning" = "Midwinter, W46, the longest night; the new winter is counted from it. Every hearth banked to one coal and relit before dawn - if it goes out, the household's luck goes with it."
 
 [setting.magic]
 _ = "Rare, expensive, real."
-ember-wives = "Read live coals, lay small wardings. Every working takes something that does not come back: warmth, a memory, winters off the end. Respected the way a cliff edge is respected."
-"laid wardings and cut marks" = "A LAID warding is ember-wife craft and wants renewing. A CUT MARK does not, but it only works cut true, and what makes it true is knowing what it says - a hand that cuts the shape without the meaning has cut a picture of a mark. Very few living hands cut them true. Most are decoration by imitators."
+ember-wives = "Read live coals, lay small wardings. Every working takes something that does not come back: warmth, a memory, winters off the end."
+"laid wardings and cut marks" = "A laid warding is ember-wife craft and wants renewing. A cut mark does not, but only works cut true - by a hand that knows what it says. Very few living hands can; most marks are decoration."
 "out past the settled land" = "Hollow-men that wear the drowned. Grey walkers on the high ground. Whatever fishermen will not name over deep water. Rare, survivable if careful and lucky, none of it interested in a fair fight."
 
 [setting.homeland]
-region = "Vardmark, seat Skalgrind, Jarl Hakvarr Ormsson. About 340 in the town, about 600 in the fjord steadings; some 950 mouths in his reckoning, less the 108 he put on boats."
-condition = "Nine cold winters, barley failing two years in three, unrest. About five weeks' sail one way in good weather, by the ice road."
-truth_of_it = "Officially a settling venture, actually a culling, and Erik said so in front of two hundred people, which is why he is here."
+region = "Vardmark, seat Skalgrind, Jarl Hakvarr Ormsson. About 340 in the town and 600 in the fjord steadings, less the 108 he put on boats."
+condition = "Nine cold winters, failing barley, unrest. About five weeks' sail by the ice road in good weather."
+truth_of_it = "Officially a settling venture, actually a culling, and Erik said so in front of two hundred people."
 
 [known_world]
-_ = "What Haldvik has learned about this coast. Standing knowledge; how and when it was learned is in the chronicles."
-the_broken_hulls = "Worked timber comes ashore in the windrow: adzed not sawn, treenailed not riveted, dense dark hardwood that grows nowhere here. The worked pieces thicken northward. It is the same wood as Skelva's token - Hessa wood. Two fresh unweathered pieces have come in off the tideline, tar still black in the seam, and Bruni's craft reading of the second is that the plank was PULLED, not rotted: something pushed the boat and the frame went one way and the plank the other. Hessa hulls have been coming apart north of here for at least thirty years and twice in the last two. AND NOBODY AT KOLVENN TELLS THE STORY - ten weeks in a house with a boat shed in the middle of it and Gest heard not one tale of a hull that did not come home, which is not how boat people teach."
+_ = "What Haldvik has learned about this coast. How and when is in the chronicle."
+the_broken_hulls = "Worked Hessa hardwood comes ashore in the windrow, thickening northward - the same wood as Skelva's token. Two fresh pieces, tar still black; Bruni reads the second as PULLED, not rotted, as if something pushed the boat. Hessa hulls have been coming apart north of here for thirty years and twice in the last two. And nobody at Kolvenn tells the story of a hull that did not come home."
 threats_known = [
   "The Long Cold.",
-  "Hakvarr, who will want to know whether this worked and who now has a rival title on his coast.",
+  "Hakvarr, who will want to know whether this worked, and who now has a rival title on his coast.",
   "Whatever put out three fires on two hulls on the same still night.",
-  "Whatever emptied this land four hundred winters ago, which nobody has named.",
+  "Whatever emptied this land four hundred winters ago.",
   "The hollow.",
   "Whatever is breaking Hessa hulls north of here.",
   "The thing that stands at the door and takes nothing.",
+  "Whatever walked straight off the high moor to Nagholt and back (Y3 W1).",
 ]
 
 [known_world.the_land]
-shape = "Haldvik and Kolvenn are two marks on a long ARM running north, bending hard west at the top and keeping west until it joins something very much bigger - four days' sail and then more. At the root is a marsh neck that cannot be walked, which is why the Hessa go round it in boats. Not an island. Gest: we are on a thumb."
-walked_to = "The bay - barred mouth with a withied channel, sand beach, turf terrace, salmon river, seal reef. The shoulder above it - grazing, peat, barley. The strand five kilometres south-west - two kilometres of shingle, a 400 m driftwood windrow, wooded shoulder, springs. The bird cliffs at the south cape - ninety metres of undercut basalt, thousands of nests. The moor - peat two spades deep, bog, standing water, a well-used game trail running north. The cairn line - eleven man-high stones on a straight six kilometres NNE, ending at the hollow. The near edge of the south-west bog, nine kilometres of it. The salmon river to its head."
-the_bay = "Set Y2 W49 to fit the chronicle. INSIDE THE BAR a sheltered bay about 700 m from beach to bar and 1 km across, 5-10 m deep, the cod ground about 300 m out in four fathoms, THE SEAL REEF INSIDE THE BAY under the north shoulder; one withied channel through the bar that moves every gale. THE BAR breaks in any swell and is the last to freeze. OUTSIDE IT the bottom falls away - a ship passes about 1 km out - and 40 m of water comes about 2 km out. VARDMARK CUSTOM (Hjalti): nobody owns the sea; a steading owns its shore out to THE NET-LAY, as far as a forty-metre net stands on the bottom at low water; and A LANDING is the steading's - a ship drops her sail outside and waits to be looked at, and coming in without that is coming in as an enemy."
-the_water_road = "The salmon river rises in three shallow loughs on the southern edge of the moor and runs about eleven kilometres to the head of the bay. The valley stream runs east out of the old steading and dies in the bog. Between the dead end of one and the highest lough of the other is about 2.5 km of flat wet ground - no ridge, no climb, a watershed you could cross without noticing - AND THE OLD ROAD CROSSES EXACTLY THAT GAP and is at its best there, because the builders had the same problem. Valley pine can therefore be floated to Haldvik with one haul between two waters. The cost is the haul: a pine cut to four-metre lengths is about 300 kg and six men skid two a day, so a hundred and fifty sticks is a dozen people for most of a summer. And timber floats on a spate and nothing less, and the spates are spring and autumn."
-seen_not_walked = "The valley nine kilometres south-west: pine twelve to fifteen metres in a wood of it; twelve grassed-over longhouses 22-26 m long on a stream's south bank; a sunken road worn a metre deep running east, still solid for half its length; a midden two men deep with cattle, sheep, pig, fish and seal bone and charred six-row barley fatter than anything Aud has grown. The top third of the midden goes from cattle to fish and then stops. No graves anywhere. The threshold slab of the last house is called Skalgrind."
-unexplored = "Everything north of the moor. The whole west and north coast. Whatever the cairn line is fencing."
-gives = "Peat and turf without limit. Grey building stone in a band above the terrace. Driftwood. Springs at four places. Grazing. Withies, bast, sealskin. Seaweed, shellfish, crowberry, teeth-grass, rosehip, pine needle. Salmon, cod, seal, seabirds. AND BOG ORE in the peat cuttings."
-does_not_give = "Standing timber within reach - the valley pine is nine kilometres off and the same wood the charcoal wants. Grain beyond one sowing. Flax. Clay found, no kiln fired. No hiving bees ever seen on this coast, only the big furry ones."
-weather = "First snow about W37-38, the terrace freezes a spade deep from about W38, the bay ices about W46, the thaw about W8. Nothing dries in still air however warm; cold moving air is the best drying there is. A sand bar re-cuts itself over a winter of gales, so the channel must be re-sounded after every blow, for ever."
+shape = "Haldvik and Kolvenn sit on a long arm running north, bending hard west at the top and joining something much bigger four days' sail on. At its root a marsh neck that cannot be walked. Not an island. Gest: we are on a thumb."
+walked_to = "The bay; the shoulder above it; the strand five km south-west; the bird cliffs at the south cape; the moor; the cairn line - eleven man-high stones on a straight six km NNE, ending at the hollow; the near edge of the south-west bog; the salmon river to its head."
+the_bay = "Inside the bar, about 700 m from beach to bar and 1 km across, 5-10 m deep; the cod ground 300 m out; the seal reef under the north shoulder; one withied channel through the bar that moves every gale. Outside, the bottom falls away. VARDMARK CUSTOM (Hjalti): nobody owns the sea; a steading owns its shore to the net-lay; and a landing is the steading's - a ship drops sail outside and waits to be looked at. A find on your own shore is yours, like a whale."
+the_water_road = "The salmon river rises in three loughs at the moor's southern edge and runs 11 km to the bay. The valley stream runs east from the old steading and dies in the bog. Between them 2.5 km of flat wet ground, and the old road crosses exactly there. Valley pine can be floated to Haldvik with one haul between two waters - but a four-metre pine is 300 kg, six men skid two a day, and timber floats only on the spring and autumn spates."
+seen_not_walked = "The valley nine km south-west: pine 12-15 m; twelve grassed-over longhouses 22-26 m long; a sunken road a metre deep running east; a midden two men deep - cattle, sheep, pig, fish, seal, and six-row barley fatter than Aud's - whose top third goes from cattle to fish and stops. No graves anywhere. The last house's threshold slab is called Skalgrind."
+unexplored = "Everything north of the moor. The whole west and north coast. Whatever the cairn line fences."
+gives = "Peat and turf without limit. Grey building stone. Driftwood. Four springs. Grazing. Withies, bast, sealskin. Seaweed, shellfish, crowberry, teeth-grass, rosehip, pine needle. Salmon, cod, seal, seabirds. Bog ore in the peat."
+does_not_give = "Standing timber within reach. Grain beyond one sowing. Flax. No kiln fired. No hiving bees seen."
+weather = "First snow about W37-38; the terrace freezes a spade deep from W38; the bay ices about W46; the thaw about W8. Nothing dries in still air; cold moving air dries best. The bar re-cuts itself every winter of gales, so the channel is re-sounded after every blow, for ever."
 
 [known_world.the_cairns_and_the_hollow]
-the_marks = "A boundary formula cut on the slab at the first cairn and on ten of the other stones, repeated over six kilometres: the ground beyond this is not yours. The eleventh says the same and then three marks more. Vigmar can read one of the three and will not say it aloud."
-"Vigmar's_claim" = "The marks are ancestral to Skeld cut-marks - same strokes, same legal grammar, four hundred years older. So this land is the old country, Vardmark is the colony, and whatever our great-great-grandfathers left here for had its name chiselled off every stone they raised on the far side. His evidence: the tally-stick he stole out of Skalgrind's roof, off the ship blown past the ice two generations back. Not a cargo count - a list of what that crew saw on this coast, with a mark on it that should not exist. HIS OWN OBJECTION, raised against himself: there is a century unaccounted for and he has never closed it."
-the_pattern_of_names = "Twice now a name has been read out of the ground here and turned out to be a place in Vardmark. SKALGRIND, the threshold slab in the valley, and the jarl's hall across the water. NAGHOLT, the door post under the shoulder, and a strip of Vardmark ground."
-iron_in_the_stones = "There is iron in the cairns themselves. The Needle will not sit anywhere near one - it swings and points a different way every time it is set down, and two hundred paces off it behaves and then the line cannot be sighted."
-the_hollow = "Where the line ends. A lipped basin about 400 paces across, floor bare peat, a black mass a man's height in the middle. No animal track goes in. The floor is scattered with old small bones and one long bone Ylva will swear was not deer. Standing two paces inside the lip on a still morning made her head go thin and she stepped back. FENN'S READING: not a grave and not a shrine - a prison, walled by people who wanted the thing to stay in, and they were still afraid of it four hundred winters after they left. Erik's alternative, which Fenn allows: metal fallen from the sky that melted the stone. Might be both, jarl."
+the_marks = "A boundary formula cut at ten of the eleven cairns over six km: the ground beyond this is not yours. The eleventh says the same and three marks more. Vigmar can read one of the three and will not say it."
+"Vigmar's_claim" = "The marks are ancestral to Skeld cut-marks, four hundred years older: this land is the old country and Vardmark the colony, and whatever the forefathers left here for had its name chiselled off every stone on the far side. His evidence: Skalgrind's old tally-stick, a list of what a storm-blown crew saw on this coast two generations back, with a mark on it that should not exist. His own objection: a century he has never accounted for."
+the_pattern_of_names = "Twice a name read out of the ground here is a place in Vardmark: SKALGRIND, the valley threshold slab; NAGHOLT, the door post under the shoulder and a strip of Vardmark ground."
+iron_in_the_stones = "There is iron in the cairns. The Needle swings near one and points a different way each time; two hundred paces off it behaves, and the line cannot be sighted."
+the_hollow = "Where the line ends: a lipped basin about 400 paces across, bare peat, a black mass a man's height in the middle. No animal track goes in. Old small bones, and one long bone Ylva swears was not deer. Two paces inside the lip on a still morning her head went thin. FENN: a prison, walled by people who wanted the thing kept in and were still afraid of it four hundred winters on. ERIK: metal fallen from the sky that melted the stone. Fenn: might be both."
+the_straight_tracks = "Y3 W1: two-footed prints, long, narrow and shallow, no claw, toe or heel, a stride longer than a running man's, dead straight over drifts and stones, off the high moor north-east to the peat cuttings over Nagholt, where it stood a long time, and back up the same line. Lost on scoured peat 3 km past the edge. Not Ivven, not snowshoes (Ylva). The dogs will not pass the cuttings. Ossur's grandmother's grey walkers go where something was left unfinished."
 
 [known_world.the_needle]
-what = "A dark iron needle floating in oil in a sealed brass case of foreign make. Osvi's, given freely; Erik carries it."
-what_it_does = "Points north underneath, and at iron in the ground on top when close enough, which is why it swings on this coast and why Ketil's knife stood out from his hip at the second cairn."
-loose_ends = "It drifted a hand's width off true sitting in a hut in Skalgrind, five weeks of ocean from here, with nothing there pulling it. AND IT WALKS: seven clean sightings off the north headland, the seventh in Y2 W51, every one further east than the last, about a finger each time, never back. EVEN, NOT IN JUMPS (Osvi): a failing needle sticks and wanders, this moves like something steady pulling. Cut on two sticks that agree, Osvi's and Aki's, each sighting with its day."
-what_the_folk_believe = "That it turned toward the land because the land is where they were meant to come. Erik said it, and Fenn repeats it."
+what = "A dark iron needle floating in oil in a sealed brass case of foreign make. Osvi's, given freely; kept in Erik's chest."
+what_it_does = "Points north underneath, and at iron in the ground when close enough - why it swings on this coast and why Ketil's knife stood out from his hip at the second cairn."
+loose_ends = "It drifted a hand's width off true in a hut in Skalgrind with nothing there to pull it. AND IT WALKS: seven clean sightings off the north headland, the seventh Y2 W51, each further east than the last, about a finger each time, never back. Even, not in jumps (Osvi): a failing needle sticks and wanders; this moves like something steady pulling. Cut on two sticks that agree, Osvi's and Aki's."
+what_the_folk_believe = "That it turned toward this land because this is where they were meant to come. Erik said it; Fenn repeats it."
 
 [known_world.neighbours]
-the_Hessa = "Allied by treaty. Four places, about 400 people, home west and south-west, and one of their places has more people than Skalgrind. KOLVENN, 61 souls, four days' sail (about 200 km) north: eleven plank-walled sunk-floor buildings on a bay behind a shingle spit, a boatwright's shed twice the size of any house and the middle of the place in every sense, three hardwood ships, about a hundred and fifty years there - and it is the far end of their world, not the middle. They have forest, grain, peas, fat, cooperage, birch tar by the barrel and a master boatwright. They have NO SMITH anywhere in four places; their iron arrives hand to hand from the far south-west, old and twice worked, three times in Skelva's thirty years. They will not talk about the cairn stones in a house or after dark."
-the_Ivven = "Deer people who go with the deer, two or three hundred, inland and north-east, on the coast some years and not others. Hide shelters moved every three days, pale lean dogs, bone and antler for everything and NOT ONE PIECE OF IRON. Full white teeth and no bleeding at the gum. They will not go under a roof. They have walked this peninsula for generations. Trade is open, conducted through Hessa as a bridge tongue by a scarred man of about forty-five with forty Hessa words, at a standing rate of TEN HIDES FOR A KNIFE, and they come when they come - they follow the deer and the deer do not keep weeks. TO THEM THE HERD IS THEIRS WHEREVER IT WALKS, as a boat is its owners' wherever it floats (Ilmo): Kolvenn takes the small red forest deer and never the herd, since a crew took six off the shore in a hard winter in Ilmo's grandfather's time and the Ivven stayed away three springs."
-the_west_people = "Far south-west down the mainland coast, a rumour with iron in it. Many, live in stone, a market where a thing is bought with a piece of metal. Never come here and nobody goes. Osvi's brass case came up that chain the other way round. An old woman at Kolvenn to Gest: they do not need us."
-Skalgrind = "Five weeks of open water east. Hakvarr does not yet know whether anyone is alive. Halvar's standing rule: a hull from the north is the Hessa and we get a day; A HULL FROM THE OPEN SEA EAST IS SKALGRIND AND WE GET ABOUT AN HOUR."
+the_Hessa = "Allied by treaty. Four places, about 400 people, west and south-west; one has more people than Skalgrind. KOLVENN, 61 souls, four days' sail north: eleven plank-walled sunk-floor houses behind a shingle spit, a boatwright's shed twice any house and the middle of the place, three hardwood ships, about 150 years there - the far end of their world. Forest, grain, peas, fat, cooperage, barrels of birch tar, a master boatwright. NO SMITH in four places; their iron comes hand to hand from the far south-west, old and twice worked. They will not talk about the cairn stones in a house or after dark. A man named at Kolvenn as lost who walks home stands at the door as a stranger, and the house decides."
+the_Ivven = "Deer people, two or three hundred, inland and north-east, on the coast some years and not others. Hide shelters moved every three days, pale lean dogs and dog-sleds, bone and antler for everything and no iron. Full white teeth. Will not go under a roof. Trade through Hessa via the scarred man: TEN HIDES FOR A KNIFE; in winter, meat at THREE DEER A KNIFE (Y3 W2), delivered by their own dogs. They come when the deer do. THE HERD IS THEIRS WHEREVER IT WALKS (Ilmo) - Kolvenn took six off the shore once in a hard winter and the Ivven stayed away three springs. In winter they are not hungry."
+the_west_people = "Far south-west down the mainland: many, living in stone, a market where things are bought with metal. They never come here. Osvi's brass case came up that chain. An old woman at Kolvenn: they do not need us."
+Skalgrind = "Five weeks of open water east. Hakvarr does not know whether anyone lives. Halvar: a hull from the north is the Hessa and we get a day; a hull from the open sea east is Skalgrind and we get an hour."
 
 [practice]
-_ = "STANDING PRACTICE. Methods, rules of thumb and working customs learned in play. They hold until play changes them. The current numbers are in current.toml."
+_ = "STANDING PRACTICE, learned in play. It holds until play changes it. Numbers are in current.toml."
 
 [practice.health]
-the_coughing_measures = "Now law. Separated messes by pit, boiled cloths over the mouth, two or three fixed carriers who go nowhere near the clean pit, vents open at night in the cold. THE CLEAN ROOM IS THE ONE FEWEST PEOPLE WALK THROUGH, which is longpit 3, not longpit 1."
-the_fresh_rule = "Enna calls it the most important thing anyone ever told her. FRESH FOOD ALL WINTER, not everything dried and salted: fish and meat eaten fresh, raw or barely warmed where people will stand it. RAW LIVER, seal and fish, and the Hessa rule about it adopted whole - THE CHILDREN GET IT FIRST, AND NURSING MOTHERS NEXT (Y2 W32). Berries packed whole in rendered fat in a cask, which keeps a year."
-the_custom = "Two in the room at any birth or death. It is about somebody being there and not about who."
+the_coughing_measures = "Law. Separate messes by pit, boiled cloths over the mouth, two or three fixed carriers who stay away from the clean pit, vents open at night. The clean room is the one fewest walk through - longpit 3."
+the_fresh_rule = "Enna calls it the most important thing anyone told her. Fresh food all winter: fish and meat eaten fresh, raw or barely warmed. Raw liver, seal and fish - THE CHILDREN FIRST, NURSING MOTHERS NEXT (Y2 W32). Berries packed whole in fat keep a year."
+the_custom = "Two in the room at any birth or death."
+frostbite = "Warm a frozen hand in cool water, never hot. Enna watches a week before she says what will be lost."
 
 [practice.food]
-the_units = "The ledger runs in PRESERVED-EQUIVALENT KG. Eaten is about 1.5 kg a head a day, mixed wet and dry, averaged over everyone. Dried fish and seal reconstitute about 1:3, so half a kilo off the shelf is about 1.5 kg on the plate, plus oil, greens and shellfish. STORE DRAW at full ration is 0.65 kg a head a day. INCOME IS REPORTED GROSS - everything that came in, whether it was shelved or eaten the same day. FRESH INCOME COUNTS AT HALF ITS RAW WEIGHT against the store (the player, Y2 W39): a kilo of fresh meat or fish eaten saves about half a kilo off the shelf. Not applied to weeks before W39. OIL AND FAT ARE COUNTED LIKE ANY OTHER KG - no conversion, by the player's word (W40). ONE NUMBER FOR THE PLAYER (Y2 W48): every food figure shown is store kg - what came in, what went out, the difference. Raw weights and the conversion are GM-internal and are never shown."
-the_standing_order = "SALT, SMOKE, DRY THE REST. Smoke does not care about still air and drying does, so a dead-air week goes to the smokehouse and not to the salt barrel. This line must be counted every week."
-how_it_is_caught = "Long-lines off two ship's boats, the strand shingle lines, the racks, Sigra's stack, the weir in season, the cliffs in season. THE WINTER FISHERY is cod inside the bar in cold water - small boat, half a tide, four hundred paces off the beach - but the cod follow the herring out and are gone from about W37, and back on the offshore bank about W12. ON THE ICE, KOLVENN'S WAY (Ilmo, Y2 W40): holes cut in a line and a net pushed under from hole to hole on a long pole, for flatfish and the small cod that stay in the shallows; and seal waited out at its breathing hole with a barbed harpoon, sometimes all day. Never alone, a rope between each pair, an axe to test every step. The ice at Kolvenn takes somebody every winter, nearly always somebody who knew better."
-the_harvest_first = "THE JARL'S STANDING PRIORITY, Y2 W31 d1: CUTTING COMES FIRST - barley and the kitchen crops before construction, meat and fish, because greens are what they are short of and a crop needs no salt. EGGS ARE A PRIORITY for the same reason. Grain that will not dry outside is dried by the longpit hearths on peat."
-the_ceiling = "Weather. A good drying week with twenty-five hands hangs five or six hundred kilos sound; a still wet week hangs almost none and what is on the rail is at risk. Salting costs about 100 kg of salt per 500 of fish."
+the_units = "The ledger runs in STORE KG. Eaten is about 1.5 kg a head a day; store draw at full ration 0.65. Income is reported gross. Fresh income counts at half its raw weight against the store (Y2 W39). Oil and fat count like any other kg (W40). ONE NUMBER FOR THE PLAYER (Y2 W48): every figure shown is store kg; raw weights are GM-internal."
+the_standing_order = "Salt, smoke, dry the rest. A dead-air week goes to the smokehouse, not the salt barrel. Counted every week."
+how_it_is_caught = "Long-lines off two ship's boats, the strand lines, the racks, Sigra's stack, the weir in season, the cliffs in season. THE WINTER FISHERY is cod inside the bar until about W37, back on the offshore bank about W12. ON THE ICE, KOLVENN'S WAY (Ilmo): holes in a line and a net pushed under on a pole for flatfish and small cod; seal at the breathing hole with a barbed harpoon; basking seal stalked under white cover, crawling, freezing when one lifts its head. Always roped in pairs, an axe to test every step. The ice at Kolvenn takes somebody every winter, nearly always somebody who knew better."
+the_harvest_first = "The jarl's standing priority (Y2 W31): cutting before construction; eggs and greens first because a crop needs no salt. Grain that will not dry outside is dried by the longpit hearths."
+the_ceiling = "Weather. A good drying week with twenty-five hands hangs five or six hundred kilos; a still wet week almost none. Salting takes about 100 kg of salt per 500 of fish."
 
 [practice.building]
-"riving, not sawing" = "Bruni's answer, and Ormar accepts it: nobody saws a plank - you put a wedge in the end, follow the wood where it wants to go, and hew it flat with an axe. It parallelises across twenty men where a sawpit never could, at about 26 sticks a week. IT WANTS IRON WEDGES, SHORT AND HARD - long soft ones jump out of the cut and break a man's face. It wastes more wood."
-ormars_rule = "From about W38 the terrace freezes a spade deep and stays frozen: you cannot dig a post hole or drive a peg. Every hole wanted before the thaw gets dug in W35-36, lined with stone, stuffed with bracken and turfed over. AND THE OTHER HALF, learned at the cost of a man: A HOLE DUG BEFORE THE FROST HOLDS ICE ALL WINTER AND IS A WELL AT THAW. Open it, watch it a fortnight, prove it, and only then put a post in it."
-night_work = "Fire baskets of offcuts, not peat - peat burns warm and dark and you cannot see your hands by it. Two hours at each end of the day. NOT for setting a post plumb or cutting a joint: hauling turf, carrying stone, dressing timber, cutting sod. Cold hands end it before light does."
-labour_baseline = "Post hole dry, dug and stone-lined: 0.5 man-day; in wet spring ground 1-1.5. Turf: 8-10 m2 cut and carried per person per day. Ground turned by spade: about 45 m2 per person per day. Sticks by riving: about 26 a week. Timber tower, 22 sticks: about 48 man-days. Longpit 12x8 aisled: 350-400 man-days, two thirds walls and roof turf. Dressed stone building 10x10: about six weeks. A pine cut to four-metre lengths is 300 kg and six men skid two a day."
+"riving, not sawing" = "Bruni's way: a wedge in the end, follow the grain, hew flat with an axe. Twenty men at once, about 26 sticks a week. It wants short, hard iron wedges - long soft ones jump and break faces."
+ormars_rule = "From about W38 the terrace freezes a spade deep. Every hole wanted before the thaw is dug in W35-36, stone-lined, stuffed with bracken and turfed. And a hole dug before the frost holds ice all winter and is a well at the thaw: open it, watch a fortnight, prove it, then set the post."
+night_work = "Fire baskets of offcuts, not peat. Two hours at each end of the day, for hauling, carrying, dressing timber and cutting sod - never setting a post or cutting a joint."
+labour_baseline = "Post hole dry: 0.5 man-day; in wet spring ground 1-1.5. Turf: 8-10 m2 per person-day. Spade-turned ground: 45 m2 per person-day. Riven sticks: 26 a week. Timber tower of 22 sticks: 48 man-days. Longpit 12x8 aisled: 350-400 man-days. Dressed stone building 10x10: six weeks."
