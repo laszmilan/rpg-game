@@ -1,19 +1,18 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 7, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
+date = { year = 3, week = 8, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
 morale = 6
-paused_at = "PLAY PAUSED AT Y3 W7 D6, FIRST LIGHT - W7 is not yet logged. D1 council: VIGMAR 1595, the stick reaches the cod with room to spare; BREK's last two knives, the eight givers each handed a new one in public, Torgest included. D1 night to D5 A NORTH-EAST GALE, snow, ropes, no ice or rocks, the sitting portion. THE EQUINOX (D4) under cloud: OSVI COULD NOT MEASURE THE SUN. D5 ENNA on INGRA'S HANDS, the jarl there: the blood back, whole, nothing lost - but COLD TO THE TOUCH, and she has never seen frost do that; Ingra says it was the frost and keeps them in her sleeves. D6 first light, grey and still, ONE SHORT: ILMO - ONE YOUNG WALRUS, alone, asleep on gale-jammed pack at the bar, 700 paces out; the first 450 good ice, the rest broken pack welded two nights, tide under the far end; better than the W52 ice, worse than the whale."
+paused_at = "Y3 W8 NOT YET BEGUN. Opens D1 COUNCIL - the jarl has things to bring up: AUD'S FIELDS (three times the ground, hands when she asks even with the cod running) AND SIGRA'S SALT among them."
 mood = "Fed now, for the first time in a while - twenty-four Ivven deer and a clear week of ice, and the store reaches the cod. The old folk laid under their own roof by law 18. But THE WALKER CAME DOWN TO THE FIELDS the night after the laying and stood looking at the roofs, and the women and children were bundled indoors; everyone saw it, and everyone saw it turn and go when the jarl and the Shield walked up. The jarl sits by Ingra at the fire, where people can see it."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
 clocks = [
-  "Y3 W7 D1 - Brek's last two knives; the eight who gave theirs to the Ivven get them first.",
-  "About Y3 W7 D6 - Enna says what Ingra's hands will do.",
-  "Y3 W7 - the equinox: Osvi measures the noon sun, at the jarl's asking.",
+  "Y3 W8 D1 COUNCIL - the jarl's agenda: Aud's fields (three times the ground, hands when she asks) and Sigra's salt.",
+  "The equinox (W7) was clouded out; Osvi has no sun measurement yet.",
   "SUMMER - the Needle crossing, north on the high moor about 20 km out, give or take 10 (Aki's two sticks).",
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
-  "Y3 W12 - the cod back on the offshore bank. At 1595 and 300 out, with the ice giving 35-60 a week, THE STORE REACHES THE COD with a week or so to spare. Each gale week pulls it closer.",
+  "Y3 W12 - the cod back on the offshore bank. At 1315 and 300 out, with the ice giving 20-60 a week, THE STORE REACHES THE COD with a little to spare. Each gale week pulls it closer.",
   "Y3 spring - Ingra north to Kolvenn for at least a summer; the coals sealed with Fenn. The fields dug the week the spade goes in; Aud wakes a hundred grains four weeks before sowing.",
   "Y3 W14 - the Hessa, with cordage and wood; a new deal cut as one. Ilmo's six go home when the ice lets them, and Vask hears about the iron.",
   "Y4 W14 to W39 - the master and Bruni, for 25 kg of worked iron that does not exist and cannot be made without a bloomery.",
@@ -32,7 +31,7 @@ the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's so
 resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
 
 [food]
-in_store_kg = 1595
+in_store_kg = 1315
 what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
 sealed_and_not_food = "SEED, untouched: 200 kg barley, 40 kg Hessa peas, 60 kg Haldvik peas, henbane seed. Eating it is theft from the colony - the jarl's words. The byre is kept for the spring by the same word."
 ale = "What is left of Aud's ale, under Sigra's hand."
@@ -52,7 +51,7 @@ barrels = "Five ships' casks and ten Hessa kegs and barrels, three of them holdi
 "lamp oil" = "A third of a cask, plus the seal and whale oil."
 "birch tar" = "About 2 litres from the Ivven and most of Vask's small barrel."
 hardwood = "Eighteen two-metre squared lengths and three stem-knees of Hessa stock, less Ilmo's strakes and the sled runners."
-tools = "Anvil and full smith's kit. Six axes, four adzes, three augers, nine spades, iron wedges. Two sleds with hardwood runners (Y3 W1). Gear for three boats and two nets, one rigged on a pole for under the ice. FOUR BARBED HARPOON HEADS. A bone hide scraper. The saw: beaten straight, nine teeth snapped, slow and binds in green wood. The quern: shimmed, grinds coarse. THE TEN IVVEN KNIVES ARE SPENT on the thirty deer, and EIGHT OF HALDVIK'S OWN, THE JARL'S AMONG THEM, on twenty-four more (W6); Brek making eight new, six done."
+tools = "Anvil and full smith's kit. Six axes, four adzes, three augers, nine spades, iron wedges. Two sleds with hardwood runners (Y3 W1). Gear for three boats and two nets, one rigged on a pole for under the ice. FOUR BARBED HARPOON HEADS. A bone hide scraper. The saw: beaten straight, nine teeth snapped, slow and binds in green wood. The quern: shimmed, grinds coarse. THE TEN IVVEN KNIVES ARE SPENT on the thirty deer, and EIGHT OF HALDVIK'S OWN, THE JARL'S AMONG THEM, on twenty-four more (W6); Brek's eight replacements handed out (W7)."
 arms = "19 spears, 11 axes, 4 swords, 22 shields, 6 mail, 9 helms, 5 bows. Fourteen men who have been in a real fight. No defence built."
 boats = "Ottersnout (sound) and Widow's Promise (in hand, Leif and Steinn) on the sand. The Grey Mare is the Keel. Two ship's boats, one faering. Hald's Coal laid up; Torgest steers her this year. Ilmo's boat, strakes set. Tavi's old wreck on the sand."
 ivory = "Two walrus tusks, forearm-long, under the reeve's beam."
@@ -71,7 +70,7 @@ in_the_byre = "Seventeen head in twenty-seven stalls, gaps stuffed with peat; th
 
 [health]
 carrying = "One woman, whom Enna will not name. Runa's boy and Hild's girl well."
-standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale; THREE FINGERTIPS OF THE RIGHT HAND BLISTERED from a live coal (W6 D6), dressed. INGRA: both hands frost-white to the wrist from a reading (W6 D6), the colour back, cold to the touch; Enna watching a week. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: frostbite W4 D2 - two fingertips kept, their nails to come off; THE RING FINGER'S TIP GOES AT THE FIRST KNUCKLE, Enna taking it when it is dry and black and not before. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
+standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale; THREE FINGERTIPS OF THE RIGHT HAND BLISTERED from a live coal (W6 D6), dressed. INGRA: both hands frost-white to the wrist from a reading (W6 D6); whole, nothing lost, but COLD TO THE TOUCH since - Enna has never seen frost do that; Ingra says it was the frost. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: frostbite W4 D2 - two fingertips kept, their nails to come off; THE RING FINGER'S TIP GOES AT THE FIRST KNUCKLE, Enna taking it when it is dry and black and not before. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
 henbane = "Some in hand, and seed for a small herb garden. Willow bark tea as well, bitter and plentiful."
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 
