@@ -1,12 +1,13 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 4, day = 2, season = "spring by the calendar; the hard cold runs to about W6" }
+date = { year = 3, week = 5, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
 morale = 6
-paused_at = "PLAY PAUSED AT Y3 W4 D2, NIGHT - W4 is not yet logged. D1-D2 the coldest still air of the winter, the ice worked in short turns; D1 council brief; the jarl sits by Ingra at the evening fire, and people notice. D2 OSSUR finds a DEAD BEARDED SEAL frozen into the tideline on the seaward side of the north headland - old, thin, unmarked, a fox at one flipper. OSSUR: the stick runs round to the north headland, so it lies on Haldvik's own shore, and a find on your shore is yours like a whale; the Ivven have walked that shore ice before, and if they had been there first, let them have it. TEST, difficulty 5 (short job, careful turns, fat and a sled; against the killing cold and the headland rocks): [4,7] MIXED. Eight bring it home whole after dark, about 120 kg of meat, fat and oil. LEIF took a mitten off to free a lashing: THREE FINGERTIPS OF HIS RIGHT HAND white and hard; Enna has the hand in cool water and will say nothing for a week."
-mood = "Fed for now and knowing it is thin. The Ivven brought thirty deer to the edge on their own dogs (Y3 W2) and there is fresh meat in the bowl. Against that: grey walkers at every hearth since the straight tracks to Nagholt, and they stop when Ingra passes; the walrus left on the bar; the children's cut; gale weeks on the sitting portion. The land plan and the named roads give people something to argue over in the dark besides the bowl."
+paused_at = "Y3 W5 NOT YET BEGUN. Play opens at D1 council."
+mood = "Fed for now and knowing it is thin. A dead seal off the headland in the worst cold (W4), and Leif's fingers against it; then three days shut in by a northerly. The Ivven brought thirty deer to the edge on their own dogs (Y3 W2) and there is fresh meat in the bowl. Against that: grey walkers at every hearth since the straight tracks to Nagholt, and they stop when Ingra passes; the walrus left on the bar; the children's cut; gale weeks on the sitting portion. The land plan and the named roads give people something to argue over in the dark besides the bowl."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
 clocks = [
+  "About Y3 W5 D2 - Enna names what Leif's three fingertips will do.",
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. THE STORE JUST REACHES IT at the present ration if about 100 a week comes in; each gale week like W3 pulls the empty day about two-thirds of a week closer.",
@@ -28,8 +29,8 @@ the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's so
 resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
 
 [food]
-in_store_kg = 1760
-what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland seal comes in at this week's upkeep."
+in_store_kg = 1615
+what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered."
 sealed_and_not_food = "SEED, untouched: 200 kg barley, 40 kg Hessa peas, 60 kg Haldvik peas, henbane seed. Eating it is theft from the colony - the jarl's words. The byre is kept for the spring by the same word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "From Y2 W51: THE THIRTY-THREE PROTECTED AT FOUR-FIFTHS (the children, the woman carrying, the five nursing) and THE SEVENTY-SEVEN OTHERS AT THREE-FIFTHS, the Hessa among them - about 300 a week. Within that, a working and a sitting portion: whoever is out on a head of work's task eats more, whoever sits eats less; never the children, carrying, nursing or sick, who also get fresh fish, raw liver and milk first. Aki marks who went out. Weighed in public by Vigmar, checked by Sigra."
@@ -43,7 +44,7 @@ iron = "About 7 kg of bar, about 2 kg usable in the Nagholt lumps, one fist-size
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of each."
 "rope and line" = "Eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap in 35 and 15 paces drying on terrace posts. No cordage on this coast; 400 paces due Y3 W14."
-"hides and cloth" = "41 sealskins, fifteen dressed. Six bolts of wool, almost no linen. Forty-eight reindeer hides - Arna's winter suits. Two sheepskins. Nine bundles of sinew. Two pieces of Ivven hide worked thin as cloth."
+"hides and cloth" = "41 sealskins, fifteen dressed. Six bolts of wool, almost no linen. Forty-eight reindeer hides - Arna's winter suits. Two sheepskins. Nine bundles of sinew. Two pieces of Ivven hide worked thin as cloth. The W4 bearded seal hide cut to soles for the ice crew, the scraps to mitten palms."
 barrels = "Five ships' casks and ten Hessa kegs and barrels, three of them holding the seed. Scald, lye, rinse and scald over three days before use."
 "lamp oil" = "A third of a cask, plus the seal and whale oil."
 "birch tar" = "About 2 litres from the Ivven and most of Vask's small barrel."
@@ -67,7 +68,7 @@ in_the_byre = "Seventeen head in twenty-seven stalls, gaps stuffed with peat; th
 
 [health]
 carrying = "One woman, whom Enna will not name. Runa's boy and Hild's girl well."
-standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: three fingertips of the right hand frostbitten (W4), in cool water, Enna watching a week. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
+standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: three fingertips of the right hand frostbitten (W4 D2), the hand wrapped; Enna says nothing until about W5 D2. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
 henbane = "Some in hand, and seed for a small herb garden. Willow bark tea as well, bitter and plentiful."
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 

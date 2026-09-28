@@ -1324,3 +1324,20 @@ events = [
   "THE MOOD: morale holds at 6 - five days of wind on the sitting portion, carried by the deer.",
   "THE WEEK: 35 in (the ice two part-days, a little from the snares). 300 out.",
 ]
+
+[[year_3]]
+week = 4
+title = "THE HEADLAND SEAL"
+store = 1615
+income = 155
+consumed = 300
+events = [
+  "D1-D3 THE COLDEST STILL AIR OF THE WINTER, breath crackling, frost-smoke on the bar lead; the ice worked in short turns. D1 council, the land plan brief. D1 evening the jarl sits by Ingra at the fire, and people notice.",
+  "D2: OSSUR on the north headland snares finds A DEAD BEARDED SEAL frozen into the tideline on the seaward side - old, thin, unmarked, a fox at one flipper. OSSUR: the stick runs round to the north headland, so it lies on Haldvik's own shore, and a find on your shore is yours like a whale; the Ivven have walked that shore ice before, and if they had been there first, let them have it. TEST, difficulty 5 (short job, careful turns, fat and a sled; against the killing cold and the headland rocks): [4,7] MIXED. Eight bring it home whole after dark, about 120 kg of meat, fat and oil. LEIF took a mitten off to free a lashing: THREE FINGERTIPS OF HIS RIGHT HAND white and hard; Enna has the hand in cool water and will say nothing for a week.",
+  "D2 night, longpit 1: Sigra flenses the seal at the door, Arna takes the hide. LEIF on the ward bench, hand in the water: Hild says it will hurt when it comes back, it does not hurt yet - that's the bad one, isn't it. THE JARL: asking the wrong person, and sits by him. LEIF: Steinn will hold the strakes and he can point; can't steam a plank one-handed. THE JARL: HIS HAND IS NOT IN DANGER AND HIS FINGERS WILL BE FINE. LEIF: Enna won't say that - but you said it in front of people, so. THE JARL: if Enna is wrong she loses her name as a healer; if he is wrong he is just a kind liar.",
+  "D3: the seal sound, frozen through, no taint; quartered under the reeve's beam, the fat rendered, the liver raw to the children. ARNA: ILMO SAYS A BEARDED SEAL'S HIDE IS WHAT THE HESSA CUT FOR HARPOON LINE, round and round from the outside in, one strap of about forty paces, thumb-thick, the best walrus line on this coast; she would make soles for the ice crew, twice as thick as anything here. THE JARL: cloth is the bigger need; there are four harpoons with lines, and he does not mean to do this every winter. SOLES, the scraps to mitten palms.",
+  "D3 dusk HALVAR reads the north and keeps the ice crew in. D4-D6 A NORTHERLY OFF THE SEA ICE with blowing snow, ropes between the doors, no ice, rocks or snares, everyone on the sitting portion; the seal fat rendered in longpit 2; Arna's girls cut soles on the floor round the hide; Enna keeps Leif's hand wrapped and says nothing. D7 grey and bitter, the wind dropping; two holes dug out and worked till dark, a few flatfish, nothing at the seal holes. Drift to the eaves on the north side of every building.",
+  "OOC, THE CLIMATE: harsher than Skalgrind's winters as Erik has lived them, even in the Long Cold - the bay iced W46 to about W8, first snow about W37, no forest and no fjord walls, sea on three sides. Whether Haldvik is further north is not settled; five weeks west, and the crossing possible because of the ice. OSVI KNOWS HOW HIGH THE MIDWINTER SUN STANDS OVER SKALGRIND and could measure it here at a solstice or equinox if asked.",
+  "THE MOOD: morale holds at 6 - a seal off the headland in the worst cold, a man's fingers against it, then three days shut in on the sitting portion.",
+  "THE WEEK: 155 in (the headland seal about 120, the ice about three part-days, a little from the snares). 300 out.",
+]
