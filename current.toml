@@ -1,16 +1,19 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 5, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
+date = { year = 3, week = 6, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
 morale = 6
-paused_at = "PLAY PAUSED AT Y3 W5 D7, NIGHT, after the Standing - W5 is not yet logged. D1 council: VIGMAR on the number (1615; eight weeks at 100 in, six if the ice gives 35); THE JARL, with an edge: no further cut, the work pays more than it costs - VIGMAR: he did not ask for a cut, and the jarl is not mistaken. D1 the ice; D2-D5 a northerly with snow, the sitting portion. D2 ENNA ON LEIF: two tips clear-blistered and kept, nails to come off; the ring finger tip lost to the first knuckle, taken when dry and black; Leif tells Steinn first. D5 night the dogs at longpit 2 will not settle about the fourth hour; Kelda up to them. D6 first light OSSUR: THE TRACKS AGAIN, the same line off the moor to Nagholt, stood longer, the patch twice as wide, back up its own line. THE TALK: grey walkers; the Nagholt bone box never put in the water per Fenn's Y2 W22 ruling (Sigra's kin say it aloud); the old folk wanting the house; Skarn owed; an Ivven trick (Ylva: no); the dogs; Ingra. THE JARL: nothing done now; a word with Ylva and Halvar, and a meeting with Fenn and Ingra, the three alone, still to come. YLVA asks to walk the fresh line; THE JARL: Ossur, a third and her, THE NEEDLE along to see if it does anything, back before dark whatever, no heroics, come home if it looks wrong. She takes ULF. HALVAR: no guard on the cuttings; TIE A DOG AT THE BYRE DOOR AT NIGHT, the tower to watch the shoulder as well as the sea - if it comes a third time he wants it seen; three on the tower in rotation, and they blow only for fire, harm, or if it comes for them or for us (past the cuttings counts). D6 MIDDAY, THE SMOKEHOUSE, THE JARL, FENN AND INGRA: FENN owns the box - he said at the end of the cutting and never said when; it sits in Ranvi's lean-to on the shelf where she kept her coals. INGRA offers to look in a live coal that night; THE JARL would rather she did not, and that day will never come; she will wait for the house, and if it still comes she looks with him in the room. FENN'S WAY: lay the bones back on their own floor under their own door post, no kinship said - put back is what a thief does, laid down is something else. D6 DUSK YLVA, OSSUR AND ULF HOME: the line straight 5 km past the edge to a second, smaller trodden patch on open moor with nothing there, then lost to wind; THE NEEDLE laid along the dead-straight track at the edge and at the far patch, the gap widened by a good hand, two notches on a stick. D6 night quiet. D7 AKI AND OSVI in ash: THE TWO LINES CROSS NORTH on the high moor, about 20 km from the storehouse gable, give or take 10 - if the Needle points at one thing, it is there; OSVI: that is not how a needle that points north behaves. THE JARL: summer work. Aki cuts it on two sticks, one for Osvi's chest. FENN: keep the Nagholt iron but say so at the door; decide the rule now while it is two kilos; a Standing, words ready-made; the jarl was no fool about Ingra. D7 EVENING, THE STANDING: LAW 18 CUT (laws_and_treaties), 68 for, 1 against, 5 sitting, Gest among them; Ilmo's five walked out before it and sat outside till it ended. The Nagholt charcoal and THE DOOR POST (under the reeve's beam) go back with the bones. VIGMAR cuts the post on three sticks first, two evenings, Tova the third from the wood. INGRA will stand at the door when they go in. The ground to be opened by fire and pick, a day or two, after Vigmar's sticks."
-mood = "Fed for now and knowing it is thin. A dead seal off the headland in the worst cold (W4), and Leif's fingers against it; then three days shut in by a northerly. The Ivven brought thirty deer to the edge on their own dogs (Y3 W2) and there is fresh meat in the bowl. Against that: grey walkers at every hearth since the straight tracks to Nagholt, and they stop when Ingra passes; the walrus left on the bar; the children's cut; gale weeks on the sitting portion. The land plan and the named roads give people something to argue over in the dark besides the bowl."
+paused_at = "Y3 W6 NOT YET BEGUN. Opens D1: council; ILMO on the beach after full light, the jarl alone, to hear what a Kolvenn man may tell. Vigmar and Tova cut the Nagholt post D1-D2 evenings; then the ground opened by fire and pick and the bones laid, Ingra at the door."
+mood = "Fed for now and knowing it is thin, and the store running down faster than the ice fills it. THE WALKER CAME BACK to Nagholt (W5) and stood longer; against it, LAW 18 said at a Standing, 68 to 1, and the old folk's bones to be laid under their own roof. The talk is easier than it was. A dead seal off the headland in the worst cold (W4), and Leif's fingers against it. The Ivven brought thirty deer to the edge on their own dogs (Y3 W2) and there is fresh meat in the bowl. Against that: grey walkers at every hearth since the straight tracks to Nagholt, and they stop when Ingra passes; the walrus left on the bar; the children's cut; gale weeks on the sitting portion. The land plan and the named roads give people something to argue over in the dark besides the bowl."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
 clocks = [
-  "About Y3 W5 D2 - Enna names what Leif's three fingertips will do.",
+  "Y3 W6 D1-D2 evenings - Vigmar and Tova cut the Nagholt post on three sticks. Then THE LAYING: the ground over Nagholt opened by fire and pick, a day or two; the box, the charcoal and the post laid on their own floor; the iron named at the door; Ingra at the door.",
+  "Y3 W6 D1 - Ilmo on the beach after full light, the jarl alone.",
+  "Y3 W7 - the equinox: Osvi measures the noon sun, at the jarl's asking.",
+  "SUMMER - the Needle crossing, north on the high moor about 20 km out, give or take 10 (Aki's two sticks).",
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
-  "Y3 W12 - the cod back on the offshore bank. THE STORE JUST REACHES IT at the present ration if about 100 a week comes in; each gale week like W3 pulls the empty day about two-thirds of a week closer.",
+  "Y3 W12 - the cod back on the offshore bank. At 1345 and 300 out it reaches it only if about 100 a week comes in; at the 30-35 the ice has given the last two weeks, THE STORE IS EMPTY ABOUT W11. Each gale week pulls it closer.",
   "Y3 spring - Ingra north to Kolvenn for at least a summer; the coals sealed with Fenn. The fields dug the week the spade goes in; Aud wakes a hundred grains four weeks before sowing.",
   "Y3 W14 - the Hessa, with cordage and wood; a new deal cut as one. Ilmo's six go home when the ice lets them, and Vask hears about the iron.",
   "Y4 W14 to W39 - the master and Bruni, for 25 kg of worked iron that does not exist and cannot be made without a bloomery.",
@@ -29,7 +32,7 @@ the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's so
 resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
 
 [food]
-in_store_kg = 1615
+in_store_kg = 1345
 what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered."
 sealed_and_not_food = "SEED, untouched: 200 kg barley, 40 kg Hessa peas, 60 kg Haldvik peas, henbane seed. Eating it is theft from the colony - the jarl's words. The byre is kept for the spring by the same word."
 ale = "What is left of Aud's ale, under Sigra's hand."
@@ -38,9 +41,9 @@ standing_food = "Anything that swims or walks is eaten. Fresh before stored. The
 
 [resources]
 salt = "About 290 kg - short. The strand is shut for the winter and one of its three pans is cracked."
-charcoal = "About 670 kg, plus about 50 off the Nagholt floor."
+charcoal = "About 670 kg. The 50 off the Nagholt floor goes back under it by law 18."
 peat = "About 200 m3, far more than a winter burns (about 35). Walls walked after rain and every D1."
-iron = "About 7 kg of bar, about 2 kg usable in the Nagholt lumps, one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
+iron = "About 7 kg of bar, about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of each."
 "rope and line" = "Eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap in 35 and 15 paces drying on terrace posts. No cordage on this coast; 400 paces due Y3 W14."
@@ -68,7 +71,7 @@ in_the_byre = "Seventeen head in twenty-seven stalls, gaps stuffed with peat; th
 
 [health]
 carrying = "One woman, whom Enna will not name. Runa's boy and Hild's girl well."
-standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: three fingertips of the right hand frostbitten (W4 D2), the hand wrapped; Enna says nothing until about W5 D2. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
+standing = "THE JARL: ribs mended enough to haul; palms rope-burned from the whale. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: frostbite W4 D2 - two fingertips kept, their nails to come off; THE RING FINGER'S TIP GOES AT THE FIRST KNUCKLE, Enna taking it when it is dry and black and not before. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One crushed hand permanently weak; one strand man with a mended jaw."
 henbane = "Some in hand, and seed for a small herb garden. Willow bark tea as well, bitter and plentiful."
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 
@@ -143,7 +146,7 @@ free = "About 0.8 ha - the wet south end and the strip along the edge."
 "longpit 2" = "Same build. The byre against its east gable; the hens by its hearth."
 "longpit 3" = "12 x 8 m. Aki's bench, Vigmar's corner and the lesson board. The clean room."
 "longpit 4" = "Footings dug, forty-two post holes lined and turfed, to be proved at the thaw."
-storehouse = "10 x 10 m dressed stone, the whole sealed store, a door and the reeve's beam. Nobody sleeps in it. The map, the tusks and the seed under the beam."
+storehouse = "10 x 10 m dressed stone, the whole sealed store, a door and the reeve's beam. Nobody sleeps in it. The map, the tusks and the seed under the beam, and the Nagholt door post in its sacking until it goes back."
 "washhouse and ward" = "One building, a wall between, a door at each end, one hearth in the middle wall. Enna's design."
 "the byre" = "27 stalls against longpit 2. Peat litter doubles the dung heap."
 "Ranvi's lean-to" = "The old birth-house; births go to the ward now."
