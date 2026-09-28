@@ -1,18 +1,18 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 8, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
-morale = 6
-paused_at = "Y3 W8 NOT YET BEGUN. Opens D1 COUNCIL - the jarl has things to bring up: AUD'S FIELDS (three times the ground, hands when she asks even with the cod running) AND SIGRA'S SALT among them."
-mood = "Fed now, for the first time in a while - twenty-four Ivven deer and a clear week of ice, and the store reaches the cod. The old folk laid under their own roof by law 18. But THE WALKER CAME DOWN TO THE FIELDS the night after the laying and stood looking at the roofs, and the women and children were bundled indoors; everyone saw it, and everyone saw it turn and go when the jarl and the Shield walked up. The jarl sits by Ingra at the fire, where people can see it."
+date = { year = 3, week = 10, day = 6, season = "spring by the calendar; the hard cold runs to about W6" }
+morale = 7
+paused_at = "PLAY PAUSED AT Y3 W10 D6, FIRST LIGHT - W10 is not yet logged. D1-D2 Brek straps the cracked pan; D3 THE STRAND OPENS with eight, Hald's Coal loaded with peat; the survey begins (Aki, Vigmar, Ormar, line and pegs); D5 a blow with sleet. D6 first light OSSUR, by the beach path: THE TRACKS AGAIN - off the moor, over the shoulder, past the tower, over the terrace edge, DOWN TO THE SHINGLE ABOVE THE BURIAL STONES, stood facing the water a good while, and back; one of the tower three saw something pale in the sleet and was not sure enough to blow. Longpit 4's holes to be proved today. Store about 700."
+mood = "The thaw came clean and the ground is open: ditches, new strips, seaweed on the fields, boats inside the bar, and a plan for the year said at council. Hungry and working. The walker has not been seen since the fields, and people have started to say it is done."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
 clocks = [
-  "Y3 W8 D1 COUNCIL - the jarl's agenda: Aud's fields (three times the ground, hands when she asks) and Sigra's salt.",
+  "THE YEAR'S PLAN (Y3 W8 council, Aki's stick): fields W8-10; longpit 4 W10-13 after the holes are proved; the strand W10 with eight - three pans on peat, two clamps; the survey W10-12; the cod W12; the Hessa W14, paid in oil, the two tusks and 2 kg of nails, Ingra and Gest north with them, home the last week of autumn by the deal.",
   "The equinox (W7) was clouded out; Osvi has no sun measurement yet.",
   "SUMMER - the Needle crossing, north on the high moor about 20 km out, give or take 10 (Aki's two sticks).",
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
-  "Y3 W12 - the cod back on the offshore bank. At 1315 and 300 out, with the ice giving 20-60 a week, THE STORE REACHES THE COD with a little to spare. Each gale week pulls it closer.",
+  "Y3 W12 - the cod back on the offshore bank. 875 at W10 D1 (about 700 by D6); at 300 out and about 100 in from the boats and rocks, it reaches the cod at W12 with a few hundred to spare. Each gale week pulls it closer.",
   "Y3 spring - Ingra north to Kolvenn for at least a summer; the coals sealed with Fenn. The fields dug the week the spade goes in; Aud wakes a hundred grains four weeks before sowing.",
   "Y3 W14 - the Hessa, with cordage and wood; a new deal cut as one. Ilmo's six go home when the ice lets them, and Vask hears about the iron.",
   "Y4 W14 to W39 - the master and Bruni, for 25 kg of worked iron that does not exist and cannot be made without a bloomery.",
@@ -31,7 +31,7 @@ the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's so
 resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
 
 [food]
-in_store_kg = 1315
+in_store_kg = 875
 what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
 sealed_and_not_food = "SEED, untouched: 200 kg barley, 40 kg Hessa peas, 60 kg Haldvik peas, henbane seed. Eating it is theft from the colony - the jarl's words. The byre is kept for the spring by the same word."
 ale = "What is left of Aud's ale, under Sigra's hand."

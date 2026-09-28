@@ -1404,3 +1404,32 @@ events = [
   "THE MOOD: morale holds at 6 - a gale week on the sitting portion and the walrus left again, but the store reaches the cod and everyone knows it.",
   "THE WEEK: 20 in (the ice under two days, a little from the snares). 300 out.",
 ]
+
+[[year_3]]
+week = 8
+title = "THE YEAR'S PLAN, AND THE THAW"
+store = 1065
+income = 50
+consumed = 300
+events = [
+  "D1, COUNCIL, the heads of work along the wall. VIGMAR: 1315. HALVAR: the wind goes south-west tonight, the thaw this week - whatever the jarl wants of the ground, say it today. THE JARL, the room laughing at the best news since he can't remember: THIS YEAR - (1) the ground measured, the roads and blocks drawn and given out as plots; (2) LONGPIT 4, THE FORGE, BOG IRON; (3) EVERY HAND ON FOOD in the weeks of the eggs, the bulls and the salmon; (4) AUD GETS THE HANDS SHE NEEDS - all the barley and greens that can be sown, the fields worked and ditched.",
+  "D1: SIGRA stands, which heads of work rarely do: 290 KG OF SALT PUTS DOWN ABOUT 1400 KG OF FISH AND NO MORE; the smokehouse 500 a week at best, the racks what the wind gives; last autumn good fish went to smoke and rack for want of salt and some went bad; THE STRAND PANS MUST RUN ALL SUMMER WITH MEN ON THEM and the cracked one mended, or the salmon rots faster. ORMAR: 108 sticks and about 130 days of cut stone; LONGPIT 4 TAKES ABOUT 70 STICKS and most of the stone; thirty-odd left, just the forge; after that every stick a strand log hauled 5 km and riven, 26 a week with twenty men; plots cost pegs, houses cost sticks. THE JARL: no sticks this year if not needed; more pans, fired with peat? HOVARD: last summer ten ran three pans and two clamps; two pans and the clamps seven; the fuel is the trouble, salt or sticks or smokehouse from one windrow. BREK: he cannot make a pan - a plate - but can STRAP THE CRACK, riveted iron underneath, ash and tar in the seam; it will weep and hold a summer; about a kilo of bar and two days; peat under it is fine if the peat is got to it. THE JARL: THE STRAND WITH EIGHT - THREE PANS ON PEAT, TWO CHARCOAL CLAMPS on the wood.",
+  "D1: THE HESSA, W14 (Vigmar): cordage and wood as much as fits, a deal cut as one, Ilmo's six home, Vask hears of the iron from Ilmo. THE JARL: INGRA GOES WITH THEM, and asks GEST - who says yes before he is asked to the end: someone should sit beside her up there who is not afraid of her; and do not send their boat home empty - Vask reads a refusal as a message; pay for the cordage in what is not iron. THE JARL: PAY IN OIL, THE TWO WALRUS TUSKS AND 2 KG OF NAILS; NO SEALSKINS; take what they give for it; the Y4 deal cut then. ILMO, unasked in council for the first time: their boats fish down this coast all summer and can bring them home any good week; for a day to hold Vask to, THE LAST WEEK OF AUTUMN, the same week the master is wanted the year after - ask it as part of the deal, on the stick at both ends.",
+  "D1: AKI READS THE TIMELINE off his stick - the freed ice crew to Aud, fields dug and ditched W8-10; the forty-two holes opened the day the ground is soft and watched a fortnight, LONGPIT 4 W10-13 with twenty; THE STRAND W10 with eight; THE SURVEY W10-12 (Aki, Vigmar, Ormar, line and pegs); THE COD W12 and Hjalti takes his boats back, tight from there; THE HESSA W14 with Ingra and Gest. It fits if nobody sickens and it does not rain a month. THE JARL: late by a few weeks, still a lot of progress; details fixed week by week; pray for the cod - hungry as hell and not the hungriest. He stands.",
+  "THE THAW, CLEAN: sun from D2 on mild south-westerlies; the snow off the south faces; THE BAY ICE BREAKS UP D4-D5 AND GOES OUT PAST THE BAR on the ebb; the boats could go inside the bar by D7. The ice crew to Aud from D5. D6 THE SHOULDER SOFT A SPADE DEEP: Aud's ditch across the top of the first field pegged and begun; THE FORTY-TWO HOLES OF LONGPIT 4 OPENED, to be watched a fortnight. AUD'S HUNDRED GRAINS: about nine in ten awake on the moss - cold was kind to the seed.",
+  "THE MOOD: MORALE 6 TO 7 - the thaw, the sun, the ice out, a plan for the year said at council and the store reaching the cod.",
+  "THE WEEK: 50 in (the ice to D3, the rocks at low water from D5). 300 out.",
+]
+
+[[year_3]]
+week = 9
+title = "DITCHES AND THE FIRST BOATS INSIDE THE BAR"
+store = 875
+income = 110
+consumed = 300
+events = [
+  "THE WEEK: showers and sun, cold nights; four good digging days; the boats inside the bar three days.",
+  "D1 council: the plan held; Vigmar 1065. THE FIELDS: Aud's top ditch dug across the first field and the side ditch down to the river begun; the lower third drains for the first time; the first new strips turned on the south face under the stone band, raised a spade high; seaweed hauled up off the beach after every tide. THE HOLES: Ormar walks the forty-two every morning. THE BOATS inside the bar on the flatfish three days; Solvi's crew on the rocks every low water; the first scurvy-grass on the south faces.",
+  "THE MOOD: morale holds at 7 - hungry, and working, and the ground open.",
+  "THE WEEK: 110 in (the boats three days, the rocks, the snares). 300 out.",
+]
