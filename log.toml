@@ -1433,3 +1433,21 @@ events = [
   "THE MOOD: morale holds at 7 - hungry, and working, and the ground open.",
   "THE WEEK: 110 in (the boats three days, the rocks, the snares). 300 out.",
 ]
+
+[[year_3]]
+week = 10
+title = "THE STRAND OPENS, THE WALKER AT THE BURIAL STONES, AND EIGHT WET HOLES"
+store = 685
+income = 110
+consumed = 300
+events = [
+  "THE WEEK: mixed; four working days; the boats inside the bar three days; a blow with sleet D5.",
+  "D1-D2 BREK STRAPS THE CRACKED PAN. D3 THE STRAND OPENS WITH EIGHT, Hald's Coal loaded to the gunwales with peat: three pans on peat, the strapped one weeping and holding; the two clamps begun. THE SURVEY: Aki, Vigmar and Ormar with a line and pegs - GATE ROAD, SALT LINE AND IRON LINE PEGGED. W9 (off the page): ENNA TOOK LEIF'S RING FINGERTIP at the first knuckle; healing clean.",
+  "D6 FIRST LIGHT, after the blow and a night frost: OSSUR by the beach path - THE TRACKS AGAIN, off the moor, over the shoulder, past the tower, over the terrace edge, DOWN TO THE SHINGLE ABOVE THE BURIAL STONES; stood facing the water a good while; back up its line. One of the tower three saw something pale go by in the sleet and was not sure enough to blow. THE JARL: THREE STAY ON THE TOWER even if the work goes slower - hungry already, and nobody overworked; THE STANDING WORD HOLDS: no hand raised against it unless it threatens.",
+  "D6: ORMAR, cap in hand, the fortnight up: THIRTY-FOUR HOLES DRY AND FIRM; EIGHT FULL OF CLEAR WATER, the east row and the corner, filling from the bottom - a spring under that end, frozen when dug; dig the eight again a pace upslope and lose a week, or a stone drain and four days with no promise after a wet autumn. THE JARL: THE WEEK. Ormar goes for spades.",
+  "D6: LEIF at the Widow's Promise with Steinn, the ring finger a knuckle short and pink: KIND LIAR, BY ONE FINGERTIP - he has waited a month to say it; Steinn says he points better now, less finger in the way.",
+  "D6, THE SMOKEHOUSE: INGRA'S HAND in the jarl's - whole, supple, the right colour, and cold all through like a stone left out. INGRA: to her they feel like hands; it is everyone else who flinches; Enna thinks it frost and she lets her - IT IS NOT: every working takes something that does not come back, and this is what that one took; cheap for what it showed; tell no one. THE JARL: they will put one and one together, and be afraid and grateful; cheap beside what Ranvi gave; go and learn well. INGRA: afraid and grateful is what an ember-wife is - Ranvi was both to all of them; next time she will know the price before she pays it. THE JARL tells her it came again; INGRA: she heard - the burial stones; it stood at our dead this time. THE JARL MAKES IT A HABIT TO EAT WITH HER.",
+  "D7: the eight holes dug again a pace upslope begun.",
+  "THE MOOD: morale holds at 7.",
+  "THE WEEK: 110 in (the boats three days, the rocks, the snares). 300 out.",
+]
