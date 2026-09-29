@@ -1,11 +1,11 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 15, day = 4, season = "spring by the calendar; the hard cold runs to about W6" }
+date = { year = 3, week = 16, day = 1, season = "summer" }
 morale = 7
-paused_at = "PLAY PAUSED AT Y3 W15 D4, MORNING, longpit 3, before the land Standing tonight - W15 is not yet logged. D4 MORNING, FENN AND TOVA'S VERSIONS (Tova's sticks): AKI'S COUNT (d6 5 on a shown list) 55 HEARTHS CLAIM - 33 of the old 38 (Fenn, Gest and three old ones hearths on paper only do not), 19 grown sons and daughters, 3 who turn fifteen at the Turning - for 46 plots; AKI DRAWS TWO MORE BLOCKS OF SIX on the grazing inside the ring at the north ends of Grip and Egg Line, 58 plots, 3 over; pegged in two days. KEPT IN ALL VERSIONS: one allotment this spring, then the jarl gives; one plot a hearth; two hearths become one, one plot back; none sold or given outside Haldvik; two sticks and corner stones. (1) THE HEARTH'S GROUND (Fenn): the hearth's for good, passes to husband or wife, then one child of that fire (named, or the eldest at that fire), never split, back to Haldvik only when nobody of that fire is left, swaps before the reeve - cost: in fifty winters the good plots are the first choosers' grandchildren's. (2) THE LIFE STICK (Tova): held for one life, stays with the fire till the youngest there is fifteen, then back to Haldvik and given again, that fire's children asking first - cost: law 6 said private ground, this is lent; nobody builds stone for a house the children lose. (3) BUILD OR GIVE BACK, sewn onto either: no roof ten winters after the drawing, or the hearth gone from Haldvik three winters, and it goes back - cost: falls on the poor and the alone first. TOVA: the jarl's bowl words 'if a plot loses its owner' read two ways - under (2) Gudny's boys get nothing at fifteen. THE WIDOWS, TOVA'S NEAR BLOCK: the block by the spring nearest the longpits kept out of the choosing; after council and heads of work choose, the nine widowed hearths with children draw for it among themselves first, the rest into the sack - all nine, not the one who stood; cost: heads of work lose the best block. FENN: law 2 makes your son jarl, nothing makes your plot his hall - say whether the jarl's ground goes with the man or the seat. EARLIER, D1-D3: D2 THE HESSA LAND, two hulls, SKELVA leading (her hair cropped for a death in her house, the reason they were a week late); she sees ILMO'S SIX ALIVE: WE SAID YOUR NAMES AT THE TURNING; ILMO: then they come home as strangers and stand at their doors and the houses decide - but they lived the winter on this jarl's word under his roofs on his bowl; tell Vask that first. GUEST-RIGHT, three nights. D2 evening SKELVA: the cordage and wood as agreed; oil always, the tusks gladly, the nails with thanks; INGRA AND GEST go north and COME HOME THE LAST WEEK OF AUTUMN, cut at both ends; BUT VASK WANTS THE IRON FROM THE JARL'S OWN MOUTH AT HIS OWN HEARTH. D2 night COUNCIL (Halvar, Vigmar, Fenn, Osvi, Gest, Aki): THE JARL SAILS TO KOLVENN - eight in the OTTERSNOUT under ULF alongside the Hessa, Ingra and Gest set down, two nights at Vask's fire, home (about ten days). FENN: the land Standing cannot be held from a boat - held before sailing; THE LAND STANDING ON D4, Fenn and Tova's versions ready by then; SAIL D5 with the Hessa. THE COUNCIL HOLDS under law 13; HALVAR STAYS and picks the crew: ULF leads, a bow, a weather steersman, not Osvi (the bar); mead one night, the weather as long as it takes. D3 morning said at the bowl; SKELVA: no jarl has ever come to Kolvenn; Vask pleased and hiding it, suspicious and hiding it worse; bring nothing you would mind him seeing. D3 afternoon THE TRADE, three sticks: HALDVIK GETS about 500 paces of cordage (Ranulf: better than bast), 20 squared hardwood lengths and 3 stem-knees, 3 empty barrels now and 8 coopered barrels on the autumn boat (Sigra's ask); HALDVIK GIVES about 300 l of oil, the two walrus tusks, 2 kg of nails; for the autumn barrels 100 l more oil and what hooks the smith can spare. SKELVA: fair; the barrels matter most; the iron is still Vask's to hear."
-mood = "The thaw came clean and the ground is open: ditches, new strips, seaweed on the fields, boats inside the bar, and a plan for the year said at council. Hungry and working. The walker has not been seen since the fields, and people have started to say it is done."
-where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
+paused_at = "Y3 W16 D1, AT SEA - the Ottersnout under Ulf behind the two Hessa hulls, coasting north to Kolvenn (four days, arriving about D1-D2), the jarl, Gest and Ingra aboard, eight crew; two nights at Vask's fire promised, mead one night, home in ten to twelve days. AT HOME: Halvar holds the chair, the council decides under law 13; YLVA AND TWO on the high moor with the Needle; the claims being cut with Aki and Vigmar after work in the order drawn; Aki's rods down the tracks' line on the strips."
+mood = "Full bowls on the cod, a land law, and every claiming hearth with a number in its hand. The tracks came across Aud's new strips the night of the Standing, so nobody says it is done any more. The jarl, the ember-wife and Gest are gone north; Halvar sits in the chair he does not want."
+where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, nobody outside. Ilmo's six gone home. Ten away at Kolvenn (the jarl, Ulf and six, Ingra, Gest); Ylva and two on the moor."
 clocks = [
   "THE YEAR'S PLAN (Y3 W8 council, Aki's stick): fields W8-10; longpit 4 W10-13 after the holes are proved; the strand W10 with eight - three pans on peat, two clamps; the survey W10-12; the cod W12; the Hessa W14, paid in oil, the two tusks and 2 kg of nails, Ingra and Gest north with them, home the last week of autumn by the deal.",
   "The equinox (W7) was clouded out; Osvi has no sun measurement yet.",
@@ -13,8 +13,11 @@ clocks = [
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
   "Y3 W12 - the cod back on the offshore bank. THE COD CAME W14, THICK. 825 at W15 and climbing; the ceiling now is salt, smoke and racks, not fish. Each gale week pulls it closer.",
-  "Y3 spring - Ingra north to Kolvenn for at least a summer; the coals sealed with Fenn. The fields dug the week the spade goes in; Aud wakes a hundred grains four weeks before sowing.",
-  "Y3 W14 - the Hessa, with cordage and wood; a new deal cut as one. Ilmo's six go home when the ice lets them, and Vask hears about the iron.",
+  "INGRA AT KOLVENN from Y3 W16 until the autumn boat, the last week of autumn; the coals sealed with Fenn; Solvi keeps her plot.",
+  "Y3 W15 D5 - THE JARL TO KOLVENN, home in ten to twelve days: Vask hears about the iron at his own hearth.",
+  "Y3 W15 D5 - YLVA AND TWO on the high moor with the Needle: where the walker spends its days and what the Needle shows. Turn back if it is dangerous; three come home.",
+  "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work - council, the ten heads in their drawn order, the widows' blocks, then the common stones 1-33. Aki's rods down the tracks' line on Aud's strips before anything more is sown there.",
+  "Y3 last week of autumn - THE AUTUMN BOAT: eight coopered barrels for 100 l of oil and hooks; Ingra and Gest home.",
   "Y4 W14 to W39 - the master and Bruni, for 25 kg of worked iron that does not exist and cannot be made without a bloomery.",
 ]
 
@@ -28,11 +31,11 @@ veterans_of_real_fighting = 14
 dead = 14
 born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bjarnsson (Y1 W20); Thora, Sigrid's (Y1 W41); Herdis's daughter (Y2 W14, unnamed); Bjarn, Ingunn's (Y2 W18); Runa's son (Y2 W27, unnamed); Hild's daughter (Y2 W30)."
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104."
-resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
+resident_strangers = "None. Ilmo's six went home with Skelva Y3 W15 D5."
 
 [food]
-in_store_kg = 825
-what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
+in_store_kg = 1050
+what_it_is = "MOSTLY COD NOW (W14-15): salted, smoked and racked. The deer are eaten. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "From Y2 W51: THE THIRTY-THREE PROTECTED AT FOUR-FIFTHS (the children, the woman carrying, the five nursing) and THE SEVENTY-SEVEN OTHERS AT THREE-FIFTHS, the Hessa among them - about 300 a week. Within that, a working and a sitting portion: whoever is out on a head of work's task eats more, whoever sits eats less; never the children, carrying, nursing or sick, who also get fresh fish, raw liver and milk first. Aki marks who went out. Weighed in public by Vigmar, checked by Sigra."
@@ -75,10 +78,12 @@ henbane = "ABOUT ONE DOSE LEFT after the Ivven boy's leg (W12), which took two. 
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 
 [work]
-_ = "Winter. The strand is shut and the ground frozen; food and upkeep first."
-the_ice = "Hjalti's: he picks the twelve with Ilmo, and the working portion follows his word. Six roped pairs under Ilmo's five, an axe to test every step. The pole net for flatfish, harpoons at seal holes, basking seal stalked. About 60 store kg a week when the ice can be worked every day; nothing in a gale."
+_ = "Summer. The cod first; the ceiling is salt, smoke and racks, not fish."
+the_cod = "Hjalti's boats every workable day on the offshore bank; Sigra runs the beach - gutting lines, livers in a crock, split fish on every rack, salting while the salt lasts, the smokehouse day and night."
+longpit_4 = "Ormar and five on the frame; about 100 of 250-300 man-days done. The jarl's pair of hands is at Kolvenn."
+the_strand = "Hovard's eight: three pans on peat, the clamps; every kilo of salt goes up to Sigra."
 foraging = "Solvi's ten on the tide rocks - seaweed, shellfish, moss boiled twice, pine inner bark - fills more than feeds. Ylva and Ossur snare the ground to the edge; Ossur walks the upper line and the Nagholt tracks twice a day."
-indoor = "The Hessa tongue every evening at the back of longpit 1. Arna's reindeer suits. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova the old marks. The forge as Brek likes, Hafli one-handed."
+indoor = "Arna's reindeer suits. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova the old marks. The forge as Brek likes, Hafli one-handed."
 watch = "Two on the tower every night; in the worst cold, changed every hour. One short blast means come and look (horn signals in laws_and_treaties)."
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring walked every morning with a bare palm."
 
@@ -124,7 +129,7 @@ the_walls = "The jarl's four, for many years from now: (1) a ditch and bank acro
 the_forge_site = "Against the quarry's cut face at the back of the terrace, earth banked on two sides; a hood for the smoke; the bloomery outside against the wall, never under a roof; nothing within 10 m. Brek tells Ormar what is wrong before it is built."
 terrace = "No house plots on the terrace; the old and lame live in the longpits or the hall."
 spring_order = "Ormar: longpit 4 first, then the forge, then one block staked at the gate end - most likely only cut, not built, in Y3."
-promises = "HALVAR has first pick: the plot nearest the gate on the shoulder. Who goes next, and whether people choose or are given, is open."
+promises = "LAWS 19-21 (Y3 W15 D4). HALVAR's plot by the gate is marked. The order of choosing is cut: the council (Halvar, Vigmar - Fenn does not claim), then the heads of work 1 Hjalti, 2 Ylva, 3 Ormar, 4 Sigra, 5 Brek, 6 Enna, 7 Aud, 8 Hovard, 9 Solvi, 10 Ingra (Solvi chooses Ingra's beside her own, as keeper), then the nine widowed hearths for the closest unclaimed block and the second-closest (Gudny 2, Ingunn 9), then the common stones 1-33 (Tova 33). THE JARL DRAWS NO PLOT: longpit 1 is his by law 21. Nobody moves out in Y3."
 
 [ground]
 _ = "Haldvik's ground by zone. Updated whenever something is built, moved or cut."

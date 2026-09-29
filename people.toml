@@ -36,13 +36,13 @@ note = "Got Erik out of the cell and will not say what it cost. Splices rope con
 name = "Ingra Karrsdis"
 w = 27
 role = "Elder sister, widow. Ember-wife from Y2 W9."
-note = "Best head for numbers here; has not raised her voice in two years. SEES THE DOOR, nearer each time. Can LAY a warding (four done under Ranvi) but will not cut a mark she does not understand; the smokehouse first, then a season of watching. Two coals left, and Ranvi said touch neither. Has paid nothing for any of it, which Ranvi could not sleep for. Her ask of Erik: do not be careful with me - what made Ranvi strange was thirty years of nobody sitting beside her. Names her guesses as guesses. Read a live coal for the walker at the jarl's leave (Y3 W6) and did not say stop; her hands came back cold. Wants the jarl beside her at the fire where people can see it. GOES NORTH TO KOLVENN IN SPRING for at least a summer; the coals stay sealed in Fenn's keeping."
+note = "Best head for numbers here; has not raised her voice in two years. SEES THE DOOR, nearer each time. Can LAY a warding (four done under Ranvi) but will not cut a mark she does not understand; the smokehouse first, then a season of watching. Two coals left, and Ranvi said touch neither. Has paid nothing for any of it, which Ranvi could not sleep for. Her ask of Erik: do not be careful with me - what made Ranvi strange was thirty years of nobody sitting beside her. Names her guesses as guesses. Read a live coal for the walker at the jarl's leave (Y3 W6) and did not say stop; her hands came back cold. Wants the jarl beside her at the fire where people can see it. AT KOLVENN FROM Y3 W16 until the autumn boat; the coals stay sealed in Fenn's keeping. Wants a plot on a lane with children going past; Solvi chooses it and keeps it for her."
 
 [[kin]]
 name = "Solvi Karrsdis"
 w = 20
 role = "Younger sister. Heads foraging and shellfish."
-note = "Asked to lead alone rather than be a favour. Took Kelda into her keeping on three conditions. The most observant person here, and the one who finds the move that takes the jarl out of a thing. Watching Vigmar, on her condition that Erik acts on nothing without looking himself; says she is the worst witness he has."
+note = "Asked to lead alone rather than be a favour. Took Kelda into her keeping on three conditions. The most observant person here, and the one who finds the move that takes the jarl out of a thing. Watching Vigmar, on her condition that Erik acts on nothing without looking himself; says she is the worst witness he has. KEEPER OF INGRA'S PLOT until Ingra is home, and chooses it beside her own."
 
 [[council]]
 name = "Halvar Grimsson"
@@ -119,7 +119,7 @@ role = "Aki's mother. Dresses sealskin and reindeer hide, makes combs and the wi
 name = "Ylva Two-Knife"
 w = 20
 role = "Heads the hunt and the weir crew from Y2 W11. Second: Ossur."
-note = "Named on merit, Halvar's name kept out of it. Found the cairns, the hollow, the reindeer road and the Ivven. Reads a herd better than anyone. A hunt is not a raid on somebody's larder. Her own terms: no surprises - if she wants to go somewhere she was not sent, she stands in front of Erik and asks and wears the answer. Fenced off from a question she has asked six times, she will go alone. Led the Y3 W1 party that traded ten knives for thirty deer."
+note = "Named on merit, Halvar's name kept out of it. Found the cairns, the hollow, the reindeer road and the Ivven. Reads a herd better than anyone. A hunt is not a raid on somebody's larder. Her own terms: no surprises - if she wants to go somewhere she was not sent, she stands in front of Erik and asks and wears the answer. Fenced off from a question she has asked six times, she will go alone. Led the Y3 W1 party that traded ten knives for thirty deer. CARRIES THE NEEDLE from Y3 W15 D5, on the high moor with two: the place, not the thing; three come home."
 
 [[settlement]]
 name = "Hjalti"
@@ -222,7 +222,7 @@ note = "Lit the Skalgrind lantern himself and complained for five weeks. Given h
 
 [[elsewhere]]
 name = "Ilmo"
-role = "HESSA of Kolvenn, helmsman of the six driven in by the Y2 W36 gale; under Haldvik's law and fed on the jarl's word until the ice goes."
+role = "HESSA of Kolvenn, helmsman of the six driven in by the Y2 W36 gale; lived the winter on the jarl's word; home with Skelva Y3 W15 D5."
 note = "Grey, older, hands like knotted rope. Knows the winter sea better than anyone here; taught the ice, the whale and the seal stalk. We will not sit by your fire and eat your winter for nothing. At Kolvenn the names are said, and a named man who walks home stands at the door as a stranger; the jarl told him once there is a place here if the door stays shut. Will tell Vask the jarl's words about the iron. Lent one of his men as tongue to the Ivven."
 
 [[elsewhere]]
