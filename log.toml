@@ -1501,3 +1501,21 @@ events = [
   "THE MOOD: MORALE 6 TO 5 - a gale week on the sitting portion, a whale that gave nothing but stink and oil, and the store near empty with no cod.",
   "THE WEEK: 100 in (the oil about 70, duck and ptarmigan, snails, the snares and rocks). 300 out.",
 ]
+
+[[year_3]]
+week = 14
+title = "THE COD, THICK, AND A PLACE ON THE MOOR"
+store = 825
+income = 1000
+consumed = 300
+events = [
+  "THE WEEK: FIRST OF SUMMER, fair and warm, light airs; the boats out every day.",
+  "D1 council: VIGMAR 125, and begins what is left that is not the ration - the seed in the ground, the byre seventeen head with the ewes near lambing - and does not reach the hens: THE BOATS COME IN LOW PAST THE BAR, the faering towed. HJALTI in the bow, soaked, grinning: THEY'RE BACK, THICK AS HE HAS EVER SEEN - every knife and every pair of hands on the beach. THE JARL: he gets the hands as agreed; the council ends in a sentence; the jarl to longpit 4.",
+  "D1-D7 THE COD every day. SIGRA runs the beach: gutting lines on the sand, heads and guts to the pots and the fields, livers in a crock for oil and the children, split fish on every rack, the rest salted and the smokehouse day and night; the salt going fast, by D7 everything the strand has made asked for. Fresh fish in the bowl twice a day - the first full bowls left since the Turning.",
+  "LONGPIT 4: the jarl, Ormar and five on the west wall-plates and the first tie-beams; about 100 of 250-300 man-days done.",
+  "D3 STILL CLEAR NOON, YLVA'S SECOND SIGHTING at the head of the river, the board steady on a flat stone. TEST, difficulty 3 (Osvi's board, a still day, a second try): [3,3] SUCCESS. AKI AND OSVI in ash, Osvi nodding: THE LINES CROSS NORTH, ABOUT 22 KM FROM THE STOREHOUSE GABLE, GIVE OR TAKE 2 - a place, not a direction; blank ground on Aki's map beyond the high moor's crown.",
+  "D4-D5 THE SURVEY DONE: Barley Line and Wall Line pegged; every road and lane of the plan on the ground. The plots to be numbered on the map next.",
+  "THE HESSA DO NOT COME. Every evening someone at the terrace edge looking north. Ingra's and Gest's bundles packed by the storehouse door.",
+  "THE MOOD: MORALE 5 TO 7 - the cod thick after the emptiest week of the year, full bowls, and the whole terrace on the beach together.",
+  "THE WEEK: about 1000 in (the cod: salted, smoked, racked and fresh eaten at half weight; the snares). 300 out.",
+]
