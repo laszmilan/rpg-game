@@ -1486,3 +1486,18 @@ events = [
   "THE MOOD: MORALE 7 TO 6 - the cod did not come and the store is a week deep; against it the Ivven reached over the line.",
   "THE WEEK: 110 in (the Ivven meat 60, the rocks, the snares; the bank empty). 300 out.",
 ]
+
+[[year_3]]
+week = 13
+title = "A GALE, AND A WHALE THAT BURST"
+store = 125
+income = 100
+consumed = 300
+events = [
+  "THE WEEK: a wet south-westerly gale D2-D5; two working days; the boats hauled up. No cod.",
+  "D1 council: VIGMAR 325; Hjalti - the bank empty again, and the sky wrong; Halvar - a gale by tomorrow. THE JARL: the Hessa may not come in a gale; the fish will come this week or next; more to hunt as it turns? YLVA: more than winter, not much yet - hares thin until the grass, ptarmigan pairing and easy to snare, the first duck on the loughs at the river head, wary; the herd calves on the high ground in a month and is theirs; the real meat is the cliffs at midsummer; snares and a bow put something in the bowl, not fill it. SOLVI: the snails are back on the bog edge. THE JARL: NOT THE HERD DEER - anything else is fair; hold on till the cod, build and survey as the weather allows. D1 Ylva and Ossur at the loughs: four duck and a brace of ptarmigan. D2-D5 the gale; the sitting portion; half a day on longpit 4 in a lull; the stick about a hundred by D5; Vigmar weighs every portion twice.",
+  "D6 mid-morning, a strand man at a run: A WHALE on the low end of the strand, brought in by the gale, DEAD A WHILE BEFORE - bloated, gulls, the stink; Hovard: the fat good, maybe some top-side back meat, not for long; today or not at all. THE JARL: poke with spears, or cut only the back fast? ILMO: both, today - one long spear low into the belly from upwind, everyone ten paces back till it stops hissing, nobody near the gut; take the fat, which keeps, and only the dark meat along the top of the back; cut fast, the rest to the sea; the healer smells every piece - bad whale makes a whole house sick at once. THE JARL: as Ilmo says, today.",
+  "D6-D7, THE STRAND, the jarl, Ilmo, Enna and twenty. TEST, difficulty 7 (Ilmo's way, venting upwind first, fat and top of the back only, Enna smelling, the strand crew with pans and salt, the same day; against a whale days dead, the gut going, the time, the gas): [5,2] FAILURE. Ilmo throws the spear low from upwind and IT BURSTS - the side opens like a wet sail tearing, the gut over the lower flank and the sand; THE WIND SHIFTS onto two of Hovard's men ten paces off, retching till night. THE BACK MEAT GREY-GREEN A HAND DEEP - Enna throws every piece in the sea; NONE OF THE MEAT GOOD. The upper blubber only: ABOUT 80 LITRES OF OIL by D7 night in two pans, which stink so that Hovard needs two days of scouring and boiling before salt again. The two sick men on their feet by D7, grey; Enna: they will mend. The whale out on the next tide. THE JARL: he hates whales.",
+  "THE MOOD: MORALE 6 TO 5 - a gale week on the sitting portion, a whale that gave nothing but stink and oil, and the store near empty with no cod.",
+  "THE WEEK: 100 in (the oil about 70, duck and ptarmigan, snails, the snares and rocks). 300 out.",
+]

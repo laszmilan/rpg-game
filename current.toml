@@ -1,9 +1,9 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now. Nothing historical - that is log.toml. People in people.toml, laws and treaties in their file, world and practice in readme.toml."
-date = { year = 3, week = 13, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
-morale = 6
-paused_at = "Y3 W13 NOT YET BEGUN. Opens D1 council."
+date = { year = 3, week = 14, day = 1, season = "spring by the calendar; the hard cold runs to about W6" }
+morale = 5
+paused_at = "Y3 W14 NOT YET BEGUN - the first week of summer. Opens D1 council with about 125 in store."
 mood = "The thaw came clean and the ground is open: ditches, new strips, seaweed on the fields, boats inside the bar, and a plan for the year said at council. Hungry and working. The walker has not been seen since the fields, and people have started to say it is done."
 where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, the six Hessa at the back of longpit 1, nobody outside."
 clocks = [
@@ -12,7 +12,7 @@ clocks = [
   "SUMMER - the Needle crossing, north on the high moor about 20 km out, give or take 10 (Aki's two sticks).",
   "Every D1 - the land plan at council, the map on the bench, so there is a plan by spring.",
   "Y3 W8 - the thaw. Longpit 4's forty-two post holes opened and watched a fortnight before a post goes in.",
-  "Y3 W12 - the cod back on the offshore bank. THE COD IS LATE - the bank empty all W12. 325 at W13; at 300 out and about 50 from gathering, about a week. Each gale week pulls it closer.",
+  "Y3 W12 - the cod back on the offshore bank. THE COD IS LATE - the bank empty W12 and W13, the W13 whale a failure. 125 at W14: under half a week at 300 out. Each gale week pulls it closer.",
   "Y3 spring - Ingra north to Kolvenn for at least a summer; the coals sealed with Fenn. The fields dug the week the spade goes in; Aud wakes a hundred grains four weeks before sowing.",
   "Y3 W14 - the Hessa, with cordage and wood; a new deal cut as one. Ilmo's six go home when the ice lets them, and Vask hears about the iron.",
   "Y4 W14 to W39 - the master and Bruni, for 25 kg of worked iron that does not exist and cannot be made without a bloomery.",
@@ -31,9 +31,9 @@ the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's so
 resident_strangers = "SIX HESSA off Ilmo's boat, driven in Y2 W36, under Haldvik's law and fed on the jarl's word on the same ration until the ice lets their boat swim. One leg broken and knitted. They teach the Hessa tongue in the evenings and the ice by day."
 
 [food]
-in_store_kg = 325
+in_store_kg = 125
 what_it_is = "About a third the thirty Ivven deer, quartered and frozen under the reeve's beam and going into the bowl a little each day. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
-sealed_and_not_food = "SEED, untouched: 200 kg barley, 40 kg Hessa peas, 60 kg Haldvik peas, henbane seed. Eating it is theft from the colony - the jarl's words. The byre is kept for the spring by the same word."
+sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "From Y2 W51: THE THIRTY-THREE PROTECTED AT FOUR-FIFTHS (the children, the woman carrying, the five nursing) and THE SEVENTY-SEVEN OTHERS AT THREE-FIFTHS, the Hessa among them - about 300 a week. Within that, a working and a sitting portion: whoever is out on a head of work's task eats more, whoever sits eats less; never the children, carrying, nursing or sick, who also get fresh fish, raw liver and milk first. Aki marks who went out. Weighed in public by Vigmar, checked by Sigra."
 standing_food = "Anything that swims or walks is eaten. Fresh before stored. The ice fished every workable day."
