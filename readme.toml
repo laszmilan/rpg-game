@@ -80,6 +80,7 @@ baseline = "The oracle shifts the seasonal baseline; it does not set an absolute
 [mechanics.random_lists]
 _ = "RANDOM LISTS for which one and how many. The list is written and shown before rolling."
 initiative = "The rolls add to play, not replace it (Y2 W29, W31). No quota: the GM brings things to Erik unasked whenever it follows from agendas and facts."
+oracle_shown_as_outcome = "The player wants only the OUTCOME of oracle rolls and random lists, not the options or the die (Y3 W16). Lists are still written before the die, in the GM's notes. Tests (2d12) stay shown with their difficulty."
 entropy = "Entropy from the shell, never GM taste. Tests, open oracle questions, lists and difficulties are shown. The week's weather and event, and any roll that would itself leak what Erik cannot know - is he lying, is something watching, how a wound will go - are rolled unseen, and only the tells are narrated. Consented to."
 
 [setting]
