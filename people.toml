@@ -179,7 +179,7 @@ note = "No kin. A memory like a nail; forty customs word-perfect and argues two 
 name = "Bruni"
 w = 21
 role = "HESSA, the master boatwright's apprentice at Kolvenn. Here Y1 W34 to Y2 W28; went home by his own choice. Comes back in Y4 with the master for the iron."
-note = "Skelva's sister's son. Can caulk, steam and set a strake, shape a rib, cut out rot, build a faering; cannot loft a seagoing hull. Finished the Ottersnout. Taught twenty men to rive. Notices being asked rather than told. Gest's read: in ten years there is a master at Kolvenn who spent a year of his youth here, treated well or badly."
+note = "Skelva's sister's son. Can caulk, steam and set a strake, shape a rib, cut out rot, build a faering; cannot loft a seagoing hull. Finished the Ottersnout. Taught twenty men to rive. Notices being asked rather than told. Gest's read: in ten years there is a master at Kolvenn who spent a year of his youth here, treated well or badly. THE MASTER PUT THE JARL'S ADZE, HALDVIK, IN HIS HANDS (Y3 W16) - the first tool of his own in twelve years. The jarl called him boatwright."
 
 [[settlement]]
 name = "Herdis"
@@ -223,7 +223,12 @@ note = "Lit the Skalgrind lantern himself and complained for five weeks. Given h
 [[elsewhere]]
 name = "Ilmo"
 role = "HESSA of Kolvenn, helmsman of the six driven in by the Y2 W36 gale; lived the winter on the jarl's word; home with Skelva Y3 W15 D5."
-note = "Grey, older, hands like knotted rope. Knows the winter sea better than anyone here; taught the ice, the whale and the seal stalk. We will not sit by your fire and eat your winter for nothing. At Kolvenn the names are said, and a named man who walks home stands at the door as a stranger; the jarl told him once there is a place here if the door stays shut. Will tell Vask the jarl's words about the iron. Lent one of his men as tongue to the Ivven."
+note = "Grey, older, hands like knotted rope. Knows the winter sea better than anyone here; taught the ice, the whale and the seal stalk. We will not sit by your fire and eat your winter for nothing. At Kolvenn the names are said, and a named man who walks home stands at the door as a stranger; the jarl told him once there is a place here if the door stays shut. Lent one of his men as tongue to the Ivven. HIS DOOR STAYED SHUT at Kolvenn (Y3 W16) - his wife took another man after the names; CAME TO HALDVIK WITH THE JARL to become something, and swears under law 19. Reads the offshore bank better than Hjalti, by Hjalti's own word."
+
+[[elsewhere]]
+name = "Oski"
+role = "HESSA of Kolvenn, about 25, of Ilmo's six; the leg Enna set. His brother's house said the name is said; came to Haldvik with Ilmo (Y3 W16) and swears under law 19."
+note = "Broad and quiet; laughs at the back of other people's stories. His leg will ache every winter where the healer can hear him complain, and the jarl told him to ask her how she is."
 
 [[elsewhere]]
 name = "Tavi"
