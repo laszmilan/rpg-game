@@ -38,7 +38,7 @@ in_store_kg = 1050
 what_it_is = "MOSTLY COD NOW (W14-15): salted, smoked and racked. The deer are eaten. The rest dried and smoked fish and seal, salted whale, eggs in ash, frozen walrus, the Hessa barley and peas, rendered fat, birds, berries and seaweed. Seal and whale oil plenty. Milk from the cow. The W4 headland bearded seal quartered under the beam, its fat rendered. TWENTY-FOUR MORE IVVEN DEER (W6), skinned and gutted, frozen under the beam."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
-the_ration = "From Y2 W51: THE THIRTY-THREE PROTECTED AT FOUR-FIFTHS (the children, the woman carrying, the five nursing) and THE SEVENTY-SEVEN OTHERS AT THREE-FIFTHS, the Hessa among them - about 300 a week. Within that, a working and a sitting portion: whoever is out on a head of work's task eats more, whoever sits eats less; never the children, carrying, nursing or sick, who also get fresh fish, raw liver and milk first. Aki marks who went out. Weighed in public by Vigmar, checked by Sigra."
+the_ration = "FULL RATION FROM Y3 W17 (the jarl, W16 D7: being fat before winter matters as much as having food) - about 480 a week from the store for about 106, fresh fish on top. The children, the carrying, the nursing and the sick still get fresh fish, raw liver and milk first. Weighed in public by Vigmar, checked by Sigra."
 standing_food = "Anything that swims or walks is eaten. Fresh before stored. The ice fished every workable day."
 
 [resources]
@@ -80,7 +80,8 @@ ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea
 [work]
 _ = "Summer. The cod first; the ceiling is salt, smoke and racks, not fish."
 the_cod = "Hjalti's boats every workable day on the offshore bank; Sigra runs the beach - gutting lines, livers in a crock, split fish on every rack, salting while the salt lasts, the smokehouse day and night."
-longpit_4 = "Ormar and five on the frame; about 100 of 250-300 man-days done. The jarl's pair of hands is at Kolvenn."
+longpit_4 = "About 150 of 250-300 man-days done: west wall-plates, all tie-beams, the first rafters. FROM W17 FOURTEEN ON IT (Ormar's six, the jarl, seven off the fishing): walls and roof turf, one crew cutting and one laying. THEN A SECOND SMOKEHOUSE (15-20 riven sticks, 40-60 man-days, the same hands, before the salmon W29), THEN THE FORGE - talked when the smokehouse starts. The Hessa hardwood is kept for boats."
+ilmo_and_oski = "ILMO AND OSKI of Kolvenn, their doors shut, live in Haldvik from W16 D7 and go to Hjalti's boats; they ask a Standing under law 19 to swear over ember. Kolvenn boats fishing the coast will put in to see Ilmo, and Haldvik feeds them."
 the_strand = "Hovard's eight: three pans on peat, the clamps; every kilo of salt goes up to Sigra."
 foraging = "Solvi's ten on the tide rocks - seaweed, shellfish, moss boiled twice, pine inner bark - fills more than feeds. Ylva and Ossur snare the ground to the edge; Ossur walks the upper line and the Nagholt tracks twice a day."
 indoor = "Arna's reindeer suits. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova the old marks. The forge as Brek likes, Hafli one-handed."
