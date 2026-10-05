@@ -25,6 +25,7 @@ clocks = [
 
 [souls]
 total = 106
+by_age_and_sex = "Set Y3 W17 to fit the totals: UNDER 12 - 12 boys, 11 girls; 12-15 - 4 male, 3 female (Kelda 13, the three turning fifteen, Tova 15, two more of fifteen); 16-50 - 28 men, 38 women; OVER 50 - 5 men, 5 women (Fenn, Gest, Ilmo, the three old non-claimers and the two old fjord-steading voters among them). 49 male, 57 female."
 of_15_or_more = 77
 women_of_15_or_more = 44
 of_12_to_14 = 4
