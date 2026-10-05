@@ -1,6 +1,6 @@
 # Haldvik - log. The chronicle, one entry a week, grouped by year. Player-readable.
 
-_ = "THE CHRONICLE. What happened, one entry a week, oldest first, grouped by year: [[year_1]], [[year_2]], [[year_3]] - append new weeks at the bottom of the current year. Store is the week-end total in store kg; income and consumed are gross from Y2 W11 on. EVERYTHING HERE HAS BEEN REVEALED to the player and may be spoken of freely. What Erik the man does or does not know, and who else knows a closed thing, is GM bookkeeping in secrets.toml [knowledge]."
+_ = "THE CHRONICLE. What happened, one entry a week, oldest first, grouped by year: [[year_1]], [[year_2]], [[year_3]] - append new weeks at the bottom of the current year. Store is the week-end total in store kg; income and consumed are gross from Y2 W11 on. EVERYTHING HERE HAS BEEN REVEALED to the player and may be spoken of freely. What Erik the man does or does not know, and who else knows a closed thing, is GM bookkeeping in gm_only.toml [knowledge]."
 
 # ================= YEAR 1 =================
 

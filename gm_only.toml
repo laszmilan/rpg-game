@@ -1,9 +1,9 @@
-# Haldvik - secrets. GM ONLY. The player never reads this file.
+# Haldvik - gm_only. GM ONLY. The player never reads this file.
 
-_ = "GM ONLY. NEVER quoted, summarised, hinted or named - not in fiction, not in recaps, not in status briefings, not in answers about the files themselves. Naming a thing in here while discussing housekeeping spends it exactly as narrating it would. If the files must be discussed, discuss them by key name and count. What the player has earned is the log plus people.toml player.what_erik_knows, and nothing else has been revealed."
+_ = "GM ONLY. NEVER quoted, summarised, hinted or named - not in fiction, not in recaps, not in status briefings, not in answers about the files themselves. Naming a thing in here while discussing housekeeping spends it exactly as narrating it would. If the files must be discussed, discuss them by key name and count. What the player has earned is the log plus the [knowledge] block (seen Y3 W4), and nothing else has been revealed."
 open_threads = [
-  "NAGHOLT. Every peat face opened from now on is a dig, and a hundred and fifty cubic metres are to be cut in eight weeks by people paid in daylight to go fast.",
-  "THE BONES, boxed since Y2 W22 in Ranvi's lean-to; by LAW 18 (Y3 W5) to be laid on their own floor at Nagholt under their own door post, the charcoal with them, the iron named at the door. Fenn's warning about a claim answered by saying nothing that makes them kin.",
+  "NAGHOLT. Every peat face opened from now on is a dig.",
+  "THE BONES, LAID on their own floor at Nagholt under their own door post Y3 W6 D5 by LAW 18, the charcoal with them; the iron still to be named at the door. Fenn's warning about a claim answered by saying nothing that makes them kin.",
   "SKELVA WILL NOT SPEAK OF THE OLD PEOPLE, and the asking alone cost a night of guest-right and an hour of tide. She was not told about the pit, the house or the name. The question alone did it.",
   "GEST STOPPED SPLICING FOR HALF A BEAT when he heard the name Nagholt, and asked to hear it again, and then said aye, well, and got in the boat.",
   "AILI OF KOLVENN gave Ingra three sentences and no more. What else she knows is not yet set.",
@@ -29,7 +29,7 @@ standing_rules = [
 ]
 
 [knowledge]
-_ = "GM BOOKKEEPING ON WHO KNOWS WHAT. The player has seen all of this (it came from people.toml, Y3 W4); it lives here because it is about what Erik the man and the NPCs know, not about what the player knows. The log is the record of what the player has been shown."
+_ = "GM BOOKKEEPING ON WHO KNOWS WHAT. The player has seen all of this (it came from the old people.toml, Y3 W4); it lives here because it is about what Erik the man and the NPCs know, not about what the player knows. The log is the record of what the player has been shown."
 erik_does_not_know = ["ENNA IS A SECOND WITNESS to what Vigmar did to Hild's son and has never said a word. Erik knows only Kelda's account."]
 held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hall, and carrying a thing that bears the struck name. The theft is provable and admitted; whether reading the name is a crime is untested and falls to Fenn. Erik once said he would kill him if he could replace him; by Y2 W34 he no longer knows. He has found Vigmar more reserved than a cultist, which does not make him a good man, and suspects the growing closeness was intended. Sorrier for Kelda than for anyone in it. Told Aki that if something happens to Vigmar it will not be by Erik's hands.", "KELDA'S ACCOUNT of the infant. Not acted on.", "THE ALE. Brek confessed and Erik refused to hear it, saying if he knew who stole it he would have them whipped or banished."]
 
