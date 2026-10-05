@@ -2,7 +2,7 @@
 
 _ = "GM ONLY. NEVER quoted, summarised, hinted or named - not in fiction, not in recaps, not in status briefings, not in answers about the files themselves. Naming a thing in here while discussing housekeeping spends it exactly as narrating it would. If the files must be discussed, discuss them by key name and count. What the player has earned is the log plus the [knowledge] block (seen Y3 W4), and nothing else has been revealed."
 open_threads = [
-  "NAGHOLT. Every peat face opened from now on is a dig.",
+  "NAGHOLT. Every peat face opened from now on is a dig. Y3 W19 D6 an iron strap turned up WELL CLEAR OF THE HOUSE and was put back under a stake: there is old work beyond the one house.",
   "THE BONES, LAID on their own floor at Nagholt under their own door post Y3 W6 D5 by LAW 18, the charcoal with them; the iron still to be named at the door. Fenn's warning about a claim answered by saying nothing that makes them kin.",
   "SKELVA WILL NOT SPEAK OF THE OLD PEOPLE, and the asking alone cost a night of guest-right and an hour of tide. She was not told about the pit, the house or the name. The question alone did it.",
   "GEST STOPPED SPLICING FOR HALF A BEAT when he heard the name Nagholt, and asked to hear it again, and then said aye, well, and got in the boat.",
@@ -15,7 +15,7 @@ open_threads = [
   "TWO THEFTS from Y1 W13. One confessed and refused a hearing. THE OTHER IS GUDNY.",
   "KELDA'S FINDS. Four know. She is thirteen and will not be in a room alone. She left her own fish for the walker (Y3 W11) and told the jarl when asked; promised not again.",
   "THE NEEDLE walks east a finger a month, and the cairn stones have iron in them.",
-  "BEES. Nobody has looked, because nobody has been to the valley.",
+  "BEES: a wild hive in a split pine in the valley (Y3 W19), Ylva's blazes; Aud hangs a baited skep by it in W20-21 - whether the swarm takes it is rolled when she hangs it.",
   "THE COUNCIL QUESTION, raised twice and never answered.",
   "THE IVVEN ANSWER TO LAW 17 IS NOT SET. The band carried home the scuffed line and the thrown leg, and three deer were taken inside the edge the next morning. What the bands make of it, and what the scarred man brings next time, is decided by agenda when they next come.",
   "THE IVVEN DEAD AT THE EDGE (Y3 W16): an old woman and two children died of the fever while Haldvik's healer tended them outside the line; the scarred man would not look at her. What the band makes of it - Haldvik's iron, Haldvik's ground, Haldvik's healer - is set by agenda when they next come. The fever did not reach Haldvik.",
@@ -45,16 +45,12 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W19"
-rolled_before_the_week = "Rolled at Y3 W18 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W19 weather, SUMMER, 2d6 take higher: [4, 5] = 5 = YES: fair and dry, a drying wind."
-Q2_does_anything_unlooked_for_reach_haldvik = "d6: 4 = YES, BUT. Follow-up list, written before the die (1 the tracks again; 2 the Ivven band returns, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 a spade at the cuttings finds old work), d6: 6. Day and details set before it lands."
-the_cod = "THE RUN THINNING from W18: summer bank fishing about 250 a week sustained with the boats, falling; salt about 40 kg a week from the strand."
-the_cuttings_W19 = "THE EVENT, set before it lands: HAFLI AND GEIR'S SPADE FINDS OLD WORK at the cuttings. Day d7: D6. THE BUT, d6 on a list written before the die (1 worked wood a spade down in the face nearest Nagholt, and nobody can say whether it is the house or something else; 2 a piece of WORKED IRON, a fitting, in the ore crust; 3 BONE, a person's; 4 A LINE OF SET STONES, a second wall - Nagholt is not alone; 5 HAFLI DID NOT STOP THE SPADE at once - it was out and broken before Geir called; 6 A CUT STONE WITH MARKS on it): 5 = HAFLI DID NOT STOP THE SPADE AT ONCE - IT WAS OUT AND BROKEN BEFORE GEIR CALLED. Geir comes down and says so, as ordered; the jarl hears it at council or when he is found."
-valley_W19_D3 = "Oracle rolls Y3 W19 D3, the valley, unmodified, outcomes only to the player. HENBANE at or near the midden: 4 = YES, BUT. BEES, hiving, in the pines up the stream: 5 = YES. ANYTHING ELSE WORTH BRINGING HOME: 3 = NO, BUT; list written before the die (1 angelica along the stream; 2 a birch stand - bark, sap, tar; 3 bilberry and lingonberry in flower under the pines, berries late summer; 4 a clay bank where the stream cuts; 5 small red forest deer sign in the valley; 6 an old quern runner stone at the midden's edge): 1."
-valley_more_bees = "Y3 W19 D3 evening, an hour or two further up the stream, ANOTHER COLONY? d6 unmodified: 3 = NO, BUT."
-cuttings_W19_what = "What the spade broke at the cuttings, W19 D6, list written before the die (1 worked wood - a squared plank end, tool marks on it; 2 an iron fitting, a strap or hinge rusted to a lump; 3 bone, a person's, a forearm; 4 a clay pot, whole until the spade; 5 a whetstone, slate, worn hollow, with a hole for a thong; 6 a cut stone the size of a hand, marks on one face): 2. Found well clear of the Nagholt house, at the bottom of the cut where the orange water sits."
-notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists."
+week = "Y3 W20"
+rolled_before_the_week = "Rolled at Y3 W19 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W20 weather, SUMMER, 2d6 take higher: [6, 3] = 6 = YES, AND: fair all week, a steady cool drying wind."
+Q2_does_anything_unlooked_for_reach_haldvik = "d6: 5 = YES. Follow-up list, written before the die (1 the tracks again, on its old line; 2 the Ivven band returns, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), d6: 5. Day d7: D4. The but/and set before it lands."
+the_cod = "THIN: about 40 a day with the boats; salt about 40 kg a week from the strand."
+notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. THE FIRST BURN is a test when Brek runs it. THE SWARM is an oracle when Aud hangs the skep."
 
 [hidden_truths]
 the_needle = "Does not point north. Points at a body of sky-iron under the high moor about 22 km inland. Southern make; the makers were following the same thing. THE CREEP IS REAL, ongoing and one-directional: the needle is also being pulled off true by a SECOND, SMALLER, MOVING body of sky-iron, and until it is found this reads exactly like the moor mass waking. Two clean bearings a fortnight apart from two points 6 km apart would cross and give a position. NOBODY HAS THOUGHT TO TRIANGULATE. The sky-iron is worth more than the land, and if Hakvarr learns of it, he comes. Erik has the ground-iron part right, which also means the Needle would never have carried them home."
