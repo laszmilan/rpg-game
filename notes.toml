@@ -122,13 +122,13 @@ built = "The drying racks and Sigra's stack, the smokehouse, the forge, the Keel
 
 [ground.the_terrace]
 the_ground = "About 300 m along the bay and 40 m deep, about 1.2 ha - the only flat, dry, sheltered ground. The grey stone band at its back; the wet south end floods."
-built = "Longpits 1-3, longpit 4 (walls up, roof turf going on), the storehouse, the washhouse and ward, the byre, the tower, Ranvi's lean-to, the peat walls, the three fermenting pits, the high bar-mark post. About a third of it."
+built = "Longpits 1-3, longpit 4 (roofed Y3 W18, the middle wall to come), the storehouse, the washhouse and ward, the byre, the tower, Ranvi's lean-to, the peat walls, the three fermenting pits, the high bar-mark post. About a third of it."
 free = "About 0.8 ha - the wet south end and the strip along the edge."
 "the tower" = "22 sticks on four proven holes, hooded, the night post, a horn on the platform. Sees past the north headland and over the shoulder to the moor edge."
 "longpit 1" = "12 x 8 m aisled, turf and stone, driftwood frame. The main hearth; everyone passes through it."
 "longpit 2" = "Same build. The byre against its east gable; the hens by its hearth."
 "longpit 3" = "12 x 8 m. Aki's bench, Vigmar's corner and the lesson board. The clean room."
-"longpit 4" = "Forty-two holes proved and dry: thirty-four at the thaw and the eight of the east row dug again a pace upslope (W11), clear of the spring. Framed from W12: both rows of posts, the wall-plates and the tie-beams. Walls up all round and roof turf begun W17 - about 220 of 250-300 man-days. Two halves walled apart, a door at each end: the future ward and washhouse."
+"longpit 4" = "Forty-two holes proved and dry: thirty-four at the thaw and the eight of the east row dug again a pace upslope (W11), clear of the spring. Framed from W12: both rows of posts, the wall-plates and the tie-beams. Walls up W17, ROOFED W18 D5, doors hung W18 D6; the middle wall waits while the whale meat hangs in the through-draught. Two halves walled apart, a door at each end: the future ward and washhouse."
 storehouse = "10 x 10 m dressed stone, the whole sealed store, a door and the reeve's beam. Nobody sleeps in it. The map, the tusks and the seed under the beam."
 "washhouse and ward" = "One building, a wall between, a door at each end, one hearth in the middle wall. Enna's design."
 "the byre" = "27 stalls against longpit 2. Peat litter doubles the dung heap."
@@ -138,7 +138,7 @@ storehouse = "10 x 10 m dressed stone, the whole sealed store, a door and the re
 the_ground = "The slope above the terrace to the moor edge about 4 km out: turf, grazing, peat two spades deep, the barley ground, the stone band at its foot. Haldvik's to the moor edge by law 17. The planned village and walls are here."
 built = "Aud's fields and kitchen crops, the peat cuttings, the fire ring, the quarry, the turning pair of bar marks. Nothing lived in."
 "the fields" = "About 1.5 ha sown Y3 W11 (200 kg barley, 100 kg peas): 1.1 inside the ring and 0.4 of new strips on the south face under the stone band, raised. Aud's top ditch across the first field and the side ditch to the river (Y3 spring); the lower third of the first field drains for the first time. Kale stands through the frost."
-"the peat cuttings" = "Where the bog ore is, and where Nagholt lies - a burned house 24 m long under 60 cm of peat, traced by rod and recorded on three sticks in different buildings. REOPENED AND CLOSED Y3 W6 D5 under law 18: the bones, the charcoal and the door post laid on its own floor; no mark on the ground. The post's marks are on three sticks (Vigmar, Vigmar, Tova). THE STRAIGHT TRACKS STOOD HERE (Y3 W1). Every peat face opened is a dig."
+"the peat cuttings" = "Where the bog ore is, and where Nagholt lies - a burned house 24 m long under 60 cm of peat, traced by rod and recorded on three sticks in different buildings. REOPENED AND CLOSED Y3 W6 D5 under law 18: the bones, the charcoal and the door post laid on its own floor; no mark on the ground. THE ORE is the crust and lumps where the orange water sits at the bottom of the cuttings; dug from Y3 W18 WELL CLEAR OF THE HOUSE, and any worked wood or stone stops the spade and comes to council (the jarl). The post's marks are on three sticks (Vigmar, Vigmar, Tova). THE STRAIGHT TRACKS STOOD HERE (Y3 W1). Every peat face opened is a dig."
 "the fire ring" = "A 45 x 30 m trench round the underground peat fire, drowned Y2 W26 and cold since. Walked every morning."
 grazing = "Sheep, goats, the cow. PLENTY OF IT on the shoulder outside the ring, to the moor edge; the grazing inside the ring is the plots' reserve. Ylva's reindeer ground and Aud's barley ground are the same field and nobody has settled it. The Ivven have not agreed law 17; they deliver to the edge and not a step over."
 
@@ -179,6 +179,7 @@ the_units = "The ledger runs in STORE KG. Eaten is about 1.5 kg a head a day; st
 the_standing_order = "Salt, smoke, dry the rest. A dead-air week goes to the smokehouse, not the salt barrel. Counted every week."
 how_it_is_caught = "Long-lines off two ship's boats, the strand lines, the racks, Sigra's stack, the weir in season, the cliffs in season. THE WINTER FISHERY is cod inside the bar until about W37, back on the offshore bank about W12. ON THE ICE, KOLVENN'S WAY (Ilmo): holes in a line and a net pushed under on a pole for flatfish and small cod; seal at the breathing hole with a barbed harpoon; basking seal stalked under white cover, crawling, freezing when one lifts its head. Always roped in pairs, an axe to test every step. The ice at Kolvenn takes somebody every winter, nearly always somebody who knew better."
 the_harvest_first = "The jarl's standing priority (Y2 W31): cutting before construction; eggs and greens first because a crop needs no salt. Grain that will not dry outside is dried by the longpit hearths."
+a_small_whale = "ILMO'S WAY, KOLVENN'S (Y3 W18): above the tide with a rope on the tail before the water turns; the fat off first in hand-wide strips while the morning is cool, to the pots for oil; the dark meat cut palm-thin and DRIED IN THE WIND, not smoked, about three weeks under a roof with no walls - rain on it before it is dry sours it from the inside; liver and heart eaten the same day; the guts out past the rocks by boat, never left on the sand."
 the_ceiling = "Weather. A good drying week with twenty-five hands hangs five or six hundred kilos; a still wet week almost none. Salting takes about 100 kg of salt per 500 of fish."
 
 [practice.building]

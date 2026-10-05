@@ -1584,3 +1584,24 @@ events = [
   "THE MOOD: MORALE HOLDS AT 8 - full bowls and the full ration, two Hessa sworn in with the whole hall, the walls of longpit 4 up.",
   "THE WEEK: about 650 in (the cod racked, smoked and fresh at half weight, 40 kg of salt from the strand, foraging). About 480 out at the full ration.",
 ]
+
+[[year_3]]
+week = 18
+title = "THE BLOOMERY ON THE SAND, A PILOT WHALE, AND LONGPIT 4 UNDER ONE ROOF"
+store = 1870
+income = 670
+consumed = 480
+events = [
+  "THE WEEK: fair, rain on D6 from mid-morning through the night.",
+  "D1 COUNCIL: VIGMAR - the boats about 250, about 550 all in, against 480. BREK with a lump of roasted ore (the jarl smiles at it): THE BLOOMERY ON THE SAND BESIDE THE SMOKEHOUSE above the tide line, back to the westerly so the wind feeds the bellows mouth and the fumes go over the water; grey stone lined with Herdis's clay, a man's height; NO STICKS, so it does not wait on longpit 4 or the timber; Brek and Hafli build it in a week with two carrying stone; A SECOND PAIR OF BELLOWS from Arna's sealskins, the forge's stay at the forge; first burn the week after, one clamp of the thousand, seven hands three days; better to know by midsummer that we can't than at the autumn boat. TWO THINGS: the bloomery makes the iron, the forge works it - THE OLD FORGE ON THE BEACH WORKS A BLOOM WELL ENOUGH, the new one at the quarry waits its turn. THE ORE: the crust and lumps a spade or two down where the orange water sits in the cuttings, Hafli knows where it runs; about 40 kg roasted a burn, two men three or four days a burn. THE CUTTINGS ARE WHERE NAGHOLT LIES: dig well clear of the house; a spade that hits worked wood or stone stops and the jarl hears it at council - ALL HE ASKS. THE JARL: TWO PAIRS OF HANDS ONCE LONGPIT 4 IS DONE. Vigmar cuts it for Fenn.",
+  "OOC SETTLED: Nagholt is one burned longhouse under the cuttings, not a settlement; the ore lies in the cuttings, not on the house; ore in the peat is Haldvik's (Fenn, W5) and digging it is not law 18. What a bloomery looks like and how a burn runs, explained out of character.",
+  "D1 BREK at the door: Hafli to the cuttings today with spade and basket. THE JARL: not alone. BREK picks GEIR - the man with the crushed hand, off every crew since the thaw, mending nets on a basket outside longpit 1 - to watch the ground and come down if the spade hits anything that isn't rust. THE JARL: three hands and four eyes now. GEIR: THREE AND A HALF - this one can still hold a basket handle if you hang it on right.",
+  "D1-D7 HAFLI AND GEIR at the cuttings every day, a basket each evening; nothing but rust and peat. About a burn's worth dug by D7, about half roasted in Hafli's shaft from D4, drying by the forge. Geir carries the spade on his bad side.",
+  "D2 FIRST LIGHT, ONE SHORT BLAST: A YOUNG PILOT WHALE, about 3 m, dead on the sand at the river-mouth end, fresh. HJALTI: came in on the night tide. THE JARL: Hjalti and Ilmo, Ilmo's way, harvest what we can, no risks. ILMO: above the tide with a rope on the tail before the water turns; the fat off first while the morning is cool, to the pots; the meat palm-thin in the wind, too dark and fat to smoke; liver and heart today; the guts past the rocks by boat. No roll - small, fresh, fair weather, Ilmo has done it. ABOUT 60 L OF OIL; the liver and heart in the pot, the children first; ABOUT 110 KG OF MEAT on the free racks. Skin and bones above the tide line.",
+  "D5 EVENING: HALVAR reads rain by tomorrow noon. ILMO: not dry yet - a skin outside, wet in the core; at Kolvenn three weeks under a roof with no walls; rain now sours it from the inside. THE JARL: INTO LONGPIT 4, doors and vents open, the watch keeps an eye on it. Hung on lines between the tie-beams, a hand apart. ORMAR: the doors tomorrow round it, but THE MIDDLE WALL WAITS until the meat is out, or there is no draught end to end. THE JARL: it waits; meanwhile the smoke-houses, weather allowing.",
+  "D1-D5 LONGPIT 4: ROOFED D5, Ormar walking the ridge with a stick and finding no soft spot; about 290 of 250-300. D6 THE DOORS HUNG round the meat.",
+  "D6 IN THE RAIN: Ormar's fourteen PEG THE SMOKE TUNNEL from the fire pit up and dig. Rain blows in at the west door onto the nearest strips; Ilmo cuts them down for the pot, about 5 kg; the rest keeps. Hafli and Geir come down early, the cut full of orange water. D7 fair: the trench dug, the fire pit cut, stone carried from the quarry face - ABOUT 15 OF 45 MAN-DAYS.",
+  "THE COD: the boats in earlier each day, the fish rows shorter. Nobody says anything about it.",
+  "THE MOOD: MORALE HOLDS AT 8 - a whale on the beach and in the pot, longpit 4 under one roof, ore drying by the forge; the cod thinning under it.",
+  "THE WEEK: about 670 in (the boats about 250 and the strand's salt on it, foraging and snares, fresh fish at half weight, the whale: about 60 l of oil, the liver and heart, about 105 kg of meat counted at half). About 480 out at the full ration.",
+]

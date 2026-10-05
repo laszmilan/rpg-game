@@ -1,15 +1,16 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 18, day = 1, season = "summer" }
+date = { year = 3, week = 19, day = 1, season = "summer" }
 morale = 8
-paused_at = "Y3 W18 D5 EVENING. Halvar reads rain for tomorrow. In play this week: D1 council - the bloomery beside the smokehouse on the sand, stone and Herdis clay, no sticks; two pairs of hands to Brek once longpit 4 is roofed; Arna a second pair of bellows; ore dug in the cuttings well clear of Nagholt, any worked thing stops the spade and comes to council (Fenn: ore in the peat is Haldvik's). HAFLI AND GEIR at the cuttings from D1. D2 A YOUNG PILOT WHALE, about 3 m, fresh, at the river mouth end - worked Ilmo's way, no roll: about 60 l oil, liver and heart eaten D2, about 110 kg of meat cut thin and hung in the wind. Longpit 4 roofed D5, a day of doors and the middle wall left."
-mood = "Fat and busy: full bowls of cod, the full ration said, the jarl home with a deal, two Hessa sworn in with the whole hall, the walls of longpit 4 up. Under it, three Ivven dead at the moor edge in the W16 blow, and Ylva's black ridge where the walker's line ends."
-where_people_sleep = "Thirty to a pit in longpits 1, 2 and 3, fourteen in the Keel, nobody outside - the 104 at home. Ilmo and Oski at the back of longpit 1. Ingra and Gest at Kolvenn."
+paused_at = "Y3 W19 D1, MORNING, COUNCIL. W18 is logged. On the table: BREK'S TWO PAIRS OF HANDS for the bloomery (the jarl: once longpit 4 is done; it was roofed W18 D5, the middle wall waits for the whale meat); THE SMOKE TUNNEL about 15 of 45 man-days; the ore about a burn's worth dug, about half roasted; Arna's second bellows; the cod thinner every day."
+mood = "Busy and fed: a whale on the beach and in the pot, longpit 4 under one roof, ore drying by the forge, Geir off his basket. Under it the cod thinning by the day, and three Ivven dead at the moor edge in W16 that nothing more has been heard of."
+where_people_sleep = "Thirty to a pit in longpits 1, 2 and 3, fourteen in the Keel, nobody outside - the 104 at home. Ilmo and Oski at the back of longpit 1. Ingra and Gest at Kolvenn. LONGPIT 4 roofed and empty but for the whale meat on the tie-beams."
 clocks = [
-  "Y3 W18 D1 - COUNCIL ON THE FORGE AND BLOOMERY: where and how.",
-  "From Y3 W18 - the cod run thins (Hjalti).",
+  "Y3 W19 D1 - COUNCIL: Brek's two pairs of hands for the bloomery.",
   "BY MIDSUMMER (W20) - Brek puts his hand on iron out of a real stack by the autumn boat if the stack is up by then with a clamp to burn.",
+  "BY MIDSUMMER (W20) - Enna names the woman carrying.",
+  "ABOUT Y3 W21 - THE WHALE MEAT dry enough to come down (Ilmo: three weeks in the wind from W18 D2); then longpit 4's middle wall.",
   "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work - council, the ten heads in their drawn order, the widows' blocks, then the common stones 1-33. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
   "THE CUT BOARD SHELVED (W17 D3) until something happens or a better idea; Vigmar keeps two planed strips under the beam.",
   "INGRA AND GEST AT KOLVENN from Y3 W16 until the autumn boat; the coals sealed with Fenn; Solvi keeps Ingra's plot.",
@@ -32,25 +33,25 @@ born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bja
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104, plus ILMO AND OSKI from Y3 W16, sworn Haldvikers Y3 W17 D2 = 106. Ingra and Gest at Kolvenn are counted. Of fifteen or more: 77 before Ilmo and Oski (the W15 and W17 Standings), 79 with them."
 
 [food]
-in_store_kg = 1680
-what_it_is = "MOSTLY COD (from W14): salted while the salt lasted, smoked and racked. The winter stores were down to about 125 at the end of W13, the deer eaten; what is left of them is small. Fresh fish on top. Milk from the cow. Little seal and whale oil left after the Hessa trade (W15)."
+in_store_kg = 1870
+what_it_is = "MOSTLY COD (from W14): salted while the salt lasted, then on the strand's 40 kg a week, smoked and racked. THE PILOT WHALE (W18): about 110 kg of dark meat cut thin, hanging in longpit 4 in the wind, not dry until about W21. Fresh fish on top. Milk from the cow. Little seal oil left after the Hessa trade, and about 60 l of whale oil."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "FULL RATION FROM Y3 W17 (the jarl, W16 D7: being fat before winter matters as much as having food) - about 480 a week from the store for about 106, fresh fish on top. The children, the carrying, the nursing and the sick still get fresh fish, raw liver and milk first. Weighed in public by Vigmar, checked by Sigra."
-the_summer_outlook = "From W18, the cod run over: about 500-600 a week in (boats about 250, Solvi's foragers, snares and birds, fresh fish at half weight) against about 480 out at the full ration - level or creeping up until the bird cliffs (from about W24) and the salmon (W29-33). Last summer Y2 W12-24 brought 450-700 a week."
+the_summer_outlook = "The cod run is thinning (from W18): about 500-600 a week in (boats about 250 and falling, Solvi's foragers, snares and birds, fresh fish at half weight) against about 480 out at the full ration - level or creeping up until the bird cliffs (from about W24) and the salmon (W29-33). Last summer Y2 W12-24 brought 450-700 a week."
 standing_food = "Anything that swims or walks is eaten. Fresh before stored. The ice fished every workable day."
 
 [resources]
 salt = "GONE as of W16; THE STRAND PANS MAKE ABOUT 40 KG A WEEK on peat (three pans, one strapped), all to Sigra - about 200 kg of fish salted a week at 100 per 500. Made at the strand because the bay off the terrace is brackish from the salmon river and the strand faces the open sea; the clamps stay there for the wood."
 charcoal = "ABOUT 1,020 KG (670 plus about 350 from the two spring strand clamps, one burned clean, one half to ash; Hovard W17). The 50 off the Nagholt floor went back under it by law 18. CLAMPS TO BURN TILL THE FROST (the jarl, W17). BREK'S GUESS: first stacks about 50 kg charcoal per kg bloom (25 once learned); bloom to bar loses half and about 5 per kg bar; bar to work 2-3 per kg - ore to worked iron about 110 per kg now, 55 learned. Vask's first 12.5 kg is about 1,400 kg; the full 25 about 2,800. A clamp is about 300."
 peat = "About 165 m3 after the three strand pans burned about 35 since W10 (carried by Hald's Coal); a winter of hearths takes about 35. Walls walked after rain and every D1."
-iron = "About 5 kg of bar after Brek's eight replacement knives (W6), about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
+iron = "About 5 kg of bar after Brek's eight replacement knives (W6), about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. BOG ORE (W18): about a burn's worth dug at the cuttings by Hafli and Geir, well clear of Nagholt, about half of it roasted in Hafli's shaft, drying on flat stones by the forge. The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of rivets; the nail keg less 2 kg traded to the Hessa (Y3 W15)."
 "rope and line" = "FIVE HUNDRED PACES OF HESSA CORDAGE (Y3 W15) - Ranulf's 400 for the Grey Mare's standing and running rigging and about 100 over for the ice; eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap."
 "hides and cloth" = "41 sealskins, fifteen dressed. Six bolts of wool, almost no linen. Forty-eight reindeer hides - Arna's winter suits. Two sheepskins. Nine bundles of sinew. Two pieces of Ivven hide worked thin as cloth. Two dressed deer hides given to Enna by the Ivven (W12). The W4 bearded seal hide cut to soles for the ice crew, the scraps to mitten palms."
 barrels = "Five ships' casks and ten Hessa kegs and barrels, and THREE EMPTY HESSA BARRELS (Y3 W15); EIGHT MORE COOPERED BARRELS promised on the autumn boat. Scald, lye, rinse and scald over three days before use."
-"lamp oil" = "A third of a cask. The seal and whale oil mostly traded: about 300 l to the Hessa (Y3 W15), 100 l more owed on the autumn boat for the barrels; what is left is small."
+"lamp oil" = "A third of a cask, and ABOUT 60 L OF PILOT-WHALE OIL (W18). The seal and whale oil mostly traded: about 300 l to the Hessa (Y3 W15), 100 l more owed on the autumn boat for the barrels."
 "birch tar" = "About 2 litres from the Ivven and most of Vask's small barrel."
 hardwood = "TWENTY SQUARED TWO-METRE LENGTHS AND THREE STEM-KNEES from the Hessa (Y3 W15), on top of what was left of the old stock after Ilmo's strakes and the sled runners."
 tools = "Anvil and full smith's kit. Six axes, two adzes (a third given at Kolvenn Y3 W16 and called HALDVIK; the master put it in Bruni's hands), three augers, nine spades, iron wedges. Two sleds with hardwood runners (Y3 W1). Gear for three boats and two nets, one rigged on a pole for under the ice. FOUR BARBED HARPOON HEADS. A bone hide scraper. The saw: beaten straight, nine teeth snapped, slow and binds in green wood. The quern: shimmed, grinds coarse. THE TEN IVVEN KNIVES ARE SPENT on the thirty deer, and EIGHT OF HALDVIK'S OWN, THE JARL'S AMONG THEM, on twenty-four more (W6); Brek's eight replacements handed out (W7)."
@@ -72,20 +73,22 @@ kept = "Seventeen head, grazing the shoulder in summer; the byre's twenty-seven 
 
 [health]
 carrying = "One woman, whom Enna will not name until she shows by midsummer; DUE ABOUT THE HARVEST. Runa's boy and Hild's girl well."
-standing = "KOLBEIN: a knee wrenched in a bog hole on the high moor (W16), off his feet. ENNA: out of the ward after her week apart for the Ivven fever (to W17 D4); nobody in Haldvik caught it. THE JARL: ribs mended enough to haul; palms rope-burned from the whale; THREE FINGERTIPS OF THE RIGHT HAND BURNED on a live coal (W6 D6), scabbed over. INGRA: both hands frost-white to the wrist from a reading (W6 D6); whole, nothing lost, but COLD TO THE TOUCH since - Enna has never seen frost do that; Ingra says it was the frost. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: frostbite W4 - two fingertips kept, nails coming off; THE RING FINGER'S TIP TAKEN AT THE FIRST KNUCKLE (W9), healing clean; back at the steam box. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. GEIR'S crushed hand permanently weak; one strand man with a mended jaw."
+standing = "KOLBEIN: the knee wrenched in a bog hole on the high moor (W16) mending, on a stick, not yet on a crew. GEIR: the crushed hand permanently weak; at the cuttings with Hafli from W18. ENNA: back on her rounds after her week apart for the Ivven fever; nobody in Haldvik caught it. THE JARL: ribs mended enough to haul; palms rope-burned from the whale; THREE FINGERTIPS OF THE RIGHT HAND BURNED on a live coal (W6 D6), scabbed over. INGRA: both hands frost-white to the wrist from a reading (W6 D6); whole, nothing lost, but COLD TO THE TOUCH since - Enna has never seen frost do that; Ingra says it was the frost. HAFLI: last two fingers of the left hand gone, the stumps closed; right hand only until Enna says. LEIF: frostbite W4 - two fingertips kept, nails coming off; THE RING FINGER'S TIP TAKEN AT THE FIRST KNUCKLE (W9), healing clean; back at the steam box. ULF: back on his feet, toes kept. ONE HESSA LEG knitted. Sigra's daughter mending, told not to carry again. The two Ivven-trip haulers' frost-nip peeling. One strand man with a mended jaw."
 henbane = "ABOUT ONE DOSE LEFT after the Ivven boy's leg (W12), which took two. The seed goes in the herb strip this spring; another wild patch to be sought in summer. Willow bark tea as well, bitter and plentiful."
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 
 [work]
-_ = "Summer. The cod first while it lasts (thinning from W18); the ceiling is salt, smoke and racks, not fish."
-the_cod = "Hjalti's boats every workable day on the offshore bank; Sigra runs the beach - gutting lines, livers in a crock, split fish on every rack, salting while the salt lasts, the smokehouse day and night."
-longpit_4 = "About 220 of 250-300 man-days done (W17 end): walls up all round, roof turf begun. FROM W17 FOURTEEN ON IT (Ormar's six, the jarl, seven off the fishing): walls and roof turf, one crew cutting and one laying. Then the build_plan queue in order: the smoke tunnel, the fermenting pits, the forge."
-hands_W17 = "Set Y3 W17 D2: LONGPIT 4 (Ormar) 14 with the jarl; BOATS (Hjalti) 12 with Ilmo and Oski; BEACH - gutting, racks, smokehouse (Sigra) 9; STRAND (Hovard) 8 with Torgest; FORAGING (Solvi) 6 + 4 children; STORE, TALLY, LAW, BAR (Vigmar) 5 - Vigmar, Aki, Fenn, Tova, Osvi; CRAFTS - rope, hides, pots (Ranulf, Arna, Herdis) 5 + 2 children; HUNT, SNARES, WEIR (Ylva) 3; FIELDS AND HERB STRIP (Aud) 3; FORGE 2; WIDOW'S PROMISE 2; HEALING 2; SHIELD 1; BYRE 2 children. 72 on crews and 8 children. NOT ON A CREW 9: the five nursing (they mind the smallest for everyone), Kolbein, Geir (the crushed hand; from W18 D1 at the cuttings with Hafli), two of the very old. Away 2. The night watch two a night from the crews, never the boats' morning men; Ilmo and Oski off it."
+_ = "Summer. The cod thinning (from W18); the ceiling is salt, smoke and racks, not fish."
+the_cod = "Hjalti's boats every workable day on the offshore bank, in earlier each day as the run thins; Sigra runs the beach - gutting lines, livers in a crock, split fish on the racks, salting the strand's 40 kg a week, the smokehouse day and night."
+longpit_4 = "ROOFED W18 D5, about 290 of 250-300 man-days; the doors hung W18 D6. THE MIDDLE WALL WAITS until the whale meat is down (Ormar: up, and there is no draught end to end). Both doors and the vents open; the watch keeps an eye on it."
+hands_W18 = "Set Y3 W17 D2, changed W18: ORMAR'S FOURTEEN with the jarl, from W18 D6 on THE SMOKE TUNNEL; BOATS (Hjalti) 12 with Ilmo and Oski; BEACH - gutting, racks, smokehouse, the whale meat (Sigra) 9; STRAND (Hovard) 8 with Torgest; FORAGING (Solvi) 6 + 4 children; STORE, TALLY, LAW, BAR (Vigmar) 5 - Vigmar, Aki, Fenn, Tova, Osvi; CRAFTS - rope, hides, pots (Ranulf, Arna, Herdis) 5 + 2 children; HUNT, SNARES, WEIR (Ylva) 3; FIELDS AND HERB STRIP (Aud) 3; FORGE AND ORE 3 (Brek; Hafli and GEIR at the cuttings from W18 D1); WIDOW'S PROMISE 2; HEALING 2; SHIELD 1; BYRE 2 children. 73 on crews and 8 children. NOT ON A CREW 8: the five nursing (they mind the smallest for everyone), Kolbein, two of the very old. Away 2. The night watch two a night from the crews, never the boats' morning men; Ilmo and Oski off it."
 ilmo_and_oski = "ILMO AND OSKI, sworn Haldvikers (W17 D2), on Hjalti's boats; inside at night and off the watch (the jarl, W17 D1). Kolvenn boats fishing the coast will put in to see Ilmo, and Haldvik feeds them."
+the_ore = "HAFLI AND GEIR at the cuttings every day from W18 D1, digging the crust and lumps where the orange water sits, WELL CLEAR OF NAGHOLT; any worked wood or stone stops the spade and comes to council (the jarl). Fenn: ore in the peat is Haldvik's. Hafli roasts in his shaft by the forge."
+the_whale_meat = "About 110 kg on lines between longpit 4's tie-beams, both doors and the vents open, the watch looking in; Ilmo pinches a strip each morning. Kolvenn hangs it three weeks under a roof with no walls."
 the_strand = "Hovard's eight: three pans on peat, the clamps; every kilo of salt goes up to Sigra."
 foraging = "Solvi's ten on the tide rocks - seaweed, shellfish, moss boiled twice, pine inner bark - fills more than feeds. Ylva and Ossur snare the ground to the edge; Ossur walks the upper line and the Nagholt tracks twice a day."
 indoor = "Arna's reindeer suits. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova and Aki the old marks. The forge as Brek likes, Hafli one-handed."
-watch = "Two on the tower every night; in the worst cold, changed every hour. HALVAR'S ORDER (W17 D1, the jarl agreeing): NOTHING THROWN AT THE WALKER; harm it only if it harms us. One short blast means come and look (horn signals in notes.toml [laws])."
+watch = "Two on the tower every night, and a look into longpit 4 at the meat; in the worst cold, changed every hour. HALVAR'S ORDER (W17 D1, the jarl agreeing): NOTHING THROWN AT THE WALKER; harm it only if it harms us. One short blast means come and look (horn signals in notes.toml [laws])."
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring walked every morning with a bare palm."
 
 [build_plan]
@@ -93,14 +96,14 @@ constraint = "STICKS (Ormar Y3 W8, corrected W17): 108 on the terrace, longpit 4
 
 [[build_plan.queue]]
 what = "LONGPIT 4"
-needs = "About 220 of 250-300 man-days done (W17 end): walls up all round, roof turf going on. Sticks and stone exist."
-target = "Now: fourteen on it from W17 (Ormar's six, the jarl, seven off the fishing)."
+needs = "ROOFED W18 D5, doors hung W18 D6. Only the middle wall left, and it waits for the whale meat (about W21)."
+target = "The middle wall when the meat is down."
 why = "Thirty to a pit. It becomes the ward and washhouse when people move to homes."
 
 [[build_plan.queue]]
 what = "THE SMOKE TUNNEL AND TWO SMOKE-HOUSES"
 needs = "The jarl's design (W17 D4): a fire pit low on the slope beside the terrace, a stone-lined trench of grey band stone running uphill with one branch, and TWO small turf smoke-houses 3 x 4 m at the top (changed from three), three tiers of rods each. About 13 sticks and about 45 man-days."
-target = "After longpit 4."
+target = "BEGUN W18 D6, Ormar's fourteen: the trench pegged and dug from the fire pit up, the fire pit cut; about 15 of 45 man-days. About 30 man-days left - the stone lining and the two turf houses at the top: two or three days of W19 with the fourteen."
 why = "About 300 kg of split fish a house at once, three days a hanging - the two together match the old smokehouse; cool smoke, nothing near the fire to burn."
 
 [[build_plan.queue]]
@@ -112,13 +115,13 @@ why = "The salmon surplus. And ONE BARREL OF FISH IN WHEY, because the jarl want
 [[build_plan.queue]]
 what = "THE FORGE"
 needs = "About 30 sticks (25 in hand after the smoke tunnel) and a season of grey band stone, built against the quarry's cut face."
-target = "After the smoke-houses and the pits. Where and how at council W18 D1."
+target = "After the smoke-houses and the pits. Against the quarry's cut face (notes [land_plan] the_forge_site). The old forge on the beach works a bloom well enough meanwhile (Brek, W18)."
 why = "Tools and bar. Lockable - the only building worth robbing besides the storehouse, and it has no door."
 
 [[build_plan.queue]]
 what = "THE BLOOMERY"
-needs = "A stone-and-clay stack a man's height with a slag tap-hole. EVERY BURN SEVEN PEOPLE FOR THREE DAYS (Brek, W17): four on the bellows in shifts, two digging ore, one roasting - and one burn is one whole charcoal clamp."
-target = "BESIDE THE SMOKEHOUSE, not behind the forge (Brek, W17); up by midsummer with a clamp to burn, so iron is out of it before the autumn boat. Where and how at council W18 D1."
+needs = "A stone-and-clay stack a man's height, lined with Herdis's clay, a clay bellows nozzle at the foot and a slag tap-hole - NO STICKS (Brek, W18 D1). A SECOND PAIR OF BELLOWS from Arna's sealskins; the forge's stay at the forge. Ore: about 40 kg roasted a burn (Brek); about one burn's worth dug by W18 end. EVERY BURN SEVEN PEOPLE FOR THREE DAYS (Brek, W17): four on the bellows in shifts, two digging ore, one roasting - and one burn is one whole charcoal clamp."
+target = "ON THE SAND BESIDE THE SMOKEHOUSE above the tide line, back to the westerly, fumes over the water (Brek, W18 D1). BREK AND HAFLI BUILD IT IN A WEEK WITH TWO CARRYING STONE - TWO PAIRS OF HANDS ONCE LONGPIT 4 IS DONE (the jarl, W18 D1). First burn the week after, one clamp out of the thousand; up by midsummer so iron is out of it before the autumn boat."
 why = "Nothing else can pay the Y4 iron, and the autumn boat is told whether iron has come out of it. Brek and Hafli have never seen one."
 
 [[build_plan.queue]]
