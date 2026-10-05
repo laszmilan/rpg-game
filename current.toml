@@ -46,9 +46,9 @@ the_ration = "FULL RATION FROM Y3 W17 (the jarl, W16 D7: being fat before winter
 standing_food = "Anything that swims or walks is eaten. Fresh before stored. The ice fished every workable day."
 
 [resources]
-salt = "RUNNING LOW AGAIN - most of the store went into the cod in W14; the strand pans on peat send up what they make, the cracked one strapped; two pans lost two days to scouring after the W13 whale."
+salt = "GONE as of W16; THE STRAND PANS MAKE ABOUT 40 KG A WEEK on peat (three pans, one strapped), all to Sigra - about 200 kg of fish salted a week at 100 per 500. Made at the strand because the bay off the terrace is brackish from the salmon river and the strand faces the open sea; the clamps stay there for the wood."
 charcoal = "About 670 kg. The 50 off the Nagholt floor goes back under it by law 18."
-peat = "About 200 m3, far more than a winter burns (about 35). Walls walked after rain and every D1."
+peat = "About 165 m3 after the three strand pans burned about 35 since W10 (carried by Hald's Coal); a winter of hearths takes about 35. Walls walked after rain and every D1."
 iron = "About 5 kg of bar after Brek's eight replacement knives (W6), about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of rivets; the nail keg less 2 kg traded to the Hessa (Y3 W15)."
@@ -84,7 +84,7 @@ ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea
 [work]
 _ = "Summer. The cod first; the ceiling is salt, smoke and racks, not fish."
 the_cod = "Hjalti's boats every workable day on the offshore bank; Sigra runs the beach - gutting lines, livers in a crock, split fish on every rack, salting while the salt lasts, the smokehouse day and night."
-longpit_4 = "About 150 of 250-300 man-days done: west wall-plates, all tie-beams, the first rafters. FROM W17 FOURTEEN ON IT (Ormar's six, the jarl, seven off the fishing): walls and roof turf, one crew cutting and one laying. THEN A SECOND SMOKEHOUSE (15-20 riven sticks, 40-60 man-days, the same hands, before the salmon W29), THEN THE FORGE - talked when the smokehouse starts. The Hessa hardwood is kept for boats."
+longpit_4 = "About 150 of 250-300 man-days done: west wall-plates, all tie-beams, the first rafters. FROM W17 FOURTEEN ON IT (Ormar's six, the jarl, seven off the fishing): walls and roof turf, one crew cutting and one laying. THEN A SECOND SMOKEHOUSE (15-20 riven sticks, 40-60 man-days, the same hands, before the salmon W29), THEN THE FORGE - talked when the smokehouse starts. STICKS: about 38 left after longpit 4, 7-12 short of both. The Hessa hardwood is kept for boats."
 hands_W17 = "Set Y3 W17 D2: LONGPIT 4 (Ormar) 14 with the jarl; BOATS (Hjalti) 12 with Ilmo and Oski; BEACH - gutting, racks, smokehouse (Sigra) 9; STRAND (Hovard) 8 with Torgest; FORAGING (Solvi) 6 + 4 children; STORE, TALLY, LAW, BAR (Vigmar) 5 - Vigmar, Aki, Fenn, Tova, Osvi; CRAFTS - rope, hides, pots (Ranulf, Arna, Herdis) 5 + 2 children; HUNT, SNARES, WEIR (Ylva) 3; FIELDS AND HERB STRIP (Aud) 3; FORGE 2; WIDOW'S PROMISE 2; HEALING 2; SHIELD 1; BYRE 2 children. 72 on crews and 8 children. NOT ON A CREW 9: the five nursing (they mind the smallest for everyone), Kolbein, the crushed hand, two of the very old. Away 2. The night watch two a night from the crews, never the boats' morning men; Ilmo and Oski off it."
 ilmo_and_oski = "ILMO AND OSKI of Kolvenn, their doors shut, live in Haldvik from W16 D7 and go to Hjalti's boats; they ask a Standing under law 19 to swear over ember. Kolvenn boats fishing the coast will put in to see Ilmo, and Haldvik feeds them."
 the_strand = "Hovard's eight: three pans on peat, the clamps; every kilo of salt goes up to Sigra."
@@ -94,7 +94,7 @@ watch = "Two on the tower every night; in the worst cold, changed every hour. On
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring walked every morning with a bare palm."
 
 [build_plan]
-constraint = "Hands, not materials. 108 sticks on the terrace; about 130 man-days of stone quarried."
+constraint = "STICKS ARE SHORT AFTER LONGPIT 4 (Ormar, Y3 W8, restated W17): 108 on the terrace, longpit 4 takes about 70, ABOUT 38 LEFT - the second smokehouse wants 15-20 and the forge about 30, so 7-12 short. More means strand logs hauled 5 km and riven, about 26 a week with twenty men; or a smaller or stone-walled smokehouse; or the Hessa hardwood (kept for the Y4 boatwrights). About 130 man-days of stone quarried."
 
 [[build_plan.queue]]
 what = "LONGPIT 4"
