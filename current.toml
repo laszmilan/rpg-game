@@ -66,13 +66,15 @@ missing = "No cooperage. No plough - two ploughshares and nothing to pull them. 
 [livestock]
 ewes = 9
 rams = 2
+lambs = "5, born in the spring of Y3 (a thin lambing after the hungry winter; settled W20 D1)."
 goats = 4
+kids = "2, born in the spring of Y3."
 cow = 1
-heifer_calf = 1
+heifer = "1, the Y2 calf, a yearling. NO CALF THIS YEAR - there is no bull."
 pigs = "None. No pigs unless got from the Hessa."
-chickens = "13 hens in a basket by longpit 2's hearth, laying better for it. No cock."
-dogs = 3
-kept = "Seventeen head, grazing the shoulder in summer; the byre's twenty-seven stalls in winter, gaps stuffed with peat. Kept for next year's births - both rams, every hen - and not eaten, by the jarl's word in open council (Y3 W1)."
+chickens = "13 hens in a basket by longpit 2's hearth, laying better for it. No cock, so no chicks."
+dogs = "3, and A LITTER OF 5 PUPS (Kelda minds them with the small children); Grip is Kelda's."
+kept = "TWENTY-FOUR HEAD, grazing the shoulder in summer; the byre's twenty-seven stalls in winter, gaps stuffed with peat. Kept for births, both rams and every hen, by the jarl's word in open council (Y3 W1). HAY: last summer three cuts, W22, W24 and W26 (Aud), twenty people four days for the first; this year more mouths in the byre."
 
 [health]
 carrying = "One woman, whom Enna will not name until she shows by midsummer; DUE ABOUT THE HARVEST. Runa's boy and Hild's girl well."
