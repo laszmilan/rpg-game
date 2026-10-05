@@ -5,7 +5,7 @@ date = { year = 3, week = 18, day = 1, season = "summer" }
 morale = 8
 paused_at = "Y3 W18 D1, MORNING, COUNCIL. W17 is logged. On the table: THE FORGE AND BLOOMERY - where and how (Brek: beside the smokehouse; seven people three days a burn; about 1,020 kg charcoal; Vask's first half about 1,400 kg); the cod thinning from this week (Hjalti); longpit 4 about 220 of 250-300, roof turf going on; then the two smoke-houses; sticks 25 for a forge that wants 30."
 mood = "Fat and busy: full bowls of cod, the full ration said, the jarl home with a deal, two Hessa sworn in with the whole hall, the walls of longpit 4 up. Under it, three Ivven dead at the moor edge in the W16 blow, and Ylva's black ridge where the walker's line ends."
-where_people_sleep = "Thirty-four to a pit in longpits 1, 2 and 3, twenty in the Keel, nobody outside. Ilmo and Oski at the back of longpit 1. Ingra and Gest at Kolvenn."
+where_people_sleep = "Thirty to a pit in longpits 1, 2 and 3, fourteen in the Keel, nobody outside - the 104 at home. Ilmo and Oski at the back of longpit 1. Ingra and Gest at Kolvenn."
 clocks = [
   "Y3 W18 D1 - COUNCIL ON THE FORGE AND BLOOMERY: where and how.",
   "From Y3 W18 - the cod run thins (Hjalti).",
@@ -53,7 +53,7 @@ barrels = "Five ships' casks and ten Hessa kegs and barrels, and THREE EMPTY HES
 "lamp oil" = "A third of a cask. The seal and whale oil mostly traded: about 300 l to the Hessa (Y3 W15), 100 l more owed on the autumn boat for the barrels; what is left is small."
 "birch tar" = "About 2 litres from the Ivven and most of Vask's small barrel."
 hardwood = "TWENTY SQUARED TWO-METRE LENGTHS AND THREE STEM-KNEES from the Hessa (Y3 W15), on top of what was left of the old stock after Ilmo's strakes and the sled runners."
-tools = "Anvil and full smith's kit. Six axes, three adzes (one given at Kolvenn Y3 W16 and called HALDVIK; the master put it in Bruni's hands), three augers, nine spades, iron wedges. Two sleds with hardwood runners (Y3 W1). Gear for three boats and two nets, one rigged on a pole for under the ice. FOUR BARBED HARPOON HEADS. A bone hide scraper. The saw: beaten straight, nine teeth snapped, slow and binds in green wood. The quern: shimmed, grinds coarse. THE TEN IVVEN KNIVES ARE SPENT on the thirty deer, and EIGHT OF HALDVIK'S OWN, THE JARL'S AMONG THEM, on twenty-four more (W6); Brek's eight replacements handed out (W7)."
+tools = "Anvil and full smith's kit. Six axes, two adzes (a third given at Kolvenn Y3 W16 and called HALDVIK; the master put it in Bruni's hands), three augers, nine spades, iron wedges. Two sleds with hardwood runners (Y3 W1). Gear for three boats and two nets, one rigged on a pole for under the ice. FOUR BARBED HARPOON HEADS. A bone hide scraper. The saw: beaten straight, nine teeth snapped, slow and binds in green wood. The quern: shimmed, grinds coarse. THE TEN IVVEN KNIVES ARE SPENT on the thirty deer, and EIGHT OF HALDVIK'S OWN, THE JARL'S AMONG THEM, on twenty-four more (W6); Brek's eight replacements handed out (W7)."
 arms = "19 spears, 11 axes, 4 swords, 22 shields, 6 mail, 9 helms, 5 bows. Fourteen men who have been in a real fight. No defence built."
 boats = "Ottersnout (sound) and Widow's Promise (in hand, Leif and Steinn) on the sand. The Grey Mare is the Keel. Two ship's boats, one faering. Hald's Coal works the strand, Torgest steering; she carries the peat to the pans. Ilmo's boat, strakes set. Tavi's old wreck on the sand."
 ivory = "None. The two walrus tusks went to the Hessa (Y3 W15)."
@@ -95,7 +95,7 @@ constraint = "STICKS (Ormar Y3 W8, corrected W17): 108 on the terrace, longpit 4
 what = "LONGPIT 4"
 needs = "About 220 of 250-300 man-days done (W17 end): walls up all round, roof turf going on. Sticks and stone exist."
 target = "Now: fourteen on it from W17 (Ormar's six, the jarl, seven off the fishing)."
-why = "Thirty-four to a pit. It becomes the ward and washhouse when people move to homes."
+why = "Thirty to a pit. It becomes the ward and washhouse when people move to homes."
 
 [[build_plan.queue]]
 what = "THE SMOKE TUNNEL AND TWO SMOKE-HOUSES"
@@ -123,6 +123,6 @@ why = "Nothing else can pay the Y4 iron, and the autumn boat is told whether iro
 
 [[build_plan.queue]]
 what = "THE GREY MARE"
-needs = "Twenty people out of the Keel, then a hull rebuild. THE CORDAGE CAME Y3 W15 (Ranulf's 400 paces for her standing and running rigging)."
+needs = "Fourteen people out of the Keel, then a hull rebuild. THE CORDAGE CAME Y3 W15 (Ranulf's 400 paces for her standing and running rigging)."
 target = "The boatwrights, Y4."
 why = "Erik swore at the burial ground she will sail again before he joins his father."
