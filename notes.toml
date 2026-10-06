@@ -411,6 +411,12 @@ name = "Geir"
 role = "The man with the crushed hand, permanently weak; one good hand. Named in play Y3 W18 D1."
 note = "Off every crew since the thaw, mending nets on an upturned basket outside longpit 1. Brek sent him to the cuttings with Hafli to watch the ground while the boy digs ore, and to come down and say so if a spade hits anything that isn't rust."
 
+[[people.settlement]]
+name = "Asgeir"
+w = 22
+role = "Son of the older of the two fjord-steading voters. Longpit 2, Ormar's crew; carried turf for longpit 4 all spring. Drew one of the late common stones, about thirty. Named Y3 W25."
+note = "Asks the question the bench is thinking, to the jarl's face, and never says no outright: voted against law 20 (W15); asked whether the sworn Hessa get plots when some drew thirty - remember who carried the turf (W17); asked whether only Haldvik keeps the rules over the Ivven herd (W25). Takes a straight answer and remembers it - KEEPS THE JARL'S WORDS, and said he will hold him to the second half. Speaks for the fjord families, who feel they carry and get the late stones."
+
 [[people.strand]]
 name = "Hovard"
 w = 36
