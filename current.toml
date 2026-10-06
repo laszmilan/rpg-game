@@ -1,13 +1,13 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 26, day = 1, season = "summer" }
+date = { year = 3, week = 27, day = 1, season = "autumn" }
 morale = 9
-paused_at = "Y3 W26 D1, MORNING, COUNCIL. W25 is logged. THE JARL'S ORDERS (end of W25): SIX KNIVES, not a dozen, for meat and hide (four done); the hay is done; SIX ON THE DITCH WITH THE JARL; everyone else to the boats, Solvi or Sigra, wherever most needed, until the salmon."
+paused_at = "Y3 W27 D1, MORNING. W26 is logged. THE JARL ASKS AUD FOR THE HARVEST DATES. OPEN: BREK'S ASK - his four bellows-men for three days to light the fourth burn by D3 (charcoal for two burns, five or so kilos of bar on the beam) - not yet answered."
 mood = "Fat and a little restless: 3,050 in the store, three smoke-houses, iron on the beam, the hay in. The herd left walking on the jarl's word, and Asgeir's question still in the air."
 where_people_sleep = "ABOUT TWENTY-FIVE TO A PIT IN LONGPITS 1-4 from W21 D7 - the 104 at home; nobody outside. THE KEEL EMPTY, the Grey Mare left as she is over her pit. Ilmo and Oski in longpit 1. Ingra and Gest at Kolvenn."
 clocks = [
-  "Y3 W26 D1 - COUNCIL: the spare hands until the salmon.",
+  "Y3 W27 D1 - AUD: the harvest dates. BREK waits on his four bellows-men for the fourth burn.",
     "THE HAY: two cuts in (W21-22, W24-25); the jarl calls it done (W25) - last year took three for nineteen head; twenty-four this winter.",
   "THE NEXT STANDING - Fenn says who stands inside the smiths' oath.",
   "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work - council, the ten heads in their drawn order, the widows' blocks, then the common stones 1-33. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
@@ -35,7 +35,7 @@ born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bja
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104, plus ILMO AND OSKI from Y3 W16, sworn Haldvikers Y3 W17 D2 = 106. Ingra and Gest at Kolvenn are counted. Of fifteen or more: 77 before Ilmo and Oski (the W15 and W17 Standings), 79 with them."
 
 [food]
-in_store_kg = 3050
+in_store_kg = 3020
 what_it_is = "THE CLIFFS (W24): ABOUT 900 KG OF EGGS IN ASH AND 150 OF BIRDS. MOSTLY COD (from W14): salted on the strand's 40 kg a week, smoked - the old smokehouse and, from W19 D5, one of the two new cold smoke-houses - and racked. THE PILOT WHALE (W18): dried, but ONE KEG WENT SOFT INSIDE and seven took the runs (W22); what was sound - about a third - in one scalded keg. Seaweed drying for winter on Solvi's far rocks. Fresh fish on top. Milk from the cow. About 60 l of whale oil."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
@@ -53,7 +53,7 @@ hooks = "About 700, enough for four long-lines."
 "rope and line" = "FIVE HUNDRED PACES OF HESSA CORDAGE (Y3 W15) - Ranulf's 400 for the Grey Mare's standing and running rigging and about 100 over for the ice; eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap."
 "hides and cloth" = "41 sealskins, fifteen dressed. Six bolts of wool, almost no linen. Forty-eight reindeer hides - Arna's winter suits. Two sheepskins. Nine bundles of sinew. Two pieces of Ivven hide worked thin as cloth. Two dressed deer hides given to Enna by the Ivven (W12). The W4 bearded seal hide cut to soles for the ice crew, the scraps to mitten palms."
 barrels = "Five ships' casks and ten Hessa kegs and barrels, and THREE EMPTY HESSA BARRELS (Y3 W15); EIGHT MORE COOPERED BARRELS promised on the autumn boat. Scald, lye, rinse and scald over three days before use."
-knives_for_trade = "SIX KNIVES ordered (W25: the jarl cut it from a dozen) for Ivven meat and hide, about 1.2 kg of bar; FOUR DONE by W25 D7, in oiled cloth on Brek's bench."
+knives_for_trade = "SIX KNIVES DONE (W26 D5) for Ivven meat and hide, in oiled cloth on Brek's bench - plain heavy hand-long blades, shaving-sharp."
 "lamp oil" = "A third of a cask, and ABOUT 60 L OF PILOT-WHALE OIL (W18). The seal and whale oil mostly traded: about 300 l to the Hessa (Y3 W15), 100 l more owed on the autumn boat for the barrels."
 "birch tar" = "About 2 litres from the Ivven and most of Vask's small barrel."
 hardwood = "TWENTY SQUARED TWO-METRE LENGTHS AND THREE STEM-KNEES from the Hessa (Y3 W15), on top of what was left of the old stock after Ilmo's strakes and the sled runners."
@@ -84,6 +84,7 @@ ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea
 
 [work]
 _ = "Summer. The cod thin; the ceiling is salt, smoke and racks, not fish, until the birds and the salmon."
+the_cruives = "PEGGED AND STONE-WEIGHTED W26 D1-D4 by Hjalti's four: new pegs of split pine, river stones the size of a man's head. Ready for the spate."
 the_cod = "Hjalti's boats every workable day on the offshore bank, in earlier each day as the run thins; Sigra runs the beach - gutting lines, livers in a crock, split fish on the racks, salting the strand's 40 kg a week, the smokehouse day and night."
 longpit_4 = "FINISHED W21 D7: roofed W18, doors W18, the middle wall W21 D5-D7 (turf on stone, no door through). Lived in from W21 D7; later the ward and washhouse."
 hands_W22 = "W22: THE SHOULDER HAY D1-D4 with Solvi's eight and the ditch crew - THE FIRST CUT IN; Solvi back on the rocks D5 (her four children on the rocks with Kelda all week). YLVA'S EIGHT AT THE CLIFFS D2-D4, Sigra's two among them. THE SMITHS: Brek, Hafli, Geir, Ormar's two carriers, Ulf's cousin and Steinn on the bellows. THE DITCH STOPPED. FOR W23 (the jarl): the smiths go on; Ylva keeps her eight, hunt or eggs; two off the ditch to the boats; the ditch with what is left, about five and the jarl. Otherwise as W21: BOATS 12; BEACH 7; STRAND 8; FORAGING 8 + 4 children; STORE AND LAW 5; CRAFTS 5 + 2 children; FIELDS 3; WIDOW'S PROMISE 2; HEALING 2; SHIELD 1; BYRE 2 children; NOT ON A CREW 8; away 2."

@@ -1752,3 +1752,19 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9.",
   "THE WEEK: about 430 in (the boats about 300, Solvi's twelve, Ylva's three on the snares). About 480 out. VIGMAR: 3,050 - the boats brought less than the ration took.",
 ]
+
+[[year_3]]
+week = 26
+title = "THE CRUIVES PEGGED, SIX KNIVES, AND A STORE THAT HOLDS LEVEL"
+store = 3020
+income = 450
+consumed = 480
+events = [
+  "THE WEEK: fair all week, the same cool wind; nothing over the bar, nothing off the moor - the quietest week of the summer.",
+  "D1 COUNCIL: HJALTI on his feet first - four men not for the boats (more men catch the same fish, the bank has only so much in summer) but THE CRUIVES: the withies a year old, half the pegs rotten, the first spate any week; four men four days and they hold. THE JARL: yes before he finished. The rest: Sigra two to cut and stack peat for the smoke-houses; Solvi the others on the far rocks.",
+  "D1-D4 THE CRUIVES: rotten pegs pulled, new ones of split pine, the wicker weighted with river stones the size of a man's head; Hjalti jumps on each D4 evening, satisfied. THE DITCH: six with the jarl, the south end waist-deep almost to the causeway, the bank standing; Halvar on two days: it already looks like something an enemy would think about. SIX KNIVES on Brek's bench by D5, plain heavy hand-long blades with an edge you could shave with. Sigra's two: a head-high stack of dry peat by the smoke tunnel's fire pit.",
+  "D7 EVENING VIGMAR: 3,020. BREK after the count: the knives done, five or so kilos of bar on the beam, charcoal for two burns; the stack lit by D3 if he gets his four bellows-men for three days - every burn put off till the salmon doesn't happen. THE JARL to Vigmar, annoyed: why is it not going up? VIGMAR: the cod's off the bank - boats about 300, Solvi's rocks about 100 that fill bellies more than the store, snares 30-40, about 450 in against the full ration's 480 out, the jarl's own word in W16 so people go into winter fat - and they are, Enna hasn't seen a cheekbone in a month; level till the salmon and the seal, as last year these weeks; the sitting ration would climb 200 a week with thinner people in it.",
+  "THE JARL: say it goes well and we survive - we can't play this every year; how is the farm, when is the harvest? VIGMAR: last year's first field cut W31, laid flat by rain, sprouting, 80 kg for ale; the second W34, 180 kg sound, the first real grain; this year 200 barley and 100 peas in a field and a half with ditches, Aud's target 300 of each beyond seed - ask her; GRAIN FAILS TWO WINTERS IN THREE IN VARDMARK AND THIS COAST IS COLDER - the sea, the cliffs and the salmon feed us; the fields are what we'll have when they don't. THE JARL: good to know, and he doesn't feel better; Aud in the morning for the dates.",
+  "THE MOOD: MORALE HOLDS AT 9.",
+  "THE WEEK: about 450 in (the boats about 300, Solvi's rocks about 100, the snares). About 480 out. VIGMAR: 3,020.",
+]
