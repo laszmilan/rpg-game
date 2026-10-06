@@ -1,20 +1,18 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 29, day = 1, season = "autumn" }
+date = { year = 3, week = 30, day = 1, season = "autumn" }
 morale = 9
-paused_at = "Y3 W29 D1. W28 is logged. The ditch to finish (one good day); then everyone to the food. THE DRILL: said on D5 for D6-D7 if no salmon and the peas allow - anyone; Halvar's drill (shields overlapped, feet, don't stab the man in front, step together, fall back together) and every one stands at the bank and the ditch at least once, both sides; forty poles in the Keel. The jarl with Solvi on the rocks; ten minutes with Fenn on Tova and writing."
-mood = "Steady and wet: the store slipping under three thousand in a rainy week, nine sick from a fouled butt and mended, the drains under the bank running clean. The harvest and the salmon are coming at once, and everyone knows the jarl put the fields first."
+paused_at = "Y3 W30 D1, MORNING, COUNCIL. W29 is logged. The barley (old field about W31, new strips W32) gets its hands first the day it's ripe; the salmon everything else when it comes; the seal cull about now as last year. Tova to be given more of the law and the Standing."
+mood = "Sure of itself: the ditch done and proper, the peas in over target, forty-six who stood up to hold a spear, the jarl's braid back. Waiting on the river."
 where_people_sleep = "ABOUT TWENTY-FIVE TO A PIT IN LONGPITS 1-4 from W21 D7 - the 104 at home; nobody outside. THE KEEL EMPTY, the Grey Mare left as she is over her pit. Ilmo and Oski in longpit 1. Ingra and Gest at Kolvenn."
 clocks = [
-  "Y3 W29 D5 - THE JARL SAYS THE DRILL: D6-D7, ANYONE, if the salmon and the peas allow; again at the turn of every season (Halvar).",
-  "Y3 W29-30 - THE PEAS, when the pods rattle (Aud): twenty people three days, FIRST.",
-  "Y3 W29-33 - THE SALMON on the first spate after W28: every hand the fields do not need.",
-  "ABOUT Y3 W30 - THE SEAL CULL, as last year (about ten bulls).",
+  "THE DRILL AGAIN AT THE TURN OF EVERY SEASON (Halvar) - next about W40, in snow if need be. Forty-six stood (W29).",
+    "Y3 W29-33 - THE SALMON on the first spate after W28: every hand the fields do not need.",
+  "ABOUT Y3 W30 - THE SEAL CULL, as last year (about ten bulls) - not yet ordered.",
   "Y3 W31 - THE OLD FIELD'S BARLEY; Y3 W32 - THE NEW STRIPS: twenty people three days each, FIRST.",
   "Y3 W30-34 - INGUNN'S CHILD, her third; narrow (Enna).",
-  "THE DITCH - one good day left at W28 end (Ormar); the jarl told when it is done and proper.",
-  "THE NEXT STANDING - Fenn says who stands inside the smiths' oath.",
+    "THE NEXT STANDING - Fenn says who stands inside the smiths' oath. TOVA GIVEN MORE OF FENN'S WORK - she speaks more, Fenn sits (the jarl, W29).",
   "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
   "THE CUT BOARD SHELVED (W17 D3); Vigmar keeps two planed strips under the beam.",
   "INGRA AND GEST AT KOLVENN from Y3 W16 until the autumn boat; Solvi keeps Ingra's plot.",
@@ -38,9 +36,9 @@ born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bja
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104, plus ILMO AND OSKI from Y3 W16, sworn Haldvikers Y3 W17 D2 = 106. Ingra and Gest at Kolvenn are counted. Of fifteen or more: 77 before Ilmo and Oski (the W15 and W17 Standings), 79 with them."
 
 [food]
-in_store_kg = 2910
+in_store_kg = 3060
 what_it_is = "THE CLIFFS (W24): ABOUT 900 KG OF EGGS IN ASH AND 150 OF BIRDS. MOSTLY COD (from W14): salted on the strand's 40 kg a week, smoked - the old smokehouse and, from W19 D5, one of the two new cold smoke-houses - and racked. THE PILOT WHALE (W18): dried, but ONE KEG WENT SOFT INSIDE and seven took the runs (W22); what was sound - about a third - in one scalded keg. Seaweed drying for winter on Solvi's far rocks. Fresh fish on top. Milk from the cow. About 60 l of whale oil."
-sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
+sealed_and_not_food = "SEED PEAS: 200 KG sealed (Y3 W29, the jarl - the only way we ever have more). THE BARLEY in the ground, ripening. The henbane seed in the herb strip. The byre kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "FULL RATION FROM Y3 W17 (the jarl, W16 D7: being fat before winter matters as much as having food) - about 480 a week from the store for about 106, fresh fish on top. The children, the carrying, the nursing and the sick still get fresh fish, raw liver and milk first. Weighed in public by Vigmar, checked by Sigra."
 the_summer_outlook = "The cod thin: about 40 a day (W19-20). About 500-600 a week in all against about 480 out at the full ration - creeping up until the bird cliffs (W22-25) and the salmon (W29-33). Last summer Y2 W12-24 brought 450-700 a week."
@@ -123,7 +121,7 @@ why = "Nothing else can pay the Y4 iron, and the autumn boat is told whether iro
 [[build_plan.queue]]
 what = "THE DITCH AND BANK"
 needs = "2 m wide and 2 m deep across both ends of the terrace from the water to the stone band, the spoil a 2 m bank behind it faced with turf; about 320 m3, 180-220 man-days. ONE CAUSEWAY, three paces wide, at the SOUTH end against the stone band (Halvar, W20 D1); THE NORTH END CLOSED - the reef and the headland by the Gate Road and over the shoulder. The south ditch floods."
-target = "ONLY THE HANDS THE EGGS, SALMON AND SEAL DO NOT NEED (the jarl, W23). NORTH END FINISHED W23 D5; SOUTH END BROKEN W23 D6, wet. BEGUN W20 D1 at the north end; BY W21 D7 THE NORTH END CHEST-DEEP ITS WHOLE LENGTH, the bank turfed (Ormar: another week, then the south). STOPPED FOR W22; ON AGAIN W23 with about five and the jarl. Whoever has nothing else to do. Not posted till done; then one of the tower two walks to the causeway once a night, a fire basket in winter."
+target = "DONE AND PROPER Y3 W29 D1 (Ormar): both ends full depth, the banks turfed, the drains running, the causeway at the south end."
 why = "To buy time and a position, not to stop a crew that means it (the jarl). Three metres bottom to crest stops a man walking in (Ormar)."
 
 [[build_plan.queue]]
