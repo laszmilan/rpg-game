@@ -20,7 +20,7 @@ open_threads = [
   "THE IVVEN ANSWER TO LAW 17 IS NOT SET. The band carried home the scuffed line and the thrown leg, and three deer were taken inside the edge the next morning. What the bands make of it, and what the scarred man brings next time, is decided by agenda when they next come.",
   "THE IVVEN DEAD AT THE EDGE (Y3 W16): an old woman and two children died of the fever while Haldvik's healer tended them outside the line; the scarred man would not look at her. What the band makes of it - Haldvik's iron, Haldvik's ground, Haldvik's healer - is set by agenda when they next come. The fever did not reach Haldvik.",
   "THE RIDGE (Y3 W16): the Needle's big body is the black ridge; the walker's line runs into it and out north-east. The creep east is NOT explained by it. The basin is not a gas hollow.",
-  "THE SWARM: Aud's skep hung by the wild hive W20 D3 with the black comb. DOES A SWARM TAKE IT before it is checked, d6 unmodified: 4 = YES, BUT. Known only when someone walks back to look.",
+  "THE SWARM: TAKEN (W21, oracle YES, BUT): a small cast in Aud's skep, home W21 D6 in the stone ring; whether it winters is rolled at the thaw.",
   "NOT ON A DATE: Hakvarr's hulls, if word ever crosses the water. Vigmar's orders becoming visible. The next threshold Ingra stands on. Whatever is breaking Hessa hulls north of here.",
 ]
 standing_rules = [
@@ -46,13 +46,13 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W21"
-rolled_before_the_week = "Rolled at Y3 W20 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W21 weather, SUMMER, 2d6 take higher: [2, 6] = 6 = YES, AND: fair all week, a steady cool drying wind."
-Q2_does_anything_unlooked_for_reach_haldvik = "d6: 3 = NO, BUT: nothing reaches Haldvik; the but is set from agendas before play. List was (1 the tracks again, on its old line; 2 the Ivven band returns, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), not rolled."
+week = "Y3 W22"
+rolled_before_the_week = "Rolled at Y3 W21 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W22 weather, SUMMER, 2d6 take higher: [6, 3] = 6 = YES, AND: fair all week, a steady cool drying wind."
+Q2_does_anything_unlooked_for_reach_haldvik = "d6: 4 = YES, BUT. Follow-up list, written before the die (1 the tracks again, on its old line; 2 the Ivven band comes to the edge, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), d6: 4. Day d7: D4. The but/and set before it lands."
 the_cod = "THIN: about 40 a day with the boats; the strand's salt saved by Sigra."
-the_but_W21 = "Set from agendas before play: nothing reaches Haldvik, BUT Ossur on the upper snares finds an Ivven camp sign a pace short of the moor edge - a cold fire ring and dog-sign some days old, a band that passed along the edge and did not come down or call. What the scarred man's band makes of the W16 dead is still theirs to show."
-notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. THE HAY on the south face W21 is weather, not a test, unless it rains on it. THE SECOND BURN is a test when Brek runs it (the first failed: lessons learned move it down)."
+sickness_W22 = "THE EVENT, YES BUT, day D4: SICKNESS IN A LONGPIT - which, list written before the die (1 the runs in one longpit, three down, from a fouled water butt; 2 a summer cough in longpit 2 - the coughing law's first test in a year; 3 a child's fever, Gudny's youngest; 4 the runs from one keg of the whale meat gone soft inside; 5 a rash and fever among the hay crew; 6 Kolbein's knee swells hot): 4. YES, BUT: it comes, and it is caught early; how far it goes follows Enna's five and what the jarl does."
+notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. THE CLIFFS: the trigger stands (gm recurring_yields) - more than three days running without rest, or wind above a fresh breeze, and somebody falls. THE SECOND BURN is a test."
 
 [hidden_truths]
 the_needle = "Does not point north. Points at a body of sky-iron under the high moor about 22 km inland. Southern make; the makers were following the same thing. THE CREEP IS REAL, ongoing and one-directional: the needle is also being pulled off true by a SECOND, SMALLER, MOVING body of sky-iron, and until it is found this reads exactly like the moor mass waking. Two clean bearings a fortnight apart from two points 6 km apart would cross and give a position. NOBODY HAS THOUGHT TO TRIANGULATE. The sky-iron is worth more than the land, and if Hakvarr learns of it, he comes. Erik has the ground-iron part right, which also means the Needle would never have carried them home."
