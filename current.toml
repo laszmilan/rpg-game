@@ -1,25 +1,28 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 27, day = 1, season = "autumn" }
+date = { year = 3, week = 28, day = 1, season = "autumn" }
 morale = 9
-paused_at = "Y3 W27 D1, MORNING. W26 is logged. THE JARL ASKS AUD FOR THE HARVEST DATES. OPEN: BREK'S ASK - his four bellows-men for three days to light the fourth burn by D3 (charcoal for two burns, five or so kilos of bar on the beam) - not yet answered."
-mood = "Fat and a little restless: 3,050 in the store, three smoke-houses, iron on the beam, the hay in. The herd left walking on the jarl's word, and Asgeir's question still in the air."
+paused_at = "Y3 W28 D1, MORNING. W27 is logged. Standing: the boats out even in rain unless Hjalti says nothing to catch, then they dig; Brek as he sees fit; the ditch till done (about 50 man-days), the jarl told when it is done and proper; THE FIELDS GET THEIR HANDS FIRST THE DAY EACH IS READY, THEN THE SALMON EVERYTHING."
+mood = "Steady and wet: the store slipping under three thousand in a rainy week, nine sick from a fouled butt and mended, the drains under the bank running clean. The harvest and the salmon are coming at once, and everyone knows the jarl put the fields first."
 where_people_sleep = "ABOUT TWENTY-FIVE TO A PIT IN LONGPITS 1-4 from W21 D7 - the 104 at home; nobody outside. THE KEEL EMPTY, the Grey Mare left as she is over her pit. Ilmo and Oski in longpit 1. Ingra and Gest at Kolvenn."
 clocks = [
-  "Y3 W27 D1 - AUD: the harvest dates. BREK waits on his four bellows-men for the fourth burn.",
-    "THE HAY: two cuts in (W21-22, W24-25); the jarl calls it done (W25) - last year took three for nineteen head; twenty-four this winter.",
-  "THE NEXT STANDING - Fenn says who stands inside the smiths' oath.",
-  "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work - council, the ten heads in their drawn order, the widows' blocks, then the common stones 1-33. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
-  "THE CUT BOARD SHELVED (W17 D3) until something happens or a better idea; Vigmar keeps two planed strips under the beam.",
-  "INGRA AND GEST AT KOLVENN from Y3 W16 until the autumn boat; the coals sealed with Fenn; Solvi keeps Ingra's plot.",
-  "Y3 W29-33 - THE SALMON, into Sigra's three pits, the two smoke-houses and the saved salt. SOLVI: nobody asks for her eight again until the salmon.",
+  "ABOUT Y3 W28 - THE STRAND'S NEXT CLAMP for Brek.",
+  "Y3 W29-30 - THE PEAS, when the pods rattle (Aud): twenty people three days, FIRST.",
+  "Y3 W29-33 - THE SALMON on the first spate after W28: every hand the fields do not need.",
+  "ABOUT Y3 W30 - THE SEAL CULL, as last year (about ten bulls).",
+  "Y3 W31 - THE OLD FIELD'S BARLEY; Y3 W32 - THE NEW STRIPS: twenty people three days each, FIRST.",
   "Y3 W30-34 - INGUNN'S CHILD, her third; narrow (Enna).",
+  "THE DITCH - about 50 man-days left at W27 end; the jarl told when it is done and proper.",
+  "THE NEXT STANDING - Fenn says who stands inside the smiths' oath.",
+  "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
+  "THE CUT BOARD SHELVED (W17 D3); Vigmar keeps two planed strips under the beam.",
+  "INGRA AND GEST AT KOLVENN from Y3 W16 until the autumn boat; Solvi keeps Ingra's plot.",
   "Y3 W33, THE AUTUMN EQUINOX - Osvi's noon-sun measurement.",
-  "Y3 W39, THE LAST WEEK OF AUTUMN - THE AUTUMN BOAT: eight coopered barrels for 100 l of oil and hooks; Ingra and Gest home; KOLVENN IS TOLD WHETHER IRON HAS COME OUT OF THE BUILDING - IT HAS (W22 D5, six kilos of bloom).",
+  "Y3 W39, THE LAST WEEK OF AUTUMN - THE AUTUMN BOAT: eight coopered barrels for 100 l of oil and hooks; Ingra and Gest home; KOLVENN IS TOLD WHETHER IRON HAS COME OUT OF THE BUILDING - IT HAS.",
   "Y3 W39, END OF AUTUMN - THE JARL ASKS ENNA ABOUT PREGNANCIES.",
   "AT THE THAW, Y4 - Aud says whether the bees wintered.",
-  "Y4 W14 to W39 - the master and Bruni, for 25 KG OF WORKED IRON, half on landing (12.5) and half on collection - about four or five more good burns for the first half at this rate.",
+  "Y4 W14 to W39 - the master and Bruni, for 25 KG OF WORKED IRON, half on landing and half on collection.",
 ]
 
 [souls]
@@ -35,7 +38,7 @@ born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bja
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104, plus ILMO AND OSKI from Y3 W16, sworn Haldvikers Y3 W17 D2 = 106. Ingra and Gest at Kolvenn are counted. Of fifteen or more: 77 before Ilmo and Oski (the W15 and W17 Standings), 79 with them."
 
 [food]
-in_store_kg = 3020
+in_store_kg = 2920
 what_it_is = "THE CLIFFS (W24): ABOUT 900 KG OF EGGS IN ASH AND 150 OF BIRDS. MOSTLY COD (from W14): salted on the strand's 40 kg a week, smoked - the old smokehouse and, from W19 D5, one of the two new cold smoke-houses - and racked. THE PILOT WHALE (W18): dried, but ONE KEG WENT SOFT INSIDE and seven took the runs (W22); what was sound - about a third - in one scalded keg. Seaweed drying for winter on Solvi's far rocks. Fresh fish on top. Milk from the cow. About 60 l of whale oil."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
@@ -45,9 +48,9 @@ standing_food = "Anything that swims or walks is eaten. Fresh before stored. The
 
 [resources]
 salt = "THE STRAND PANS MAKE ABOUT 40 KG A WEEK on peat (three pans, one strapped). SIGRA STOPPED SALTING THE COD when the new smoke-houses drew (Y3 W19 D5) - the thin cod goes to the racks and the smoke - and SAVES THE STRAND'S SALT for the birds, the seal and the salmon: about 30 kg in store by W20 D1, about 350-400 by W29 at this rate (100 kg of salt salts about 500 kg of fish). Made at the strand because the bay off the terrace is brackish from the salmon river and the strand faces the open sea; the clamps stay there for the wood."
-charcoal = "ABOUT 550 KG at W23 end: 420 after two burns, PLUS ABOUT 430 FROM THE STRAND HEAP (two clamps since W17: one clean about 280, one half ash about 150; Hald's Coal brought it W23 D2) AND THE THIRD CLAMP about 260 (W23 D5), LESS THE THIRD BURN about 300 (W23 D3-D5); ABOUT TWO BURNS. Before them about 1,020 KG (670 plus about 350 from the two spring strand clamps, one burned clean, one half to ash; Hovard W17). The 50 off the Nagholt floor went back under it by law 18. CLAMPS TO BURN TILL THE FROST (the jarl, W17). BREK'S GUESS: first stacks about 50 kg charcoal per kg bloom (25 once learned); bloom to bar loses half and about 5 per kg bar; bar to work 2-3 per kg - ore to worked iron about 110 per kg now, 55 learned. Vask's first 12.5 kg is about 1,400 kg; the full 25 about 2,800. A clamp is about 300."
+charcoal = "ABOUT 250 KG after THE FOURTH BURN (W27, about 300); the strand's next clamp due about W28. Earlier: ABOUT 550 KG at W23 end: 420 after two burns, PLUS ABOUT 430 FROM THE STRAND HEAP (two clamps since W17: one clean about 280, one half ash about 150; Hald's Coal brought it W23 D2) AND THE THIRD CLAMP about 260 (W23 D5), LESS THE THIRD BURN about 300 (W23 D3-D5); ABOUT TWO BURNS. Before them about 1,020 KG (670 plus about 350 from the two spring strand clamps, one burned clean, one half to ash; Hovard W17). The 50 off the Nagholt floor went back under it by law 18. CLAMPS TO BURN TILL THE FROST (the jarl, W17). BREK'S GUESS: first stacks about 50 kg charcoal per kg bloom (25 once learned); bloom to bar loses half and about 5 per kg bar; bar to work 2-3 per kg - ore to worked iron about 110 per kg now, 55 learned. Vask's first 12.5 kg is about 1,400 kg; the full 25 about 2,800. A clamp is about 300."
 peat = "About 165 m3 after the three strand pans burned about 35 since W10 (carried by Hald's Coal); a winter of hearths takes about 35. Walls walked after rain and every D1."
-iron = "About 5 kg of bar after Brek's eight replacement knives (W6), about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. THE SECOND BURN'S SIX KILOS OF BLOOM (W22) BEATEN TO THREE BARS, JUST UNDER 3 KG (W23), on Vigmar's beam in the storehouse. THE THIRD BURN'S BLOOM BEATEN TO ABOUT 3 KG OF BAR (W25). ABOUT 6 KG OF BAR in all before the knives, less the knives. BOG ORE: THE FIRST BURN'S 40 KG WENT INTO SLAG (W20); the second's made the bloom. About a burn's worth dug and drying, not yet roasted; Geir digging THE OTHER WAY from the stake. THE SLAG: a cauldron-sized glassy mass full of iron beads no bigger than barley grains, broken out of the stack - the iron came and never found itself (Brek). The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
+iron = "About 5 kg of bar after Brek's eight replacement knives (W6), about 2 kg usable in the Nagholt lumps (kept under law 18, to be named at the door), one fist-sized bloom of Hafli's, and one cracked saw plate of hard steel. THE SECOND BURN'S SIX KILOS OF BLOOM (W22) BEATEN TO THREE BARS, JUST UNDER 3 KG (W23), on Vigmar's beam in the storehouse. THE THIRD BURN'S BLOOM BEATEN TO ABOUT 3 KG OF BAR (W25); SIX KNIVES MADE (about 1.2 kg). ABOUT 5 KG OF BAR on the beam (W26 D7). THE FOURTH BURN (W27, wet, behind a turf screen): ABOUT 5 KG OF BLOOM to be worked. BOG ORE: THE FIRST BURN'S 40 KG WENT INTO SLAG (W20); the second's made the bloom. About a burn's worth dug and drying, not yet roasted; Geir digging THE OTHER WAY from the stake. THE SLAG: a cauldron-sized glassy mass full of iron beads no bigger than barley grains, broken out of the stack - the iron came and never found itself (Brek). The Y4 price is 25 kg worked, about 33 of bar - it cannot be paid out of what exists."
 hooks = "About 700, enough for four long-lines."
 "rivets and nails" = "A keg of rivets; the nail keg less 2 kg traded to the Hessa (Y3 W15)."
 "rope and line" = "FIVE HUNDRED PACES OF HESSA CORDAGE (Y3 W15) - Ranulf's 400 for the Grey Mare's standing and running rigging and about 100 over for the ice; eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap."
