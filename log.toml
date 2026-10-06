@@ -1733,3 +1733,22 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9.",
   "THE WEEK: about 1,450 in (the cliffs about 1,050, the boats about 300, Solvi's twelve, fresh at half weight). About 480 out. VIGMAR: 3,100.",
 ]
+
+[[year_3]]
+week = 25
+title = "A THIRD SMOKE-HOUSE, THE HERD LEFT WALKING, AND ASGEIR"
+store = 3050
+income = 430
+consumed = 480
+events = [
+  "THE WEEK: fair and dry.",
+  "D1 COUNCIL: Ylva back to her three, her five to Ormar. ORMAR: A THIRD SMOKE-HOUSE on another branch off the trench, the far side, the longest run and the coolest smoke, its own turf flap, 3 x 4 m, five or six sticks and about twenty man-days; nineteen sticks left against the forge's thirty - NO FORGE THIS YEAR unless strand logs are riven, and Hovard will say what that costs the windrow. The jarl's look to Brek, apologising; Brek shrugs toward the storehouse door.",
+  "D1 EVENING AT THE FIRE: THE JARL TELLS THE CHILDREN, once, from his own mouth, to keep out of the ditch water; two mothers take their sons outside for the second half of the lesson. No child seen in it since.",
+  "D3 YLVA: THE HERD, a few hundred with calves, on its summer road along the moor edge north-east, half a day out, no Ivven, dogs or smoke; she did not go closer; someone will ask why not take twenty. THE JARL: what does it cost each side? YLVA: twenty deer, a tonne of meat and twenty hides for three days of ten; theirs wherever it walks - Kolvenn took six and the Ivven stayed away three springs, three winters without hides, the old ones coughing in sealskin; we buy winter meat at three deer a knife; their dead a month cold and they walked past without calling; A HUNT IS NOT A RAID ON SOMEBODY'S LARDER. THE JARL: then we don't.",
+  "D3 EVENING, LONGPIT 1: THE JARL says it before anyone asks - the herd is theirs; they had the claim long before us; respect it if we want them to respect ours and to trade - meat and iron; Ilmo's three winters told. Hjalti: aye. ASGEIR stands (longpit 2, the one who voted against law 20 and asked about the spare plots): when it's our children in sealskin and the deer people stay away for their dead, will they remember the meat we left walking - or is it only us that keeps the rules? THE JARL: not from the goodness of his heart - he believes there will be more hides this way; IF THEY DON'T KEEP THE RULES AND BLAME US FOR DEATHS WE DID NOT CAUSE, THEN WE TAKE WHAT WE HAVE TO. ASGEIR: that he understands - a rule as long as it pays; HE'LL REMEMBER THE JARL SAID THE SECOND HALF TOO. Ylva unfolds her arms. OOC: Asgeir named - son of the older fjord-steading voter; the jarl does not like him, nor the fjord pair, less and less.",
+  "THE JARL TO BREK: A DOZEN KNIVES before the next iron. BREK: two and a half kilos, near everything on the beam; out of what Vask is owed unless the burns keep pace; for meat? Thirty-six deer at three a knife. D4-D7: the third bloom beaten to about 3 kg of bar; FOUR KNIVES on the bench in oiled cloth by D7.",
+  "THE THIRD SMOKE-HOUSE roofed D4, lit D5 under Ormar's hand, the coolest of the three. THE SHOULDER'S SECOND CUT cut D4, cocked D6, thin and dry. THE DITCH: the south end waist-deep for half its length, water standing.",
+  "THE JARL, end of week: SIX KNIVES, NOT A DOZEN - for meat and hide. The hay is done; a few weeks to the salmon: SIX ON THE DITCH WITH THE JARL, everyone else to the boats, Solvi, Sigra, wherever most needed.",
+  "THE MOOD: MORALE HOLDS AT 9.",
+  "THE WEEK: about 430 in (the boats about 300, Solvi's twelve, Ylva's three on the snares). About 480 out. VIGMAR: 3,050 - the boats brought less than the ration took.",
+]
