@@ -1859,3 +1859,20 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9 - the barley saved from the gale and the run in.",
   "THE WEEK: about 2,370 in (smoked salmon about 550, the pits about 600, salted about 850, the whey barrel, fresh eaten at half weight about 270; the boats little). About 480 out. VIGMAR: about 5,800. The barley in the Keel and the tie-beams, not yet threshed.",
 ]
+
+[[year_3]]
+week = 32
+title = "THE THICK OF THE RUN, KELDA'S BROOM, AND YLVA ASKS"
+store = 7220
+income = 1900
+consumed = 480
+events = [
+  "THE WEEK: fair and dry, a north-west wind; the racks full again from D2, the four smoke-houses never cold, the gutting lines dawn to dusk; fish let over the lip at noon and through the night by the jarl's word; D6 one cruive left open as the run thins.",
+  "D3 EVENING THE JARL WATCHES THE FORGE from the Keel bench: KELDA on her knees sweeping the scale and sorting the charcoal by size, unasked; BREK, not turning round: YOU SWEEP THAT FLOOR EVERY NIGHT FOR A YEAR, AND YOU DON'T ASK ME ONCE; AFTER THAT WE'LL TALK ABOUT WHETHER YOU'RE A SMITH. Her ears red. The jarl lets it be.",
+  "THE JARL WATCHES WITH OPEN EYES: OSKI guts and laughs at the back, nothing seen; ILMO argues the bank with Hjalti like an old married couple; YLVA walks past three people to sit by ULF twice, and D5 they sit on the north bank a hand apart - Ulf stands quickly when seen, Ylva doesn't; TORGEST waits at the rocks with Hald's Coal for Solvi D4 (it isn't on his way), carries her baskets, sings the whale verse D6 looking at her on the last line; Solvi looks into the fire with no expression.",
+  "D5 Brek finishes the fifth bloom: ABOUT 10 KG OF BAR ON THE BEAM. D5 Hovard's first autumn clamp home, about 270: CHARCOAL ABOUT 490.",
+  "D6 YLVA, to the jarl's face: before the snow, back to the black ridge with two to follow the walker's prints north-east. THE JARL: if worth it; it has not returned and he doesn't want it disturbed. YLVA: worth it - something walks dead straight from that ridge to our fields; follow and look only; if she sees it or the prints are warm, they turn home; no spears, no shouting, nobody sits in its road; Ossur and Kolbein if his knee carries, else Ulf; when the gutting lines can spare three. OOC: last year's store after the salmon (W34) 5,765, into the cold (W40) 4,975, the Turning 2,985. LAW 2 names only a jarl's son.",
+  "THE JARL'S WORD: thresh when the salmon thins or can't be caught; keep an eye on everything - ground, resources, clues; next week Aki on the plots and Enna on the father and how many carry.",
+  "THE MOOD: MORALE HOLDS AT 9.",
+  "THE WEEK: about 1,900 in (the four smoke-houses about 800, the racks about 550, fresh salmon at half weight, the boats about 300). About 480 out. VIGMAR: about 7,200.",
+]
