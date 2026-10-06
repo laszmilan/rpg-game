@@ -46,13 +46,13 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W22"
-rolled_before_the_week = "Rolled at Y3 W21 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W22 weather, SUMMER, 2d6 take higher: [6, 3] = 6 = YES, AND: fair all week, a steady cool drying wind."
-Q2_does_anything_unlooked_for_reach_haldvik = "d6: 4 = YES, BUT. Follow-up list, written before the die (1 the tracks again, on its old line; 2 the Ivven band comes to the edge, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), d6: 4. Day d7: D4. The but/and set before it lands."
-the_cod = "THIN: about 40 a day with the boats; the strand's salt saved by Sigra."
-sickness_W22 = "THE EVENT, YES BUT, day D4: SICKNESS IN A LONGPIT - which, list written before the die (1 the runs in one longpit, three down, from a fouled water butt; 2 a summer cough in longpit 2 - the coughing law's first test in a year; 3 a child's fever, Gudny's youngest; 4 the runs from one keg of the whale meat gone soft inside; 5 a rash and fever among the hay crew; 6 Kolbein's knee swells hot): 4. YES, BUT: it comes, and it is caught early; how far it goes follows Enna's five and what the jarl does."
-notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. THE CLIFFS: the trigger stands (gm recurring_yields) - more than three days running without rest, or wind above a fresh breeze, and somebody falls. THE SECOND BURN is a test."
+week = "Y3 W23"
+rolled_before_the_week = "Rolled at Y3 W22 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W23 weather, SUMMER, 2d6 take higher: [2, 5] = 5 = YES: fair and dry, a drying wind."
+Q2_does_anything_unlooked_for_reach_haldvik = "d6: 2 = NO: nothing unlooked-for reaches Haldvik this week."
+the_cod = "THIN: about 40 a day with the boats, more with two more hands; the strand's salt saved by Sigra."
+the_cliffs = "Eggs fresh from W24 (recurring_yields): a W23 trip finds them laying, not laid; the big take is W24-25."
+notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. THE CLIFFS: more than three days running without rest, or wind above a fresh breeze, and somebody falls. THE THIRD BURN is a test (two burns of learning behind it)."
 
 [hidden_truths]
 the_needle = "Does not point north. Points at a body of sky-iron under the high moor about 22 km inland. Southern make; the makers were following the same thing. THE CREEP IS REAL, ongoing and one-directional: the needle is also being pulled off true by a SECOND, SMALLER, MOVING body of sky-iron, and until it is found this reads exactly like the moor mass waking. Two clean bearings a fortnight apart from two points 6 km apart would cross and give a position. NOBODY HAS THOUGHT TO TRIANGULATE. The sky-iron is worth more than the land, and if Hakvarr learns of it, he comes. Erik has the ground-iron part right, which also means the Needle would never have carried them home."

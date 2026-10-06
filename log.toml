@@ -1675,3 +1675,22 @@ events = [
   "THE MOOD: MORALE 8 TO 9 - for the first time since the landing nobody sleeps packed in; longpit 4 finished, the Keel empty, the store past two thousand.",
   "THE WEEK: about 550 in (the boats about 40 a day, Solvi's far rocks, the snares, fresh at half weight). About 480 out. VIGMAR: 2,070.",
 ]
+
+[[year_3]]
+week = 22
+title = "THE FIRST CUT IN, THE RUNS FROM A KEG, AND IRON OUT OF THE BUILDING"
+store = 2060
+income = 470
+consumed = 480
+events = [
+  "THE WEEK: fair all week, the same cool steady wind.",
+  "D1 COUNCIL: YLVA on the egg order - most of what's on the ledges is one egg on bare rock, one to a bird, and she lays again in two weeks: THE FIRST EGGS TAKEN, THE SECOND LAYING LEFT TO HATCH; gulls three to a nest, one taken; never three days running on the rope; nobody over the edge in wind she wouldn't hang washing in. THE JARL: exactly what he wanted. THE SECOND BURN PROCEEDS. THE SHOULDER HAY: Solvi's eight again with the ditch crew. SOLVI: twice in two weeks, the big tides don't wait for hay - her eight till it's cocked, her four children stay on the rocks with Kelda, and NOBODY ASKS HER AGAIN UNTIL THE SALMON. THE JARL: he'd swear it over ember.",
+  "D1-D4 THE SHOULDER HAY cut, turned, cocked D4, dry by D6 - THE FIRST CUT IN. Solvi's eight back on the rocks D5 without a word to anyone.",
+  "D2-D4 YLVA'S EIGHT AT THE CLIFFS, Sigra's two among them. D5 rest: ABOUT 150 KG OF EGGS AND SOME BIRDS. YLVA: only just starting to lay - birds sitting on bare rock; two weeks and eggs everywhere; nobody hurt.",
+  "D2 NIGHT a charcoal-only burn to dry the stack; D3 first light Hafli's hand inside: dry to the stones. D3 NOON THE SECOND BURN LIT, the difficulty said: 7 (the first burn's lessons, the lining dried through and the nozzle reset, fair steady weather; still their second ever). Steinn, Ulf's cousin and the two carriers on the bellows.",
+  "D4 THE EVENT: ENNA - five down with the runs in longpit 2, two children, two more starting; all ate from ONE KEG OF THE WHALE MEAT; a strip from the middle grey and soft and smelling bad. THE JARL: off the plates, cut every piece in both kegs, rather throw it away than poison our own; he is not angry with Ilmo. ENNA AND ILMO cut every piece by lamplight; ILMO: at Kolvenn it hangs under a roof with no walls - here it hung behind a door; he'll know next time. THE FIRST KEG nearly all bad, out past the rocks D5; A THIRD OF THE SECOND soft; about a third of the whale meat left in one scalded keg. Salted water and broth, their own pot and bucket; Enna and Hild sat up with the two children two nights. SEVEN IN ALL, ALL UP BY D7, nobody dead.",
+  "THE SECOND BURN: 2d12 [12, 12] against 7 - SUCCESS. The stack white at the top through D3-D4; D4 evening THE SLAG RUNS from the tap-hole bright and thin as honey; D5 midday burned down; D5 evening the front broken - HAFLI DRAGS OUT A GLOWING SPONGY BLOOM THE SIZE OF A LOAF; run to the old forge, Brek beating the slag out in showers, half of Haldvik in the doorway. ON VIGMAR'S BEAM: SIX KILOS OF BLOOM. BREK, voice not quite steady: iron, out of our own ground and our own stack; half hammers away before it's bar - call it three kilos of bar, more every burn as they learn; TELL VASK'S BOAT IT HAS COME OUT OF THE BUILDING, AND IT'S NOT A LIE.",
+  "THE JARL: what a beauty. ORDERS FOR W23: THE SMITHS GO ON - burns and bar; THE HAY DONE; YLVA KEEPS HER EIGHT, hunt or eggs, whichever yields better; TWO OFF THE DITCH TO THE BOATS; the ditch with what is left, about five and the jarl.",
+  "THE MOOD: MORALE HOLDS AT 9 - iron out of their own ground and the first hay in, against seven sick from the keg and a thin week on the cliffs.",
+  "THE WEEK: about 470 in (the boats about 40 a day, the cliffs about 150 of eggs and birds, Solvi's eight from D5 and her four children all week, the snares, fresh at half weight) less about 25 of whale meat thrown out. About 480 out. VIGMAR: 2,060.",
+]
