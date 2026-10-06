@@ -1824,3 +1824,22 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9 - the ditch done, the peas in, forty-six on their feet.",
   "THE WEEK: about 630 in (the boats about 300, Solvi's rocks about 80, the peas 250 to eat). About 480 out. 200 kg of seed peas sealed. VIGMAR: 3,060.",
 ]
+
+[[year_3]]
+week = 30
+title = "FIFTEEN BULLS, THE PANS GO COLD, AND THE OLD FIELD IN STOOKS"
+store = 3910
+income = 1330
+consumed = 480
+events = [
+  "THE WEEK: fair all week, a clean north-west wind; the river low, no spate.",
+  "D1 COUNCIL: THE SEAL - Ylva to count; the jarl: more than last year, as much as we can salt safely; the salmon to four smoke-houses, the pits and the whey barrel. SIGRA: about 400 kg of salt kept since the smoke-houses drew - the fat off twenty bulls and some over, salted the same afternoon, fat meat that waits a night is poison; THE LAST TIME ANYONE ASKED FOR MORE AT THAT REEF IT WAS HER, AND REKK DROWNED IN WATER TO HIS KNEES - what Ylva says, one morning, from the sea side, bulls only, and when she says stop, everyone stops. THE JARL: fifteen, twenty at most - we want them here next year; Ylva's word is the word. ORMAR: a clamp is about twenty trunks; a sound trunk rives to four or five sticks - A BURN'S CHARCOAL IS NEAR A HUNDRED STICKS, THE FORGE THREE TIMES OVER.",
+  "THE PLAN, SIGRA: salmon salts as well as cod; fifteen bulls 600 of meat take 120 of salt, the fat to oil; the rest of the salt for about 1,400 kg of salmon; the four houses take two tonnes a week fed peat day and night, the pits 750 once - IT IS HANDS THAT RUN SHORT: fifteen gutting and two on the fires every hour, before Aud's twenty. THE JARL: THE SALMON EATEN FRESH, the cod still dries; NO MORE SALT - HOVARD'S EIGHT TO CHARCOAL; every free hand to the gutting when it comes - Sigra's, the smiths (the iron will keep), Ormar's pool, Ylva's (about 26 with the jarl and Halvar); SOLVI LEFT ALONE for the berries - packed in fat, worth their weight in silver in winter. OOC: the barley's twenty come out of the same 26.",
+  "D1 AFTERNOON THE STRAND, HOVARD: THREE CLAMPS BY THE FROST, four if Torgest's crew carries trunks - and the windrow under two hundred; THE PANS GO COLD TODAY. THE JARL: winter cod eaten fresh, no salt needed; three clamps. SIGRA, told by the jarl: fresh cod in winter - how her grandmother did it before her family could afford salt.",
+  "D1-D2 YLVA AND OSSUR count from the north shoulder: FORTY-ONE BULLS, the cows and young on the far rock; fifteen is fine; D4 first light, slack water, from the sea side.",
+  "D4 THE CULL: difficulty 5 (one morning, seaward, bulls only, slack water, fair, the salt ready; not 3 - bulls are bulls and this reef drowned a man knee-deep): 2d12 [6, 10] - SUCCESS. Three boats at first grey light, Ylva in the first bow; fifteen dead on the rock before the sun cleared the headland; nobody in deep water, nobody bitten; stop at fifteen. BEFORE ANY KNIFE, ONE BULL FOR ORMEGGA (the jarl - he would have taken a sixteenth; it was one of the fifteen), out past the tideline on the ebb with Fenn's words. EVERYTHING USED: the livers to Enna, the blood mixed with barley meal, the fat to the pots the same afternoon, the meat dry-salted in Hessa barrels: ABOUT 560 KG OF SALTED MEAT, 225 LITRES OF OIL, fourteen hides for Arna; about 115 kg of salt used. THE JARL TO YLVA HIMSELF: a good cull.",
+  "D5-D7 THE OLD FIELD CUT: twenty - Ormar's pool, Brek and Hafli, the jarl, Halvar - knives and sickles in the dry, sheaves in stooks by D7; ONE TUFT LEFT UNCUT FOR ALDRA. The new strips a week behind.",
+  "Hovard's men start the first of three clamps. D6 Solvi's crew off the moor edge with the first two baskets of crowberry.",
+  "THE MOOD: MORALE HOLDS AT 9 - a clean cull, the old field cut.",
+  "THE WEEK: about 1,330 in (the seal about 560 meat and 225 oil, the blood and livers, the boats about 300, Solvi's rocks and berries, the snares). About 480 out. VIGMAR: 3,910 with the seal in it, less Ormegga's bull; the barley not yet threshed.",
+]

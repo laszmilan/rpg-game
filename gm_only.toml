@@ -46,12 +46,12 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W30"
-rolled_before_the_week = "Rolled at Y3 W29 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W30 weather, AUTUMN (no advantage), d6: 6 = YES, AND: fair all week, a steady cool drying wind. A SPATE (needs d6 >= 6 this weather): 4 = NO. THE OLD FIELD'S BARLEY ripe and standing by D5 (d6 4)."
+week = "Y3 W31"
+rolled_before_the_week = "Rolled at Y3 W30 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W31 weather, AUTUMN (no advantage), d6: 1 = NO, AND: a gale week, two days nobody can put a boat out, nothing dries. A SPATE (needs d6 >= 2 this weather): 5 = YES, on D2 - THE RUN COMES IN BEHIND IT."
 Q2_does_anything_unlooked_for_reach_haldvik = "d6: 2 = NO: nothing unlooked-for reaches Haldvik this week."
-the_salmon = "THE RUN starts on the first spate after W28: peaks W30-32, enormous, tails W33, over W34. With twelve hands through the peak about 5 t wet, about 1.2 t dried; the limit is gutting hands and rack space. A LATE FIRST SPATE SHORTENS THE RUN THAT CAN BE TAKEN, it does not move the peak."
-the_seal = "Reef herd: left alone since Y2; about ten bulls as last year, from seaward, on the rock, never among the cows; FAT MEAT MUST BE DRY-SALTED THE SAME AFTERNOON."
+the_salmon = "THE RUN starts on the first spate after W28: peaks W30-32, tails W33, over W34. A LATE FIRST SPATE SHORTENS THE RUN THAT CAN BE TAKEN: no spate by W31 end and the take is the tail only. With twelve hands through the peak about 5 t wet."
+the_new_strips = "Ripe about W32 (Aud)."
 notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. Burns routine, not rolled."
 
 [hidden_truths]
