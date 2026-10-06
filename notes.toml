@@ -58,6 +58,7 @@ threats_known = [
   "The hollow.",
   "Whatever is breaking Hessa hulls north of here.",
   "The thing that stands at the door and takes nothing.",
+  "A LONG SKELD SHIP WITH A STRIPED SAIL, seen far east by Kolvenn boats about midsummer Y3, going north along the ice; eleven days later going back east; never near land (Teppo, Y3 W34). Halvar: Hakvarr sent to find out where, not whether.",
   "Whatever walked straight off the high moor to Nagholt and back (Y3 W1).",
 ]
 
@@ -108,7 +109,7 @@ what_the_folk_believe = "That it turned toward this land because this is where t
 the_Hessa = "Allied by treaty. Four places, about 400 people, west and south-west; one has more people than Skalgrind. KOLVENN, 61 souls, four days' sail north: eleven plank-walled sunk-floor houses behind a shingle spit, a boatwright's shed twice any house and the middle of the place, three hardwood ships, about 150 years there - the far end of their world. Forest, grain, peas, fat, cooperage, barrels of birch tar, a master boatwright. NO SMITH in four places; their iron comes hand to hand from the far south-west, old and twice worked. They will not talk about the cairn stones in a house or after dark, and walk out of a room where the old ones are spoken of. ILMO (Y3 W6): the marks were cut by the dead; where the line ends is THE SLEEPING GROUND, which takes someone from Kolvenn every few years; THE DEAD SLEEP WHEN THE WIND SLEEPS - nobody goes near it on a still day. The Hessa came up the coast from the south-west following trees and salmon; the stones were already old and the houses grass - THE ONES BEFORE; green humps behind Kolvenn and down the coast, never dug or built on; THE OLD WOMEN AT KOLVENN WHO KEEP THE NAMES know more. A man named at Kolvenn as lost who walks home stands at the door as a stranger, and the house decides."
 the_Ivven = "Deer people, two or three hundred, inland and north-east, on the coast some years and not others. Hide shelters moved every three days, pale lean dogs and dog-sleds, bone and antler for everything and no iron. Full white teeth. Will not go under a roof. Trade through Hessa via the scarred man: TEN HIDES FOR A KNIFE; in winter, meat at THREE DEER A KNIFE (Y3 W2), delivered by their own dogs. They come when the deer do. THE HERD IS THEIRS WHEREVER IT WALKS (Ilmo) - Kolvenn took six off the shore once in a hard winter and the Ivven stayed away three springs. In winter they are not hungry. Y3 W6 they came unasked with meat to the edge: TWENTY-FOUR DEER FOR EIGHT USED KNIVES off Haldvik belts, each tried and chosen; the scarred man carries the jarl's own. He keeps Vigmar's counted stick in his coat."
 the_west_people = "Far south-west down the mainland: many, living in stone, a market where things are bought with metal. They never come here. Osvi's brass case came up that chain. An old woman at Kolvenn: they do not need us."
-Skalgrind = "Five weeks of open water east. Hakvarr does not know whether anyone lives. Halvar: a hull from the north is the Hessa and we get a day; a hull from the open sea east is Skalgrind and we get an hour."
+Skalgrind = "Five weeks of open water east. Hakvarr does not know whether anyone lives - and sent a ship up the ice road at midsummer Y3 that turned back (known_world.threats_known). Halvar: a hull from the north is the Hessa and we get a day; a hull from the open sea east is Skalgrind and we get an hour."
 
 # ================= THE GROUND =================
 
@@ -240,7 +241,7 @@ note = "Best head for numbers here; has not raised her voice in two years. SEES 
 name = "Solvi Karrsdis"
 w = 20
 role = "Younger sister. Heads foraging and shellfish."
-note = "Asked to lead alone rather than be a favour. Cut their father's hair, and now the jarl's. Torgest has the jarl's leave to court her (Y3 W33); what she wants is hers. Took Kelda into her keeping on three conditions. The most observant person here, and the one who finds the move that takes the jarl out of a thing. Watching Vigmar, on her condition that Erik acts on nothing without looking himself; says she is the worst witness he has. KEEPER OF INGRA'S PLOT until Ingra is home, and chooses it beside her own."
+note = "Asked to lead alone rather than be a favour. Cut their father's hair, and now the jarl's. Torgest asked her himself (Y3 W34 D7) and she told him to ask again at the Turning - she wants to see him in the dark months, and wants the hall's keys in hands before she makes a hearth of her own; better company than she expected. Told the jarl to start smaller than a wife: sit somewhere at the fire that is not the head of it. Took Kelda into her keeping on three conditions. The most observant person here, and the one who finds the move that takes the jarl out of a thing. Watching Vigmar, on her condition that Erik acts on nothing without looking himself; says she is the worst witness he has. KEEPER OF INGRA'S PLOT until Ingra is home, and chooses it beside her own."
 
 [[people.council]]
 name = "Halvar Grimsson"
@@ -341,7 +342,7 @@ note = "Saw Vigmar with his hand over the infant's face and told Solvi, once. Wi
 name = "Gudny"
 w = 31
 role = "Widow, three children under seven. Works the drying racks."
-note = "Four mouths and no hands on Hakvarr's list, one hand on Vigmar's tally. Voted headman out loud without looking away, then said Erik's name. Learning her marks; beat Aki at tafl. Pride's for people whose children aren't hungry."
+note = "Four mouths and no hands on Hakvarr's list, one hand on Vigmar's tally. Voted headman out loud without looking away, then said Erik's name. Learning her marks; beat Aki at tafl. Pride's for people whose children aren't hungry. ENNA'S THIRD PAIR OF HANDS from Y3 W34 - she's had three and never once looked away from anything (Enna); stood at Ingunn's birth and did not faint."
 
 [[people.settlement]]
 name = "Hild"
@@ -352,8 +353,8 @@ note = "Lost her first child in Y1 W10, as far as she knows. Her man digs. Stood
 [[people.settlement]]
 name = "Ingunn"
 w = 21
-role = "Bjarn's widow. Mother of Ketil, the first child born in Haldvik, and of Bjarn (Y2 W18)."
-note = "Narrow, and everyone knew it. Named the second boy for his father, which nobody expected. Carrying her third (due about the Y3 harvest) and will not name the father, not even to Enna."
+role = "Bjarn's widow. Mother of Ketil, the first child born in Haldvik, of Bjarn (Y2 W18) and of Asta (Y3 W34)."
+note = "Narrow, and everyone knew it. Named the second boy for his father, which nobody expected. ASTA, her third, born Y3 W34 D5, the easiest of the three. Will not name the father, not even to Enna; at the naming she stood and said he is a free man and no other woman's, and he will stand when he is ready, not before, and not because anyone asks."
 
 [[people.settlement]]
 name = "Ossur"
@@ -431,7 +432,7 @@ note = "Was at the cliff when Aki went over; gentle with the hurt. His wife Bers
 name = "Torgest Sourmouth"
 w = 30
 role = "Steers Hald's Coal from this year, off the pans at his own asking."
-note = "ASKED THE JARL, AS HEAD OF KARR'S HEARTH, FOR LEAVE TO COURT SOLVI (Y3 W33) - the old way, before a word to her; the jarl gave leave to talk to her and said she decides. Lit the Skalgrind lantern himself and complained for five weeks. Given honest credit and never knows where to put it. Spotted the worked timbers. Will not run a loaded hull over an unread bar twice. Sings. Went quiet when his name went unsaid and came round when the jarl sat with him - heard is enough. Would not sell his silence for a road."
+note = "ASKED THE JARL, AS HEAD OF KARR'S HEARTH, FOR LEAVE TO COURT SOLVI (Y3 W33) - the old way, before a word to her; the jarl gave leave to talk to her and said she decides. ASKED HER HIMSELF Y3 W34 D7 in his good shirt; ASK AGAIN AT THE TURNING (Solvi). Sings in the hall at the Turning and on dark nights, and alone to Hald's Coal when he thinks the beach is empty. Lit the Skalgrind lantern himself and complained for five weeks. Given honest credit and never knows where to put it. Spotted the worked timbers. Will not run a loaded hull over an unread bar twice. Sings. Went quiet when his name went unsaid and came round when the jarl sat with him - heard is enough. Would not sell his silence for a road."
 
 [[people.elsewhere]]
 name = "Bruni"
@@ -474,6 +475,11 @@ role = "Runs Kolvenn, about fifty. Cautious, slow, not a fool. Sends kin rather 
 [[people.elsewhere]]
 name = "Atti"
 role = "Hessa boy of about fourteen. White teeth, no bleeding at the gum. Laughed out loud when the counting matched."
+
+[[people.elsewhere]]
+name = "Teppo"
+role = "HESSA of Kolvenn, steers a fishing boat. Short, heavy, bald, white at the corners of the mouth."
+note = "Fished beside Ilmo twenty winters and was at his door the night they said his name; took his forearm in both hands on Haldvik sand. Says the jarl eats better than Vask."
 
 [[people.elsewhere]]
 name = "the scarred man"
@@ -542,6 +548,7 @@ _ = "TREATIES AND STANDING AGREEMENTS. Cut on sticks, said in front of witnesses
 
 [treaties.the_Ivven]
 the_ground = "NO AGREEMENT. Haldvik's claim to the moor edge (law 17) was put to an Ivven band by gesture on the shoulder, Y2 W39 d6, not the scarred man's; their line in the snow was scuffed out and they took their four deer and went. Not agreed and not refused in words. Erik's standing word to the hunt: if they kill first, let them have it; what we kill first is ours."
+the_pole = "Y3 W34 D3: YLVA HUNG ONE KNIFE in oiled sealskin from a stone-piled pole at the moor edge where they left the deer in W6, high out of reach of fox and dog - an invitation, on the jarl's word."
 standing_rate = "TEN HIDES FOR A KNIFE, held by the jarl Y2 W35 d3 against the scarred man's five after the W32 gift went to the gulls and a dog. No trade was made. He kept Vigmar's counted stick and signed again, here - twice, not four times: they come back, not soon and not cheap. WINTER RATE: THREE DEER A KNIFE, meat only, delivered by their dogs to the edge and not a step over (Y3 W2, thirty deer for ten new knives; Y3 W6, twenty-four for eight used ones, each tried and chosen, half on the day and half two days on)."
 
 [treaties.the_Hessa_of_Kolvenn]
@@ -557,4 +564,5 @@ the_axes = "Solid bar, no weld and no inserted bit, because Brek cannot forge-we
 "Y3 W14, the first week of summer" = "DONE Y3 W15 (a week late, a death in Skelva's house). Cut on three sticks: HALDVIK GOT about 500 paces of cordage, 20 squared hardwood lengths and 3 stem-knees, 3 empty barrels; HALDVIK GAVE about 300 l of oil, the two walrus tusks, 2 kg of nails. Ilmo's six carried home. Ingra and Gest carried north."
 "Y3, the last week of autumn" = "The autumn boat: EIGHT COOPERED BARRELS for 100 l of oil and what hooks the smith can spare. INGRA AND GEST BROUGHT HOME. Cut on sticks at both ends. VASK HEARD THE IRON FROM THE JARL'S OWN MOUTH AT HIS OWN HEARTH, Y3 W16 D2 (the Y4 terms)."
 "Y4, first week of summer to last week of autumn" = "THE MASTER BOATWRIGHT AND BRUNI, collected at the end. 25 KG OF WORKED IRON, half on landing and half on collection, LESS PRO-RATA IF HE GOES HOME EARLY. That pro-rata clause is what answered Vask's objection, and Skelva made Aki cut it twice. AND (Y3 W16 D2, Vask's shed, two sticks, Skelva and Gest): THE AUTUMN BOAT OF Y3 IS TOLD WHETHER IRON HAS COME OUT OF HALDVIK'S BUILDING; IF NOT, THE MASTER STAYS HOME THAT SUMMER AND NOBODY IS OWED. Vask: say it has when it hasn't, and four places know what kind of people you are. The jarl refused to promise no iron to the Ivven before Kolvenn is paid."
+"Y3 W20 and W34, Kolvenn boats" = "Two fishing boats have put in to see Ilmo and been fed: W20, and TEPPO'S, W34 D2-3, one night, carrying Vask's word for the jarl alone about the Skeld ship. KOLVENN'S Y3 HARVEST was poor - the barley flattened and sprouting in the stook after the harvest gale, the peas thin, the salmon good; Vask is counting bread. The jarl: no gifts; food to trade at the autumn boat if they ask to buy, nothing promised."
 "Y3 W16, Ilmo and Oski" = "Their doors stayed shut; they come to Haldvik to swear over ember at a Standing (law 19). VASK: every Kolvenn boat fishing the coast will put in at Haldvik to see Ilmo, and Haldvik feeds them. THE JARL: come as you like."
