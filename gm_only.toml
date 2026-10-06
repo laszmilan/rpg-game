@@ -46,12 +46,12 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W24"
-rolled_before_the_week = "Rolled at Y3 W23 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W24 weather, SUMMER, 2d6 take higher: [6, 6] = 6 = YES, AND: fair all week, a steady cool drying wind."
-Q2_does_anything_unlooked_for_reach_haldvik = "d6: 2 = NO: nothing unlooked-for reaches Haldvik this week."
+week = "Y3 W25"
+rolled_before_the_week = "Rolled at Y3 W24 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W25 weather, SUMMER, 2d6 take higher: [5, 2] = 5 = YES: fair and dry, a drying wind."
+Q2_does_anything_unlooked_for_reach_haldvik = "d6: 3 = NO, BUT: nothing reaches Haldvik; the but is set from agendas before play. List was (1 the tracks again, on its old line; 2 the Ivven band comes to the edge, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), not rolled."
 the_cod = "THIN: about 40-45 a day with fourteen on the boats."
-the_cliffs = "EGGS FRESH FROM W24 (recurring_yields): the first laying is down. Early trips worth about twice a late one; across two trips about 1.6 t of eggs and 400 kg of birds, three trips more. TRIGGER: more than three days running without rest, or wind above a fresh breeze, and somebody falls."
+the_but_W25 = "Set from agendas before play: nothing reaches Haldvik, BUT about D3 Ylva's three see THE HERD - a few hundred reindeer moving north-east along the moor edge on their summer road, inside a day's walk, no Ivven with them that anyone can see. The herd is theirs wherever it walks (Ilmo); Kolvenn took six once and lost three springs. Ylva brings word and does not touch it."
 notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. Burns routine, not rolled."
 
 [hidden_truths]

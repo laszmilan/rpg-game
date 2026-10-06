@@ -1,15 +1,14 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 24, day = 1, season = "summer" }
+date = { year = 3, week = 25, day = 1, season = "summer" }
 morale = 9
-paused_at = "Y3 W24 D1, MORNING, COUNCIL. W23 is logged. THE CLIFFS: Ylva's eight, the ledges laid now (first eggs only, the second laying left). THE SECOND HAY CUT is due about now (last year W24 and W26). The fourth burn when Brek has worked the third bloom. THE DITCH ONLY WITH HANDS THE FOOD DOES NOT NEED."
-mood = "Proud and busy: iron bars on the beam, the north ditch standing, the first hay in, room in four longpits. Under it, the jarl's worry that the summer is thin, said out loud: one hungry winter was enough."
+paused_at = "Y3 W25 D1, MORNING, COUNCIL. W24 is logged. THE JARL'S ORDERS (end of W24): NO LATE BIRD TRIP - next year's layers are not killed; FOCUS THE SALMON AND THE SEAL - salt, A THIRD COLD SMOKE-HOUSE (no proper forge this year, probably); YLVA BACK TO HER THREE, five to the pool (ditch and hay). THE JARL TO SAY AT THE FIRE, ONCE, that the children keep out of the ditch water (Gudny); the mothers do the rest. Ormar's answer on the third house is next."
+mood = "Fat and confident: 3,100 in the store, the cliffs gave what the cliffs give, iron bars on the beam, the second cut in. Grumbling about the ditch - who is the jarl expecting? - and the children in its water."
 where_people_sleep = "ABOUT TWENTY-FIVE TO A PIT IN LONGPITS 1-4 from W21 D7 - the 104 at home; nobody outside. THE KEEL EMPTY, the Grey Mare left as she is over her pit. Ilmo and Oski in longpit 1. Ingra and Gest at Kolvenn."
 clocks = [
-  "Y3 W24 D1 - COUNCIL: the cliffs; the second hay cut.",
-  "Y3 W24-25 - THE CLIFFS LAYING (Ylva W22: two weeks and eggs everywhere); first eggs only, the second laying left to hatch.",
-  "Y3 W24 and W26 - the second and third hay cuts, as last year.",
+  "Y3 W25 D1 - COUNCIL: a third cold smoke-house; Ylva back to three.",
+    "Y3 W25-26 - the shoulder's second cut (a week behind the south face), then the third cut about W26-27.",
   "THE NEXT STANDING - Fenn says who stands inside the smiths' oath.",
   "THE CLAIMS: 58 plots for 55 hearths, chosen in the drawn order with Aki and Vigmar after work - council, the ten heads in their drawn order, the widows' blocks, then the common stones 1-33. Fourteen cut by W16: the council, the ten heads, Gudny and one other widow.",
   "THE CUT BOARD SHELVED (W17 D3) until something happens or a better idea; Vigmar keeps two planed strips under the beam.",
@@ -36,8 +35,8 @@ born_here = "Nine living: three to women carrying at the landing (Y1); Ketil Bja
 the_reconciliation = "108 sailed + 9 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 104, plus ILMO AND OSKI from Y3 W16, sworn Haldvikers Y3 W17 D2 = 106. Ingra and Gest at Kolvenn are counted. Of fifteen or more: 77 before Ilmo and Oski (the W15 and W17 Standings), 79 with them."
 
 [food]
-in_store_kg = 2130
-what_it_is = "MOSTLY COD (from W14): salted on the strand's 40 kg a week, smoked - the old smokehouse and, from W19 D5, one of the two new cold smoke-houses - and racked. THE PILOT WHALE (W18): dried, but ONE KEG WENT SOFT INSIDE and seven took the runs (W22); what was sound - about a third - in one scalded keg. Seaweed drying for winter on Solvi's far rocks. Fresh fish on top. Milk from the cow. About 60 l of whale oil."
+in_store_kg = 3100
+what_it_is = "THE CLIFFS (W24): ABOUT 900 KG OF EGGS IN ASH AND 150 OF BIRDS. MOSTLY COD (from W14): salted on the strand's 40 kg a week, smoked - the old smokehouse and, from W19 D5, one of the two new cold smoke-houses - and racked. THE PILOT WHALE (W18): dried, but ONE KEG WENT SOFT INSIDE and seven took the runs (W22); what was sound - about a third - in one scalded keg. Seaweed drying for winter on Solvi's far rocks. Fresh fish on top. Milk from the cow. About 60 l of whale oil."
 sealed_and_not_food = "THE SEED IS IN THE GROUND (sown Y3 W11): 200 kg barley and 100 kg of peas in Aud's fields. The henbane seed for the herb strip. The byre is kept for the spring by the jarl's word."
 ale = "What is left of Aud's ale, under Sigra's hand."
 the_ration = "FULL RATION FROM Y3 W17 (the jarl, W16 D7: being fat before winter matters as much as having food) - about 480 a week from the store for about 106, fresh fish on top. The children, the carrying, the nursing and the sick still get fresh fish, raw liver and milk first. Weighed in public by Vigmar, checked by Sigra."

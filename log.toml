@@ -1713,3 +1713,23 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9.",
   "THE WEEK: about 550 in (fourteen on the boats, Solvi's twelve, Ylva's 60). About 480 out. VIGMAR: 2,130.",
 ]
+
+[[year_3]]
+week = 24
+title = "THE CLIFFS LAID, THE SECOND CUT, AND WHAT HALDVIK SAYS ABOUT THE DITCH"
+store = 3100
+income = 1450
+consumed = 480
+events = [
+  "THE WEEK: fair and dry all week, a cool wind never past a breeze.",
+  "D1 COUNCIL: Ylva's eight to the cliffs. AUD: THE SECOND CUT - the south face a hand and a half back since W21, ready end of week, the shoulder a week behind; thinner than the first; twenty-four head this winter against nineteen last, and last year took all three cuts; not Solvi's people - the ditch crew, her three and whoever else: ten people three days. THE JARL: the ditch crew, her three, and BREK'S SEVEN for a change of pace - more work than coal. BREK: the work's at the anvil - six kilos of bloom won't beat itself; take the four bellows-men and Geir; he and Hafli stay at the forge.",
+  "THE CLIFFS: three days on the rope, one rest, two more; the ledges laid; nobody falls. D6 HOME: ABOUT 900 KG OF EGGS IN ASH AND 150 OF BIRDS; the second laying down and untouched (Ylva).",
+  "THE SECOND CUT: the south face regrowth cut D5 with fifteen - Steinn and the two carriers the best swing of anyone; cocked D7, thin and dry (Aud).",
+  "THE DITCH D1-D4 on the south end, seven with Halvar: knee-deep water as fast as it is dug; planks underfoot.",
+  "D3 THE JARL AT THE SKEP from ten paces: humming in the sun, a steady line of bees out toward the withies and the pea strips; one of Gudny's boys staring, who runs.",
+  "THE DITCH AS HALDVIK SEES IT: Ossur and the snare-walkers grumble at the half-hour round and walk it; THE OLD FJORD PAIR - a ditch is what a steading digs expecting a feud: who is the jarl expecting? TORGEST - the first thing in Haldvik built to keep people out instead of weather, not sure he likes it, and a verse that makes longpit 1 roar; Sigra's people - a bank stops wind; the children in the flooded south end twice a day.",
+  "D5 GUDNY: dig it - but the south end will be waist-deep, twenty-three children under twelve never told to keep out of water they can see; a rail or teach them. THE JARL: from inside there is the bank; no fence outside, the ditch is the fence; he will help however she says, he knows little of children. GUDNY: the bank is half built at the south end; THEY COME FROM THE BEACH where it opens on the sand, AND ALONG THE CAUSEWAY PATH; and a two-metre bank is the best thing to slide down they've ever seen; no fence - SAY IT AT THE FIRE ONCE, FROM THE JARL'S OWN MOUTH; the mothers do the rest, less gently.",
+  "OOC SETTLED: under the jarl's rule the egg-taking is done for the year; a late trip would be for young birds about W28-30. THE JARL: NO - he will not kill next year's layers. THE ORDERS FOR W25: THE SALMON AND THE SEAL - salt, A THIRD COLD SMOKE-HOUSE (accepting there will probably be no proper forge this year); YLVA BACK TO HER THREE, her five to the pool (the ditch and the hay).",
+  "THE MOOD: MORALE HOLDS AT 9.",
+  "THE WEEK: about 1,450 in (the cliffs about 1,050, the boats about 300, Solvi's twelve, fresh at half weight). About 480 out. VIGMAR: 3,100.",
+]
