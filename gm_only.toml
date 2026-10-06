@@ -46,13 +46,11 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W28"
-rolled_before_the_week = "Rolled at Y3 W27 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W28 weather, AUTUMN (no advantage), d6: 6 = YES, AND: fair all week, a steady cool drying wind."
+week = "Y3 W29"
+rolled_before_the_week = "Rolled at Y3 W28 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W29 weather, AUTUMN (no advantage), d6: 4 = YES, BUT: fair, with one wet day. The wet day, d7: D6. A SPATE this week (hard rain on the moor; needs d6 >= 6 given this weather): 2 = NO. THE PEAS: pods rattling by D3 (d6 5); picking wants three days with twenty (Aud)."
 Q2_does_anything_unlooked_for_reach_haldvik = "d6: 1 = NO, AND: nothing unlooked-for reaches Haldvik this week."
-the_cod = "THIN: about 300 a week with the boats; the boats go out in rain unless Hjalti says there is nothing to catch."
-the_salmon = "THE RUN starts on the first spate after W28 (recurring_yields): peaks W30-32, enormous, tails W33, over W34. The limit is gutting hands and rack space."
-the_charcoal = "The strand's next clamp about W28 (two or three weeks a clamp; the last came W23 D5): about 250-300 kg."
+the_salmon = "THE RUN starts on the first spate after W28: builds W29, peaks W30-32, tails W33, over W34. With twelve hands through the peak about 5 t wet, about 1.2 t dried; the limit is gutting hands and rack space."
 notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. Burns routine, not rolled."
 
 [hidden_truths]

@@ -1787,3 +1787,20 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9.",
   "THE WEEK: about 380 in (the boats five days in rain, Solvi's rocks, the snares). About 480 out. VIGMAR: 2,920 - a wet week, a day with no boats, nine sick.",
 ]
+
+[[year_3]]
+week = 28
+title = "A FIFTH BURN, KELDA AT THE BELLOWS, AND THE DRILL SET"
+store = 2910
+income = 470
+consumed = 480
+events = [
+  "THE WEEK: fair all week, a cool north-west wind, the racks full and dry.",
+  "D1 MORNING THE JARL TO SOLVI: how did summer go so fast? SOLVI: because you spent it counting - fish, iron, hands, sticks; KELDA'S GROWN A HAND TALLER and you haven't noticed; YLVA LAUGHED AT SOMETHING ULF SAID last week, never seen before; FENN SLOWER ON THE PATH than in spring; it's all still here - stop long enough to see it. (OOC: the player will try for more talk and less strategy.)",
+  "D2 the strand's clamp home, about 270 kg. D3-D5 THE FIFTH BURN in the dry, Brek's own four: ABOUT 6 KG OF BLOOM; Brek almost bored. KELDA follows the bellows-men asking questions till Steinn lets her pump a count of a hundred on D4 - black to the elbows, silent with pride.",
+  "THE DITCH: the south end at full depth almost to the causeway, the bank turfed; Ormar - one more good day. THE PEAS filling; Aud shaking pods by her ear. THE RIVER low and clear; Hjalti at the cruives D5 saw only a heron.",
+  "D7 EVENING THE JARL TO HALVAR: the ditch nearly done; he won't pretend a ditch changes everything; W29 D6-D7 A DRILL FOR ANYONE WHO WANTS TO HOLD A SPEAR - said on D5: nobody is expected, but one day someone might, and then it's too late to dig or train; count the arms; don't pierce yourself, stand in a wall, climb a ditch, move from A to B. HALVAR: 19 spears, 11 axes, 4 swords, 22 shields, 5 bows, 6 mail, 9 helms, fourteen who have stood in a fight; forty will come - spears by turns, peeled poles for the rest; two days teaches a wall, not killing; Ulf half, he half; the river or the peas take it first by the jarl's own order; AGAIN AT THE TURN OF EVERY SEASON. THE JARL: the salmon and peas first - two days before the snow, or in snow; anyone. HALVAR: in snow's better, that's when anyone would come; Ulf cuts forty poles for the Keel; say ANYONE and watch who stands.",
+  "THE JARL'S ORDERS FOR W29: the ditch finished, then everyone to the food where needed; the jarl with Solvi when he can, and ten minutes with Fenn on Tova and writing; IF NO SALMON AND THE PEAS ALLOW, THE DRILL - anyone, Halvar's drill, and every one of them stands at the bank and the ditch at least once, both sides.",
+  "THE MOOD: MORALE HOLDS AT 9.",
+  "THE WEEK: about 470 in. About 480 out. VIGMAR: 2,910.",
+]
