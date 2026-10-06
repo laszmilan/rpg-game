@@ -46,12 +46,12 @@ held_and_unspent = ["GROUNDS AGAINST VIGMAR: confessed theft from the jarl's hal
 
 [committed]
 _ = "THE LIVE BLOCK, AND ONLY ONE. Written before the player's action resolves, every week. Deleted when that week's chronicle entry is written. If this is empty, the week has not been committed yet."
-week = "Y3 W31"
-rolled_before_the_week = "Rolled at Y3 W30 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
-Q1_weather = "Y3 W31 weather, AUTUMN (no advantage), d6: 1 = NO, AND: a gale week, two days nobody can put a boat out, nothing dries. A SPATE (needs d6 >= 2 this weather): 5 = YES, on D2 - THE RUN COMES IN BEHIND IT."
-Q2_does_anything_unlooked_for_reach_haldvik = "d6: 2 = NO: nothing unlooked-for reaches Haldvik this week."
-the_salmon = "THE RUN starts on the first spate after W28: peaks W30-32, tails W33, over W34. A LATE FIRST SPATE SHORTENS THE RUN THAT CAN BE TAKEN: no spate by W31 end and the take is the tail only. With twelve hands through the peak about 5 t wet."
-the_new_strips = "Ripe about W32 (Aud)."
+week = "Y3 W32"
+rolled_before_the_week = "Rolled at Y3 W31 upkeep, shell entropy, before any player action, ALL UNSEEN. Every follow-up list was written before its die."
+Q1_weather = "Y3 W32 weather, AUTUMN (no advantage), d6: 5 = YES: fair and dry, a drying wind."
+Q2_does_anything_unlooked_for_reach_haldvik = "d6: 3 = NO, BUT: nothing reaches Haldvik; the but is set from agendas before play. List was (1 the tracks again, on its old line; 2 the Ivven band comes to the edge, or word of it; 3 worked wood or wreckage on the tideline; 4 sickness in a longpit; 5 a Kolvenn boat fishing the coast puts in to see Ilmo; 6 the walker comes to the new stake in the cuttings), not rolled."
+the_salmon = "W32 THE THICK OF THE RUN, tailing W33, over W34. No salt left, the pits and barrel full: the four houses (about 2 t wet a week), the racks if it dries, and fresh. What is not taken goes past - the jarl wants some to pass anyway."
+the_but_W32 = "Set from agendas before play: nothing reaches Haldvik, BUT YLVA asks the jarl, once the run thins (about D6), for leave to go back to the black ridge before the snow with two, to follow the walker's prints off it north-east - the question she has asked before; fenced off from it, she will go alone (npc_truths)."
 notes = "No test rolls made in advance. Difficulty set AFTER Erik states a plan, said out loud before dice. Difficulties 3/5/7/9/11 only. Oracle outcomes only to the player, not the lists. Burns routine, not rolled."
 
 [hidden_truths]

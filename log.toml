@@ -1843,3 +1843,19 @@ events = [
   "THE MOOD: MORALE HOLDS AT 9 - a clean cull, the old field cut.",
   "THE WEEK: about 1,330 in (the seal about 560 meat and 225 oil, the blood and livers, the boats about 300, Solvi's rocks and berries, the snares). About 480 out. VIGMAR: 3,910 with the seal in it, less Ormegga's bull; the barley not yet threshed.",
 ]
+
+[[year_3]]
+week = 31
+title = "THE BARLEY IN BEFORE THE GALE, AND THE RUN BEHIND THE SPATE"
+store = 5800
+income = 2370
+consumed = 480
+events = [
+  "THE WEEK: A GALE out of the west from D1 night through D4, rain driven flat; no boats D2-D4; nothing dried all week.",
+  "W30 D7 LATE, HALVAR: a big blow by tomorrow night, two days, maybe three; the old field in stooks on the open shoulder - last year rain laid a field flat. THE JARL: Aud told first, then everyone tonight; the barley in tomorrow with every hand - the boats can't sail in wind; no council; a few days early is still barley. AUD, pulling her boots on: no objection; THE SHEAVES INTO THE KEEL - dry, empty, sheds rain like a duck - on end, never lying; the overflow from the tie-beams of longpits 2 and 3 by their hearths; THE NEW STRIPS DOWN TOO, ripe or not - five days early it shrivels a little in the sheaf, five days late a gale lays it flat. Agreed.",
+  "D1 EVERY HAND ON THE SHOULDER: the old field's stooks to the Keel by noon, set on end under the Grey Mare's hull; the new strips cut green at the base and hung from the tie-beams of 2 and 3 - a forest of barley; the shoulder bare stubble by dusk but Aldra's tuft. D2 THE GALE: the bar white end to end, spray over the north ditch, longpit 1's door roped; the smoke-houses stand, Sigra's fire-tenders in shifts; the sheaves dry in the Keel. THE RIVER A METRE UP BY AFTERNOON.",
+  "D3 FIRST LIGHT HJALTI, RUNNING: both cruives full and still coming, backs out of the water - THE RUN, behind the spate. THE JARL: the same people who did the field do the salmon. FORTY-ODD ON THE BANK; Sigra's three gutting lines of five in the lee of the tunnel bank; livers to Enna. D4 THE THREE PITS FILLED AND SEALED, a handful of salt a fish; THE WHEY BARREL packed, Vigmar cutting it as THE JARL'S BARREL. D5-D7 the overflow dry-salted in the Hessa barrels till D6 evening - THE SALT GONE. Salmon at every meal for three days; the children refuse it by D7. Two deep knife cuts, stitched. Boats out D5 into heavy swell, little caught.",
+  "D7 HJALTI: still coming, fewer than D3, more than we can gut - the thick of it next week; salt gone, pits full, nothing dries till the wind turns: the four houses and our bellies, the rest let go past. THE JARL: let some pass anyway - we want them next year. SIGRA: pits and barrel sealed D4; the pits want the cold - ready about the first snow, best by the Turning; the barrel the same or longer, she has done one in whey once; NOBODY OPENS A PIT BUT HER - a reed in each lid, smelt weekly; one done wrong kills a house; THE JARL TASTES HIS BARREL AT THE TURNING FEAST WITH HER BESIDE HIM.",
+  "THE MOOD: MORALE HOLDS AT 9 - the barley saved from the gale and the run in.",
+  "THE WEEK: about 2,370 in (smoked salmon about 550, the pits about 600, salted about 850, the whey barrel, fresh eaten at half weight about 270; the boats little). About 480 out. VIGMAR: about 5,800. The barley in the Keel and the tie-beams, not yet threshed.",
+]
