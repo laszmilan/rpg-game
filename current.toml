@@ -1,17 +1,16 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 37, day = 1, season = "autumn" }
+date = { year = 3, week = 37, day = 3, season = "autumn" }
 morale = 8
-paused_at = "Y3 W37 D1. W36 is logged. Four-fifths since W36 D2; the second house opened and laid back; Aki and Ossur out with the rods between the two houses."
+paused_at = "Y3 W37 D3 MORNING, at Aki's slate in longpit 3. W36 is logged. W37 SO FAR, for the log: D1-D3 wet and windy, sleet at night, nothing settles. D1 COUNCIL: YLVA - two Ivven sleds and dogs ran along the moor edge in the night going north-east, not a foot over the line, stopped at the pole, nothing tied or taken; angry people don't run a line that clean; if anything sits wrong it is the three dead at the edge in spring. THE JARL: we wait. HALVAR: snares our side of the edge till they come (already so). VIGMAR: the cod going out over the bar; every clamp is about twenty trunks off the forge's sticks, but Kolvenn's iron is about six more burns and six clamps - spare hands on charcoal while the ground takes a clamp. THE JARL agrees. HJALTI keeps two boats on the strand lines, the rest to Hovard D2; Ilmo: the bar sounded first. SIGRA: half-dry fish under the eaves. D2: Ilmo and Torgest sound the bar, the back post moved a pace and a half; Hald's Coal south with hands; Hovard's last clamp begun and a second paced beside it. D2 DUSK AKI'S RODS: A LAID PATH - flat stones a hand under the peat, straight from Nagholt's door to the second house's, nothing else between, gravel either side; on his stick. THE JARL: stone paths don't carry fire. AKI (his guess): someone walked door to door dry-footed every day. THE JARL RAISES Y4 BUILDING: nobody has time or coin. AKI: pay in days, cut on two sticks; wood, not hands, is short; the slack is the thaw to the cod; the valley pine on the spate, felled and dragged to the stream bank on the snow first. AKI: 19 sticks; windrow a bit under 200, the two autumn clamps take about 40, Kolvenn's six burns want three more clamps (about 60) in Y4 - about 90 left. D3 MORNING THE VALLEY PLAN on Aki's slate with Ormar and Hovard (clocks; notes practice.building). ORMAR: posts go in round, a third off the riving. THE JARL: kept for when the time comes."
 mood = "Sober. A cut with the store looking full, Asgeir asking out loud whether the jarl's bowl takes it; a woman and child found at their own door. Under it, the walker came to the stake, and the dark is coming."
 where_people_sleep = "About twenty-five to a pit in longpits 1-4; nobody outside. Ingunn and Asta back in longpit 2. THE KEEL holds the threshing floor and the ale; the Grey Mare left as she is. Ingra and Gest at Kolvenn until W39."
 clocks = [
   "THE ALE: about 150 l, ready (Aud).",
-  "THE RODS, W37 D1-D2: Aki and Ossur probe every metre on a cord between Nagholt and the second house, nothing opened, before the frost.",
   "AFTER THE TURNING - THE RATION LOOKED AT AGAIN (the jarl); three-fifths, children too, if the Ivven don't come (Aki).",
   "IN SPRING, Y4 - MORE OF THE OLD HOUSES OPENED IF NO HARM COMES OF THE SECOND, SAID AT A STANDING (the jarl and Vigmar).",
-  "BEFORE THE FROST (about W38): Hovard's last clamp, then the strand closes and the windrow is counted. THE COD leave the bar about now; Hjalti gives half his people till the ice. THE WINTER WORK (Ormar): grey band stone cut at the quarry face and sledded down on the snow for the forge; Hovard's trunks riven in the Keel; hands on the ice for Ilmo, roped in pairs.",
+  "BEFORE THE FROST (about W38): Hovard's last clamp AND A SECOND BESIDE IT (the boat hands, from W37 D2), then the strand closes and the windrow is counted. THE COD leave the bar about now; Hjalti gives half his people till the ice. THE WINTER WORK (Ormar): grey band stone cut at the quarry face and sledded down on the snow for the forge; Hovard's trunks riven in the Keel; hands on the ice for Ilmo, roped in pairs.",
   "THE IVVEN POLE: the knife taken in the gale (W35), A RUST-RED STRIP knotted twice left in its place - the scarred man's colour; the jarl keeps it. They come with the deer in winter.",
   "Y3 W39, THE LAST WEEK OF AUTUMN - THE AUTUMN BOAT: eight coopered barrels for 100 l of oil and hooks; INGRA AND GEST HOME; Kolvenn told iron has come out of the building - IT HAS. Solvi keeps Ingra's plot till then. Kolvenn had a lean harvest: food to trade if they ask to buy, nothing promised (the jarl).",
   "Y3 W39 - THE JARL ASKS ENNA ABOUT PREGNANCIES (four more known).",
@@ -22,6 +21,7 @@ clocks = [
   "THE CUT BOARD SHELVED (W17); Vigmar keeps two planed strips under the beam.",
   "AT THE THAW, Y4 - Aud says whether the bees wintered.",
   "FROM THE THAW, Y4 - ANY HULL FROM THE EAST IS SKALGRIND (Halvar): let in under guest-right; they see the spears, not the store (the jarl and Halvar, W34). Nobody sails east first (the jarl).",
+  "Y4 - THE VALLEY PLAN (Aki's slate, W37 D3), KEPT, NOT ORDERED; the jarl returns to it when the time comes. W5-W7: 12 on the six axes fell about 40 pines into about 120 four-metre lengths, dragged to the valley stream bank on snow, camped in the valley. THE THAW, about W8-W10: 6 pole them down the valley stream on the spate to the bog; 24 skid them 2.5 km to the salmon river, 8 a day, about 120 in 15 days; 4 and a boat float them 11 km and boom them at the river mouth. FROM W12: rived, 20 men 26 sticks a week. About 480 sticks, about eight blocks; riving it all about 18 weeks, less a third with posts in round (Ormar). AKI'S CAUTIONS: the felling crew can't haul in the hard cold on four-fifths, W6-W12 the tightest weeks; nobody has floated that stream, the spate's length a guess; the thaw is also Aud's ditches and the sowing (about W11), the boats to the bank about W12; about 40 hands through the thaw. LABOUR PAID IN DAYS: a day on another's block is a day back on your own, cut on two sticks (Aki).",
   "Y4 W14 to W39 - THE MASTER AND BRUNI, for 25 KG OF WORKED IRON, half on landing and half on collection.",
 ]
 
@@ -85,13 +85,13 @@ ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea
 
 [work]
 _ = "Autumn. The salmon over, the barley in. Food first (the jarl): the rest only get the hands food does not need."
-the_cod = "Hjalti's boats while the cod stay inside the bar, about now; then the strand lines and half his people to other work till the ice."
+the_cod = "THE COD GOING OUT OVER THE BAR (W37). Two boats on the strand lines; the rest of Hjalti's hands at the strand on the clamps from W37 D2 till the ice."
 the_beach = "Sigra's crew on the racks and the four smoke-houses while the drying holds; the pits and the whey barrel smelt weekly by Sigra through a reed in each lid."
 the_strand = "Hovard's eight: the last clamp before the frost, then the strand closes and the windrow is counted. The pans cold."
 foraging = "Solvi's crew: the kelp piled at the top of the fields for Aud's spring dung; dulse on the lines; the far rocks, crowberry and rosehip. Ylva and Ossur snare the ground to the edge; Ossur walks the upper line and the Nagholt tracks twice a day."
 the_forge = "Brek, Hafli and Geir: a burn when a clamp comes in, bar between burns. KELDA sweeps the forge floor every evening - a year, and not one question (Brek)."
 the_ward = "Enna, Hild and GUDNY (off the racks from W34), training for the four births in the cold."
-the_claims = "ALL 58 PLOTS CUT (W35). Nobody builds in Y3. THE RODS between the two old houses W37 D1-D2 (Aki, Ossur)."
+the_claims = "ALL 58 PLOTS CUT (W35). Nobody builds in Y3. The rods between the two old houses done W37 D2: a laid path."
 indoor = "Arna's winter suits and the fresh seal hides. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova and Aki the old marks. Tova cutting the laws on sticks of her own. Aud's ale in the Keel."
 watch = "Two on the tower every night; in the worst cold, changed every hour. Nothing thrown at the walker; harm it only if it harms us (Halvar, W17). One of the two walks to the causeway once a night once the cold comes."
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring walked every morning with a bare palm."
