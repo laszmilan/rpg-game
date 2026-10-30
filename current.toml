@@ -1,14 +1,17 @@
 # Haldvik - current. The present state; update every week. Player-readable.
 
 _ = "The present only: what is true or owed now, rewritten whole every week. Nothing historical - that is log.toml. Standing facts (world, ground, land plan, practice, people, laws and treaties) are in notes.toml."
-date = { year = 3, week = 36, day = 1, season = "autumn" }
-morale = 9
-paused_at = "Y3 W36 D1. W35 is logged. The gale over; the red strip on the Ivven pole; the sixth bloom on the beam; every plot cut. The jarl wants to hear at council what is worked on and with how many hands."
-mood = "Easy and busy: the ale nearly ready, the claims done eleven weeks early, the store high. Under it, the striped sail, and the children saying the jarl hasn't killed it yet."
-where_people_sleep = "About twenty-five to a pit in longpits 1-4; nobody outside. Ingunn and Asta in the ward. THE KEEL holds the threshing floor and the brewing; the Grey Mare left as she is. Ingra and Gest at Kolvenn until W39."
+date = { year = 3, week = 37, day = 1, season = "autumn" }
+morale = 8
+paused_at = "Y3 W37 D1. W36 is logged. Four-fifths since W36 D2; the second house opened and laid back; Aki and Ossur out with the rods between the two houses."
+mood = "Sober. A cut with the store looking full, Asgeir asking out loud whether the jarl's bowl takes it; a woman and child found at their own door. Under it, the walker came to the stake, and the dark is coming."
+where_people_sleep = "About twenty-five to a pit in longpits 1-4; nobody outside. Ingunn and Asta back in longpit 2. THE KEEL holds the threshing floor and the ale; the Grey Mare left as she is. Ingra and Gest at Kolvenn until W39."
 clocks = [
-  "THE ALE: about 150 l, drinkable about now (Aud).",
-  "BEFORE THE FROST (about W38): Hovard's clamp lit W35 D5 and one more, then the strand closes and the windrow is counted. Nothing to build, so no holes (the jarl). THE COD inside the bar until about W37; then Hjalti gives half his people till the ice.",
+  "THE ALE: about 150 l, ready (Aud).",
+  "THE RODS, W37 D1-D2: Aki and Ossur probe every metre on a cord between Nagholt and the second house, nothing opened, before the frost.",
+  "AFTER THE TURNING - THE RATION LOOKED AT AGAIN (the jarl); three-fifths, children too, if the Ivven don't come (Aki).",
+  "IN SPRING, Y4 - MORE OF THE OLD HOUSES OPENED IF NO HARM COMES OF THE SECOND, SAID AT A STANDING (the jarl and Vigmar).",
+  "BEFORE THE FROST (about W38): Hovard's last clamp, then the strand closes and the windrow is counted. THE COD leave the bar about now; Hjalti gives half his people till the ice. THE WINTER WORK (Ormar): grey band stone cut at the quarry face and sledded down on the snow for the forge; Hovard's trunks riven in the Keel; hands on the ice for Ilmo, roped in pairs.",
   "THE IVVEN POLE: the knife taken in the gale (W35), A RUST-RED STRIP knotted twice left in its place - the scarred man's colour; the jarl keeps it. They come with the deer in winter.",
   "Y3 W39, THE LAST WEEK OF AUTUMN - THE AUTUMN BOAT: eight coopered barrels for 100 l of oil and hooks; INGRA AND GEST HOME; Kolvenn told iron has come out of the building - IT HAS. Solvi keeps Ingra's plot till then. Kolvenn had a lean harvest: food to trade if they ask to buy, nothing promised (the jarl).",
   "Y3 W39 - THE JARL ASKS ENNA ABOUT PREGNANCIES (four more known).",
@@ -35,19 +38,19 @@ born_here = "Ten living: three to women carrying at the landing (Y1); Ketil Bjar
 the_reconciliation = "108 sailed + 10 born living - 13 of the 14 dead (Thora's son was born dead here and is not among the 108) = 105, plus Ilmo and Oski (sworn Y3 W17) = 107. Ingra and Gest at Kolvenn are counted."
 
 [food]
-in_store_kg = 7600
+in_store_kg = 7515
 what_it_is = "THE SALMON (W31-33): smoked and racked, about 1,400 kg wet dry-salted in Hessa barrels, THREE PITS AND THE JARL'S WHEY BARREL fermenting. THE SEAL (W30): about 560 kg dry-salted, 225 l of oil. THE CLIFFS (W24): about 900 kg of eggs in ash, 150 of birds. COD smoked and racked. BARLEY: about 200 kg for the quern. PEAS: about 250 to eat. A third of a keg of the whale meat. Seaweed dried for winter. Crowberry packed in fat. Fresh cod on top; milk from the cow."
 sealed_and_not_food = "SEED BARLEY 250 KG and SEED PEAS 200 KG, sealed (the jarl: the only way we ever have more). 40 kg of barley in the ale. The henbane seed in the herb strip. The byre kept for the spring."
-ale = "THE NEW ALE, about 150 l, smoky, bog myrtle, drinkable about W36. A few bunches of myrtle drying in the Keel. Little left of the old."
-the_ration = "FULL RATION from Y3 W17 - about 480 a week from the store for about 107, fresh fish on top. The children, the carrying, the nursing and the sick get fresh fish, raw liver and milk first - Ingunn now among the nursing. Weighed in public by Vigmar, checked by Sigra."
-the_winter_outlook = "Last year: 5,765 after the salmon (W34), 4,975 at W40, 2,985 at the Turning, 125 at Y3 W13. This year 7,600 at W36. Winter cod eaten fresh, not salted. The cod inside the bar until about W37, then the ice."
+ale = "THE NEW ALE, about 150 l, smoky, bog myrtle - READY. A few bunches of myrtle drying in the Keel."
+the_ration = "FOUR-FIFTHS FROM Y3 W36 D2 (the jarl, the numbers said out loud): about 415 a week. THE PROTECTED WHOLE - the children, the carrying, the nursing, the sick on Enna's word - and they get fresh fish, raw liver and milk first. THE JARL'S BOWL TAKES THE FIFTH. Weighed in public by Vigmar, checked by Sigra. Looked at again after the Turning."
+the_winter_outlook = "AKI'S SLATE (W36): at full ration and last winter's take (lines, ice nets, seal, and the 54 Ivven deer, about 1,000 kg) dry about Y4 W6; without the Ivven about Y4 W1. At four-fifths with the protected whole, short about Y4 W10 if the Ivven come; three-fifths by the Turning if they don't. The thaw about W8, the cod on the bank about W12. Last year: 4,975 at W40, 2,985 at the Turning, 125 at Y3 W13."
 standing_food = "Anything that swims or walks is eaten. Fresh before stored. The ice fished every workable day."
 
 [resources]
 salt = "NONE. The pans cold from W30 D1 (the jarl); Hovard's eight on charcoal; winter cod eaten fresh."
-charcoal = "ABOUT 190 KG after the sixth burn (W35). Hovard's clamp lit W35 D5 (about 270 when it comes in) and one more before the frost. A burn eats a clamp, about 300; a clamp is about twenty windrow trunks (Hovard)."
-peat = "About 165 m3, less the smoke-houses' burning; a winter of hearths takes about 35. Walls walked after rain and every D1."
-iron = "ABOUT 10 KG OF BAR ON VIGMAR'S BEAM, AND THE SIXTH BLOOM (about 6 kg, W35) to beat out - about 3 kg more of bar. TRADE KNIVES: four on Brek's bench in oiled cloth; one more for SOLVI to replace hers (the jarl). THE NAGHOLT LUMPS, about 2 kg usable, named at the door at the laying (Y3 W6) and Haldvik's - KEPT SEPARATE FOR NOW (the jarl, W35). One cracked saw plate of hard steel. Ore: half a burn dug; Geir digs the other way from the stake. BURNS from the sixth: about 7 kg of bloom dry, 6 wet, a clamp each. The Y4 price is 25 kg of worked iron (Vigmar reckons about 33 of bar; whether plain bar answers it is Vask's to say at the landing)."
+charcoal = "ABOUT 460 KG (Hovard's clamp in W36). One more clamp before the frost. A burn eats a clamp, about 300; a clamp is about twenty windrow trunks (Hovard)."
+peat = "About 165 m3 in the walls, less the smoke-houses' burning - about four winters' burning (Ossur). PLUS ABOUT 35 M3 CUT WET off the second house (W36), stacked and turfed to dry next summer. Walls walked after rain and every D1."
+iron = "ABOUT 12.5 KG OF BAR ON VIGMAR'S BEAM (the sixth bloom beaten out; Solvi's knife made). TRADE KNIVES: four on Brek's bench in oiled cloth. THE NAGHOLT LUMPS, about 2 kg usable, named at the door (Y3 W6) - KEPT SEPARATE (the jarl, W35); with them THE SECOND HOUSE'S STRAP AND NINE NAILS, rust, named at its door (W36). One cracked saw plate of hard steel. Ore: half a burn dug; Geir digs the other way. BURNS: about 7 kg of bloom dry, 6 wet, a clamp each. The Y4 price is 25 kg of worked iron (Vigmar reckons about 33 of bar; whether plain bar answers it is Vask's to say at the landing)."
 hooks = "About 700, enough for four long-lines; some go on the autumn boat."
 "rivets and nails" = "A keg of rivets; the nail keg less 2 kg traded to the Hessa (Y3 W15)."
 "rope and line" = "About 500 paces of Hessa cordage (400 for the Grey Mare's rigging, 100 for the ice); eight coils of ship's rigging; the cliff line, 130 paces of doubled hemp; sixty paces of sealskin-and-bast; walrus-hide strap."
@@ -75,20 +78,20 @@ dogs = "3, and a litter of 5 pups; Grip is Kelda's."
 kept = "TWENTY-FOUR HEAD, grazing the shoulder; the byre's twenty-seven stalls in winter. HAY: two cuts in this year (W21-22, W24-25); the jarl called the hay done (W25). Last year three cuts fed nineteen head."
 
 [health]
-carrying = "FOUR CARRYING (Enna, W33): two showing, two to be named when they show; due W46 to Y4 W6. INGUNN DELIVERED W34 D5, seventeen hours, no henbane, the bleeding stopped when it should; she and ASTA in the ward, both well."
+carrying = "FOUR CARRYING (Enna, W33): two showing, two to be named when they show; due W46 to Y4 W6. INGUNN AND ASTA well (born W34 D5), nursing, among the protected."
 standing = "KOLBEIN: the same knee wrenched again (W33 D7), at Enna's, on a stick. GEIR: the crushed hand permanently weak; with the smiths. TWO SALMON-KNIFE CUTS to the hand (W31), healing. THE JARL: ribs mended; three fingertips of the right hand scarred from the coal (W6). INGRA: hands cold to the touch since W6. HAFLI: last two fingers of the left hand gone. LEIF: ring finger's tip gone. One strand man with a mended jaw."
 henbane = "About one dose left, plus the dried leaves of two valley plants (a dose or two). Three plants from the valley in the herb strip in a ring of stones, going to seed - NOBODY PICKS FROM THAT BED BUT ENNA. Willow bark tea, bitter and plentiful."
 ennas_five = "Bedding enough to throw out and replace twice; greens and pine tea twice a week; latrines downstream, used in the dark, no exceptions; combs and hot water; roof vents. Lye handwashing at every door by law, and soap."
 
 [work]
 _ = "Autumn. The salmon over, the barley in. Food first (the jarl): the rest only get the hands food does not need."
-the_cod = "Hjalti's boats every workable day; the cod inside the bar until about W37."
+the_cod = "Hjalti's boats while the cod stay inside the bar, about now; then the strand lines and half his people to other work till the ice."
 the_beach = "Sigra's crew on the racks and the four smoke-houses while the drying holds; the pits and the whey barrel smelt weekly by Sigra through a reed in each lid."
-the_strand = "Hovard's eight and the spare hands: the clamp lit W35 D5, wood carried and stacked; one more clamp before the frost. The pans cold."
+the_strand = "Hovard's eight: the last clamp before the frost, then the strand closes and the windrow is counted. The pans cold."
 foraging = "Solvi's crew: the kelp piled at the top of the fields for Aud's spring dung; dulse on the lines; the far rocks, crowberry and rosehip. Ylva and Ossur snare the ground to the edge; Ossur walks the upper line and the Nagholt tracks twice a day."
-the_forge = "Brek, Hafli and Geir: the sixth bloom to beat out, Solvi's knife; a burn when a clamp comes in. KELDA sweeps the forge floor every evening - a year, and not one question (Brek)."
+the_forge = "Brek, Hafli and Geir: a burn when a clamp comes in, bar between burns. KELDA sweeps the forge floor every evening - a year, and not one question (Brek)."
 the_ward = "Enna, Hild and GUDNY (off the racks from W34), training for the four births in the cold."
-the_claims = "ALL 58 PLOTS CUT (W35), two sticks each - eleven weeks early. Nobody builds in Y3."
+the_claims = "ALL 58 PLOTS CUT (W35). Nobody builds in Y3. THE RODS between the two old houses W37 D1-D2 (Aki, Ossur)."
 indoor = "Arna's winter suits and the fresh seal hides. Ranulf's rope. Aki's map under the reeve's beam, never copied. Vigmar teaching Tova and Aki the old marks. Tova cutting the laws on sticks of her own. Aud's ale in the Keel."
 watch = "Two on the tower every night; in the worst cold, changed every hour. Nothing thrown at the walker; harm it only if it harms us (Halvar, W17). One of the two walks to the causeway once a night once the cold comes."
 peat_and_fire = "The peat walls walked every D1 and after rain. The drowned fire ring walked every morning with a bare palm."
